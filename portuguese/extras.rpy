@@ -7526,3 +7526,23 @@ translate portuguese extra_scene_47_b40d1a45:
     # c "Certainly not."
     c ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+# game/extras.rpy:1183
+translate portuguese extra_scene_37_57795ac4:
+
+    # ce "I love the feeling of your thick cock inside my pussy!"
+    ce "I love the feeling of your thick cock inside my pussy!"
+
+# game/extras.rpy:1354
+translate portuguese extra_scene_38_a5c6577a:
+
+    # c "Is my slutty sister ready to get fucked?"
+    c "Is my slutty sister ready to get fucked?"
+
+# game/extras.rpy:1356
+translate portuguese extra_scene_38_b836fff8:
+
+    # c "Is my slutty girlfriend ready to get fucked?"
+    c "Is my slutty girlfriend ready to get fucked?"
+

@@ -12458,3 +12458,29 @@ translate portuguese strings:
     old "Make Vess lick your ass"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+# game/episode022.rpy:2280
+translate portuguese ep022_e_l_fucking_d5c05f3d:
+
+    # e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+    e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+
+# game/episode022.rpy:2297
+translate portuguese ep022_e_l_fucking_ec38a111:
+
+    # l "You’re treating her pussy so well, [p_name_short]."
+    l "You’re treating her pussy so well, [p_name_short]."
+
+# game/episode022.rpy:2329
+translate portuguese ep022_e_l_fucking_6a0c17b2:
+
+    # "She wasn’t lying, Eva’s pussy was smeared in her juices."
+    "She wasn’t lying, Eva’s pussy was smeared in her juices."
+
+# game/episode022.rpy:2617
+translate portuguese ep022_e_l_fucking_16438e35:
+
+    # c "Now be a good girl and swallow everything."
+    c "Now be a good girl and swallow everything."
+

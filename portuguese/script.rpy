@@ -262,3 +262,11 @@ translate portuguese strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+translate portuguese strings:
+
+    # game/script.rpy:718
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+

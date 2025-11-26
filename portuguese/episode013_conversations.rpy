@@ -6336,3 +6336,11 @@ translate portuguese ep013_celine_second_talk_b624faf9:
     # "Céline fell back into her seat, looking incredulously at me."
     ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+# game/episode013_conversations.rpy:1564
+translate portuguese ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+

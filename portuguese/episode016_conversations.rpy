@@ -4884,3 +4884,59 @@ translate portuguese ep016_thyia_talk_da20415c:
     # "I went to check up on her."
     ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+# game/episode016_conversations.rpy:1040
+translate portuguese ep016_vess_sex_b2c0e100:
+
+    # c "That’s a good slut."
+    c "That’s a good slut."
+
+# game/episode016_conversations.rpy:1057
+translate portuguese ep016_vess_sex_50bfb028:
+
+    # c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "You bore your punishment well, painslut, so I think I’m going to reward you."
+
+# game/episode016_conversations.rpy:1079
+translate portuguese ep016_vess_sex_aaa003a5:
+
+    # c "Are you going to cum hard for me, slut?"
+    c "Are you going to cum hard for me, slut?"
+
+# game/episode016_conversations.rpy:1099
+translate portuguese ep016_vess_sex_25174f99:
+
+    # c "That’s it, soil yourself, my whore."
+    c "That’s it, soil yourself, my whore."
+
+# game/episode016_conversations.rpy:1161
+translate portuguese ep016_vess_sex_e4ae9e92:
+
+    # c "You really are a nasty whore, aren’t you?"
+    c "You really are a nasty whore, aren’t you?"
+
+# game/episode016_conversations.rpy:1162
+translate portuguese ep016_vess_sex_a6976b35:
+
+    # ve "I am!{w} I am your nasty whore, master!"
+    ve "I am!{w} I am your nasty whore, master!"
+
+# game/episode016_conversations.rpy:1169
+translate portuguese ep016_vess_sex_49ff43aa:
+
+    # c "A dirty whore like you deserves a big load inside her."
+    c "A dirty whore like you deserves a big load inside her."
+
+# game/episode016_conversations.rpy:1183
+translate portuguese ep016_vess_sex_ddd4737d:
+
+    # c "A dirty whore like you deserves to be covered by a big load."
+    c "A dirty whore like you deserves to be covered by a big load."
+
+# game/episode016_conversations.rpy:1197
+translate portuguese ep016_vess_sex_489060df:
+
+    # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+

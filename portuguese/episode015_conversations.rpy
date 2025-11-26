@@ -4358,3 +4358,11 @@ translate portuguese ep015_raene_talk_5eafdf59:
     # ra "It’s just that I had such a great time when we were last together."
     ra "É só que eu me diverti tanto quando saímos juntos da última vez."
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+# game/episode015_conversations.rpy:1365
+translate portuguese ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+

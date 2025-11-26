@@ -202,3 +202,51 @@ translate portuguese strings:
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:57
+
+translate portuguese strings:
+
+    # game/continue.rpy:43
+    old "No season saves currently available"
+    new "No season saves currently available"
+
+    # game/continue.rpy:94
+    old "Were you polite to the Tubloshi?"
+    new "Were you polite to the Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Were you openly suspicious of the Tubloshi?"
+    new "Were you openly suspicious of the Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+
+    # game/continue.rpy:94
+    old "Do you want to get Lilly pregnant?"
+    new "Do you want to get Lilly pregnant?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Ziv (Futa)?"
+    new "Were trying to be friends with Ziv (Futa)?"
+
+    # game/continue.rpy:94
+    old "Are you in a relationship with Ziv (Futa)?"
+    new "Are you in a relationship with Ziv (Futa)?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Raene (Trans)?"
+    new "Were trying to be friends with Raene (Trans)?"
+
+    # game/continue.rpy:94
+    old "Were trying to get into a relationship with Raene (Trans)?"
+    new "Were trying to get into a relationship with Raene (Trans)?"
+
+    # game/continue.rpy:94
+    old "Did you have sex with Hannah, the Tubloshi translator?"
+    new "Did you have sex with Hannah, the Tubloshi translator?"
+
+    # game/continue.rpy:94
+    old "Did you creampie Hannah?"
+    new "Did you creampie Hannah?"
+

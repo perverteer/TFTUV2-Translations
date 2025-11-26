@@ -99,7 +99,7 @@ translate portuguese strings:
     new ""
 
     # game/choices.rpy:10
-    old "Lied to the R'ho."
+    old "Lied to the R'o."
     new ""
 
     # game/choices.rpy:10
@@ -111,7 +111,7 @@ translate portuguese strings:
     new ""
 
     # game/choices.rpy:10
-    old "Particpated in the R'ho orgy."
+    old "Particpated in the R'o orgy."
     new ""
 
     # game/choices.rpy:10
@@ -119,11 +119,11 @@ translate portuguese strings:
     new ""
 
     # game/choices.rpy:10
-    old "Creampied the R'ho virgin."
+    old "Creampied the R'o virgin."
     new ""
 
     # game/choices.rpy:10
-    old "Agreed to help the R'ho."
+    old "Agreed to help the R'o."
     new ""
 
     # game/choices.rpy:10
