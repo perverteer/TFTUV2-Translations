@@ -1,20 +1,24 @@
-﻿# TODO: Translation updated at 2023-12-24 21:39
+﻿# TODO: Translation updated at 2025-06-19 22:53
 
 translate turkish strings:
 
     # game/options.rpy:19
     old "Tales From The Unending Void"
-    new "Bitmeyen Boşluktan Hikayeler"
+    new "Tales From The Unending Void"
 
-# TODO: Translation updated at 2025-06-04 13:38
+    # game/options.rpy:43
+    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
+    new "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. (Turkish, darkeros.org)"
+
+    # game/options.rpy:591
+    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+
+# TODO: Translation updated at 2025-11-26 14:57
 
 translate turkish strings:
 
     # game/options.rpy:43
-    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
-    new ""
-
-    # game/options.rpy:591
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new ""
+    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portekizce, kısmi){/i}, Rory-Mercury91 {i}(Fransızca){/i}, Frank Rosario {i}(İtalyanca, kısmi){/i}, Juan Manuel {i}(İspanyolca, kısmi){/i}, MyPrettyWolfy {i}(Rusça){/i}, Donk. {i}(Türkçe, darkeros.org){/i}"
 

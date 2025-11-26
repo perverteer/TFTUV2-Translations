@@ -1,4288 +1,4288 @@
-# TODO: Translation updated at 2023-12-24 21:39
+﻿
 
-# game/episode014.rpy:22
+
 translate turkish episode014_5da9d1d1:
 
-    # centered "{=chapter_heading}EPISODE 14{/=chapter_heading}"
-    centered "{=chapter_heading}EPISODE 14{/=chapter_heading}"
 
-# game/episode014.rpy:29
+    centered "{=chapter_heading}BÖLÜM 14{/=chapter_heading}"
+
+
 translate turkish episode014_21b566ba:
 
-    # man "Awaiting orders, ma’am."
-    man "Emirlerinizi bekliyorum, hanımefendi."
 
-# game/episode014.rpy:31
+    man "Emirlerinizi bekliyorum, komutanım."
+
+
 translate turkish episode014_f0051c89:
 
-    # woman "Stand by."
-    woman "Beklemede kalın."
 
-# game/episode014.rpy:33
+    woman "Beklemede kal."
+
+
 translate turkish episode014_8d9d9e3e:
 
-    # woman2 "We should be receiving the coordinates any minute, commander."
-    woman2 "Koordinatları her an alabiliriz, komutan."
 
-# game/episode014.rpy:35
+    woman2 "Koordinatları her an alacağız, komutan."
+
+
 translate turkish episode014_bc768e43:
 
-    # woman "They’re taking their sweet time."
-    woman "Tatlı zamanlarını alıyorlar."
 
-# game/episode014.rpy:36
+    woman "Epey vakit alıyorlar."
+
+
 translate turkish episode014_a0604109:
 
-    # woman "Every minute we’re parked out here increases the chances of detection."
-    woman "Buraya park ettiğimiz her dakika tespit edilme şansımızı artırıyor."
 
-# game/episode014.rpy:38
+    woman "Burada beklediğimiz her dakika tespit edilme riskimizi artırıyor."
+
+
 translate turkish episode014_192229a5:
 
-    # woman2 "Our scouts haven’t reported any unusual activity yet."
-    woman2 "Gözcülerimiz henüz olağandışı bir hareketlilik rapor etmedi."
 
-# game/episode014.rpy:40
+    woman2 "Keşifçilerimiz henüz olağandışı bir aktivite bildirmedi."
+
+
 translate turkish episode014_fdad0e42:
 
-    # woman "Good, let’s hope it stays that way."
-    woman "Güzel, umalım da öyle kalsın."
 
-# game/episode014.rpy:41
+    woman "İyi, umarım böyle devam eder."
+
+
 translate turkish episode014_c8879911:
 
-    # woman "Years of border patrolling and suddenly the top brass is eyeing new star systems again?"
-    woman "Yıllarca sınır devriyesi yaptık ve birdenbire üst rütbeliler yeni yıldız sistemlerine mi göz dikti?"
 
-# game/episode014.rpy:42
+    woman "Yıllarca sınır devriyesi yaptık ve aniden üst rütbeliler yeni yıldız sistemlerine göz dikti?"
+
+
 translate turkish episode014_97a5fc9c:
 
-    # woman2 "Yes, ma’am."
-    woman2 "Yes, ma'am."
 
-# game/episode014.rpy:43
+    woman2 "Evet, komutanım."
+
+
 translate turkish episode014_d9d35172:
 
-    # woman "I fail to see why, but that’s probably the reason why I’m still commanding a boat like this and not making those decisions."
-    woman "Nedenini anlayamıyorum, ama muhtemelen hala böyle bir tekneye komuta ediyor olmamın ve bu kararları vermiyor olmamın nedeni budur."
 
-# game/episode014.rpy:44
+    woman "Nedenini anlayamıyorum ama muhtemelen bu yüzden hala böyle bir gemiyi komuta ediyorum, o kararları vermiyorum."
+
+
 translate turkish episode014_97a5fc9c_1:
 
-    # woman2 "Yes, ma’am."
-    woman2 "Yes, ma'am."
 
-# game/episode014.rpy:45
+    woman2 "Evet, komutanım."
+
+
 translate turkish episode014_04bfacf3:
 
-    # woman "Fleet status?"
+
     woman "Filo durumu?"
 
-# game/episode014.rpy:47
+
 translate turkish episode014_51124b17:
 
-    # woman2 "Ready and waiting, ma’am."
-    woman2 "Hazır ve bekliyor, madam."
 
-# game/episode014.rpy:49
+    woman2 "Hazır ve bekliyor, komutanım."
+
+
 translate turkish episode014_95c18748:
 
-    # man "Message from the Jaculus, ma’am."
-    man "Jaculus'tan mesaj var, hanımefendi."
 
-# game/episode014.rpy:50
+    man "Jaculus'tan mesaj var, komutanım."
+
+
 translate turkish episode014_67635dd6:
 
-    # woman "Put it through."
+
     woman "Bağla."
 
-# game/episode014.rpy:52
+
 translate turkish episode014_5c4a0e1e:
 
-    # ag "Commander, you are to advance to the following coordinates immediately."
-    ag "Komutan, derhal aşağıdaki koordinatlara ilerleyeceksiniz."
 
-# game/episode014.rpy:53
+    ag "Komutan, derhal şu koordinatlara ilerlemelisiniz."
+
+
 translate turkish episode014_c9219d18:
 
-    # man "Receiving coordinates."
-    man "Koordinatlar alınıyor."
 
-# game/episode014.rpy:54
+    man "Koordinatları alıyorum."
+
+
 translate turkish episode014_ce8bb998:
 
-    # woman "Display coordinates."
+
     woman "Koordinatları göster."
 
-# game/episode014.rpy:55
+
 translate turkish episode014_bd7756ba:
 
-    # man "Coordinates forwarded to your display, ma’am."
-    man "Koordinatlar ekranınıza iletildi, hanımefendi."
 
-# game/episode014.rpy:57
+    man "Koordinatlar ekranınıza iletildi, komutanım."
+
+
 translate turkish episode014_c3d5f8ab:
 
-    # woman "What is this?"
-    woman "Bu nedir?"
 
-# game/episode014.rpy:58
+    woman "Bu da ne?"
+
+
 translate turkish episode014_814f8da1:
 
-    # woman "Are you seeing the same thing I am?"
-    woman "Benimle aynı şeyi mi görüyorsun?"
 
-# game/episode014.rpy:59
+    woman "Sen de benim gördüğümü görüyor musun?"
+
+
 translate turkish episode014_82220288:
 
-    # woman2 "I am, ma’am."
-    woman2 "I am, ma'am."
 
-# game/episode014.rpy:60
+    woman2 "Evet, komutanım."
+
+
 translate turkish episode014_f2136061:
 
-    # woman "Jaculus, you have sent us the coordinates of the Hawwa Cluster."
-    woman "Jaculus, bize Hawwa Kümesi'nin koordinatlarını göndermişsin."
 
-# game/episode014.rpy:62
+    woman "Jaculus, bize Hawwa Kümesi'nin koordinatlarını gönderdiniz."
+
+
 translate turkish episode014_24556d00:
 
-    # ag "We have."
-    ag "Elimizde."
 
-# game/episode014.rpy:63
+    ag "Gönderdik."
+
+
 translate turkish episode014_d3ffa386:
 
-    # woman "The Hawwa Cluster is occupied by the Taagmar..."
-    woman "Hawwa Kümesi Taagmar tarafından işgal edildi..."
 
-# game/episode014.rpy:64
+    woman "Hawwa Kümesi Taagmar'lar tarafından işgal edilmiş..."
+
+
 translate turkish episode014_0324df08:
 
-    # ag "And your question is?"
+
     ag "Sorunuz nedir?"
 
-# game/episode014.rpy:65
+
 translate turkish episode014_345dec1b:
 
-    # woman "We are to overtake this cluster and assume command?"
-    woman "Bu kümeyi ele geçirip komutayı devralacak mıyız?"
 
-# game/episode014.rpy:66
+    woman "Bu kümeyi ele geçirip komutayı üstlenmemiz mi gerekiyor?"
+
+
 translate turkish episode014_d2900f95:
 
-    # ag "Yes."
+
     ag "Evet."
 
-# game/episode014.rpy:68
+
 translate turkish episode014_74d756d1:
 
-    # woman "That is an act of war, sir."
-    woman "Bu bir savaş eylemidir, efendim."
 
-# game/episode014.rpy:69
+    woman "Bu bir savaş ilanı, efendim."
+
+
 translate turkish episode014_1b3a078a:
 
-    # woman "The Taagmar will be sure to retaliate."
-    woman "Taagmar misilleme yapacaktır."
 
-# game/episode014.rpy:71
+    woman "Taagmar'lar kesinlikle misilleme yapacak."
+
+
 translate turkish episode014_b14954d3:
 
-    # ag "Are you refusing to carry out a direct order, commander?"
+
     ag "Doğrudan bir emri yerine getirmeyi mi reddediyorsunuz, komutan?"
 
-# game/episode014.rpy:72
+
 translate turkish episode014_4e772a8e:
 
-    # woman "No, sir."
+
     woman "Hayır, efendim."
 
-# game/episode014.rpy:73
+
 translate turkish episode014_3ec3cd62:
 
-    # woman "Just making sure we’re on the same page, sir."
+
     woman "Sadece aynı sayfada olduğumuzdan emin olmak istiyorum, efendim."
 
-# game/episode014.rpy:75
+
 translate turkish episode014_a3be9cda:
 
-    # ag "Good."
-    ag "Güzel."
 
-# game/episode014.rpy:76
+    ag "İyi."
+
+
 translate turkish episode014_2af51227:
 
-    # ag "Now, I don’t care how you take control of that cluster, even if you have to blow up any planet there."
-    ag "Şimdi, o kümenin kontrolünü nasıl ele geçireceğin umurumda değil, oradaki herhangi bir gezegeni havaya uçurmak zorunda kalsan bile."
 
-# game/episode014.rpy:77
+    ag "Şimdi, o kümeyi nasıl ele geçirdiğiniz umurumda değil, oradaki gezegenleri havaya uçurmanız gerekse bile."
+
+
 translate turkish episode014_42edab9a:
 
-    # ag "Just make sure that system is ours."
-    ag "Sadece o sistemin bizim olduğundan emin ol."
 
-# game/episode014.rpy:79
+    ag "Sadece o sistemin bizim olduğundan emin olun."
+
+
 translate turkish episode014_dc24ccea:
 
-    # woman "Yes, sir."
+
     woman "Evet, efendim."
 
-# game/episode014.rpy:80
+
 translate turkish episode014_7f9faf64:
 
-    # woman "Once we’ve asserted control over the cluster, it will be hard to defend for a longer period, sir."
-    woman "Küme üzerinde kontrol sağladıktan sonra, uzun süre savunmak zor olacak, efendim."
 
-# game/episode014.rpy:82
+    woman "Küme üzerinde kontrolü sağladığımızda, uzun süre savunmak zor olacak, efendim."
+
+
 translate turkish episode014_5d85c94f:
 
-    # ag "No need to worry about that, this isn’t a long-term operation."
-    ag "Bunun için endişelenmenize gerek yok, bu uzun süreli bir operasyon değil."
 
-# game/episode014.rpy:83
+    ag "Bunun için endişelenmeye gerek yok, bu uzun vadeli bir operasyon değil."
+
+
 translate turkish episode014_da27c917:
 
-    # ag "I expect to be notified as soon as the cluster is secure."
-    ag "Küme güvenli hale gelir gelmez bilgilendirilmeyi bekliyorum."
 
-# game/episode014.rpy:84
+    ag "Küme güvende olur olmaz haberdar edilmeyi bekliyorum."
+
+
 translate turkish episode014_a81f7d1e:
 
-    # woman "Of course, sir."
-    woman "Elbette, efendim."
 
-# game/episode014.rpy:85
+    woman "Tabii ki, efendim."
+
+
 translate turkish episode014_5bde20c9:
 
-    # ag "Jaculus out."
-    ag "Jaculus çıktı."
 
-# game/episode014.rpy:98
+    ag "Jaculus kapatıyor."
+
+
 translate turkish episode014_380de2e1:
 
-    # woman2 "That place is soon to become a death trap isn’t it, ma’am?"
-    woman2 "Orası yakında bir ölüm tuzağına dönüşecek, değil mi hanımefendi?"
 
-# game/episode014.rpy:100
+    woman2 "O yer yakında bir ölüm tuzağı haline gelecek, değil mi komutanım?"
+
+
 translate turkish episode014_091c4750:
 
-    # woman "Yes, it will be once the enemy realizes we’ve occupied their territory."
-    woman "Evet, düşman topraklarını işgal ettiğimizi anladığında olacak."
 
-# game/episode014.rpy:101
+    woman "Evet, düşman topraklarını işgal ettiğimizi anladığında öyle olacak."
+
+
 translate turkish episode014_af77f9e2:
 
-    # woman "But we knew what we signed up for when we joined the navy."
-    woman "Ama donanmaya katılırken neye imza attığımızı biliyorduk."
 
-# game/episode014.rpy:103
+    woman "Ama donanmaya katıldığımızda neye imza attığımızı biliyorduk."
+
+
 translate turkish episode014_97a5fc9c_2:
 
-    # woman2 "Yes, ma’am."
-    woman2 "Yes, ma'am."
 
-# game/episode014.rpy:104
+    woman2 "Evet, komutanım."
+
+
 translate turkish episode014_20b599d9:
 
-    # woman2 "Shall I set a course for Hawwa, ma’am?"
-    woman2 "Hawwa'ya doğru bir rota belirleyeyim mi, hanımefendi?"
 
-# game/episode014.rpy:106
+    woman2 "Hawwa'ya rota çizmemi ister misiniz, komutanım?"
+
+
 translate turkish episode014_1ca70dae:
 
-    # woman "Yes, give the order and inform the rest of the fleet."
+
     woman "Evet, emri ver ve filonun geri kalanını bilgilendir."
 
-# game/episode014.rpy:107
+
 translate turkish episode014_67c83115:
 
-    # woman "I’ll be in my quarters, notify me once we’re about to make the insertion into the Hawwa cluster."
-    woman "Kamaramda olacağım, Hawwa kümesine giriş yapmak üzere olduğumuzda beni bilgilendirin."
 
-# game/episode014.rpy:108
+    woman "Kamaramda olacağım, Hawwa kümesine girişi yapmak üzere olduğumuzda beni haberdar et."
+
+
 translate turkish episode014_f8465cf8:
 
-    # woman2 "Very good, ma’am."
-    woman2 "Çok iyi, hanımefendi."
 
-# game/episode014.rpy:114
+    woman2 "Çok iyi, komutanım."
+
+
 translate turkish episode014_f60d96a3:
 
-    # "Everyone was present on the bridge after my announcement over the ship’s intercom."
-    "Geminin dahili telefonundan yaptığım anonstan sonra herkes köprüde hazır bulundu."
 
-# game/episode014.rpy:116
+    "Geminin dahili anonsundan sonra herkes köprüde hazır bulunuyordu."
+
+
 translate turkish episode014_eded1648:
 
-    # c "I’d like to update you all on the journey we’re about to make."
-    c "Yapmak üzere olduğumuz yolculuk hakkında hepinize bilgi vermek istiyorum."
 
-# game/episode014.rpy:117
+    c "Yapmak üzere olduğumuz yolculuk hakkında hepinizi bilgilendirmek istiyorum."
+
+
 translate turkish episode014_bafdc95e:
 
-    # c "It’s clear to me that while my father, the Confessor and maybe some other nutcases we’ve yet to hear about keep pursuing that stupid prophecy of theirs, we’ll never stop being hunted."
-    c "Babam, Confessor ve belki de henüz adını duymadığımız başka kaçıklar o aptal kehanetlerinin peşinden gitmeye devam ettikçe, avlanmaktan asla vazgeçmeyeceğiz."
 
-# game/episode014.rpy:118
+    c "Babam, İtirafçı ve henüz duymadığımız diğer çılgınlar o aptal kehanetlerinin peşinde koştukça, asla avlanmaktan kurtulamayacağımız belli."
+
+
 translate turkish episode014_cc886afc:
 
-    # c "My short career as bait for the Scolguin has further strengthened that notion."
-    c "Scolguin için yem olarak kısa kariyerim bu düşünceyi daha da güçlendirdi."
 
-# game/episode014.rpy:119
+    c "Scolguin'ler için yem olarak geçirdiğim kısa kariyerim bu düşünceyi daha da güçlendirdi."
+
+
 translate turkish episode014_66f1352a:
 
-    # c "So we’ll start our own investigation into this matter."
-    c "Bu yüzden bu konuyla ilgili kendi soruşturmamızı başlatacağız."
 
-# game/episode014.rpy:120
+    c "Bu yüzden bu konuda kendi araştırmamızı başlatacağız."
+
+
 translate turkish episode014_a7b185ba:
 
-    # c "Everyone else has been operating under the advantage of having more knowledge than we do, and I aim to change that."
-    c "Diğer herkes bizden daha fazla bilgiye sahip olmanın avantajıyla hareket ediyor ve ben bunu değiştirmeyi amaçlıyorum."
 
-# game/episode014.rpy:121
+    c "Diğer herkes bizden daha fazla bilgiye sahip olma avantajıyla hareket ediyor ve ben bunu değiştirmeyi hedefliyorum."
+
+
 translate turkish episode014_87ebdf8e:
 
-    # c "Thanks to my beloved father, we know that the Scolguin potentially have more information on the prophecy."
-    c "Sevgili babam sayesinde, Scolguin'in potansiyel olarak kehanet hakkında daha fazla bilgiye sahip olduğunu biliyoruz."
 
-# game/episode014.rpy:122
+    c "Sevgili babam sayesinde, Scolguin'lerin kehanet hakkında daha fazla bilgiye sahip olabileceğini biliyoruz."
+
+
 translate turkish episode014_36247ce0:
 
-    # c "While it’s very tempting to drop out of a spaceship in a vacsuit and play Scolguin bait again, Ziv might have offered us a better solution."
-    c "Bir uzay gemisinden bir vacsuit içinde inmek ve tekrar Scolguin yemi oynamak çok cazip olsa da, Ziv bize daha iyi bir çözüm sunmuş olabilir."
 
-# game/episode014.rpy:123
+    c "Uzay gemisinden vakum kıyafetiyle atlayıp tekrar Scolguin yemi oynamak çok cazip olsa da, Ziv bize daha iyi bir çözüm sunmuş olabilir."
+
+
 translate turkish episode014_4d06d899:
 
-    # c "Uailea, the Rhenkoy homeworld, happens to be the new home of a squadron of Scolguin."
-    c "Rhenkoy ana gezegeni Uailea, bir Scolguin filosunun yeni evi oluyor."
 
-# game/episode014.rpy:124
+    c "Rhenkoy ana gezegeni Uailea, bir Scolguin filosunun yeni evi oldu."
+
+
 translate turkish episode014_f49356d9:
 
-    # c "They’re enjoying their indefinite stay inside a jail cell, after trying to assassinate some political refugees."
-    c "Bazı siyasi mültecilere suikast girişiminde bulunduktan sonra bir hapishane hücresinde süresiz kalmanın tadını çıkarıyorlar."
 
-# game/episode014.rpy:125
+    c "Bazı siyasi mültecileri öldürmeye çalıştıktan sonra hapishane hücresinde süresiz konaklamalarının tadını çıkarıyorlar."
+
+
 translate turkish episode014_20b12f94:
 
-    # c "We'll try arranging a visit with the Scolguin squadron and through them establish contact with their main fleet."
-    c "Scolguin filosuyla bir ziyaret ayarlamaya çalışacağız ve onlar aracılığıyla ana filolarıyla temas kuracağız."
 
-# game/episode014.rpy:127
+    c "Scolguin filosuyla bir görüşme ayarlamaya çalışacağız ve onlar aracılığıyla ana filolarıyla iletişim kuracağız."
+
+
 translate turkish episode014_1e7497da:
 
-    # ki "Are we just going to visit that Rhenkoy prison and claim to be next of kin coming for a family visit?"
-    ki "Rhenkoy hapishanesini ziyaret edip aile ziyareti için gelen akrabalar olduğumuzu mu iddia edeceğiz?"
 
-# game/episode014.rpy:129
+    ki "O Rhenkoy hapishanesine gidip aile ziyareti için gelen yakınlarıyız mı diyeceğiz?"
+
+
 translate turkish episode014_2a64892c:
 
-    # zi "We’ll have to go through the Council of Nkoy and officially petition them."
-    zi "Nköy Konseyi'ne gidip resmi olarak dilekçe vermemiz gerekecek."
 
-# game/episode014.rpy:130
+    zi "Nkoy Konseyi'ne başvurup resmi olarak dilekçe vermemiz gerekecek."
+
+
 translate turkish episode014_c7e45b46:
 
-    # zi "I have some contacts in the Council’s administration, so I have good hopes of getting us an audience."
-    zi "Konsey yönetiminde bazı bağlantılarım var, bu yüzden bize bir görüşme ayarlama konusunda iyi umutlarım var."
 
-# game/episode014.rpy:132
+    zi "Konsey yönetiminde bazı bağlantılarım var, bu yüzden görüşme ayarlayabileceğimize dair ümidim var."
+
+
 translate turkish episode014_ef052e68:
 
-    # c "It’s a long shot, but we’re in no way capable of taking either my father or the Confessor head-on."
-    c "Uzak bir ihtimal ama ne babamla ne de Confessor'le kafa kafaya çarpışabilecek durumda değiliz."
 
-# game/episode014.rpy:133
+    c "Uzak bir ihtimal ama ne babamla ne de İtirafçı ile doğrudan karşılaşacak gücümüz var."
+
+
 translate turkish episode014_3e1375ed:
 
-    # c "So we’re going to try and see how far this particular lead will get us."
-    c "Bu özel ipucunun bizi ne kadar ileri götüreceğini deneyip göreceğiz."
 
-# game/episode014.rpy:134
+    c "Bu yüzden bu ipucunun bizi ne kadar ileriye götüreceğini görmeye çalışacağız."
+
+
 translate turkish episode014_83f4b162:
 
-    # c "There’s another thing I’d like to announce."
-    c "Duyurmak istediğim bir şey daha var."
 
-# game/episode014.rpy:135
+    c "Duyurmak istediğim başka bir şey daha var."
+
+
 translate turkish episode014_bf6aba7e:
 
-    # c "As you know, Vess is still being held in the brig."
-    c "Bildiğiniz gibi, Vess hala hücrede tutuluyor."
 
-# game/episode014.rpy:138
+    c "Bildiğiniz gibi, Vess hala hapiste tutuluyor."
+
+
 translate turkish episode014_236983dd:
 
-    # c "Her pivotal role in my rescue has made me decide to release her from the brig."
-    c "Kurtarılmamdaki çok önemli rolü, onu hapisten çıkarmaya karar vermemi sağladı."
 
-# game/episode014.rpy:139
+    c "Beni kurtarmadaki kritik rolü onu hapisten çıkarmaya karar vermeme neden oldu."
+
+
 translate turkish episode014_aeda4f05:
 
-    # c "She’ll be under my close watch at all times."
+
     c "Her zaman yakın gözetimim altında olacak."
 
-# game/episode014.rpy:141
+
 translate turkish episode014_9d54c53f:
 
-    # na "Are you sure that’s wise, [p_name]?"
-    na "Bunun akıllıca olduğuna emin misin, [p_name]?"
 
-# game/episode014.rpy:142
+    na "Bunun akıllıca olduğundan emin misin, [p_name]?"
+
+
 translate turkish episode014_ae1911b3:
 
-    # na "She betrayed all of us and might do it again."
-    na "Hepimize ihanet etti ve bunu tekrar yapabilir."
 
-# game/episode014.rpy:143
+    na "Hepimize ihanet etti ve tekrar yapabilir."
+
+
 translate turkish episode014_6e967d5a:
 
-    # c "I don’t think that will happen."
+
     c "Bunun olacağını sanmıyorum."
 
-# game/episode014.rpy:144
+
 translate turkish episode014_c0c92eaa:
 
-    # c "Vess has been made very aware of the precarious situation she’s in."
-    c "Vess içinde bulunduğu tehlikeli durumun farkına varmıştır."
 
-# game/episode014.rpy:145
+    c "Vess içinde bulunduğu tehlikeli durumun çok farkında."
+
+
 translate turkish episode014_7b5c26d6:
 
-    # c "She’ll be back in the brig at the slightest irregularity."
-    c "En ufak bir düzensizlikte hücreye geri dönecek."
 
-# game/episode014.rpy:147
+    c "En küçük bir düzensizlikte tekrar hapise geri dönecek."
+
+
 translate turkish episode014_a066f406:
 
-    # e "I’m not sure we need to be so harsh on her."
-    e "Ona karşı bu kadar sert olmamız gerektiğinden emin değilim."
 
-# game/episode014.rpy:149
+    e "Ona bu kadar sert davranmamız gerektiğinden emin değilim."
+
+
 translate turkish episode014_b9550c26:
 
-    # na "She put all of our lives at risk!"
+
     na "Hepimizin hayatını tehlikeye attı!"
 
-# game/episode014.rpy:151
+
 translate turkish episode014_43f829e1:
 
-    # e "She did, and she truly feels awful about it."
-    e "Yaptı ve bu konuda gerçekten çok kötü hissediyor."
 
-# game/episode014.rpy:152
+    e "Evet yaptı ve bunun için gerçekten çok kötü hissediyor."
+
+
 translate turkish episode014_867d7ce8:
 
-    # e "I don’t think there’s any chance she’ll betray us again."
-    e "Bize tekrar ihanet etme ihtimali olduğunu sanmıyorum."
 
-# game/episode014.rpy:154
+    e "Bize tekrar ihanet etme ihtimalinin olduğunu sanmıyorum."
+
+
 translate turkish episode014_940ab8ad:
 
-    # na "I’m not so sure about that."
-    na "Bundan pek emin değilim."
 
-# game/episode014.rpy:155
+    na "Bu konuda o kadar emin değilim."
+
+
 translate turkish episode014_c11e1e88:
 
-    # na "In any case, I think it’s a good decision to have her under guard at all times."
-    na "Her halükarda, onu her zaman koruma altında tutmanın iyi bir karar olduğunu düşünüyorum."
 
-# game/episode014.rpy:156
+    na "Her halükarda, onu sürekli gözetim altında tutmanın iyi bir karar olduğunu düşünüyorum."
+
+
 translate turkish episode014_8e8f2980:
 
-    # c "I guess that’s settled then, if there aren’t any further objections?"
-    c "Başka bir itiraz yoksa, sanırım bu iş halloldu?"
 
-# game/episode014.rpy:158
+    c "O zaman sanırım karar verildi, başka itiraz yoksa?"
+
+
 translate turkish episode014_a4fd7f1c:
 
-    # "Nobody had anything to add, so that concluded the meeting."
-    "Kimsenin ekleyecek bir şeyi yoktu, bu yüzden toplantı sona erdi."
 
-# game/episode014.rpy:160
+    "Kimsenin ekleyeceği bir şey yoktu, böylece toplantı sona erdi."
+
+
 translate turkish episode014_236983dd_1:
 
-    # c "Her pivotal role in my rescue has made me decide to release her from the brig."
-    c "Kurtarılmamdaki çok önemli rolü, onu hapisten çıkarmaya karar vermemi sağladı."
 
-# game/episode014.rpy:161
+    c "Beni kurtarmadaki kritik rolü onu hapisten çıkarmaya karar vermeme neden oldu."
+
+
 translate turkish episode014_424972d4:
 
-    # c "She’s allowed to return to her own quarters and won’t be under guard."
-    c "Kendi kamarasına dönmesine izin verildi ve koruma altında olmayacak."
 
-# game/episode014.rpy:163
+    c "Kendi odasına dönmesine izin veriliyor ve gözetim altında olmayacak."
+
+
 translate turkish episode014_9d54c53f_1:
 
-    # na "Are you sure that’s wise, [p_name]?"
-    na "Bunun akıllıca olduğuna emin misin, [p_name]?"
 
-# game/episode014.rpy:164
+    na "Bunun akıllıca olduğundan emin misin, [p_name]?"
+
+
 translate turkish episode014_ae1911b3_1:
 
-    # na "She betrayed all of us and might do it again."
-    na "Hepimize ihanet etti ve bunu tekrar yapabilir."
 
-# game/episode014.rpy:165
+    na "Hepimize ihanet etti ve tekrar yapabilir."
+
+
 translate turkish episode014_6e967d5a_1:
 
-    # c "I don’t think that will happen."
+
     c "Bunun olacağını sanmıyorum."
 
-# game/episode014.rpy:166
+
 translate turkish episode014_0a1a9b3d:
 
-    # c "If anything, Vess did the things she did under duress."
-    c "Eğer bir şey varsa, Vess yaptığı şeyleri baskı altında yaptı."
 
-# game/episode014.rpy:167
+    c "Eğer bir şey varsa, Vess yaptıklarını baskı altında yaptı."
+
+
 translate turkish episode014_b09ff7fe:
 
-    # c "The girl has never had a family or anyone she really felt a connection with."
-    c "Kızın hiçbir zaman bir ailesi ya da gerçekten bağ kurduğu biri olmadı."
 
-# game/episode014.rpy:168
+    c "Kızın hiç ailesi olmadı ya da gerçekten bağ kurduğu biri olmadı."
+
+
 translate turkish episode014_813a72e8:
 
-    # c "I believe we as a crew changed all that, and she’s willing to change her ways."
-    c "Mürettebat olarak tüm bunları değiştirdiğimize inanıyorum ve o da yöntemlerini değiştirmeye istekli."
 
-# game/episode014.rpy:170
+    c "Bence biz ekip olarak tüm bunları değiştirdik ve o da davranışlarını değiştirmeye hazır."
+
+
 translate turkish episode014_789e4523:
 
-    # e "I agree."
+
     e "Katılıyorum."
 
-# game/episode014.rpy:171
+
 translate turkish episode014_79436891:
 
-    # e "I’ve visited Vess in the brig a couple of times and we talked about her betrayal."
-    e "Vess'i birkaç kez hapishanede ziyaret ettim ve ihaneti hakkında konuştuk."
 
-# game/episode014.rpy:172
+    e "Vess'i hapiste birkaç kez ziyaret ettim ve ihanetini konuştuk."
+
+
 translate turkish episode014_c2a3749f:
 
-    # e "I don’t think she did all those things because she’s evil, but because there’s something broken inside her."
-    e "Tüm bunları kötü olduğu için değil, içinde bir şeyler kırıldığı için yaptığını düşünüyorum."
 
-# game/episode014.rpy:174
+    e "Tüm bunları kötü olduğu için yaptığını düşünmüyorum, içinde kırık bir şey olduğu için yaptı."
+
+
 translate turkish episode014_b9550c26_1:
 
-    # na "She put all of our lives at risk!"
+
     na "Hepimizin hayatını tehlikeye attı!"
 
-# game/episode014.rpy:176
+
 translate turkish episode014_f277b3c1:
 
-    # e "She did and truly feels awful about it."
+
     e "Yaptı ve bu konuda gerçekten çok kötü hissediyor."
 
-# game/episode014.rpy:177
+
 translate turkish episode014_f5be30d1:
 
-    # c "I’m not saying she doesn’t need to regain our trust, but doing so confined to the brig is impossible."
-    c "Güvenimizi yeniden kazanmaya ihtiyacı olmadığını söylemiyorum ama bunu hücreye kapanarak yapması imkansız."
 
-# game/episode014.rpy:178
+    c "Güvenimizi yeniden kazanması gerekmiyor demiyorum, ama bunu hapiste kapalı kalarak yapmak imkansız."
+
+
 translate turkish episode014_752abf35:
 
-    # c "She’ll need to work hard to become a full member of our crew again."
-    c "Tekrar mürettebatımızın tam bir üyesi olabilmesi için çok çalışması gerekecek."
 
-# game/episode014.rpy:180
+    c "Mürettebatımızın tam bir üyesi olmak için çok çalışması gerekecek."
+
+
 translate turkish episode014_66c4ab86:
 
-    # na "If you all think this is the responsible thing to do, I’m willing to give it a try."
-    na "Hepiniz bunun yapılması gereken sorumlu bir şey olduğunu düşünüyorsanız, denemeye hazırım."
 
-# game/episode014.rpy:181
+    na "Hepiniz bunun sorumlu bir davranış olduğunu düşünüyorsanız, denemeye razıyım."
+
+
 translate turkish episode014_ed5b98c2:
 
-    # c "I guess that’s settled then, if there are no further objections?"
-    c "Sanırım başka itiraz yoksa bu iş tamamdır?"
 
-# game/episode014.rpy:183
+    c "O zaman sanırım karar verildi, başka itiraz yoksa?"
+
+
 translate turkish episode014_a4fd7f1c_1:
 
-    # "Nobody had anything to add, so that concluded the meeting."
-    "Kimsenin ekleyecek bir şeyi yoktu, bu yüzden toplantı sona erdi."
 
-# game/episode014.rpy:185
+    "Kimsenin ekleyeceği bir şey yoktu, böylece toplantı sona erdi."
+
+
 translate turkish episode014_1ef21f73:
 
-    # c "While I’m thankful for her role in my rescue, her past actions are unforgivable."
-    c "Kurtarılmamdaki rolü için minnettar olsam da, geçmişte yaptıkları affedilemez."
 
-# game/episode014.rpy:186
+    c "Kurtarılmamda oynadığı rol için minnettar olsam da, geçmişteki eylemleri affedilemez."
+
+
 translate turkish episode014_06165d78:
 
-    # c "She’ll remain in the brig indefinitely, but I’ve promised her that she won’t lack for any comforts."
-    c "Süresiz olarak hücrede kalacak, ama ona hiçbir konfordan mahrum kalmayacağına dair söz verdim."
 
-# game/episode014.rpy:188
+    c "Süresiz olarak hapiste kalacak, ama ona hiçbir konforun eksik olmayacağına söz verdim."
+
+
 translate turkish episode014_367fd8e5:
 
-    # e "Isn’t that a little harsh, [p_name_short]?"
-    e "Bu biraz sert olmadı mı, [p_name_short]?"
 
-# game/episode014.rpy:190
+    e "Bu biraz sert değil mi, [p_name_short]?"
+
+
 translate turkish episode014_f04493a8:
 
-    # na "Harsh?"
-    na "Harsh?"
 
-# game/episode014.rpy:191
+    na "Sert mi?"
+
+
 translate turkish episode014_ae1911b3_2:
 
-    # na "She betrayed all of us and might do it again."
-    na "Hepimize ihanet etti ve bunu tekrar yapabilir."
 
-# game/episode014.rpy:193
+    na "Hepimize ihanet etti ve tekrar yapabilir."
+
+
 translate turkish episode014_79436891_1:
 
-    # e "I’ve visited Vess in the brig a couple of times and we talked about her betrayal."
-    e "Vess'i birkaç kez hapishanede ziyaret ettim ve ihaneti hakkında konuştuk."
 
-# game/episode014.rpy:194
+    e "Vess'i birkaç kez hapishanede ziyaret ettim ve onun ihaneti hakkında konuştuk."
+
+
 translate turkish episode014_c2a3749f_1:
 
-    # e "I don’t think she did all those things because she’s evil, but because there’s something broken inside her."
-    e "Tüm bunları kötü olduğu için değil, içinde bir şeyler kırıldığı için yaptığını düşünüyorum."
 
-# game/episode014.rpy:196
+    e "v"
+
+
 translate turkish episode014_6fa78668:
 
-    # na "Your compassion is admirable, Eva, but I think we should err on the side of caution."
-    na "Merhametin takdire şayan Eva, ama bence tedbiri elden bırakmamalıyız."
 
-# game/episode014.rpy:197
+    na "Merhametin takdire şayan Eva, ama bence temkinli davranmalıyız."
+
+
 translate turkish episode014_d5028011:
 
-    # c "I agree."
+
     c "Katılıyorum."
 
-# game/episode014.rpy:198
+
 translate turkish episode014_1db62b8a:
 
-    # c "Does anyone object to Vess remaining in the brig?"
-    c "Vess'in hücrede kalmasına itiraz eden var mı?"
 
-# game/episode014.rpy:200
+    c "Vess'in hapiste kalmasına itiraz eden var mı?"
+
+
 translate turkish episode014_a2053ad7:
 
-    # "There was a silence, even Eva didn’t have anything to add."
-    "Bir sessizlik oldu, Eva'nın bile ekleyecek bir şeyi yoktu." 
 
-# game/episode014.rpy:201
+    "Sessizlik oldu, Eva bile ekleyeceği bir şey bulamadı."
+
+
 translate turkish episode014_8e8f2980_1:
 
-    # c "I guess that’s settled then, if there aren’t any further objections?"
-    c "Başka bir itiraz yoksa, sanırım bu iş halloldu?"
 
-# game/episode014.rpy:203
+    c "O zaman sanırım karar verildi, başka itiraz yoksa?"
+
+
 translate turkish episode014_a4fd7f1c_2:
 
-    # "Nobody had anything to add, so that concluded the meeting."
-    "Kimsenin ekleyecek bir şeyi yoktu, bu yüzden toplantı sona erdi."
 
-# game/episode014.rpy:205
+    "Kimsenin ekleyeceği bir şey yoktu, böylece toplantı sona erdi."
+
+
 translate turkish episode014_c36a41d3:
 
-    # "Céline set course to Uailea after the crew had spread out over the ship."
-    "Mürettebat gemiye dağıldıktan sonra Céline rotayı Uailea'ya çevirdi." 
 
-# game/episode014.rpy:220
+    "Mürettebat gemiye dağıldıktan sonra Céline rotayı Uailea'ya çevirdi."
+
+
 translate turkish episode014_2fa1ec53:
 
-    # "A few hours after entering the Rhenkoy space, the main planet of the system came into view."
-    "Rhenkoy uzayına girdikten birkaç saat sonra sistemin ana gezegeni göründü." 
 
-# game/episode014.rpy:222
+    "Rhenkoy uzayına girdikten birkaç saat sonra, sistemin ana gezegeni görüş alanına girdi."
+
+
 translate turkish episode014_d7d1d0d3:
 
-    # "Uailea promised a decidedly different landscape, if the ship’s databanks were to be believed."
-    "Geminin veri bankalarına inanılacak olursa, Uailea kesinlikle farklı bir manzara vaat ediyordu." 
 
-# game/episode014.rpy:223
+    "Geminin veri bankalarına inanılacak olursa, Uailea kesinlikle farklı bir manzara vaat ediyordu."
+
+
 translate turkish episode014_a213ef3b:
 
-    # "Rhenkoy architecture was apparently distinct enough to have garnered the attention of connoisseurs galaxy-wide."
-    "Rhenkoy mimarisi görünüşe göre galaksi çapındaki uzmanların dikkatini çekecek kadar farklıydı." 
 
-# game/episode014.rpy:225
+    "Rhenkoy mimarisi görünüşe göre galaksi çapında uzmanların dikkatini çekecek kadar farklıydı."
+
+
 translate turkish episode014_6d11f443:
 
-    # "Other than that, the compiler of the Bastard’s on-board guide didn’t have much to tell about the home of the Rhenkoy."
-    "Bunun dışında, Bastard'in gemideki rehberinin derleyicisinin Rhenkoy'un evi hakkında anlatacak pek bir şeyi yoktu."
 
-# game/episode014.rpy:238
+    "Bunun dışında, Bastard'ın gemideki rehberinin derleyicisinin Rhenkoy'ların evi hakkında söyleyecek pek bir şeyi yoktu."
+
+
 translate turkish episode014_1c2ecf30:
 
-    # "As soon as we docked, Ziv went out to file a formal petition with the Council of Nkoy."
-    "Limana yanaşır yanaşmaz Ziv, Nkoy Konseyi'ne resmi bir dilekçe sunmak için dışarı çıktı."
 
-# game/episode014.rpy:239
+    "Rıhtıma yanaşır yanaşmaz, Ziv Nkoy Konseyi'ne resmi bir dilekçe vermek için dışarı çıktı."
+
+
 translate turkish episode014_412a04ab:
 
-    # "Apparently, as part of the procedure, petitioners were granted temporary lodgings in the Council building."
-    "Görünüşe göre, prosedürün bir parçası olarak, dilekçe sahiplerine Konsey binasında geçici lojmanlar verildi."
 
-# game/episode014.rpy:241
+    "Görünüşe göre, prosedürün bir parçası olarak, dilekçe sahiplerine Konsey binasında geçici konaklama sağlanıyordu."
+
+
 translate turkish episode014_f29c9152:
 
-    # "The apartment we were assigned had room for two people, so it was agreed that Ziv and I would stay there and that the rest of the crew would remain on the ship."
-    "Bize tahsis edilen dairede iki kişilik yer vardı, bu yüzden Ziv ve benim orada kalmamız ve mürettebatın geri kalanının gemide kalması kararlaştırıldı."
 
-# game/episode014.rpy:242
+    "Bize verilen daire iki kişilik olduğu için, Ziv ve benim orada kalacağımız, mürettebatın geri kalanının gemide kalacağı kararlaştırıldı."
+
+
 translate turkish episode014_17285035:
 
-    # "Several days passed without any word from the Council."
-    "Konsey'den hiçbir haber gelmeden birkaç gün geçti." 
 
-# game/episode014.rpy:247
+    "Konseyden hiçbir haber gelmeden birkaç gün geçti."
+
+
 translate turkish episode014_549ff2b5:
 
-    # "We spent the time sight-seeing and lounging."
-    "Zamanı gezerek ve uzanarak geçirdik."
 
-# game/episode014.rpy:249
+    "Zamanımızı gezmeye ve dinlenmeye ayırdık."
+
+
 translate turkish episode014_3aceadda:
 
-    # "Uailea’s capital turned out to be a busy metropolis, and I had trouble sleeping during the night."
-    "Uailea'nın başkenti yoğun bir metropole dönüştü ve gece boyunca uyumakta zorlandım."
 
-# game/episode014.rpy:251
+    "Uailea'nın başkenti hareketli bir metropol çıktı ve geceleri uyumakta zorlandım."
+
+
 translate turkish episode014_2ce2dc3f:
 
-    # "Ziv didn’t seem to mind the constant stream of strange noises and flashes of light seeping in from outside."
-    "Ziv dışarıdan sızan tuhaf seslerin ve ışık parıltılarının sürekli akışına aldırmıyor gibiydi."
 
-# game/episode014.rpy:252
+    "Ziv dışarıdan sızan sürekli garip sesler ve ışık parıltılarından rahatsız olmuyordu."
+
+
 translate turkish episode014_74fa2206:
 
-    # "She appeared to be fast asleep and didn’t stir as I slipped out of bed."
-    "Derin bir uykuya dalmış gibi görünüyordu ve ben yataktan çıkarken hiç kıpırdamadı."
 
-# game/episode014.rpy:254
+    "Derin uykuda görünüyordu ve ben yataktan çıkarken kıpırdamadı."
+
+
 translate turkish episode014_f9854873:
 
-    # "Expecting a visit at any moment, I spent the first night in the apartment together with Ziv."
-    "Her an bir ziyaret bekleyerek, ilk geceyi Ziv ile birlikte dairede geçirdim."
 
-# game/episode014.rpy:256
+    "Her an bir ziyaret bekleyerek, ilk geceyi dairede Ziv ile birlikte geçirdim."
+
+
 translate turkish episode014_3aceadda_1:
 
-    # "Uailea’s capital turned out to be a busy metropolis, and I had trouble sleeping during the night."
-    "Uailea'nın başkenti yoğun bir metropole dönüştü ve gece boyunca uyumakta zorlandım."
 
-# game/episode014.rpy:257
+    "Uailea'nın başkenti kalabalık bir metropol olduğu ortaya çıktı ve gece uyumakta zorlandım."
+
+
 translate turkish episode014_ecd2e003:
 
-    # "There was a constant stream of strange noises and flashes of light seeping in from outside."
-    "Sürekli garip sesler ve dışarıdan içeri sızan ışık parlamaları vardı." 
 
-# game/episode014.rpy:258
+    "Dışarıdan sürekli garip sesler ve ışık parıltıları sızıyordu."
+
+
 translate turkish episode014_daeacd4a:
 
-    # "The fact that I had opted to sleep on the floor didn’t help either."
-    "Yerde uyumayı tercih etmiş olmam da yardımcı olmadı." 
 
-# game/episode014.rpy:259
+    "Yerde uyumayı seçmiş olmam da işe yaramadı."
+
+
 translate turkish episode014_32d65147:
 
-    # "From what I could tell, Ziv didn’t seem to mind, as she slept deeply."
-    "Söyleyebildiğim kadarıyla, Ziv derin bir uykuya daldığı için aldırmıyor gibiydi."
 
-# game/episode014.rpy:261
+    "Anlayabildiğim kadarıyla Ziv rahatsız olmuyordu, derin uyuyordu."
+
+
 translate turkish episode014_96bea26b:
 
-    # "Giving into a sudden impulse, I pulled out my tablet and started pouring over the Bastard’s diagnostics."
-    "Ani bir dürtüye kapılarak tabletimi çıkardım ve Bastard'in teşhislerini incelemeye başladım."
 
-# game/episode014.rpy:262
+    "Ani bir dürtüye kapılarak tabletimi çıkardım ve Bastard'ın teşhislerini incelemeye başladım."
+
+
 translate turkish episode014_805efa73:
 
-    # "Thyia kept the ship in good shape, as there were no specific issues."
-    "Belirli bir sorun olmadığı için Thyia gemiyi iyi durumda tuttu."
 
-# game/episode014.rpy:268
+    "Thyia gemiyi iyi durumda tutuyordu, özel bir sorun yoktu."
+
+
 translate turkish episode014_ccaad878:
 
-    # "Next, I checked the camera feeds."
-    "Sonra, kamera yayınlarını kontrol ettim."
 
-# game/episode014.rpy:270
+    "Sonra kamera görüntülerini kontrol ettim."
+
+
 translate turkish episode014_635babf1:
 
-    # "It seemed that everyone had gone to bed already."
+
     "Görünüşe göre herkes çoktan yatmıştı."
 
-# game/episode014.rpy:271
+
 translate turkish episode014_f2b8fb21:
 
-    # "One camera feed was off-limits for users with a lower clearance than mine."
-    "Bir kamera yayını, benimkinden daha düşük açıklığa sahip kullanıcılar için yasaktı."
 
-# game/episode014.rpy:273
+    "Bir kamera görüntüsü benden düşük yetkiye sahip kullanıcılar için yasaktı."
+
+
 translate turkish episode014_4f463547:
 
-    # "For some reason, the shipwright had deemed it necessary to install a camera in the Bastard’s head."
-    "Her nedense, gemi ustası Bastard'in kafasına bir kamera yerleştirmeyi gerekli görmüştü." 
 
-# game/episode014.rpy:274
+    "Nedense gemi yapımcısı Bastard'ın tuvaletine kamera koymayı gerekli görmüştü."
+
+
 translate turkish episode014_11165bf0:
 
-    # "Maybe the previous captain needed the ability to monitor the communal showers in the unlikely event an enemy force would enter the ship through there."
-    "Belki de önceki kaptan, bir düşman kuvvetinin gemiye oradan girmesi ihtimaline karşı ortak duşları izleme yeteneğine ihtiyaç duyuyordu."
 
-# game/episode014.rpy:275
+    "Belki önceki kaptan, düşman kuvvetlerinin oradan gemiye girme ihtimaline karşı ortak duşları izleme yeteneğine ihtiyaç duymuştu."
+
+
 translate turkish episode014_ce221dde:
 
-    # "Lilly appeared to be in the shower, washing her hair."
-    "Lilly duşta saçını yıkıyor gibi görünüyordu."
 
-# game/episode014.rpy:291
+    "Lilly duşta görünüyordu, saçını yıkıyordu."
+
+
 translate turkish episode014_a52e70e8:
 
-    # "I stepped out into the hallway and watched the city’s traffic flying by for a time, before getting back to bed."
-    "Koridora çıktım ve yatağıma dönmeden önce bir süre şehrin trafiğinin akıp gidişini izledim."
 
-# game/episode014.rpy:295
+    "Koridora çıktım ve bir süre şehrin uçan trafiğini izledim, sonra yatağa geri döndüm."
+
+
 translate turkish episode014_a52e70e8_1:
 
-    # "I stepped out into the hallway and watched the city’s traffic flying by for a time, before getting back to bed."
-    "Koridora çıktım ve yatağıma dönmeden önce bir süre şehrin trafiğinin akıp gidişini izledim."
 
-# game/episode014.rpy:297
+    "Koridora çıktım ve bir süre şehrin trafiğini izledikten sonra yatağıma geri döndüm."
+
+
 translate turkish episode014_979ea000:
 
-    # "After a day, when it became clear that the Council’s summons would be a long time coming, I moved back to the ship, preferring the familiar confines of the Bastard."
-    "Bir gün sonra, Konsey'in çağrısının gelmesinin uzun zaman alacağı belli olunca, Bastard'in tanıdık sınırlarını tercih ederek gemiye geri döndüm."
 
-# game/episode014.rpy:329
+    "Bir gün sonra, Konsey'in çağrısının uzun süreceği anlaşılınca, Bastard'ın tanıdık sınırlarını tercih ederek gemiye geri döndüm."
+
+
 translate turkish ep014_lilly_spy_terminate_76492933:
 
-    # "Spying on my sister didn’t feel right, especially considering the row we had earlier, so I terminated the connection."
-    "Kız kardeşimi gözetlemek doğru gelmedi, özellikle de daha önce yaşadığımız tartışmayı düşünürsek, bu yüzden bağlantıyı sonlandırdım."
 
-# game/episode014.rpy:331
+    "Kız kardeşimi gözetlemek doğru gelmiyordu, özellikle daha önce yaşadığımız kavgayı düşününce, bu yüzden bağlantıyı kestim."
+
+
 translate turkish ep014_lilly_spy_terminate_9ecc5995:
 
-    # "Spying on my girlfriend didn’t feel right, especially considering the row we had earlier, so I terminated the connection."
-    "Kız arkadaşımı gözetlemek doğru gelmedi, özellikle de daha önce yaşadığımız tartışmayı düşünürsek, bu yüzden bağlantıyı sonlandırdım."
 
-# game/episode014.rpy:334
+    "Kız arkadaşımı gözetlemek doğru gelmiyordu, özellikle daha önce yaşadığımız kavgayı düşününce, bu yüzden bağlantıyı kestim."
+
+
 translate turkish ep014_lilly_spy_terminate_422bb152:
 
-    # "Despite our relationship, spying on my sister didn’t feel right, so I terminated the connection."
-    "İlişkimize rağmen, kız kardeşimi gözetlemek doğru gelmedi, bu yüzden bağlantıyı sonlandırdım."
 
-# game/episode014.rpy:336
+    "İlişkimize rağmen, kız kardeşimi gözetlemek doğru gelmiyordu, bu yüzden bağlantıyı kestim."
+
+
 translate turkish ep014_lilly_spy_terminate_af6ed3cd:
 
-    # "Despite our relationship, spying on my girlfriend didn’t feel right, so I terminated the connection."
-    "İlişkimize rağmen, kız arkadaşımı gözetlemek doğru gelmedi, bu yüzden bağlantıyı sonlandırdım."
 
-# game/episode014.rpy:341
+    "İlişkimize rağmen, kız arkadaşımı gözetlemek doğru gelmiyordu, bu yüzden bağlantıyı kestim."
+
+
 translate turkish uailea_ziv_46aee865:
 
-    # "When we weren't sight-seeing, Ziv and I returned to the apartment to eat and sleep."
-    "Gezmediğimiz zamanlarda Ziv ve ben yemek yemek ve uyumak için eve dönüyorduk."
 
-# game/episode014.rpy:342
+    "Gezmeye çıkmadığımız zamanlarda, Ziv ve ben yemek yemek ve uyumak için daireye dönüyorduk."
+
+
 translate turkish uailea_ziv_e359fc5c:
 
-    # c "How high do you think our chances are that we'll get an answer in a few hours?"
-    c "Birkaç saat içinde bir cevap alma şansımızın ne kadar yüksek olduğunu düşünüyorsun?"
 
-# game/episode014.rpy:343
+    c "Birkaç saat içinde cevap alma şansımızın ne kadar yüksek olduğunu düşünüyorsun?"
+
+
 translate turkish uailea_ziv_e7ca459c:
 
-    # zi "Not very high, why do you ask?"
-    zi "Çok yüksek değil, neden soruyorsun?"
 
-# game/episode014.rpy:344
+    zi "Pek yüksek değil, neden soruyorsun?"
+
+
 translate turkish uailea_ziv_1dc14a7e:
 
-    # c "Well, we've seen quite a lot of the capital already, so I was thinking of a change of scenery."
-    c "Başkentin epey bir kısmını zaten gördük, bu yüzden biraz manzara değişikliği yapmayı düşünüyordum."
 
-# game/episode014.rpy:346
+    c "Şey, başkentin büyük bir kısmını zaten gördük, bu yüzden manzara değişikliği düşünüyordum."
+
+
 translate turkish uailea_ziv_e83aa875:
 
-    # zi "Where do you want to go?"
+
     zi "Nereye gitmek istiyorsun?"
 
-# game/episode014.rpy:347
+
 translate turkish uailea_ziv_8860a5fd:
 
-    # c "I don't really mind, as long as we're away from prying eyes."
-    c "Meraklı gözlerden uzak olduğumuz sürece gerçekten umurumda değil."
 
-# game/episode014.rpy:348
+    c "Pek umurumda değil, meraklı gözlerden uzak olduğumuz sürece."
+
+
 translate turkish uailea_ziv_a3b67ea0:
 
-    # zi "I think I get what you mean."
-    zi "Sanırım ne demek istediğini anladım."
 
-# game/episode014.rpy:349
+    zi "Ne demek istediğini anlıyorum sanırım."
+
+
 translate turkish uailea_ziv_a9616291:
 
-    # zi "But we don't have to leave this room to achieve that."
-    zi "Ama bunu başarmak için bu odadan çıkmamız gerekmiyor."
 
-# game/episode014.rpy:350
+    zi "Ama bunu başarmak için bu odadan çıkmamıza gerek yok."
+
+
 translate turkish uailea_ziv_52ad38a5:
 
-    # c "Well, last time I checked we were surrounded by glass windows."
-    c "Şey, son baktığımda etrafımız cam pencerelerle çevriliydi."
 
-# game/episode014.rpy:351
+    c "Şey, son kontrol ettiğimde cam pencerelerle çevriliydi burası."
+
+
 translate turkish uailea_ziv_37736691:
 
-    # c "I'm not sure living in a greenhouse fits the definition of complete privacy."
-    c "Bir serada yaşamanın tam mahremiyet tanımına uyduğuna emin değilim."
 
-# game/episode014.rpy:353
+    c "Serada yaşamanın tam mahremiyet tanımına uyduğundan emin değilim."
+
+
 translate turkish uailea_ziv_271fee12:
 
-    # "Ziv clapped an intricate rhythm with her hands and suddenly the glass of the windows became less transparent."
-    "Ziv elleriyle karmaşık bir ritim tutturdu ve aniden pencerelerin camları daha az şeffaf hale geldi."
 
-# game/episode014.rpy:355
+    "Ziv elleriyle karmaşık bir ritim çaldı ve aniden pencerelerin camı daha az şeffaf hale geldi."
+
+
 translate turkish uailea_ziv_615f5acc:
 
-    # zi "Is this more what you had in mind?"
-    zi "Aklından geçen daha çok bu muydu?"
 
-# game/episode014.rpy:356
+    zi "Aklındaki daha çok bu muydu?"
+
+
 translate turkish uailea_ziv_4f7c2a96:
 
-    # c "I think so, yes."
+
     c "Sanırım öyle, evet."
 
-# game/episode014.rpy:357
+
 translate turkish uailea_ziv_22941187:
 
-    # zi "You can't look into this room from the outside anymore."
-    zi "Artık bu odaya dışarıdan bakamazsın."
 
-# game/episode014.rpy:358
+    zi "Artık dışarıdan bu odaya bakamıyorsun."
+
+
 translate turkish uailea_ziv_bf6fb2b2:
 
-    # zi "So..."
+
     zi "Yani..."
 
-# game/episode014.rpy:366
+
 translate turkish uailea_council_dd673ded:
 
-    # "Just when the charms of Uailea’s capital began to wear very thin, a message from the Council arrived."
-    "Tam da Uailea'nın başkentinin cazibesi azalmaya başlamışken, Konsey'den bir mesaj geldi."
 
-# game/episode014.rpy:368
+    "Tam Uailea başkentinin çekiciliği azalmaya başladığında, Konsey'den bir mesaj geldi."
+
+
 translate turkish uailea_council_59bfe482:
 
-    # "Just when the charms of Uailea’s capital began to wear very thin, Ziv messaged me that she had been contacted by the Council."
-    "Tam da Uailea'nın başkentinin cazibesi azalmaya başlamışken, Ziv bana Konsey'in kendisiyle iletişime geçtiğini bildiren bir mesaj gönderdi."
 
-# game/episode014.rpy:369
+    "Tam Uailea başkentinin çekiciliği azalmaya başladığında, Ziv bana Konsey tarafından iletişime geçildiğini mesaj attı."
+
+
 translate turkish uailea_council_9fd22a13:
 
-    # "We were invited to visit them at our earliest convenience."
-    "En kısa zamanda onları ziyaret etmeye davet edildik."
 
-# game/episode014.rpy:371
+    "En kısa zamanda onları ziyaret etmemiz için davet edildik."
+
+
 translate turkish uailea_council_d2614063:
 
-    # "Ziv and I didn’t want to squander this opportunity and made haste towards the Council chambers."
-    "Ziv ve ben bu fırsatı kaçırmak istemedik ve aceleyle Konsey odalarına doğru yola çıktık."
 
-# game/episode014.rpy:372
+    "Ziv ve ben bu fırsatı kaçırmak istemiyorduk ve Konsey odalarına doğru acele ettik."
+
+
 translate turkish uailea_council_40e7e5f6:
 
-    # c "Do you think they'll listen to us?"
-    c "Sence bizi dinlerler mi?"
 
-# game/episode014.rpy:374
+    c "Sence bizi dinleyecekler mi?"
+
+
 translate turkish uailea_council_56706bc8:
 
-    # zi "Yes, they will, but that might be all they do."
-    zi "Evet, yapacaklar, ama tek yaptıkları bu olabilir."
 
-# game/episode014.rpy:375
+    zi "Evet, dinleyecekler, ama yapacakları tek şey bu olabilir."
+
+
 translate turkish uailea_council_6b935658:
 
-    # c "Right, so you don't have much hope?"
-    c "Doğru, yani pek umudun yok mu?"
 
-# game/episode014.rpy:376
+    c "Doğru, yani pek umudun yok?"
+
+
 translate turkish uailea_council_abc83c1d:
 
-    # zi "Well, they've granted us an audience in a very short period of time, which is rare."
-    zi "Çok kısa bir süre içinde bize bir dinleyici kabul ettiler, ki bu nadir görülen bir durumdur."
 
-# game/episode014.rpy:377
+    zi "Şey, bize çok kısa sürede görüşme verdiler, bu nadir bir şey."
+
+
 translate turkish uailea_council_d378ebb5:
 
-    # c "Short period of time, but we've been here for several days?"
-    c "Kısa bir süre, ama birkaç gündür buradayız?"
 
-# game/episode014.rpy:378
+    c "Kısa süre mi, ama birkaç gündür buradayız?"
+
+
 translate turkish uailea_council_4d2d2bd3:
 
-    # c "Wait, this is one of those Rhenkoy things where everything has their proper order, hierarchy and procedures?"
-    c "Bekle, bu her şeyin uygun sırası, hiyerarşisi ve prosedürleri olan Rhenkoy şeylerinden biri mi?"
 
-# game/episode014.rpy:379
+    c "Dur, bu Rhenkoy'ların her şeyin kendine özgü düzeni, hiyerarşisi ve prosedürü olduğu şeylerden biri mi?"
+
+
 translate turkish uailea_council_800f8e61:
 
-    # zi "Yes."
+
     zi "Evet."
 
-# game/episode014.rpy:380
+
 translate turkish uailea_council_cb9f5a86:
 
-    # c "Like relationships?"
-    c "İlişkileri seviyor musun?"
 
-# game/episode014.rpy:382
+    c "İlişkiler gibi mi?"
+
+
 translate turkish uailea_council_2bae8406:
 
-    # zi "Very much so."
-    zi "Çok öyle."
 
-# game/episode014.rpy:383
+    zi "Kesinlikle öyle."
+
+
 translate turkish uailea_council_f42ccee4:
 
-    # c "Why the...{w} uh...{w} haste?"
-    c "Neden bu...{w} uh...{w} acele?"
 
-# game/episode014.rpy:385
+    c "Neden bu...{w} şey...{w} acele?"
+
+
 translate turkish uailea_council_87322771:
 
-    # zi "I'm not sure."
+
     zi "Emin değilim."
 
-# game/episode014.rpy:386
+
 translate turkish uailea_council_a4a3f65d:
 
-    # zi "We'll find out once we're in the Council chambers."
-    zi "Konsey odalarına girdiğimizde öğreneceğiz."
 
-# game/episode014.rpy:388
+    zi "Konsey salonuna girdiğimizde öğreneceğiz."
+
+
 translate turkish uailea_council_acf89076:
 
-    # "Ziv and I walked trough the jagged archways towards the Council chambers."
-    "Ziv ve ben sivri kemerli geçitlerden Konsey odalarına doğru yürüdük." 
 
-# game/episode014.rpy:389
+    "Ziv ve ben sivri kemerlerden geçerek Konsey salonuna doğru yürüdük."
+
+
 translate turkish uailea_council_0b035ada:
 
-    # "From what I'd seen of the architecture, the Rhenkoy sure loved grand gestures."
-    "Mimariden gördüğüm kadarıyla Rhenkoy büyük jestleri çok seviyordu."
 
-# game/episode014.rpy:391
+    "Gördüğüm mimariden anladığım kadarıyla, Rhenkoy'lar büyük jestleri gerçekten seviyordu."
+
+
 translate turkish uailea_council_ade6538b:
 
-    # "The Council chambers were no exception."
-    "Konsey odaları da istisna değildi." 
 
-# game/episode014.rpy:392
+    "Konsey salonu da bunun istisnası değildi."
+
+
 translate turkish uailea_council_9d0261e4:
 
-    # "The enormous room was very sparsely furnished, just one long table before a huge window overlooking the planet surface below."
-    "Devasa oda çok seyrek döşenmişti, aşağıdaki gezegen yüzeyine bakan devasa bir pencerenin önünde sadece uzun bir masa vardı."
 
-# game/episode014.rpy:393
+    "Devasa oda çok sade döşenmişti, sadece aşağıdaki gezegen yüzeyine bakan büyük pencerenin önünde uzun bir masa vardı."
+
+
 translate turkish uailea_council_d645c812:
 
-    # "Four chairs were occupied with members of the Council."
-    "Dört sandalye Konsey üyeleriyle doluydu."
 
-# game/episode014.rpy:394
+    "Dört sandalyede Konsey üyeleri oturuyordu."
+
+
 translate turkish uailea_council_aabf1e8b:
 
-    # "One of the women motioned us to sit."
-    "Kadınlardan biri oturmamızı işaret etti."
 
-# game/episode014.rpy:401
+    "Kadınlardan biri bize oturmamız için işaret etti."
+
+
 translate turkish uailea_council_ee390b3d:
 
-    # woman "The Council is glad you have returned to Uailea, Ziv."
-    woman "Konsey Uailea'ya döndüğün için memnun, Ziv."
 
-# game/episode014.rpy:402
+    woman "Konsey, Uailea'ya dönmene sevindi, Ziv."
+
+
 translate turkish uailea_council_95d7508f:
 
-    # zi "My visit is only temporary."
+
     zi "Ziyaretim sadece geçici."
 
-# game/episode014.rpy:404
+
 translate turkish uailea_council_e6ca1a6c:
 
-    # woman "Doesn't Nkoy Drugga teach us that all life is transitory and thus temporary?"
-    woman "Nkoy Drugga bize tüm yaşamın geçici ve dolayısıyla fani olduğunu öğretmiyor mu?"
 
-# game/episode014.rpy:405
+    woman "Nkoy Drugga bize tüm yaşamın geçici olduğunu öğretmiyor mu?"
+
+
 translate turkish uailea_council_edfa0801:
 
-    # "I groaned inwardly, this was probably going to be a very long and arduous conversation..."
-    "İçimden inledim, bu muhtemelen çok uzun ve zorlu bir konuşma olacaktı..."
 
-# game/episode014.rpy:406
+    "İçimden inledim, bu muhtemelen çok uzun ve yorucu bir konuşma olacaktı..."
+
+
 translate turkish uailea_council_90508315:
 
-    # zi "Indeed."
-    zi "Indeed."
 
-# game/episode014.rpy:408
+    zi "Gerçekten."
+
+
 translate turkish uailea_council_5987b494:
 
-    # woman2 "You have brought a human companion."
-    woman2 "Bir insan arkadaş getirmişsiniz."
 
-# game/episode014.rpy:409
+    woman2 "Bir insan arkadaş getirmişsin."
+
+
 translate turkish uailea_council_af7484b7:
 
-    # zi "Yes, I have."
-    zi "Evet, aldım."
 
-# game/episode014.rpy:410
+    zi "Evet, getirdim."
+
+
 translate turkish uailea_council_027dc58c:
 
-    # zi "This is [p_name], captain of the Iron Bastard."
-    zi "Ben [p_name], Demir Bastard'in kaptanı."
 
-# game/episode014.rpy:412
+    zi "Bu [p_name], Iron Bastard'ın kaptanı."
+
+
 translate turkish uailea_council_65b776b2:
 
-    # arl "Welcome to Uailea, [p_name]."
-    arl "Uailea'ya hoş geldiniz, [p_name]."
 
-# game/episode014.rpy:413
+    arl "Uailea'ya hoş geldin, [p_name]."
+
+
 translate turkish uailea_council_6d0b45c9:
 
-    # arl "We are curious to know what you would ask of the Council?"
-    arl "Konsey'den ne isteyeceğinizi merak ediyoruz?"
 
-# game/episode014.rpy:415
+    arl "Konsey'den ne isteyeceğini merak ediyoruz?"
+
+
 translate turkish uailea_council_8ccd5fd9:
 
-    # c "Thank you for receiving us on short notice."
-    c "Bizi kısa sürede kabul ettiğiniz için teşekkür ederiz."
 
-# game/episode014.rpy:416
+    c "Bizi bu kadar kısa sürede kabul ettiğiniz için teşekkürler."
+
+
 translate turkish uailea_council_d5c8df0f:
 
-    # c "A large part of our crew originally hails from the Sovereignty."
-    c "Mürettebatımızın büyük bir kısmı aslen Egemenlik'ten geliyor."
 
-# game/episode014.rpy:417
+    c "Mürettebatımızın büyük bir kısmı aslında Sovereignty'den geliyor."
+
+
 translate turkish uailea_council_9973dc56:
 
-    # c "After experiencing the injustice and atrocities committed by the Sovereignty first-hand, we decided to leave."
-    c "Egemenlik tarafından işlenen adaletsizlik ve zulmü ilk elden deneyimledikten sonra ayrılmaya karar verdik."
 
-# game/episode014.rpy:418
+    c "Sovereignty'nin adaletsizliklerini ve zulmünü bizzat yaşadıktan sonra ayrılmaya karar verdik."
+
+
 translate turkish uailea_council_99e91611:
 
-    # c "The Sovereignty clearly didn't agree with our decision and have been in pursuit ever since."
-    c "Egemenlik açıkça kararımızı kabul etmedi ve o zamandan beri takipte."
 
-# game/episode014.rpy:419
+    c "Sovereignty açıkça kararımıza katılmadı ve o zamandan beri peşimizde."
+
+
 translate turkish uailea_council_640ac160:
 
-    # c "In addition, several other entities are looking for us."
-    c "Buna ek olarak, başka bazı kuruluşlar da bizi arıyor."
 
-# game/episode014.rpy:421
+    c "Ayrıca, başka birkaç güç de bizi arıyor."
+
+
 translate turkish uailea_council_7bf4aa80:
 
-    # zi "Among them a religious group attempting to retrieve Raene."
-    zi "Aralarında Raene'i geri almaya çalışan dini bir grup var."
 
-# game/episode014.rpy:422
+    zi "Aralarında Raene'i geri almaya çalışan bir dini grup da var."
+
+
 translate turkish uailea_council_b968b6b9:
 
-    # zi "She was my original assignment, if you recall."
-    zi "Hatırlarsan o benim ilk görevimdi."
 
-# game/episode014.rpy:424
+    zi "Hatırlarsanız, o benim asıl görevimdi."
+
+
 translate turkish uailea_council_2ee69574:
 
-    # woman "We do."
-    woman "We do."
 
-# game/episode014.rpy:425
+    woman "Hatırlıyoruz."
+
+
 translate turkish uailea_council_d7b55bcd:
 
-    # woman "Are we correct in understanding you seek asylum?"
-    woman "Sığınma talebinde bulunduğunuzu anlamakta haklı mıyız?"
 
-# game/episode014.rpy:427
+    woman "Sığınma aradığınızı anlamamız doğru mu?"
+
+
 translate turkish uailea_council_d7cfdb91:
 
-    # c "We've been able to outsmart them so far and are confident we'll be able to do so for the foreseeable future."
+
     c "Şimdiye kadar onları alt etmeyi başardık ve öngörülebilir gelecekte de bunu yapabileceğimizden eminiz."
 
-# game/episode014.rpy:428
+
 translate turkish uailea_council_f11d256e:
 
-    # c "Several of the pursuing parties are acting on information provided by third parties."
-    c "Takip eden tarafların birçoğu üçüncü taraflarca sağlanan bilgilere dayanarak hareket etmektedir."
 
-# game/episode014.rpy:429
+    c "Peşimizdeki tarafların birkaçı üçüncü şahısların verdiği bilgilerle hareket ediyor."
+
+
 translate turkish uailea_council_1d9c849e:
 
-    # c "Recently, we've been able to identify one of those parties as the Scolguin."
-    c "Son zamanlarda, bu taraflardan birinin Scolguin olduğunu tespit edebildik."
 
-# game/episode014.rpy:430
+    c "Son zamanlarda bu taraflardan birinin Scolguin olduğunu tespit edebildik."
+
+
 translate turkish uailea_council_0d72569f:
 
-    # "That name caused a minor ripple in the calm projected by the members of the council."
-    "Bu isim konsey üyelerinin yansıttığı sakinlikte küçük bir dalgalanmaya neden oldu."
 
-# game/episode014.rpy:431
+    "Bu isim konsey üyelerinin sergilediği sakinlikte küçük bir dalgalanmaya neden oldu."
+
+
 translate turkish uailea_council_38ce4839:
 
-    # "I decided to press on to keep the Nkoy off balance."
-    "Nkoy'u dengede tutmak için bastırmaya karar verdim."
 
-# game/episode014.rpy:432
+    "Nkoy'ları dengesiz tutmak için devam etmeye karar verdim."
+
+
 translate turkish uailea_council_95548926:
 
-    # c "The Rhenkoy have had dealings with the Scolguin too, I believe."
-    c "Rhenkoy'un Scolguin ile de anlaşmaları olduğuna inanıyorum."
 
-# game/episode014.rpy:434
+    c "Rhenkoy'ların da Scolguin'lerle işleri oldu, sanırım."
+
+
 translate turkish uailea_council_5c3b0915:
 
-    # woman2 "We have, yes."
-    woman2 "Var, evet."
 
-# game/episode014.rpy:435
+    woman2 "Evet, oldu."
+
+
 translate turkish uailea_council_381daa23:
 
-    # c "According to Ziv, you have detained several Scolguin soldiers."
-    c "Ziv'e göre, birkaç Scolguin askerini gözaltına almışsınız."
 
-# game/episode014.rpy:436
+    c "Ziv'e göre birkaç Scolguin askerini gözaltına aldınız."
+
+
 translate turkish uailea_council_fdaf9b4f:
 
-    # c "We'd like to humbly request the Council for an opportunity to question the highest-ranking soldier currently detained."
-    c "Konsey'den şu anda tutuklu bulunan en yüksek rütbeli askeri sorgulamak için bir fırsat talep ediyoruz."
 
-# game/episode014.rpy:438
+    c "Konsey'den alçakgönüllülükle şu anda gözaltındaki en yüksek rütbeli askeri sorgulama fırsatı istiyoruz."
+
+
 translate turkish uailea_council_a647ed81:
 
-    # woman "That is a highly unusual request."
-    woman "Bu oldukça sıra dışı bir istek."
 
-# game/episode014.rpy:440
+    woman "Bu oldukça alışılmadık bir istek."
+
+
 translate turkish uailea_council_752b5701:
 
-    # zi "We are aware, but make the request nonetheless."
-    zi "Farkındayız, ancak yine de talepte bulunuyoruz."
 
-# game/episode014.rpy:442
+    zi "Farkındayız, ama yine de bu istekte bulunuyoruz."
+
+
 translate turkish uailea_council_7da8d71e:
 
-    # woman2 "What do you hope to gain by talking to the Scolguin?"
-    woman2 "Scolguin ile konuşarak ne kazanmayı umuyorsun?"
 
-# game/episode014.rpy:443
+    woman2 "Scolguin'le konuşarak ne elde etmeyi umuyorsunuz?"
+
+
 translate turkish uailea_council_860a216a:
 
-    # c "So far, our pursuers have had the upper hand in their hunt, they have more resources and more information than we do."
-    c "Şu ana kadar takipçilerimiz avlarında üstünlük sağladılar, bizden daha fazla kaynağa ve bilgiye sahipler."
 
-# game/episode014.rpy:444
+    c "Şimdiye kadar peşimizdekiler avlarında üstünlük sağladı, bizden daha fazla kaynakları ve bilgileri var."
+
+
 translate turkish uailea_council_98d48425:
 
-    # c "We hope to establish contact with the Scolguin and find out about their meeting with Sovereignty forces."
-    c "Scolguin ile temas kurmayı ve Egemenlik güçleriyle buluşmaları hakkında bilgi edinmeyi umuyoruz."
 
-# game/episode014.rpy:446
+    c "Scolguin'lerle iletişim kurmayı ve Sovereignty güçleriyle olan toplantıları hakkında bilgi edinmeyi umuyoruz."
+
+
 translate turkish uailea_council_44b05c64:
 
-    # woman "How will talking to a squadron commander enable you to do this?"
-    woman "Bir filo komutanıyla konuşmak bunu yapmanızı nasıl sağlayacak?"
 
-# game/episode014.rpy:448
+    woman "Bir filo komutanıyla konuşmak bunu nasıl başarmanızı sağlayacak?"
+
+
 translate turkish uailea_council_0674a012:
 
-    # zi "The operatives currently in Rhenkoy custody were part of a special taskforce."
-    zi "Şu anda Rhenkoy'un gözaltında tuttuğu ajanlar özel bir görev gücünün parçasıydı."
 
-# game/episode014.rpy:449
+    zi "Şu anda Rhenkoy gözaltısındaki ajanlar özel bir görev gücünün parçasıydı."
+
+
 translate turkish uailea_council_fb0b65e7:
 
-    # zi "We have reason to believe that the operatives possess more knowledge about the Scolguin hierarchy than normal soldiers."
-    zi "Ajanların Scolguin hiyerarşisi hakkında normal askerlerden daha fazla bilgiye sahip olduğuna inanmak için nedenlerimiz var."
 
-# game/episode014.rpy:451
+    zi "Bu ajanların Scolguin hiyerarşisi hakkında normal askerlerden daha fazla bilgiye sahip olduğuna inanmak için nedenimiz var."
+
+
 translate turkish uailea_council_9b87330c:
 
-    # arl "It's also much more likely that they're conditioned to resist giving up that information under interrogation."
-    arl "Sorgulama sırasında bu bilgileri vermeye direnmeye şartlanmış olmaları da çok daha muhtemeldir."
 
-# game/episode014.rpy:452
+    arl "Ayrıca sorgulama altında bu bilgileri vermeye karşı koşullandırılmış olmaları da çok daha olası."
+
+
 translate turkish uailea_council_ddbfcb96:
 
-    # c "We are aware, but the only other way to contact the Scolguin is to offer them a live sacrifice, which we're unwilling to perform."
-    c "Farkındayız, ancak Scolguin ile iletişime geçmenin tek yolu onlara canlı bir kurban sunmak, ki bunu yapmak istemiyoruz."
 
-# game/episode014.rpy:454
+    c "Farkındayız, ama Scolguin'lerle iletişim kurmanın tek diğer yolu onlara canlı kurban sunmak, bunu yapmaya istekli değiliz."
+
+
 translate turkish uailea_council_ed361d00:
 
-    # "The Council members exchanged meaningful glances before one of the women spoke again."
-    "Kadınlardan biri tekrar konuşmadan önce Konsey üyeleri anlamlı bakışlar attılar."
 
-# game/episode014.rpy:456
+    "Konsey üyeleri kadınlardan biri tekrar konuşmadan önce anlamlı bakışlar attılar."
+
+
 translate turkish uailea_council_cb58c1d7:
 
-    # woman "We thank you for your petition, the Council will now deliberate in private."
-    woman "Dilekçeniz için teşekkür ederiz, Konsey şimdi özel olarak görüşecek."
 
-# game/episode014.rpy:457
+    woman "Dilekçeniz için teşekkür ederiz, Konsey şimdi özel olarak müzakere edecek."
+
+
 translate turkish uailea_council_fdf9d3b2:
 
-    # woman "Please wait in the antechamber until we notify you of our decision."
-    woman "Kararımızı size bildirene kadar lütfen ön odada bekleyin."
 
-# game/episode014.rpy:459
+    woman "Lütfen kararımızı size bildirene kadar ön odada bekleyin."
+
+
 translate turkish uailea_council_1a036681:
 
-    # "One of the doors opened behind us, prompting Ziv and I to leave the Council chambers."
-    "Kapılardan biri arkamızda açıldı ve Ziv ile benim Konsey odasından çıkmamı istedi." 
 
-# game/episode014.rpy:461
+    "Arkamızda kapılardan biri açıldı, Ziv ve beni Konsey salonunu terk etmeye yönlendirdi."
+
+
 translate turkish uailea_council_d0c9df71:
 
-    # c "They're going to deny our request, aren't they?"
-    c "Talebimizi reddedecekler, değil mi?"
 
-# game/episode014.rpy:462
+    c "İsteğimizi reddedecekler, değil mi?"
+
+
 translate turkish uailea_council_feb632cc:
 
-    # zi "Yes, that seems likely."
-    zi "Evet, bu muhtemel görünüyor."
 
-# game/episode014.rpy:463
+    zi "Evet, öyle görünüyor."
+
+
 translate turkish uailea_council_bb71ec58:
 
-    # c "It was a long shot anyway."
-    c "Zaten zor bir ihtimaldi."
 
-# game/episode014.rpy:465
+    c "Zaten uzak bir ihtimaldi."
+
+
 translate turkish uailea_council_6a5bf9bb:
 
-    # zi "Yes, unfortunately."
+
     zi "Evet, ne yazık ki."
 
-# game/episode014.rpy:466
+
 translate turkish uailea_council_ee411530:
 
-    # zi "At least the Council seems to confirm the Scolguin are still captive on Uailea."
-    zi "En azından Konsey Scolguin'in hala Uailea'da tutsak olduğunu onaylıyor gibi görünüyor."
 
-# game/episode014.rpy:468
+    zi "En azından Konsey Scolguin'lerin hâlâ Uailea'da esir olduğunu doğruluyor gibi."
+
+
 translate turkish uailea_council_d5695519:
 
-    # "The Council took a good while to come to a decision."
-    "Konseyin bir karara varması epey zaman aldı."
 
-# game/episode014.rpy:470
+    "Konsey'in karar vermesi epey zaman aldı."
+
+
 translate turkish uailea_council_d16c9d12:
 
-    # "The door slid open again after little over an hour."
-    "Kapı bir saatten biraz fazla bir süre sonra tekrar açıldı." 
 
-# game/episode014.rpy:472
+    "Bir saatten biraz fazla sonra kapı tekrar kayarak açıldı."
+
+
 translate turkish uailea_council_a9a3b9c3:
 
-    # arl "Welcome back."
+
     arl "Tekrar hoş geldiniz."
 
-# game/episode014.rpy:474
+
 translate turkish uailea_council_517a3996:
 
-    # woman "The Council of Nkoy has reached a decision regarding your request to interview the Scolguin prisoners."
-    woman "Nköy Konseyi, Scolguin mahkumlarıyla görüşme talebinizle ilgili bir karara vardı."
 
-# game/episode014.rpy:475
+    woman "Nkoy Konseyi, Scolguin mahkumlarını görüşme isteğiniz konusunda bir karara vardı."
+
+
 translate turkish uailea_council_3b6833c4:
 
-    # woman "I'm afraid we have to deny your request."
+
     woman "Korkarım isteğinizi reddetmek zorundayız."
 
-# game/episode014.rpy:476
+
 translate turkish uailea_council_690344b1:
 
-    # c "That's disappointing news."
+
     c "Bu hayal kırıklığı yaratan bir haber."
 
-# game/episode014.rpy:477
+
 translate turkish uailea_council_2c787016:
 
-    # c "Regardless, thank you for allowing us to petition the Council."
-    c "Her şeye rağmen, Konsey'e dilekçe vermemize izin verdiğiniz için teşekkür ederiz."
 
-# game/episode014.rpy:479
+    c "Yine de, Konsey'e dilekçe vermemize izin verdiğiniz için teşekkürler."
+
+
 translate turkish uailea_council_06bd09d8:
 
-    # woman2 "I hope your stay on Uailea is a pleasant one."
-    woman2 "Umarım Uailea'da kalışınız güzel geçer."
 
-# game/episode014.rpy:480
+    woman2 "Uailea'daki kalışınızın keyifli geçmesini umuyorum."
+
+
 translate turkish uailea_council_e27ad33e:
 
-    # woman2 "This session of the Council of Nkoy is hereby concluded."
-    woman2 "Nköy Konseyi'nin bu oturumu burada sona ermiştir."
 
-# game/episode014.rpy:482
+    woman2 "Nkoy Konseyi'nin bu oturumu böylece sona ermiştir."
+
+
 translate turkish uailea_council_4dc2627a:
 
-    # "One by one, the members of the Council left the room, leaving us alone in their chambers."
-    "Konsey üyeleri teker teker odadan çıktılar ve bizi odalarında yalnız bıraktılar." 
 
-# game/episode014.rpy:484
+    "Konsey üyeleri teker teker odayı terk etti, bizi salonlarında yalnız bıraktı."
+
+
 translate turkish uailea_council_8d588c13:
 
-    # c "A failure, like we expected."
+
     c "Beklediğimiz gibi bir başarısızlık."
 
-# game/episode014.rpy:485
+
 translate turkish uailea_council_8a755e69:
 
-    # c "Not sure what we're to do now..."
+
     c "Şimdi ne yapacağımızdan emin değilim..."
 
-# game/episode014.rpy:486
+
 translate turkish uailea_council_8551c5f0:
 
-    # c "I'll message Céline to get the Bastard ready for take-off."
-    c "Bastard'i kalkışa hazırlaması için Céline'e mesaj atacağım."
 
-# game/episode014.rpy:488
+    c "Céline'e mesaj atıp Bastard'ı kalkışa hazırlamasını söyleyeceğim."
+
+
 translate turkish uailea_council_155b02ff:
 
-    # zi "Let's hold off on that for a few hours."
-    zi "Bunu birkaç saat erteleyelim."
 
-# game/episode014.rpy:489
+    zi "Bunu birkaç saat erteleyalim."
+
+
 translate turkish uailea_council_4e5a4202:
 
-    # c "Why?"
+
     c "Neden?"
 
-# game/episode014.rpy:490
+
 translate turkish uailea_council_83a97635:
 
-    # zi "If I'm not mistaken, Nkoy Arlya gave me a signal just before she left the Council chambers."
-    zi "Eğer yanılmıyorsam, Nkoy Arlya Konsey odasından ayrılmadan hemen önce bana bir işaret verdi."
 
-# game/episode014.rpy:491
+    zi "Yanılmıyorsam, Nkoy Arlya Konsey salonunu terk etmeden hemen önce bana bir işaret verdi."
+
+
 translate turkish uailea_council_60f6899f:
 
-    # c "A signal?"
-    c "Bir sinyal mi?"
 
-# game/episode014.rpy:493
+    c "İşaret mi?"
+
+
 translate turkish uailea_council_367924cd:
 
-    # zi "I have a feeling she wants to talk to us in private."
-    zi "İçimde bizimle özel olarak konuşmak istediğine dair bir his var."
 
-# game/episode014.rpy:494
+    zi "Bizimle özel olarak konuşmak istediği hissine kapıldım."
+
+
 translate turkish uailea_council_18bf4077:
 
-    # c "Let's wait for her, in that case."
-    c "Bu durumda onu bekleyelim."
 
-# game/episode014.rpy:496
+    c "O zaman onu bekleyelim."
+
+
 translate turkish uailea_council_83f1a9d5:
 
-    # "Considering Ziv's suspicions, I was half expecting Nkoy Arlya already waiting on us in Ziv's chambers."
-    "Ziv'in şüphelerini göz önünde bulundurarak, Nkoy Arlya'nın Ziv'in odasında bizi bekliyor olmasını bekliyordum."
 
-# game/episode014.rpy:498
+    "Ziv'in şüphelerini düşününce, Nkoy Arlya'nın Ziv'in odasında bizi beklediğini yarı yarıya bekliyordum."
+
+
 translate turkish uailea_council_2028cbeb:
 
-    # "The room was empty, however."
+
     "Ancak oda boştu."
 
-# game/episode014.rpy:500
+
 translate turkish uailea_council_35fa45ce:
 
-    # "Ziv and I made ourselves comfortable and waited on Arlya's arrival."
-    "Ziv ve ben rahatımıza baktık ve Arlya'nın gelişini bekledik."
 
-# game/episode014.rpy:501
+    "Ziv ve ben rahatladık ve Arlya'nın gelişini bekledik."
+
+
 translate turkish uailea_council_1eacdec4:
 
-    # "After several hours I began to think Ziv had been mistaken about the signal and no one was coming."
-    "Birkaç saat sonra Ziv'in sinyal konusunda yanıldığını ve kimsenin gelmediğini düşünmeye başladım."
 
-# game/episode014.rpy:503
+    "Birkaç saat sonra Ziv'in işaret konusunda yanıldığını ve kimsenin gelmeyeceğini düşünmeye başladım."
+
+
 translate turkish uailea_council_c7648479:
 
-    # "Just when I was about to voice my thoughts, somebody pressed the door buzzer."
-    "Tam düşüncelerimi dile getirecekken biri kapının ziline bastı."
 
-# game/episode014.rpy:505
+    "Tam düşüncelerimi dile getirmek üzereyken, biri kapı zilini çaldı."
+
+
 translate turkish uailea_council_a5bfc2c3:
 
-    # "Ziv opened the door and Nkoy Arlya stepped inside."
+
     "Ziv kapıyı açtı ve Nkoy Arlya içeri girdi."
 
-# game/episode014.rpy:507
+
 translate turkish uailea_council_92c45131:
 
-    # "Before uttering a word, she immediately gave the command to turn the windows opaque."
-    "Tek kelime etmeden hemen pencereleri opak hale getirme emrini verdi."
 
-# game/episode014.rpy:510
+    "Tek kelime etmeden önce, hemen pencereleri opak yapma komutunu verdi."
+
+
 translate turkish uailea_council_49898726:
 
-    # arl "I'm sorry about that and to have kept you waiting for so long."
-    arl "Bunun için ve sizi bu kadar uzun süre beklettiğim için özür dilerim."
 
-# game/episode014.rpy:511
+    arl "Bunun için özür dilerim ve sizi bu kadar uzun süre beklettiğim için."
+
+
 translate turkish uailea_council_f2137082:
 
-    # arl "I'd like to keep this meeting private, and I've been tied up in business for the past few hours."
-    arl "Bu toplantının gizli kalmasını istiyorum ve son birkaç saattir işle meşguldüm."
 
-# game/episode014.rpy:513
+    arl "Bu toplantıyı gizli tutmak istiyorum ve son birkaç saattir işlerle meşguldüm."
+
+
 translate turkish uailea_council_5ba57dad:
 
-    # zi "You are welcome all the same, Nkoy Arlya."
-    zi "Yine de hoş geldin, Nkoy Arlya."
 
-# game/episode014.rpy:515
+    zi "Yine de hoş geldiniz, Nkoy Arlya."
+
+
 translate turkish uailea_council_f22f27bf:
 
-    # arl "Just Arlya is enough, thank you."
-    arl "Sadece Arlya yeterli, teşekkür ederim."
 
-# game/episode014.rpy:517
+    arl "Sadece Arlya yeterli, teşekkürler."
+
+
 translate turkish uailea_council_6d5491a8:
 
-    # arl "I won't waste your time with any niceties and just cut right to heart of the matter."
-    arl "Herhangi bir nezaketle zamanınızı boşa harcamayacağım ve doğrudan konunun özüne ineceğim."
 
-# game/episode014.rpy:518
+    arl "Zamanınızı nezaket gösterileriyle harcamayacağım ve doğrudan konunun özüne geleceğim."
+
+
 translate turkish uailea_council_8cb9a804:
 
-    # arl "The Council has rejected your request, but I may be able to grant you access to the prisoners."
-    arl "Konsey talebinizi reddetti, ancak mahkumlara erişiminizi sağlayabilirim."
 
-# game/episode014.rpy:519
+    arl "Konsey talebinizi reddetti, ama ben size tutuklulara erişim sağlayabilirim."
+
+
 translate turkish uailea_council_b99dd49c:
 
-    # arl "I'm sure you're shocked Ziv, because this goes expressly against the Council's verdict."
-    arl "Eminim şok olmuşsundur Ziv, çünkü bu Konsey'in kararına açıkça aykırı."
 
-# game/episode014.rpy:521
+    arl "Eminim şok oldun Ziv, çünkü bu Konsey'in kararına açıkça aykırı."
+
+
 translate turkish uailea_council_13274057:
 
-    # zi "Shocked is too big a word, but I must admit I'm surprised you're willing to go against the Council's wishes."
-    zi "Şok çok büyük bir kelime, ama Konsey'in isteklerine karşı gelmeye istekli olmana şaşırdığımı itiraf etmeliyim."
 
-# game/episode014.rpy:523
+    zi "Şok çok büyük bir kelime, ama Konsey'in isteklerine karşı gelmeye istekli olduğun için şaşırdığımı kabul etmeliyim."
+
+
 translate turkish uailea_council_5a1f7cee:
 
-    # arl "I wouldn't normally, but certain events have forced my hand."
-    arl "Normalde yapmazdım ama bazı olaylar beni zorladı."
 
-# game/episode014.rpy:524
+    arl "Normalde yapmazdım, ama bazı olaylar elimi zorladı."
+
+
 translate turkish uailea_council_a5f73143:
 
-    # arl "To be clear, I expect something in return for allowing you access to the prisoners."
-    arl "Açık olmak gerekirse, mahkumlara erişiminize izin vermeniz karşılığında bir şey bekliyorum."
 
-# game/episode014.rpy:525
+    arl "Açık olmak gerekirse, size tutuklulara erişim izni verdiğim için karşılığında bir şey bekliyorum."
+
+
 translate turkish uailea_council_99a88f33:
 
-    # c "I reckoned as much."
-    c "I reckoned as much."
 
-# game/episode014.rpy:526
+    c "Zaten öyle olacağını tahmin etmiştim."
+
+
 translate turkish uailea_council_d8cbdd56:
 
-    # arl "It's a delicate matter that I'd rather want handled by people outside the Rhenkoy."
-    arl "Bu hassas bir konu ve Rhenkoy dışındaki kişiler tarafından ele alınmasını tercih ederim."
 
-# game/episode014.rpy:527
+    arl "Bu hassas bir konu ve Rhenkoy dışından insanlar tarafından halledilmesini tercih ederim."
+
+
 translate turkish uailea_council_656a7ac7:
 
-    # arl "Your ties to Rhenkoy politics are tenuous at best, Ziv, if I'm not mistaken?"
+
     arl "Rhenkoy siyasetiyle bağların en iyi ihtimalle zayıf, Ziv, yanılmıyorsam?"
 
-# game/episode014.rpy:528
+
 translate turkish uailea_council_77693289:
 
-    # zi "I've been away for quite some time."
-    zi "Bir süredir uzaktaydım."
 
-# game/episode014.rpy:530
+    zi "Epey bir süredir uzaktayım."
+
+
 translate turkish uailea_council_0ad21fae:
 
-    # arl "Exactly."
-    arl "Kesinlikle."
 
-# game/episode014.rpy:532
+    arl "Aynen öyle."
+
+
 translate turkish uailea_council_4038e737:
 
-    # arl "Before I continue, do I have your oath that you will talk about this with no one else?"
-    arl "Devam etmeden önce, bu konu hakkında başka kimseyle konuşmayacağına dair yemin eder misin?"
 
-# game/episode014.rpy:533
+    arl "Devam etmeden önce, bunu başka kimseyle konuşmayacağınıza dair yeminiz var mı?"
+
+
 translate turkish uailea_council_b337f098:
 
-    # "I looked at Ziv, who nodded slightly."
-    "Ziv'e baktım, o da hafifçe başını salladı."
 
-# game/episode014.rpy:534
+    "Hafifçe başını sallayan Ziv'e baktım."
+
+
 translate turkish uailea_council_99a553be:
 
-    # c "You have our word."
-    c "Söz veriyoruz."
 
-# game/episode014.rpy:536
+    c "Sözümüz var."
+
+
 translate turkish uailea_council_b069e9d8:
 
-    # arl "Good."
-    arl "Güzel."
 
-# game/episode014.rpy:538
+    arl "İyi."
+
+
 translate turkish uailea_council_55071d32:
 
-    # arl "Several months ago, my esteemed colleague Nkoy Rhedia vanished without a trace."
-    arl "Birkaç ay önce, değerli meslektaşım Nkoy Rhedia hiçbir iz bırakmadan ortadan kayboldu."
 
-# game/episode014.rpy:539
+    arl "Birkaç ay önce, değerli meslektaşım Nkoy Rhedia iz bırakmadan kayboldu."
+
+
 translate turkish uailea_council_d8a07738:
 
-    # arl "Nkoy Rhedia has been a respected scholar for many years, but lately her behavior became erratic."
-    arl "Nkoy Rhedia uzun yıllardır saygı duyulan bir akademisyendi, ancak son zamanlarda davranışları düzensizleşti."
 
-# game/episode014.rpy:541
+    arl "Nkoy Rhedia uzun yıllardır saygın bir akademisyendi, ama son zamanlarda davranışları tutarsızlaştı."
+
+
 translate turkish uailea_council_16a8b997:
 
-    # zi "Nkoy Rhedia, erratic?"
-    zi "Nkoy Rhedia, dengesiz?"
 
-# game/episode014.rpy:542
+    zi "Nkoy Rhedia, tutarsız mı?"
+
+
 translate turkish uailea_council_df705584:
 
-    # c "You know her, Ziv?"
+
     c "Onu tanıyor musun, Ziv?"
 
-# game/episode014.rpy:543
+
 translate turkish uailea_council_7ab6b011:
 
-    # zi "Everybody knows of Nkoy Rhedia, she's very influential."
-    zi "Nkoy Rhedia'yı herkes bilir, çok etkilidir."
 
-# game/episode014.rpy:545
+    zi "Herkes Nkoy Rhedia'yı bilir, çok etkili biri."
+
+
 translate turkish uailea_council_65ad4d00:
 
-    # arl "Indeed she is, and it makes her apparent downfall all the more regretful."
-    arl "Gerçekten de öyle ve bu onun görünürdeki düşüşünü daha da üzücü kılıyor."
 
-# game/episode014.rpy:546
+    arl "Gerçekten öyle, ve bu onun görünen düşüşünü daha da üzücü kılıyor."
+
+
 translate turkish uailea_council_ffb1131f:
 
-    # arl "The more recent writings of Nkoy Rhedia began to challenge the order of the Rhenkoy here on Uailea more and more."
-    arl "Nkoy Rhedia'nın son yazıları Uailea'daki Rhenkoy düzenine giderek daha fazla meydan okumaya başladı."
 
-# game/episode014.rpy:547
+    arl "Nkoy Rhedia'nın son yazıları Uailea'daki Rhenkoy düzenini giderek daha fazla sorgulamaya başladı."
+
+
 translate turkish uailea_council_57476a59:
 
-    # arl "Of course, she has always been a very sharp and critical thinker, but her last outpourings were on the verge of sedition."
-    arl "Elbette her zaman çok keskin ve eleştirel bir düşünür olmuştur, ancak son çıkışları fitnenin eşiğindeydi."
 
-# game/episode014.rpy:549
+    arl "Tabii ki, her zaman çok keskin ve eleştirel bir düşünürdü, ama son yazıları isyan sınırındaydı."
+
+
 translate turkish uailea_council_b7e49054:
 
-    # zi "Sedition?"
-    zi "Fitne mi?"
 
-# game/episode014.rpy:551
+    zi "İsyan mı?"
+
+
 translate turkish uailea_council_61c62157:
 
-    # arl "She started to challenge the very fabric of our society."
-    arl "Toplumumuzun dokusuna meydan okumaya başladı."
 
-# game/episode014.rpy:552
+    arl "Toplumumuzun temel yapısını sorgulamaya başladı."
+
+
 translate turkish uailea_council_48197095:
 
-    # c "Surely she's free to be critical of the world she lives in?"
-    c "Elbette içinde yaşadığı dünyayı eleştirmekte özgürdür?"
 
-# game/episode014.rpy:553
+    c "Elbette yaşadığı dünyayı eleştirmekte özgür değil mi?"
+
+
 translate turkish uailea_council_6cdb2f39:
 
-    # arl "Of course she is, so the Council didn't intervene."
-    arl "Tabii ki öyle, o yüzden Konsey müdahale etmedi."
 
-# game/episode014.rpy:554
+    arl "Tabii ki öyle, bu yüzden Konsey müdahale etmedi."
+
+
 translate turkish uailea_council_ed086411:
 
-    # arl "Only when she started living in seclusion with her most ardent students, we began to worry."
-    arl "Ancak en ateşli öğrencileriyle birlikte inzivaya çekilerek yaşamaya başladığında endişelenmeye başladık."
 
-# game/episode014.rpy:555
+    arl "Ancak en sadık öğrencileriyle birlikte inzivaya çekilmeye başladığında endişelenmeye başladık."
+
+
 translate turkish uailea_council_dab698e2:
 
-    # c "How come?"
-    c "Nasıl olur?"
 
-# game/episode014.rpy:557
+    c "Neden?"
+
+
 translate turkish uailea_council_c5adcf3d:
 
-    # arl "The tone of her writings took on a decidedly militant note."
+
     arl "Yazılarının tonu kesinlikle militan bir hal aldı."
 
-# game/episode014.rpy:558
+
 translate turkish uailea_council_0ae63e6d:
 
-    # arl "Her students also spread out all across Uailea to tell tales about the supposed corruption at the root of Rhenkoy society and recruit new members for the cause."
-    arl "Öğrencileri de Uailea'nın dört bir yanına dağılarak Rhenkoy toplumunun temelindeki sözde yozlaşma hakkında hikayeler anlatıyor ve davaya yeni üyeler kazandırıyor."
 
-# game/episode014.rpy:559
+    arl "Öğrencileri de Uailea'nın her yerine yayılarak Rhenkoy toplumunun kökündeki sözde yolsuzluk hakkında hikayeler anlatıyor ve dava için yeni üyeler topluyor."
+
+
 translate turkish uailea_council_29c5ea35:
 
-    # arl "A delegation attempted to visit Nkoy Rhedia in her compound to discuss her grievances."
-    arl "Bir heyet, şikayetlerini görüşmek üzere Nkoy Rhedia'yı yerleşkesinde ziyaret etmeye çalıştı."
 
-# game/episode014.rpy:560
+    arl "Bir heyet şikayetlerini görüşmek için Nkoy Rhedia'yı yerleşkesinde ziyaret etmeye çalıştı."
+
+
 translate turkish uailea_council_d4332053:
 
-    # arl "They found the compound empty and booby-trapped."
-    arl "Yerleşkeyi boş ve bubi tuzaklı buldular."
 
-# game/episode014.rpy:562
+    arl "Yerleşkeyi boş ve tuzaklarla dolu buldular."
+
+
 translate turkish uailea_council_6f497cec:
 
-    # arl "Several members of the delegation lost their lives."
-    arl "Delegasyonun birkaç üyesi hayatını kaybetti."
 
-# game/episode014.rpy:564
+    arl "Heyetin birkaç üyesi hayatını kaybetti."
+
+
 translate turkish uailea_council_3b9452ec:
 
-    # arl "We believe the Nkoy is hiding in the wilderness of Uailea, together with her followers."
+
     arl "Nkoy'un takipçileriyle birlikte Uailea'nın vahşi doğasında saklandığına inanıyoruz."
 
-# game/episode014.rpy:565
+
 translate turkish uailea_council_daadbf77:
 
-    # arl "Her disciples are seldom seen in public, and it's been several weeks since her last missive."
-    arl "Müritleri nadiren toplum içinde görülür ve son mesajının üzerinden birkaç hafta geçti."
 
-# game/episode014.rpy:566
+    arl "Müridleri nadiren halk arasında görülüyor ve son mektubundan bu yana birkaç hafta geçti."
+
+
 translate turkish uailea_council_af76917a:
 
-    # arl "We do however think Nkoy Rhedia has not given up her fight against the so-called corruption."
-    arl "Ancak Nkoy Rhedia'nın sözde yolsuzluğa karşı mücadelesinden vazgeçmediğini düşünüyoruz."
 
-# game/episode014.rpy:567
+    arl "Yine de Nkoy Rhedia'nın sözde yolsuzluğa karşı savaşından vazgeçmediğini düşünüyoruz."
+
+
 translate turkish uailea_council_687f4625:
 
-    # arl "Instead, we think she's preparing to strike violently against the heart of Rhenkoy democracy from her base in the wilderness."
-    arl "Bunun yerine, vahşi doğadaki üssünden Rhenkoy demokrasisinin kalbine şiddetle saldırmaya hazırlandığını düşünüyoruz."
 
-# game/episode014.rpy:569
+    arl "Bunun yerine, vahşi doğadaki üssünden Rhenkoy demokrasisinin kalbine şiddetli bir saldırı hazırladığını düşünüyoruz."
+
+
 translate turkish uailea_council_4a333844:
 
-    # zi "I can't believe Nkoy Rhedia would resort to violence."
+
     zi "Nkoy Rhedia'nın şiddete başvuracağına inanamıyorum."
 
-# game/episode014.rpy:571
+
 translate turkish uailea_council_21ccfe49:
 
-    # arl "The Council couldn't either, until the gruesome attack on the delegation."
-    arl "Konsey de yapamadı, ta ki delegasyona yapılan korkunç saldırıya kadar."
 
-# game/episode014.rpy:583
+    arl "Konsey de heyete yapılan korkunç saldırıya kadar inanamıyordu."
+
+
 translate turkish uailea_council_4bcb2997:
 
-    # c "What would you have us do?"
-    c "Ne yapmamızı isterdiniz?"
 
-# game/episode014.rpy:585
+    c "Bizden ne yapmamızı istiyorsun?"
+
+
 translate turkish uailea_council_34d7b86b:
 
-    # arl "Sending out armed forces on an official mission to root out the rebels is out of the question."
-    arl "İsyancıların kökünü kazımak üzere silahlı kuvvetlerin resmi bir göreve gönderilmesi söz konusu değildir."
 
-# game/episode014.rpy:586
+    arl "İsyancıları temizlemek için resmi bir görevle silahlı kuvvet göndermek söz konusu değil."
+
+
 translate turkish uailea_council_be8b7287:
 
-    # c "How so?"
+
     c "Nasıl yani?"
 
-# game/episode014.rpy:588
+
 translate turkish uailea_council_e50ca7be:
 
-    # arl "We don't want the Nkoy harmed."
+
     arl "Nkoy'un zarar görmesini istemiyoruz."
 
-# game/episode014.rpy:589
+
 translate turkish uailea_council_010003de:
 
-    # arl "Nor her students, if it can be helped."
-    arl "Ne de öğrencileri, eğer yardım edilebilirse."
 
-# game/episode014.rpy:591
+    arl "Mümkünse öğrencilerinin de."
+
+
 translate turkish uailea_council_92b60cbb:
 
-    # arl "Besides, it would enflame what little support for Nkoy Rhedia's cause exists among the populace."
-    arl "Ayrıca, Nkoy Rhedia'nın davasına halk arasında var olan azıcık desteği de alevlendirecektir."
 
-# game/episode014.rpy:592
+    arl "Ayrıca, halk arasında Nkoy Rhedia'nın davasına olan az desteği körüklerdi."
+
+
 translate turkish uailea_council_58e909cf:
 
-    # arl "We would ask you to go into the wilderness and find Nkoy Rhedia."
+
     arl "Sizden vahşi doğaya gidip Nkoy Rhedia'yı bulmanızı istiyoruz."
 
-# game/episode014.rpy:593
+
 translate turkish uailea_council_befe92ed:
 
-    # arl "And once you've found the Nkoy, we would ask you to reason with her and convince her to come back to society and argue her case before the Council."
-    arl "Ve Nkoy'u bulduğunuzda, onu ikna etmenizi ve topluma geri dönmeye ve davasını Konsey önünde tartışmaya ikna etmenizi rica ediyoruz."
 
-# game/episode014.rpy:594
+    arl "Ve Nkoy'u bulduğunuzda, onunla mantıklı konuşmanızı ve topluma geri dönüp davasını Konsey önünde savunması için ikna etmenizi istiyoruz."
+
+
 translate turkish uailea_council_87178749:
 
-    # c "And if she doesn't agree to come with us?"
-    c "Peki ya bizimle gelmeyi kabul etmezse?"
 
-# game/episode014.rpy:596
+    c "Peki bizimle gelmeyi kabul etmezse?"
+
+
 translate turkish uailea_council_158a98ea:
 
-    # arl "We'd leave any decision in your hands, however regrettable it may turn out to be."
-    arl "Ne kadar üzücü olursa olsun, her türlü kararı sizin ellerinize bırakıyoruz."
 
-# game/episode014.rpy:597
+    arl "Ne kadar üzücü olursa olsun, her türlü kararı sizin ellerinize bırakırız."
+
+
 translate turkish uailea_council_964b1d7a:
 
-    # arl "I must stress the need for discreetness, the political situation is too volatile."
-    arl "İhtiyatlı olunması gerektiğini vurgulamalıyım, siyasi durum çok değişken."
 
-# game/episode014.rpy:599
+    arl "Gizliliğin önemini vurgulamalıyım, siyasi durum çok değişken."
+
+
 translate turkish uailea_council_fe0b6a67:
 
-    # zi "I had no idea."
-    zi "Hiçbir fikrim yoktu."
 
-# game/episode014.rpy:601
+    zi "Hiç haberim yoktu."
+
+
 translate turkish uailea_council_77f22e77:
 
-    # arl "Much has changed since your departure."
-    arl "Ayrılışınızdan bu yana çok şey değişti."
 
-# game/episode014.rpy:602
+    arl "Ayrılışından bu yana çok şey değişti."
+
+
 translate turkish uailea_council_c39b08da:
 
-    # c "If we agree to capture this Nkoy Rhedia, the Council will allow us to see the Scolguin?"
-    c "Eğer bu Nkoy Rhedia'yı yakalamayı kabul edersek, Konsey Scolguin'i görmemize izin verecek mi?"
 
-# game/episode014.rpy:604
+    c "Bu Nkoy Rhedia'yı yakalamayı kabul edersek, Konsey Scolguin'i görmemize izin verecek mi?"
+
+
 translate turkish uailea_council_f306214f:
 
-    # arl "You have my word."
-    arl "Söz veriyorum."
 
-# game/episode014.rpy:605
+    arl "Sözüm var."
+
+
 translate turkish uailea_council_085246ff:
 
-    # arl "I will be your liaison to the Council."
-    arl "Konsey ile irtibatınız ben olacağım."
 
-# game/episode014.rpy:606
+    arl "Konsey'le aranızdaki irtibat kişisi ben olacağım."
+
+
 translate turkish uailea_council_f8cdb4d1:
 
-    # arl "You will deliver Nkoy Rhedia into my custody if she agrees to travel back with you, and I will make the arrangements for you to meet with the Scolguin."
-    arl "Seninle geri dönmeyi kabul ederse Nkoy Rhedia'yı benim gözetimime teslim edeceksin ve ben de Scolguin ile buluşman için gerekli düzenlemeleri yapacağım."
 
-# game/episode014.rpy:608
+    arl "Sizinle geri gelmeyi kabul ederse Nkoy Rhedia'yı benim gözetimime teslim edeceksiniz, ben de Scolguin'le görüşmeniz için gerekli düzenlemeleri yapacağım."
+
+
 translate turkish uailea_council_510990c3:
 
-    # arl "Of course, if anything goes awry, the Council and myself will deny any involvement."
-    arl "Elbette, eğer bir şeyler ters giderse, Konsey ve ben herhangi bir dahlimiz olduğunu inkar edeceğiz."
 
-# game/episode014.rpy:609
+    arl "Tabii ki, bir şeyler ters giderse, Konsey ve ben her türlü ilişkiyi reddederiz."
+
+
 translate turkish uailea_council_772f3df2:
 
-    # arl "I trust you understand the need for deniability?"
-    arl "İnkar edilemezlik ihtiyacını anladığınıza inanıyorum?"
 
-# game/episode014.rpy:610
+    arl "İnkar edilebilirlik ihtiyacını anladığınıza güveniyorum?"
+
+
 translate turkish uailea_council_d7269434:
 
-    # c "I think I do."
-    c "Sanırım biliyorum."
 
-# game/episode014.rpy:612
+    c "Sanırım anlıyorum."
+
+
 translate turkish uailea_council_ec0b88b9:
 
-    # arl "Do we have a deal?"
+
     arl "Anlaştık mı?"
 
-# game/episode014.rpy:613
+
 translate turkish uailea_council_708400eb:
 
-    # c "Yes, we do."
-    c "Evet, biliyoruz."
 
-# game/episode014.rpy:615
+    c "Evet, anlaştık."
+
+
 translate turkish uailea_council_e2053404:
 
-    # arl "Excellent."
+
     arl "Mükemmel."
 
-# game/episode014.rpy:616
+
 translate turkish uailea_council_a23d97de:
 
-    # arl "I'll be sure to forward you the possible location of Nkoy Rhedia."
-    arl "Nkoy Rhedia'nın olası yerini size ileteceğimden emin olabilirsiniz."
 
-# game/episode014.rpy:618
+    arl "Nkoy Rhedia'nın olası konumunu size ileteceğim."
+
+
 translate turkish uailea_council_ea5ec9cb:
 
-    # arl "Beware that this information is approximate and based on sketchy intelligence."
-    arl "Bu bilgilerin yaklaşık olduğuna ve kabataslak istihbarata dayandığına dikkat edin."
 
-# game/episode014.rpy:619
+    arl "Bu bilgilerin yaklaşık değerler olduğunu ve eksik istihbarata dayandığını unutmayın."
+
+
 translate turkish uailea_council_7963cf59:
 
-    # c "Understood."
+
     c "Anlaşıldı."
 
-# game/episode014.rpy:620
+
 translate turkish uailea_council_f901276b:
 
-    # arl "You may contact me again once you're ready to turn Nkoy Rhedia over to my custody."
-    arl "Nkoy Rhedia'yı gözetimime teslim etmeye hazır olduğunuzda benimle tekrar iletişime geçebilirsiniz."
 
-# game/episode014.rpy:622
+    arl "Nkoy Rhedia'yı benim gözetimime teslim etmeye hazır olduğunuzda benimle tekrar iletişime geçebilirsiniz."
+
+
 translate turkish uailea_council_4e645f8f:
 
-    # arl "Good luck, captain."
+
     arl "İyi şanslar, kaptan."
 
-# game/episode014.rpy:624
+
 translate turkish uailea_council_f76b8dbc:
 
-    # "With those words, Arlya left the room."
-    "Bu sözlerle birlikte Arlya odadan çıktı."
 
-# game/episode014.rpy:639
+    "Bu sözlerle Arlya odayı terk etti."
+
+
 translate turkish uailea_council_6a54c044:
 
-    # c "Quite the tale, don't you think?"
-    c "Oldukça güzel bir hikaye, değil mi?"
 
-# game/episode014.rpy:640
+    c "Oldukça ilginç bir hikaye, sence de öyle değil mi?"
+
+
 translate turkish uailea_council_4d998aa0:
 
-    # zi "Yes, quite..."
+
     zi "Evet, oldukça..."
 
-# game/episode014.rpy:641
+
 translate turkish uailea_council_66cb9f92:
 
-    # c "What do you think about all that she told us?"
-    c "Bize anlattıkları hakkında ne düşünüyorsun?"
 
-# game/episode014.rpy:643
+    c "Bize anlattığı her şey hakkında ne düşünüyorsun?"
+
+
 translate turkish uailea_council_87322771_1:
 
-    # zi "I'm not sure."
+
     zi "Emin değilim."
 
-# game/episode014.rpy:644
+
 translate turkish uailea_council_967c8108:
 
-    # zi "As she said, Nkoy Rhedia has a very sharp tongue, but her resorting to violence seems like a stretch."
-    zi "Söylediği gibi, Nkoy Rhedia'nın çok sivri bir dili var, ancak şiddete başvurması biraz abartılı görünüyor."
 
-# game/episode014.rpy:646
+    zi "Dediği gibi, Nkoy Rhedia'nın çok keskin bir dili var, ama şiddete başvurması biraz abartılı görünüyor."
+
+
 translate turkish uailea_council_de0be94f:
 
-    # zi "Then again, there doesn't seem to be any other way to access those Scolguin prisoners."
-    zi "Yine de Scolguin tutsaklarına ulaşmanın başka bir yolu yok gibi görünüyor."
 
-# game/episode014.rpy:647
+    zi "Yine de o Scolguin tutukluları görmek için başka bir yol yok gibi görünüyor."
+
+
 translate turkish uailea_council_f8165dbe:
 
-    # c "No, I think we need to go ahead with the task."
-    c "Hayır, bence göreve devam etmeliyiz."
 
-# game/episode014.rpy:648
+    c "Hayır, sanırım görevi kabul etmemiz gerekiyor."
+
+
 translate turkish uailea_council_5ba039f2:
 
-    # c "Could you ask around about what happened with Rhedia, though?"
-    c "Rhedia'ya ne olduğunu sorabilir misin?"
 
-# game/episode014.rpy:649
+    c "Yine de Rhedia'ya ne olduğu hakkında etrafta soruşturabilir misin?"
+
+
 translate turkish uailea_council_eba9ddb1:
 
-    # c "I'm sure Arlya told us as much as we needed to know, but it might be good to get another perspective on the matter."
-    c "Arlya'nın bize bilmemiz gereken kadarını anlattığından eminim, ancak konuyla ilgili başka bir bakış açısı edinmek iyi olabilir."
 
-# game/episode014.rpy:651
+    c "Eminim Arlya bize bilmemiz gereken kadarını anlattı, ama konuya başka bir açıdan bakmak iyi olabilir."
+
+
 translate turkish uailea_council_b129986d:
 
-    # zi "Of course, that sounds like a good idea."
-    zi "Elbette, kulağa iyi bir fikir gibi geliyor."
 
-# game/episode014.rpy:652
+    zi "Tabii ki, bu iyi bir fikir gibi görünüyor."
+
+
 translate turkish uailea_council_17690a93:
 
-    # c "I'll head back to the ship and inform the others about our latest adventure."
-    c "Gemiye dönüp diğerlerine son maceramız hakkında bilgi vereceğim."
 
-# game/episode014.rpy:653
+    c "Gemiye geri dönüp diğerlerini son maceramız hakkında bilgilendireceğim."
+
+
 translate turkish uailea_council_430582c7:
 
-    # zi "Good, I'll meet you back on the ship."
-    zi "Güzel, seninle gemide buluşuruz."
 
-# game/episode014.rpy:656
+    zi "İyi, gemide buluşuruz."
+
+
 translate turkish uailea_council_1ac796cb:
 
-    # "After I brought everyone up to speed, Céline and I found a landing spot near the coordinates Arlya had sent us."
-    "Herkesi bilgilendirdikten sonra, Céline ve ben Arlya'nın bize gönderdiği koordinatların yakınında bir iniş noktası bulduk."
 
-# game/episode014.rpy:657
+    "Herkesi durumdan haberdar ettikten sonra, Céline ve ben Arlya'nın gönderdiği koordinatlara yakın bir iniş yeri bulduk."
+
+
 translate turkish uailea_council_d2c14cf3:
 
-    # "As Ziv hadn’t returned yet, we all had some time to kill."
-    "Ziv henüz dönmediği için hepimizin öldürecek zamanı vardı." 
 
-# game/episode014.rpy:662
+    "Ziv henüz dönmediği için hepimizin öldürecek biraz zamanı vardı."
+
+
 translate turkish uailea_tand_4781effe:
 
-    # "Ziv arrived after a few hours and visited me in my quarters."
-    "Ziv birkaç saat sonra geldi ve beni odamda ziyaret etti." 
 
-# game/episode014.rpy:663
+    "Ziv birkaç saat sonra geldi ve kamaramda beni ziyaret etti."
+
+
 translate turkish uailea_tand_98e9e024:
 
-    # c "Arlya has sent us the necessary information, so we're ready to go."
-    c "Arlya bize gerekli bilgileri gönderdi, bu yüzden gitmeye hazırız."
 
-# game/episode014.rpy:664
+    c "Arlya gerekli bilgileri gönderdi, artık gitmeye hazırız."
+
+
 translate turkish uailea_tand_e2134650:
 
-    # c "Have you found out anything useful?"
-    c "İşe yarar bir şey bulabildiniz mi?"
 
-# game/episode014.rpy:666
+    c "Yararlı bir şey öğrenebildin mi?"
+
+
 translate turkish uailea_tand_31d4e678:
 
-    # zi "Not much."
-    zi "Fazla değil."
 
-# game/episode014.rpy:667
+    zi "Pek değil."
+
+
 translate turkish uailea_tand_ba3f09b8:
 
-    # zi "Nkoy Rhedia seems to have accused the Council of corruption and demanded a public inquest."
-    zi "Nkoy Rhedia, Konseyi yolsuzlukla suçlamış ve kamuya açık bir soruşturma talep etmiş görünüyor."
 
-# game/episode014.rpy:668
+    zi "Nkoy Rhedia Konsey'i yolsuzlukla suçlamış ve halka açık bir soruşturma talep etmiş görünüyor."
+
+
 translate turkish uailea_tand_ee886b88:
 
-    # zi "After it became clear there was to be no investigation, she began to advocate for violence as she grew more and more isolated."
-    zi "Soruşturma yapılmayacağı belli olduktan sonra, giderek daha da yalnızlaştığı için şiddeti savunmaya başladı."
 
-# game/episode014.rpy:669
+    zi "Soruşturma olmayacağı anlaşıldıktan sonra, giderek daha fazla izole olurken şiddeti savunmaya başladı."
+
+
 translate turkish uailea_tand_962ed5a7:
 
-    # zi "I was also able to verify some of what Nkoy Arlya told us about the incident at the compound."
+
     zi "Ayrıca Nkoy Arlya'nın yerleşkedeki olay hakkında bize anlattıklarının bir kısmını doğrulayabildim."
 
-# game/episode014.rpy:670
+
 translate turkish uailea_tand_03bd29a0:
 
-    # zi "A delegation seems to have visited the place, after which explosions and possibly gunfire was heard."
-    zi "Bir heyet mekanı ziyaret etmiş gibi görünüyor, ardından patlamalar ve muhtemelen silah sesleri duyuldu."
 
-# game/episode014.rpy:672
+    zi "Bir heyet orayı ziyaret etmiş görünüyor, ardından patlamalar ve muhtemelen silah sesleri duyulmuş."
+
+
 translate turkish uailea_tand_ef3794ee:
 
-    # zi "Nothing else has been made public about the incident, but all stories confirm the departure of Nkoy Rhedia to an unknown location far into the wildlands of Uailea."
-    zi "Olay hakkında kamuoyuna başka bir şey açıklanmadı, ancak tüm hikayeler Nkoy Rhedia'nın Uailea'nın vahşi topraklarının çok uzağında bilinmeyen bir yere gittiğini doğruluyor."
 
-# game/episode014.rpy:673
+    zi "Olay hakkında başka hiçbir şey kamuoyuna açıklanmadı, ama tüm hikayeler Nkoy Rhedia'nın Uailea'nın vahşi topraklarının derinliklerinde bilinmeyen bir yere gittiğini doğruluyor."
+
+
 translate turkish uailea_tand_caabe90f:
 
-    # c "Let's find Rhedia then and learn more."
+
     c "O zaman Rhedia'yı bulalım ve daha fazlasını öğrenelim."
 
-# game/episode014.rpy:674
+
 translate turkish uailea_tand_5f09ea17:
 
-    # c "We're going to touch down near Tand."
-    c "Tand yakınlarında iniş yapacağız."
 
-# game/episode014.rpy:675
+    c "Tand yakınlarına ineceğiz."
+
+
 translate turkish uailea_tand_5776a45d:
 
-    # zi "That sounds good."
-    zi "Kulağa hoş geliyor."
 
-# game/episode014.rpy:678
+    zi "Kulağa iyi geliyor."
+
+
 translate turkish uailea_tand_067961cc:
 
-    # zi "I believe Tand is a place very similar to the one I grew up in."
-    zi "Tand'ın benim büyüdüğüm yere çok benzeyen bir yer olduğuna inanıyorum."
 
-# game/episode014.rpy:679
+    zi "Tand'ın büyüdüğüm yere çok benzer bir yer olduğuna inanıyorum."
+
+
 translate turkish uailea_tand_5c4cac00:
 
-    # zi "The wilderness of Uailea is quite beautiful, I just wish you'd see it under different circumstances."
-    zi "Uailea'nın vahşi doğası oldukça güzel, sadece farklı koşullar altında görmenizi isterdim."
 
-# game/episode014.rpy:680
+    zi "Uailea'nın vahşi doğası oldukça güzel, keşke farklı koşullarda görebilseydin."
+
+
 translate turkish uailea_tand_a76c4ea4:
 
-    # c "I know, but it can't be helped, unfortunately."
-    c "Biliyorum, ama ne yazık ki elimden bir şey gelmiyor."
 
-# game/episode014.rpy:683
+    c "Biliyorum, ama maalesef başka çare yok."
+
+
 translate turkish uailea_tand_137fef76:
 
-    # "Not long after Ziv had left my quarters, the ship took off in the direction of Tand."
-    "Ziv odamdan ayrıldıktan kısa bir süre sonra gemi Tand yönüne doğru yola çıktı." 
 
-# game/episode014.rpy:685
+    "Ziv odamdan ayrıldıktan kısa bir süre sonra, gemi Tand yönünde havalandı."
+
+
 translate turkish uailea_tand_a8cca149:
 
-    # "We touched down near the small village after a one-hour suborbital flight."
-    "Bir saatlik yörünge altı uçuşun ardından küçük köyün yakınına indik." 
 
-# game/episode014.rpy:687
+    "Bir saatlik yörünge altı uçuştan sonra küçük köyün yakınına indik."
+
+
 translate turkish uailea_tand_3da32a5b:
 
-    # "Ziv, Aven, Kit and Jade were suited up and ready to accompany me after Céline had completed the landing sequence."
-    "Ziv, Aven, Kit ve Jade giyinmişlerdi ve Céline iniş sekansını tamamladıktan sonra bana eşlik etmeye hazırdılar."
 
-# game/episode014.rpy:688
+    "Céline iniş sekansını tamamladıktan sonra Ziv, Aven, Kit ve Jade donanmış ve bana eşlik etmeye hazırdı."
+
+
 translate turkish uailea_tand_4ba70d0c:
 
-    # "The plan was to head out to Tand first and question the locals before heading out into the wilderness."
-    "Plan önce Tand'a gitmek ve vahşi doğaya çıkmadan önce yerlileri sorgulamaktı."
 
-# game/episode014.rpy:690
+    "Plan önce Tand'a gidip yerel halkı sorgulamak, sonra vahşi doğaya çıkmaktı."
+
+
 translate turkish uailea_tand_89223f1b:
 
-    # "Tand turned out to be a quiet village, consisting of a few houses, some stores and public buildings."
-    "Tand'ın birkaç ev, birkaç dükkan ve kamu binasından oluşan sakin bir köy olduğu ortaya çıktı." 
 
-# game/episode014.rpy:691
+    "Tand birkaç ev, bazı dükkanlar ve kamu binalarından oluşan sakin bir köy çıktı."
+
+
 translate turkish uailea_tand_d58965fd:
 
-    # "The architectural style favored by the Rhenkoy was very much in evidence here as well."
-    "Rhenkoy'un tercih ettiği mimari tarz burada da kendini gösteriyordu." 
 
-# game/episode014.rpy:703
+    "Rhenkoy'ların tercih ettiği mimari tarz burada da açıkça görülüyordu."
+
+
 translate turkish uailea_tand_09d77aec:
 
-    # "Ziv had split from us before entering the town and would make her inquiries on her own."
-    "Ziv şehre girmeden önce bizden ayrılmıştı ve soruşturmasını kendi başına yapacaktı." 
 
-# game/episode014.rpy:704
+    "Ziv kasabaya girmeden önce bizden ayrılmış ve sorgulamalarını kendi başına yapacaktı."
+
+
 translate turkish uailea_tand_52b12c5a:
 
-    # "We in turn posed as tourists to provide backup if necessary."
+
     "Biz de gerekirse destek sağlamak için turist kılığına girdik."
 
-# game/episode014.rpy:705
+
 translate turkish uailea_tand_a0d3d297:
 
-    # "I'm aware our cover story was rather flimsy, but Ziv assured me some form of tourism existed on Uailea."
-    "Örtbas hikayemizin oldukça zayıf olduğunun farkındayım, ancak Ziv bana Uailea'da bir çeşit turizmin var olduğuna dair güvence verdi."
 
-# game/episode014.rpy:707
+    "Örtü hikayemizin oldukça zayıf olduğunun farkındaydım, ama Ziv bana Uailea'da bir tür turizmin var olduğuna dair güvence vermişti."
+
+
 translate turkish uailea_tand_42112350:
 
-    # "At any rate, the locals didn't seem bothered by the aliens roaming in their village."
-    "Her halükarda, yerliler köylerinde dolaşan uzaylılardan rahatsız olmuş görünmüyorlardı." 
 
-# game/episode014.rpy:709
+    "Her halükarda, yerliler köylerinde dolaşan uzaylılardan rahatsız görünmüyordu."
+
+
 translate turkish uailea_tand_f791e971:
 
-    # "The Rhenkoy we met weren't very talkative though, until we met the owner of the general store of Tand."
-    "Karşılaştığımız Rhenkoy pek konuşkan değildi, ta ki Tand'ın bakkalının sahibiyle tanışana kadar."
 
-# game/episode014.rpy:712
+    "Karşılaştığımız Rhenkoy'lar pek konuşkan değildi, ta ki Tand'ın bakkaliye sahibiyle karşılaşana kadar."
+
+
 translate turkish uailea_tand_c89a1d3b:
 
-    # woman "Welcome, feel free to browse as long as you want!"
-    woman "Hoş geldiniz, istediğiniz kadar göz atabilirsiniz!"
 
-# game/episode014.rpy:713
+    woman "Hoş geldiniz, istediğiniz kadar bakabilirsiniz!"
+
+
 translate turkish uailea_tand_76403196:
 
-    # "The woman seemed positively thrilled to meet us."
-    "Kadın bizimle tanıştığı için çok heyecanlı görünüyordu."
 
-# game/episode014.rpy:714
+    "Kadın bizimle tanıştığı için gerçekten heyecanlı görünüyordu."
+
+
 translate turkish uailea_tand_096c5a6e:
 
-    # c "Thank you for the enthusiastic welcome."
-    c "Coşkulu karşılama için teşekkür ederim."
 
-# game/episode014.rpy:715
+    c "Bu coşkulu karşılama için teşekkürler."
+
+
 translate turkish uailea_tand_514fcd5d:
 
-    # woman "We don't get many visitors around here."
-    woman "Buralarda pek ziyaretçimiz olmaz."
 
-# game/episode014.rpy:717
+    woman "Buralarda pek ziyaretçi görmeyiz."
+
+
 translate turkish uailea_tand_043d4f27:
 
-    # woman "Are you a hunting party?"
-    woman "Siz bir av partisi misiniz?"
 
-# game/episode014.rpy:718
+    woman "Av grubu musunuz?"
+
+
 translate turkish uailea_tand_053ee927:
 
-    # c "Something like that, yes."
-    c "Bunun gibi bir şey, evet."
 
-# game/episode014.rpy:720
+    c "Öyle bir şey, evet."
+
+
 translate turkish uailea_tand_fcaa2323:
 
-    # woman "Judging from the arms you and your friends carry, you came prepared."
-    woman "Senin ve arkadaşlarının taşıdığı silahlara bakılırsa, hazırlıklı gelmişsiniz."
 
-# game/episode014.rpy:721
+    woman "Sen ve arkadaşlarının taşıdığı silahlara bakılırsa, hazırlıklı gelmişsiniz."
+
+
 translate turkish uailea_tand_bce2dfde:
 
-    # woman "The woods are full of wildlife, so you'll be sure to find some sport there."
-    woman "Orman vahşi yaşamla dolu, bu yüzden orada biraz spor bulacağınızdan emin olabilirsiniz."
 
-# game/episode014.rpy:722
+    woman "Ormanlar vahşi hayvanlarla dolu, orada kesinlikle avlanacak bir şeyler bulursunuz."
+
+
 translate turkish uailea_tand_c710afa7:
 
-    # "The store owner was obviously eager to talk, so I let her ramble on."
-    "Dükkan sahibinin konuşmaya hevesli olduğu belliydi, ben de saçmalamasına izin verdim."
 
-# game/episode014.rpy:723
+    "Dükkan sahibi açıkça konuşmaya istekliydi, bu yüzden gevezelik etmesine izin verdim."
+
+
 translate turkish uailea_tand_cd929723:
 
-    # woman "Just be careful out there, though."
-    woman "Yine de dışarıda dikkatli ol."
 
-# game/episode014.rpy:724
+    woman "Yine de orada dikkatli olun."
+
+
 translate turkish uailea_tand_bfa1b18d:
 
-    # c "How come, are any of the animals dangerous?"
-    c "Nasıl olur, hayvanlardan herhangi biri tehlikeli mi?"
 
-# game/episode014.rpy:726
+    c "Neden, hayvanlardan herhangi biri tehlikeli mi?"
+
+
 translate turkish uailea_tand_da8f474b:
 
-    # woman "No, not at all."
+
     woman "Hayır, hiç de değil."
 
-# game/episode014.rpy:728
+
 translate turkish uailea_tand_e8965686:
 
-    # woman "But recently, a small group of people have been living in the woods."
+
     woman "Ama son zamanlarda küçük bir grup insan ormanda yaşıyor."
 
-# game/episode014.rpy:729
+
 translate turkish uailea_tand_937ae57e:
 
-    # woman "You wouldn't want to mistake anyone for target practice."
-    woman "Kimseyi hedef tahtası sanmak istemezsin."
 
-# game/episode014.rpy:730
+    woman "Kimseyi hedef tahtası sanmak istemezsiniz."
+
+
 translate turkish uailea_tand_e9a485d8:
 
-    # c "Very good to know."
-    c "Bildiğim çok iyi oldu."
 
-# game/episode014.rpy:731
+    c "Bilmek çok iyi."
+
+
 translate turkish uailea_tand_904b0e9c:
 
-    # c "Do you know where those people have made their home, just so we can avoid them?"
-    c "Bu insanların evlerini nereye yaptıklarını biliyor musun, böylece onlardan kaçınabiliriz?"
 
-# game/episode014.rpy:733
+    c "O insanların nerede yaşadığını biliyor musunuz, onlardan kaçınabilelim diye?"
+
+
 translate turkish uailea_tand_4790cc35:
 
-    # woman "I'm afraid not, they do come in here to get supplies from time to time."
-    woman "Korkarım hayır, zaman zaman malzeme almak için buraya geliyorlar."
 
-# game/episode014.rpy:734
+    woman "Korkarım bilmiyorum, zaman zaman buraya malzeme almaya geliyorlar."
+
+
 translate turkish uailea_tand_68a70784:
 
-    # woman "They're friendly, but they do keep to themselves."
-    woman "Arkadaş canlısıdırlar ama içlerine kapanıktırlar."
 
-# game/episode014.rpy:736
+    woman "Dostlar ama kendi hallerinde yaşıyorlar."
+
+
 translate turkish uailea_tand_19f6dc5d:
 
-    # c "We'll be sure not to disturb their home once we head out into the wilderness."
-    c "Vahşi doğaya doğru yola çıktığımızda evlerini rahatsız etmeyeceğimizden emin olacağız."
 
-# game/episode014.rpy:737
+    c "Vahşi doğaya çıktığımızda evlerini rahatsız etmemeye dikkat edeceğiz."
+
+
 translate turkish uailea_tand_cd523a6a:
 
-    # "Some other customers had entered the store at that point, so I said goodbye to the owner and went back out on the street with the others."
-    "O sırada dükkana başka müşteriler de girmişti, ben de dükkân sahibiyle vedalaşıp diğerleriyle birlikte sokağa çıktım."
 
-# game/episode014.rpy:739
+    "O sırada başka müşteriler dükkana girmişti, bu yüzden sahibine veda edip diğerleriyle birlikte sokağa çıktım."
+
+
 translate turkish uailea_tand_8a6e4154:
 
-    # "Ziv met up with us at the edge of the town at the agreed upon time."
-    "Ziv, kararlaştırdığımız saatte kasabanın kenarında bizimle buluştu." 
 
-# game/episode014.rpy:740
+    "Ziv kararlaştırılan saatte kasabanın kenarında bizimle buluştu."
+
+
 translate turkish uailea_tand_22d5d0b3:
 
-    # c "According to the owner of the general store, Rhedia's disciples regularly buy supplies in Tand."
-    c "Bakkalın sahibine göre, Rhedia'nın müritleri düzenli olarak Tand'dan erzak alıyormuş."
 
-# game/episode014.rpy:741
+    c "Bakkaliye sahibine göre, Rhedia'nın müritleri düzenli olarak Tand'dan malzeme alıyor."
+
+
 translate turkish uailea_tand_b09e27df:
 
-    # c "She couldn't tell us where they came from, though."
-    c "Yine de bize nereden geldiklerini söyleyemedi."
 
-# game/episode014.rpy:743
+    c "Yine de nereden geldiklerini söyleyemedi."
+
+
 translate turkish uailea_tand_b52df9f8:
 
-    # zi "I've heard the same."
+
     zi "Ben de aynısını duydum."
 
-# game/episode014.rpy:744
+
 translate turkish uailea_tand_01a1d497:
 
-    # zi "Apparently, they enter Tand from the east side of the village."
-    zi "Görünüşe göre, Tand'a köyün doğu tarafından giriyorlar."
 
-# game/episode014.rpy:746
+    zi "Görünüşe göre Tand'a köyün doğu tarafından giriyorlar."
+
+
 translate turkish uailea_tand_8e597c48:
 
-    # av "We might head out into the wilderness from that direction then."
-    av "O zaman bu yönden vahşi doğaya doğru gidebiliriz."
 
-# game/episode014.rpy:747
+    av "O zaman o yönden vahşi doğaya çıkabiliriz."
+
+
 translate turkish uailea_tand_1d02ddec:
 
-    # c "Did you learn anything else?"
-    c "Başka bir şey öğrendiniz mi?"
 
-# game/episode014.rpy:749
+    c "Başka bir şey öğrendin mi?"
+
+
 translate turkish uailea_tand_fbce392b:
 
-    # zi "Nothing much."
+
     zi "Pek bir şey yok."
 
-# game/episode014.rpy:750
+
 translate turkish uailea_tand_a0d7ece0:
 
-    # zi "Nobody has approached them in the wilderness, it seems."
-    zi "Görünüşe göre çölde kimse onlara yaklaşmamış."
 
-# game/episode014.rpy:751
+    zi "Görünüşe göre vahşi doğada kimse onlara yaklaşmamış."
+
+
 translate turkish uailea_tand_7a9bf8da:
 
-    # zi "They just live there in solitude."
-    zi "Orada yalnızlık içinde yaşıyorlar."
 
-# game/episode014.rpy:752
+    zi "Sadece orada yalnız yaşıyorlar."
+
+
 translate turkish uailea_tand_c09f1291:
 
-    # c "Do the locals regard them as dangerous?"
-    c "Yerel halk onları tehlikeli olarak görüyor mu?"
 
-# game/episode014.rpy:753
+    c "Yerliler onları tehlikeli olarak görüyor mu?"
+
+
 translate turkish uailea_tand_677156b8:
 
-    # zi "No, I haven't heard anything about that."
+
     zi "Hayır, bu konuda bir şey duymadım."
 
-# game/episode014.rpy:754
+
 translate turkish uailea_tand_59da6ab0:
 
-    # zi "Though the villagers of Tand have left Nkoy Rhedia and her followers in peace since their arrival."
-    zi "Her ne kadar Tand köylüleri Nkoy Rhedia ve takipçilerini geldiklerinden beri huzur içinde bırakmış olsalar da."
 
-# game/episode014.rpy:755
+    zi "Yine de Tand köylüleri Nkoy Rhedia ve takipçilerini geldiklerinden beri rahat bırakmış."
+
+
 translate turkish uailea_tand_826a1fde:
 
-    # c "Let's not take any chances and be prepared for anything out there."
-    c "İşi şansa bırakmayalım ve dışarıda her şeye hazırlıklı olalım."
 
-# game/episode014.rpy:757
+    c "Hiç risk almayalım ve orada her şeye hazırlıklı olalım."
+
+
 translate turkish uailea_tand_abe36ad9:
 
-    # ki "Understood."
+
     ki "Anlaşıldı."
 
-# game/episode014.rpy:759
+
 translate turkish uailea_tand_15c9208d:
 
-    # "We made our way to the outskirts of the village in the general direction Ziv had indicated."
-    "Ziv'in gösterdiği genel yönde köyün dış mahallelerine doğru ilerledik." 
 
-# game/episode014.rpy:761
+    "Ziv'in işaret ettiği genel yönde köyün kenar mahallelerine doğru yol aldık."
+
+
 translate turkish uailea_tand_7255b7ef:
 
-    # c "Before we go into the wilderness, I'd like to discuss tactics."
-    c "Vahşi doğaya gitmeden önce, taktikler hakkında konuşmak istiyorum."
 
-# game/episode014.rpy:765
+    c "Vahşi doğaya gitmeden önce taktikleri konuşmak istiyorum."
+
+
 translate turkish uailea_tand_1dbd3512:
 
-    # c "The followers of Nkoy Rhedia are likely to be very dangerous."
-    c "Nkoy Rhedia'nın takipçileri çok tehlikeli olabilir."
 
-# game/episode014.rpy:766
+    c "Nkoy Rhedia'nın takipçileri muhtemelen çok tehlikeli."
+
+
 translate turkish uailea_tand_783b953c:
 
-    # c "I don't want us to end up like the last team who tried to contact her and got blown to bits."
-    c "Sonumuzun onunla iletişime geçmeye çalışan ve paramparça olan son ekip gibi olmasını istemiyorum."
 
-# game/episode014.rpy:767
+    c "Onunla iletişim kurmaya çalışıp paramparça olan son ekip gibi olmak istemiyorum."
+
+
 translate turkish uailea_tand_777b786c:
 
-    # c "If anyone points a gun at you, don't hesitate to pull the trigger."
-    c "Eğer biri sana silah doğrultursa, tetiği çekmekte tereddüt etme."
 
-# game/episode014.rpy:769
+    c "Biri size silah doğrultuyorsa, tetiği çekmekte tereddüt etmeyin."
+
+
 translate turkish uailea_tand_1c6189b1:
 
-    # zi "Are you sure we need to be that aggressive?"
-    zi "Bu kadar agresif olmamız gerektiğine emin misin?"
 
-# game/episode014.rpy:770
+    zi "Bu kadar agresif olmamız gerektiğinden emin misin?"
+
+
 translate turkish uailea_tand_7ec9bf22:
 
-    # c "I don't want to take any chances."
-    c "İşimi şansa bırakmak istemiyorum."
 
-# game/episode014.rpy:771
+    c "Hiç risk almak istemiyorum."
+
+
 translate turkish uailea_tand_38589aa8:
 
-    # c "I know Rhedia is supposed to be a respected figure, but her recent actions speak very much to the contrary."
-    c "Rhedia'nın saygı duyulan bir figür olması gerektiğini biliyorum, ancak son zamanlardaki davranışları bunun tam tersini söylüyor."
 
-# game/episode014.rpy:773
+    c "Rhedia'nın saygın bir figür olduğunu biliyorum, ama son eylemleri tam tersini söylüyor."
+
+
 translate turkish uailea_tand_4200c74d:
 
-    # c "I know there have been some stories floating around about Nkoy Rhedia's violent streak."
-    c "Nkoy Rhedia'nın şiddet eğilimi hakkında bazı hikayeler dolaştığını biliyorum."
 
-# game/episode014.rpy:774
+    c "Nkoy Rhedia'nın şiddet eğilimi hakkında dolaşan hikayeler olduğunu biliyorum."
+
+
 translate turkish uailea_tand_82b76b95:
 
-    # c "I want us to be very careful and don't go in guns blazing."
-    c "Çok dikkatli olmamızı ve silahlarımızı ateşleyerek gitmememizi istiyorum."
 
-# game/episode014.rpy:775
+    c "Çok dikkatli olmamızı ve silahlarımızı ateşleyerek girmememizi istiyorum."
+
+
 translate turkish uailea_tand_70c47a57:
 
-    # c "Rhedia likely has a superior force and knows these woods in ways we don't."
-    c "Rhedia muhtemelen daha üstün bir kuvvete sahip ve bu ormanı bizim bilmediğimiz şekilde biliyor."
 
-# game/episode014.rpy:776
+    c "Rhedia muhtemelen üstün bir güce sahip ve bu ormanları bizim bilmediğimiz şekilde biliyor."
+
+
 translate turkish uailea_tand_9da8d7cf:
 
-    # c "We don't shoot to kill unless threatened in the same way ourselves."
-    c "Kendimiz de aynı şekilde tehdit edilmedikçe öldürmek için ateş etmeyiz."
 
-# game/episode014.rpy:777
+    c "Aynı şekilde tehdit edilmedikçe öldürmek için ateş etmeyiz."
+
+
 translate turkish uailea_tand_e5e59c44:
 
-    # c "This doesn't have to become a blood bath."
-    c "Bu bir kan banyosuna dönüşmek zorunda değil."
 
-# game/episode014.rpy:779
+    c "Bunun kan banyosuna dönüşmesi gerekmiyor."
+
+
 translate turkish uailea_tand_eb0c28ba:
 
-    # zi "Understood."
+
     zi "Anlaşıldı."
 
-# game/episode014.rpy:784
+
 translate turkish uailea_tand_1c6d201e:
 
-    # "Guns at the ready, we headed out into what's best described as a forest."
-    "Silahlar hazır, en iyi orman olarak tanımlanabilecek bir yere doğru yola çıktık." 
 
-# game/episode014.rpy:785
+    "Silahlarımızı hazır tutarak, en iyi şekilde orman olarak tanımlanabilecek yere doğru yola çıktık."
+
+
 translate turkish uailea_tand_4e8178aa:
 
-    # "We didn't see any signs of life, except for the local wildlife skittering away as soon as we encountered them."
-    "Karşılaşır karşılaşmaz sıvışan yerel vahşi yaşam dışında herhangi bir yaşam belirtisi görmedik."
 
-# game/episode014.rpy:787
+    "Onlarla karşılaştığımız anda kaçışan yerel vahşi hayvanlar dışında hiçbir yaşam belirtisi görmedik."
+
+
 translate turkish uailea_tand_959b56f4:
 
-    # "After three hours, I began to think this whole expedition was doomed from the start."
-    "Üç saat sonra, tüm bu seferin başından beri lanetli olduğunu düşünmeye başladım." 
 
-# game/episode014.rpy:788
+    "Üç saat sonra, bu tüm seferin başından beri mahkum olduğunu düşünmeye başladım."
+
+
 translate turkish uailea_tand_daf27b0b:
 
-    # "At that moment, Aven motioned us to stop."
-    "O anda, Aven bize durmamızı işaret etti."
 
-# game/episode014.rpy:790
+    "O anda Aven durmamız için işaret etti."
+
+
 translate turkish uailea_tand_8331d66a:
 
-    # av "Tracks in the underbrush, recent."
-    av "Çalılıklarda izler var, yeni."
 
-# game/episode014.rpy:791
+    av "Çalılıklarda izler var, taze."
+
+
 translate turkish uailea_tand_384f335c:
 
-    # c "Humanoid?"
+
     c "İnsansı mı?"
 
-# game/episode014.rpy:792
+
 translate turkish uailea_tand_e329f1ff:
 
-    # av "Unless the large game here started wearing boots, I'd wager humanoid."
-    av "Buradaki büyük oyun bot giymeye başlamadığı sürece, insansı olduğuna bahse girerim."
 
-# game/episode014.rpy:793
+    av "Buradaki büyük av hayvanları çizme giymeye başlamadıysa, insansı olduğuna bahse girerim."
+
+
 translate turkish uailea_tand_7164c981:
 
-    # c "Okay, spread out and follow those tracks."
-    c "Tamam, dağılın ve şu izleri takip edin."
 
-# game/episode014.rpy:795
+    c "Tamam, yayılın ve o izleri takip edin."
+
+
 translate turkish uailea_tand_8af51362:
 
-    # "Aven and Kit took the lead following the tracks into the forest."
-    "Aven ve Kit ormana doğru izleri takip ederek önden gittiler." 
 
-# game/episode014.rpy:796
+    "Aven ve Kit öncülük ederek izleri takip ederek ormana girdiler."
+
+
 translate turkish uailea_tand_a1601795:
 
-    # "There was no clear path that we could see, but this route seemed to have been used regularly."
-    "Görebildiğimiz net bir yol yoktu ama bu rota düzenli olarak kullanılmış gibi görünüyordu." 
 
-# game/episode014.rpy:797
+    "Görebileceğimiz net bir yol yoktu, ama bu rota düzenli olarak kullanılmış gibi görünüyordu."
+
+
 translate turkish uailea_tand_9fcb5c61:
 
-    # "Careful not to expose ourselves to hidden gunmen, we continued our trek."
-    "Kendimizi gizli silahlı adamlara göstermemeye dikkat ederek yürüyüşümüze devam ettik." 
 
-# game/episode014.rpy:799
+    "Gizli silahlı adamlara maruz kalmamaya dikkat ederek yolculuğumuza devam ettik."
+
+
 translate turkish uailea_tand_b940f9f3:
 
-    # "After a few miles, Aven made us stop again and produced a set of binoculars."
-    "Birkaç mil sonra, Aven bizi tekrar durdurdu ve bir dürbün seti çıkardı."
 
-# game/episode014.rpy:800
+    "Birkaç mil sonra Aven bizi tekrar durdurdu ve bir dürbün çıkardı."
+
+
 translate turkish uailea_tand_dbcc41c8:
 
-    # av "Sentries up ahead."
-    av "Nöbetçiler ileride."
 
-# game/episode014.rpy:801
+    av "İleride nöbetçiler var."
+
+
 translate turkish uailea_tand_3498231e:
 
-    # "Aven passed me the binoculars."
-    "Aven bana dürbünü uzattı."
 
-# game/episode014.rpy:802
+    "Aven dürbünü bana uzattı."
+
+
 translate turkish uailea_tand_236704f8:
 
-    # c "You're right, how did you know?"
-    c "Haklısın, nereden bildin?"
 
-# game/episode014.rpy:804
+    c "Haklısın, nasıl anladın?"
+
+
 translate turkish uailea_tand_d7d8340b:
 
-    # av "I thought I saw something move up there."
+
     av "Orada bir şeyin hareket ettiğini gördüğümü sandım."
 
-# game/episode014.rpy:805
+
 translate turkish uailea_tand_a83f22ee:
 
-    # c "They're not extremely well-hidden."
-    c "Çok iyi gizlenmemişler."
 
-# game/episode014.rpy:806
+    c "Çok iyi saklanmış değiller."
+
+
 translate turkish uailea_tand_fd44c21a:
 
-    # av "No, they're not."
+
     av "Hayır, değiller."
 
-# game/episode014.rpy:807
+
 translate turkish uailea_tand_eba73ef1:
 
-    # c "Can you tell how many of them there are?"
+
     c "Kaç tane olduklarını söyleyebilir misin?"
 
-# game/episode014.rpy:808
+
 translate turkish uailea_tand_6be90791:
 
-    # av "Three on this side, six, maybe eight in total."
-    av "Bu tarafta üç, toplamda altı, belki sekiz."
 
-# game/episode014.rpy:810
+    av "Bu tarafta üç tane, toplamda altı, belki sekiz."
+
+
 translate turkish uailea_tand_34f36db6:
 
-    # av "How do we proceed?"
-    av "Nasıl devam edeceğiz?"
 
-# game/episode014.rpy:812
+    av "Nasıl devam ediyoruz?"
+
+
 translate turkish uailea_tand_7ece25bb:
 
-    # c "We fan out and take them out from behind."
-    c "Yayılacağız ve onları arkadan vuracağız."
 
-# game/episode014.rpy:814
+    c "Yayılıyoruz ve onları arkadan etkisiz hale getiriyoruz."
+
+
 translate turkish uailea_tand_53e50f32:
 
-    # c "We fan out and hold them at gunpoint, maybe we can reason with them."
-    c "Yayılırız ve onları silah zoruyla tutarız, belki onları ikna edebiliriz."
 
-# game/episode014.rpy:815
+    c "Yayılıyoruz ve onları silah zoruyla tutuyoruz, belki onlarla mantıklı konuşabiliriz."
+
+
 translate turkish uailea_tand_b5fa9b86:
 
-    # av "Risky, but doable."
-    av "Riskli, ama yapılabilir."
 
-# game/episode014.rpy:817
+    av "Riskli ama yapılabilir."
+
+
 translate turkish uailea_tand_ee272f69:
 
-    # c "Spread out, fire on my mark."
-    c "Dağılın, işaretime ateş edin."
 
-# game/episode014.rpy:819
+    c "Yayılın, benim işaretimle ateş edin."
+
+
 translate turkish uailea_tand_e8f0c6e7:
 
-    # c "Spread out, don't fire unless I give the order."
-    c "Dağılın, ben emir vermedikçe ateş etmeyin."
 
-# game/episode014.rpy:821
+    c "Yayılın, ben emir vermedikçe ateş etmeyin."
+
+
 translate turkish uailea_tand_a379acb8:
 
-    # "It didn't take us long to surround the sentries."
+
     "Nöbetçileri kuşatmamız uzun sürmedi."
 
-# game/episode014.rpy:823
+
 translate turkish uailea_tand_9f558a4e:
 
-    # "My target was lounging against a tree, oblivious to her surroundings."
-    "Hedefim bir ağaca yaslanmış, etrafından habersizdi."
 
-# game/episode014.rpy:825
+    "Hedefim bir ağaca yaslanmış, çevresinden habersiz oturuyordu."
+
+
 translate turkish uailea_tand_8c6b13aa:
 
-    # "I quietly gave the signal to attack via radio and fired."
-    "Telsizden sessizce saldırı sinyali verdim ve ateş ettim."
 
-# game/episode014.rpy:827
+    "Sessizce telsizden saldırı sinyali verdim ve ateş ettim."
+
+
 translate turkish uailea_tand_3021b50f:
 
-    # "Several gunshots resonated through the forest."
+
     "Birkaç silah sesi ormanda yankılandı."
 
-# game/episode014.rpy:829
+
 translate turkish uailea_tand_449f34ff:
 
-    # c "Target eliminated."
-    c "Hedef elendi."
 
-# game/episode014.rpy:830
+    c "Hedef etkisiz hale getirildi."
+
+
 translate turkish uailea_tand_b47e5a18:
 
-    # "Aven, Jade and Kit radioed me their kills."
-    "Aven, Jade ve Kit bana öldürdüklerini telsizle bildirdiler."
 
-# game/episode014.rpy:831
+    "Aven, Jade ve Kit telsizle öldürdüklerini bildirdiler."
+
+
 translate turkish uailea_tand_82befb7a:
 
-    # "Only Ziv's channel stayed silent."
+
     "Sadece Ziv'in kanalı sessiz kaldı."
 
-# game/episode014.rpy:832
+
 translate turkish uailea_tand_f11f22bc:
 
-    # c "Ziv, do you copy?"
-    c "Ziv, duyuyor musun?"
 
-# game/episode014.rpy:833
+    c "Ziv, beni duyuyor musun?"
+
+
 translate turkish uailea_tand_4b29505e:
 
-    # c "Ziv?!"
+
     c "Ziv?!"
 
-# game/episode014.rpy:834
+
 translate turkish uailea_tand_60058cd1:
 
-    # zi "Yes, I'm here."
+
     zi "Evet, buradayım."
 
-# game/episode014.rpy:835
+
 translate turkish uailea_tand_ca920b12:
 
-    # c "Have you eliminated your target."
-    c "Hedefinizi ortadan kaldırdınız mı."
 
-# game/episode014.rpy:836
+    c "Hedefini etkisiz hale getirdin mi?"
+
+
 translate turkish uailea_tand_ed36e26c:
 
-    # zi "No, she got away."
-    zi "Hayır, o kaçtı."
 
-# game/episode014.rpy:837
+    zi "Hayır, kaçtı."
+
+
 translate turkish uailea_tand_0f3ca2e2:
 
-    # c "Dammit!"
-    c "Kahretsin!"
 
-# game/episode014.rpy:838
+    c "Lanet olsun!"
+
+
 translate turkish uailea_tand_56cdd477:
 
-    # c "Regroup at my position."
-    c "Benim konumumda yeniden toplanın."
 
-# game/episode014.rpy:840
+    c "Benim konumumda toplanın."
+
+
 translate turkish uailea_tand_282ec226:
 
-    # "One by one, my crew circled back towards my location."
-    "Mürettebatım teker teker bulunduğum yere doğru geri döndü."
 
-# game/episode014.rpy:841
+    "Ekibim teker teker konumuma geri döndü."
+
+
 translate turkish uailea_tand_b2cdb213:
 
-    # c "What happened back there, Ziv?"
+
     c "Orada ne oldu, Ziv?"
 
-# game/episode014.rpy:843
+
 translate turkish uailea_tand_be5709db:
 
-    # zi "I just...{w} I couldn't do it."
-    zi "Ben sadece...{w} Bunu yapamazdım."
 
-# game/episode014.rpy:844
+    zi "Ben sadece...{w} Yapamadım."
+
+
 translate turkish uailea_tand_1c0f508b:
 
-    # c "They could have shot you."
+
     c "Seni vurabilirlerdi."
 
-# game/episode014.rpy:846
+
 translate turkish uailea_tand_ffddbf96:
 
-    # zi "I think that's highly unlikely."
-    zi "Bence bu pek olası değil."
 
-# game/episode014.rpy:847
+    zi "Bunun pek olası olmadığını düşünüyorum."
+
+
 translate turkish uailea_tand_62bc1d1d:
 
-    # c "Well, we can be certain she's running back to get reinforcements."
-    c "Takviye almak için geri döndüğünden emin olabiliriz."
 
-# game/episode014.rpy:848
+    c "Şey, takviye getirmek için geri koştuğundan emin olabiliriz."
+
+
 translate turkish uailea_tand_a5a1061f:
 
-    # c "This whole mission has become a whole lot more dangerous."
-    c "Tüm bu görev çok daha tehlikeli bir hal aldı."
 
-# game/episode014.rpy:849
+    c "Bu görev çok daha tehlikeli hale geldi."
+
+
 translate turkish uailea_tand_2f8e6d51:
 
-    # c "Let me make one thing clear, when we're in the field and I give an order, I expect it to be followed."
-    c "Bir şeyi açıklığa kavuşturmama izin verin, sahada olduğumuzda ve bir emir verdiğimde, buna uyulmasını beklerim."
 
-# game/episode014.rpy:850
+    c "Bir şeyi açıklığa kavuşturayım, sahadayken emir verdiğimde, uyulmasını bekliyorum."
+
+
 translate turkish uailea_tand_41cf06c8:
 
-    # c "If you have a problem, you tell me in advance, not just before you have to pull the trigger."
-    c "Eğer bir sorunun varsa, bana önceden söyle, tetiği çekmeden hemen önce değil."
 
-# game/episode014.rpy:851
+    c "Bir sorunun varsa, tetiği çekmeden hemen önce değil, önceden söylersin."
+
+
 translate turkish uailea_tand_c56b5e15:
 
-    # c "You put your own life on the line, but also that of others, and I won't have that."
-    c "Hem kendi hayatını hem de başkalarınınkini tehlikeye atıyorsun ve ben buna izin vermeyeceğim."
 
-# game/episode014.rpy:853
+    c "Sadece kendi hayatını değil, başkalarının da hayatını tehlikeye attın, buna izin vermem."
+
+
 translate turkish uailea_tand_bb8ec118:
 
-    # zi "I..."
+
     zi "Ben..."
 
-# game/episode014.rpy:854
+
 translate turkish uailea_tand_5fcc990b:
 
-    # c "Is that understood?"
+
     c "Anlaşıldı mı?"
 
-# game/episode014.rpy:856
+
 translate turkish uailea_tand_1d6c56bc:
 
-    # zi "Yes, [p_name]."
+
     zi "Evet, [p_name]."
 
-# game/episode014.rpy:858
+
 translate turkish uailea_tand_8ac01764:
 
-    # c "Good, be prepared for anything."
-    c "Güzel, her şeye hazırlıklı ol."
 
-# game/episode014.rpy:859
+    c "İyi, her şeye hazır ol."
+
+
 translate turkish uailea_tand_a6986482:
 
-    # c "We should assume the encampment is on high alert."
+
     c "Kampın yüksek alarmda olduğunu varsaymalıyız."
 
-# game/episode014.rpy:860
+
 translate turkish uailea_tand_3e72d1bc:
 
-    # c "So shoot if you can take the shot."
-    c "Atış yapabiliyorsan ateş et."
 
-# game/episode014.rpy:861
+    c "O yüzden atış yapabiliyorsan ateş et."
+
+
 translate turkish uailea_tand_fe494b85:
 
-    # c "Does anybody have a problem with that?"
-    c "Bununla ilgili bir sorunu olan var mı?"
 
-# game/episode014.rpy:863
+    c "Bununla ilgili sorunu olan var mı?"
+
+
 translate turkish uailea_tand_61ba20ae:
 
-    # "Even Ziv acquiesced, so we moved on towards our target."
-    "Ziv bile kabul etti, biz de hedefimize doğru ilerledik." 
 
-# game/episode014.rpy:864
+    "Ziv bile kabul etti, bu yüzden hedefimize doğru ilerledik."
+
+
 translate turkish uailea_tand_5fffc251:
 
-    # "To our luck, we didn't encounter any more sentries and soon the bustle of the encampment could be heard in the distance."
-    "Şansımıza, başka nöbetçiyle karşılaşmadık ve çok geçmeden kampın gürültüsü uzaktan duyulmaya başladı."
 
-# game/episode014.rpy:865
+    "Şansımıza, başka nöbetçilerle karşılaşmadık ve kısa süre sonra kampın koşuşturması uzaktan duyulabiliyordu."
+
+
 translate turkish uailea_tand_422075a3:
 
-    # "The camp dwellers made no effort to conceal their presence."
-    "Kamp sakinleri varlıklarını gizlemek için hiçbir çaba göstermediler." 
 
-# game/episode014.rpy:867
+    "Kamp sakinleri varlıklarını gizlemek için hiç çaba göstermiyorlardı."
+
+
 translate turkish uailea_tand_d70a8e8b:
 
-    # "The escaped sentry had probably arrived and caused a panic."
-    "Kaçan nöbetçi muhtemelen gelmiş ve paniğe neden olmuştu." 
 
-# game/episode014.rpy:868
+    "Kaçan nöbetçi muhtemelen gelmiş ve paniğe neden olmuştu."
+
+
 translate turkish uailea_tand_3cabbf89:
 
-    # "While potentially dangerous, the chaos could also be an opportunity to overwhelm the enemy."
-    "Potansiyel olarak tehlikeli olsa da, kaos düşmanı alt etmek için bir fırsat da olabilir." 
 
-# game/episode014.rpy:869
+    "Potansiyel olarak tehlikeli olsa da, kaos düşmanı alt etmek için bir fırsat da olabilirdi."
+
+
 translate turkish uailea_tand_b039fb46:
 
-    # c "Guns at the ready, we're going to storm the camp."
-    c "Silahlar hazır, kampa saldıracağız."
 
-# game/episode014.rpy:871
+    c "Silahlarınızı hazırlayın, kampı basacağız."
+
+
 translate turkish uailea_tand_bcb8dc1f:
 
-    # ki "We should probably hit the center of the encampment, the more important people will be housed there."
-    ki "Muhtemelen kampın merkezine gitmeliyiz, daha önemli insanlar orada barınacak."
 
-# game/episode014.rpy:872
+    ki "Muhtemelen kampın merkezini vurmalıyız, daha önemli insanlar orada barınıyor olacak."
+
+
 translate turkish uailea_tand_88df38a7:
 
-    # c "Agreed."
-    c "Kabul edildi."
 
-# game/episode014.rpy:874
+    c "Katılıyorum."
+
+
 translate turkish uailea_tand_a9d2155e:
 
-    # c "On my mark."
-    c "İşaretimle."
 
-# game/episode014.rpy:876
+    c "Benim işaretimle."
+
+
 translate turkish uailea_tand_db6243d7:
 
-    # "The crew broke into a run after I'd given the signal."
-    "Ben işaret verdikten sonra mürettebat koşmaya başladı."
 
-# game/episode014.rpy:877
+    "Sinyali verdikten sonra ekip koşmaya başladı."
+
+
 translate turkish uailea_tand_61098c2d:
 
-    # "The panic in the camp only heightened when several Rhenkoy noticed us emerging from the woods."
-    "Kamptaki panik, birkaç Rhenkoy ormandan çıktığımızı fark ettiğinde daha da arttı."
 
-# game/episode014.rpy:879
+    "Birkaç Rhenkoy'un bizi ormandan çıkarken fark etmesiyle kamptaki panik daha da arttı."
+
+
 translate turkish uailea_tand_ab2f0134:
 
-    # "Some Rhenkoy struggled to get their weapons, but were gunned down before they could reach them."
-    "Bazı Rhenkoylar silahlarını almak için mücadele etti, ancak silahlarına ulaşamadan vuruldular."
 
-# game/episode014.rpy:880
+    "Bazı Rhenkoy'lar silahlarına ulaşmaya çalıştı ama onlara ulaşamadan vuruldu."
+
+
 translate turkish uailea_tand_ed3a9c96:
 
-    # "The resistance against our onslaught, if it could be called that, was a downright mess."
-    "Saldırımıza karşı direniş, eğer buna direniş denebilirse, düpedüz bir karmaşaydı."
 
-# game/episode014.rpy:881
+    "Saldırımıza karşı gösterilen direniş, eğer öyle denebilirse, tam bir karmaşaydı."
+
+
 translate turkish uailea_tand_344571bb:
 
-    # "Several Rhenkoy ran at the sight of their comrades being killed and we eventually reached the center of the camp without taking a single bullet."
-    "Birkaç Rhenkoy yoldaşlarının öldürüldüğünü görünce kaçtı ve sonunda tek bir kurşun bile yemeden kampın merkezine ulaştık."
 
-# game/episode014.rpy:883
+    "Birkaç Rhenkoy yoldaşlarının öldürülmesini görünce kaçtı ve sonunda tek bir kurşun yemeden kampın merkezine ulaştık."
+
+
 translate turkish uailea_tand_a9092b82:
 
-    # c "Rhedia, you're surrounded!"
-    c "Rhedia, etrafın sarıldı!"
 
-# game/episode014.rpy:884
+    c "Rhedia, kuşatıldın!"
+
+
 translate turkish uailea_tand_0ed51209:
 
-    # c "Come out with your hands behind your head!"
-    c "Ellerin başının arkasında dışarı çık!"
 
-# game/episode014.rpy:885
+    c "Ellerini kafanın arkasında çık dışarı!"
+
+
 translate turkish uailea_tand_2fa6cefa:
 
-    # "There was silence and for a moment I thought we'd hit the wrong settlement."
-    "Bir sessizlik oldu ve bir an için yanlış yerleşim yerine geldiğimizi düşündüm."
 
-# game/episode014.rpy:890
+    "Sessizlik vardı ve bir an yanlış yerleşimi vurduğumuzu düşündüm."
+
+
 translate turkish uailea_tand_b0fde67b:
 
-    # "But then the door of the yurt slide open and Nkoy Rhedia emerged."
-    "Ama sonra yurdun kapısı kayarak açıldı ve Nkoy Rhedia ortaya çıktı." 
 
-# game/episode014.rpy:897
+    "Ama sonra çadırın kapısı açıldı ve Nkoy Rhedia çıktı."
+
+
 translate turkish uailea_tand_2dfbae74:
 
-    # c "On your knees."
-    c "Dizlerinin üzerine çök."
 
-# game/episode014.rpy:899
+    c "Dizlerinin üstüne çök."
+
+
 translate turkish uailea_tand_bbd6fccc:
 
-    # "Looking at the carnage surrounding her, Rhedia sank to her knees."
-    "Etrafını saran katliama bakan Rhedia dizlerinin üzerine çöktü."
 
-# game/episode014.rpy:901
+    "Etrafındaki kıyıma bakarak, Rhedia dizlerinin üstüne çöktü."
+
+
 translate turkish uailea_tand_24702347:
 
-    # rh "What have you done?!"
-    rh "Ne yaptın sen?!"
 
-# game/episode014.rpy:903
+    rh "Ne yaptınız?!"
+
+
 translate turkish uailea_tand_c9ea60c4:
 
-    # "Obviously these weren't seasoned guerrillas, let alone trained soldiers."
-    "Belli ki bunlar eğitimli askerler bir yana, tecrübeli gerillalar bile değildi."
 
-# game/episode014.rpy:904
+    "Açıkçası bunlar deneyimli gerillalar değildi, eğitimli askerler şöyle dursun."
+
+
 translate turkish uailea_tand_d9840525:
 
-    # "Just before I made a move, I radioed the others and gave the go ahead."
-    "Harekete geçmeden hemen önce diğerlerine telsizle haber verdim ve devam etmelerini söyledim."
 
-# game/episode014.rpy:906
+    "Harekete geçmeden hemen önce, diğerlerine telsizle haber verdim ve onay verdim."
+
+
 translate turkish uailea_tand_cdac0af3:
 
-    # c "Drop your weapon!"
+
     c "Silahını bırak!"
 
-# game/episode014.rpy:907
+
 translate turkish uailea_tand_28456ea8:
 
-    # "The woman nearly lost her balance against the tree."
-    "Kadın neredeyse ağaca karşı dengesini kaybediyordu."
 
-# game/episode014.rpy:908
+    "Kadın ağaca yaslanırken neredeyse dengesini kaybediyordu."
+
+
 translate turkish uailea_tand_0db89a3e:
 
-    # c "Hands up!"
-    c "Eller yukarı!"
 
-# game/episode014.rpy:910
+    c "Ellerini kaldır!"
+
+
 translate turkish uailea_tand_402ca7d0:
 
-    # "Too flustered to even point her gun in the right direction, she let it fall to the ground and put her hands in the air."
-    "Silahını doğru yöne doğrultamayacak kadar telaşlıydı, yere düşmesine izin verdi ve ellerini havaya kaldırdı."
 
-# game/episode014.rpy:911
+    "Silahını doğru yöne çeviremeyecek kadar telaşlıydı, yere düşmesine izin verdi ve ellerini havaya kaldırdı."
+
+
 translate turkish uailea_tand_8ff6912b:
 
-    # "Aven, Jade, Kit and Ziv radioed their successes shortly after."
+
     "Aven, Jade, Kit ve Ziv kısa süre sonra başarılarını telsizle bildirdiler."
 
-# game/episode014.rpy:913
+
 translate turkish uailea_tand_6534813e:
 
-    # c "Alright, bring them to me."
-    c "Pekala, onları bana getir."
 
-# game/episode014.rpy:915
+    c "Tamam, onları bana getirin."
+
+
 translate turkish uailea_tand_3661f786:
 
-    # "While I busied myself tying up the Rhenkoy woman, the others arrived with their prisoners."
-    "Ben Rhenkoy'lu kadını bağlamakla meşgulken, diğerleri esirleriyle birlikte geldiler." 
 
-# game/episode014.rpy:916
+    "Ben Rhenkoy kadınını bağlamakla meşgulken, diğerleri tutsaklarıyla geldi."
+
+
 translate turkish uailea_tand_d0d4591a:
 
-    # c "Nobody got away?"
+
     c "Kimse kaçmadı mı?"
 
-# game/episode014.rpy:918
+
 translate turkish uailea_tand_bf30a243:
 
-    # ki "Nobody."
-    ki "Hiç kimse."
 
-# game/episode014.rpy:920
+    ki "Kimse."
+
+
 translate turkish uailea_tand_6f9d3e71:
 
-    # av "They were surprised to even encounter someone here."
-    av "Burada biriyle karşılaştıklarına bile şaşırdılar."
 
-# game/episode014.rpy:921
+    av "Burada biriyle karşılaşacaklarına bile şaşırdılar."
+
+
 translate turkish uailea_tand_0da143f5:
 
-    # c "Not very smart, considering the Council is after them."
-    c "Konsey'in peşlerinde olduğunu düşünürsek pek akıllıca değil."
 
-# game/episode014.rpy:922
+    c "Konsey'in peşlerinde olduğu düşünülürse pek akıllıca değil."
+
+
 translate turkish uailea_tand_2bb5e5c3:
 
-    # c "Are all of them cuffed?"
+
     c "Hepsi kelepçeli mi?"
 
-# game/episode014.rpy:924
+
 translate turkish uailea_tand_9f64a2bd:
 
-    # j "Yes."
+
     j "Evet."
 
-# game/episode014.rpy:925
+
 translate turkish uailea_tand_f5f7c27d:
 
-    # c "Right."
+
     c "Doğru."
 
-# game/episode014.rpy:926
+
 translate turkish uailea_tand_f95355e7:
 
-    # c "Listen up, don't try to escape or make sudden moves."
-    c "Dinleyin, kaçmaya çalışmayın veya ani hareketler yapmayın."
 
-# game/episode014.rpy:927
+    c "Dinleyin, kaçmaya çalışmayın ya da ani hareketler yapmayın."
+
+
 translate turkish uailea_tand_926b73f9:
 
-    # c "We're not here to harm you, we just want a word with Nkoy Rhedia."
-    c "Sana zarar vermek için burada değiliz, sadece Nkoy Rhedia ile konuşmak istiyoruz."
 
-# game/episode014.rpy:930
+    c "Size zarar vermek için burada değiliz, sadece Nkoy Rhedia ile konuşmak istiyoruz."
+
+
 translate turkish uailea_tand_ddb41974:
 
-    # woman "Who sent you?"
-    woman "Seni kim gönderdi?"
 
-# game/episode014.rpy:932
+    woman "Sizi kim gönderdi?"
+
+
 translate turkish uailea_tand_2218205f:
 
-    # zi "The Council of Nkoy."
-    zi "Nköy Konseyi."
 
-# game/episode014.rpy:934
+    zi "Nkoy Konseyi."
+
+
 translate turkish uailea_tand_764cd288:
 
-    # "One of the women spat at Ziv, but luckily missed her mark, because Aven yanked her away."
-    "Kadınlardan biri Ziv'e tükürdü ama şans eseri hedefi ıskaladı çünkü Aven onu çekip uzaklaştırdı."
 
-# game/episode014.rpy:936
+    "Kadınlardan biri Ziv'e tükürdü ama şansına hedefini ıskaladı, çünkü Aven onu çekip uzaklaştırdı."
+
+
 translate turkish uailea_tand_5025427c:
 
-    # av "None of that, or we'll be forced to gag you."
-    av "Bunları yapma, yoksa ağzını tıkamak zorunda kalırız."
 
-# game/episode014.rpy:937
+    av "Böyle şeyler yok, yoksa ağzını tıkamak zorunda kalırız."
+
+
 translate turkish uailea_tand_ed7c31f3:
 
-    # woman "We have nothing to say to Council lapdogs."
-    woman "Konsey kucak köpeklerine söyleyecek bir şeyimiz yok."
 
-# game/episode014.rpy:938
+    woman "Konsey'in uşaklarına söyleyecek hiçbir şeyimiz yok."
+
+
 translate turkish uailea_tand_3d85a12a:
 
-    # c "Well, we're not."
+
     c "Şey, biz değiliz."
 
-# game/episode014.rpy:939
+
 translate turkish uailea_tand_93c0ae76:
 
-    # c "I'm not sure what the Council's next move will be, but I doubt it will be peaceful negotiations."
-    c "Konsey'in bir sonraki hamlesinin ne olacağından emin değilim ama bunun barışçıl müzakereler olacağından şüpheliyim."
 
-# game/episode014.rpy:940
+    c "Konsey'in bir sonraki hamlesinin ne olacağından emin değilim ama barışçıl müzakereler olacağından şüpheliyim."
+
+
 translate turkish uailea_tand_c7397861:
 
-    # c "We were sent to talk to you and find a way out of this mess."
-    c "Sizinle konuşmak ve bu karmaşadan bir çıkış yolu bulmak için gönderildik."
 
-# game/episode014.rpy:941
+    c "Sizinle konuşmak ve bu karışıklıktan çıkış yolu bulmak için gönderildik."
+
+
 translate turkish uailea_tand_5b557f77:
 
-    # c "If you'd rather wait for the cavalry to level this place, be my guest."
-    c "Süvarilerin burayı yerle bir etmesini beklemeyi tercih ediyorsanız, buyurun."
 
-# game/episode014.rpy:943
+    c "Süvarinin gelip burayı dümdüz etmesini beklemeyi tercih ediyorsanız, buyurun."
+
+
 translate turkish uailea_tand_9d0b113c:
 
-    # "The prisoners were silently glaring at me."
-    "Mahkumlar sessizce bana bakıyorlardı."
 
-# game/episode014.rpy:944
+    "Tutsaklar sessizce bana bakıyorlardı."
+
+
 translate turkish uailea_tand_d1849364:
 
-    # c "I'd very much like to do this the non-violent way, but traipsing through this forest with a string of prisoners isn't what I had in mind, to be honest."
-    c "Bunu şiddet içermeyen bir yolla yapmayı çok isterdim, ancak dürüst olmak gerekirse, bir dizi mahkumla bu ormanda gezinmek aklımda olan şey değil."
 
-# game/episode014.rpy:945
+    c "Bunu şiddet kullanmadan yapmayı çok isterdim ama dürüst olmak gerekirse, bir dizi tutsak ile bu ormanda dolaşmak aklımda yoktu."
+
+
 translate turkish uailea_tand_5c7de20d:
 
-    # c "You're obviously out of your depth here swinging a gun and playing soldier."
-    c "Belli ki burada silah sallayıp askercilik oynayarak boyundan büyük işlere kalkışıyorsun."
 
-# game/episode014.rpy:946
+    c "Açıkçası silah sallayıp askercilik oynamakta beceriksizsiniz."
+
+
 translate turkish uailea_tand_d6882da9:
 
-    # c "I just want to speak to Rhedia and I promise not to hurt her in any way."
+
     c "Sadece Rhedia ile konuşmak istiyorum ve ona hiçbir şekilde zarar vermeyeceğime söz veriyorum."
 
-# game/episode014.rpy:948
+
 translate turkish uailea_tand_fbb63a66:
 
-    # woman "What guarantees do we have?"
-    woman "Ne gibi garantilerimiz var?"
 
-# game/episode014.rpy:949
+    woman "Ne garantimiz var?"
+
+
 translate turkish uailea_tand_eded71d8:
 
-    # c "None."
-    c "Yok."
 
-# game/episode014.rpy:950
+    c "Hiç."
+
+
 translate turkish uailea_tand_49617de0:
 
-    # c "But you have my word, and that's got to be enough."
-    c "Ama sana söz veriyorum ve bu yeterli olmalı."
 
-# game/episode014.rpy:951
+    c "Ama sözüm var, bu yeterli olmalı."
+
+
 translate turkish uailea_tand_ba6a23e9:
 
-    # "The prisoners looked at each other, and I spotted a hint of resignation."
-    "Mahkumlar birbirlerine baktılar ve ben bir istifa belirtisi gördüm."
 
-# game/episode014.rpy:952
+    "Tutsaklar birbirlerine baktılar ve bir teslimiyet belirtisi fark ettim."
+
+
 translate turkish uailea_tand_7ed5a8b1:
 
-    # woman "Very well, we'll take you to our camp."
+
     woman "Pekala, sizi kampımıza götüreceğiz."
 
-# game/episode014.rpy:954
+
 translate turkish uailea_tand_ce8f6f80:
 
-    # "We made the prisoners walk in front of us."
-    "Mahkumları önümüzde yürüttük."
 
-# game/episode014.rpy:955
+    "Tutsakları önümüzde yürümelerini sağladık."
+
+
 translate turkish uailea_tand_5b060a9f:
 
-    # "Apparently, there weren't any other sentries on this side of the encampment."
-    "Görünüşe göre kampın bu tarafında başka nöbetçi yokmuş." 
 
-# game/episode014.rpy:957
+    "Görünüşe göre kampın bu tarafında başka nöbetçi yoktu."
+
+
 translate turkish uailea_tand_864bebab:
 
-    # "The bustle of the camp could be heard easily in the distance, nobody made much effort to conceal their presence."
-    "Kampın gürültüsü uzaktan rahatlıkla duyulabiliyordu, kimse varlığını gizlemek için fazla çaba sarf etmiyordu." 
 
-# game/episode014.rpy:959
+    "Kampın gürültüsü uzaktan kolayca duyulabiliyordu, kimse varlığını gizlemek için fazla çaba göstermiyordu."
+
+
 translate turkish uailea_tand_b4fdd331:
 
-    # "When we emerged out of the forest with the prisoners, several Rhenkoy scrambled to get their weapons ready."
-    "Tutsaklarla birlikte ormandan çıktığımızda, birkaç Rhenkoy silahlarını hazırlamak için çabaladı." 
 
-# game/episode014.rpy:960
+    "Tutuklularla birlikte ormandan çıktığımızda, birkaç Rhenkoy silahlarını hazırlamak için aceleyle koşuşturdu."
+
+
 translate turkish uailea_tand_fed50ab5:
 
-    # c "Easy now, we mean you no harm."
-    c "Sakin ol, sana zarar vermek istemiyoruz."
 
-# game/episode014.rpy:961
+    c "Sakin olun, size zarar vermek istemiyoruz."
+
+
 translate turkish uailea_tand_f9dec73a:
 
-    # c "We just want to talk to Nkoy Rhedia."
-    c "Biz sadece Nkoy Rhedia ile konuşmak istiyoruz."
 
-# game/episode014.rpy:962
+    c "Sadece Nkoy Rhedia ile konuşmak istiyoruz."
+
+
 translate turkish uailea_tand_d0494c64:
 
-    # c "These prisoners have agreed to take us to her."
-    c "Bu mahkumlar bizi ona götürmeyi kabul ettiler."
 
-# game/episode014.rpy:963
+    c "Bu tutuklular bizi ona götürmeyi kabul etti."
+
+
 translate turkish uailea_tand_83ccac13:
 
-    # c "Please lay down your weapons, we don't want to use violence, unless provoked."
-    c "Lütfen silahlarınızı bırakın, kışkırtılmadığımız sürece şiddet kullanmak istemiyoruz."
 
-# game/episode014.rpy:968
+    c "Lütfen silahlarınızı bırakın, kışkırtılmadıkça şiddet kullanmak istemiyoruz."
+
+
 translate turkish uailea_tand_ce21df34:
 
-    # "The Rhenkoy let us pass, eyeing our guns wearily."
-    "Rhenkoy silahlarımıza yorgun gözlerle bakarak geçmemize izin verdi."
 
-# game/episode014.rpy:969
+    "Rhenkoy'lar silahlarımızı yorgun gözlerle süzerek geçmemize izin verdi."
+
+
 translate turkish uailea_tand_0cfa3d39:
 
-    # woman "Nkoy Rhedia's yurt is in the center of the camp."
-    woman "Nkoy Rhedia'nın yurdu kampın merkezinde."
 
-# game/episode014.rpy:971
+    woman "Nkoy Rhedia'nın çadırı kampın merkezinde."
+
+
 translate turkish uailea_tand_9552b872:
 
-    # "Aven and Kit provided us back cover while we made our way to the middle of the encampment."
-    "Biz kampın ortasına doğru ilerlerken Aven ve Kit bize arka koruma sağladı."
 
-# game/episode014.rpy:972
+    "Aven ve Kit kampın ortasına doğru ilerlerken bize arkadan destek verdi."
+
+
 translate turkish uailea_tand_b5df9d93:
 
-    # "I had no doubt we would escape when the Rhenkoy decided they'd had enough of us, but things would become incredibly messy in that case."
-    "Rhenkoy bizden bıktığına karar verdiğinde kaçacağımızdan hiç şüphem yoktu, ama bu durumda işler inanılmaz derecede karışacaktı."
 
-# game/episode014.rpy:974
+    "Rhenkoy'lar bizden bıktığına karar verdiğinde kaçabileceğimizden şüphem yoktu, ama o durumda işler inanılmaz karışık hale gelirdi."
+
+
 translate turkish uailea_tand_c16cf4f9:
 
-    # "Thankfully, nobody made a move as we reached a large yurt."
-    "Neyse ki büyük bir yurtaya ulaştığımızda kimse harekete geçmedi." 
 
-# game/episode014.rpy:975
+    "Neyse ki büyük çadıra ulaştığımızda kimse bir hamle yapmadı."
+
+
 translate turkish uailea_tand_a8b56872:
 
-    # c "Nkoy Rhedia, please come out."
-    c "Nkoy Rhedia, lütfen dışarı çık."
 
-# game/episode014.rpy:976
+    c "Nkoy Rhedia, lütfen dışarı çıkın."
+
+
 translate turkish uailea_tand_ef977aaa:
 
-    # "It took a while before I got a response."
-    "Yanıt almam biraz zaman aldı."
 
-# game/episode014.rpy:978
+    "Cevap almam biraz zaman aldı."
+
+
 translate turkish uailea_tand_11d4664d:
 
-    # "The door moved open and Nkoy Rhedia stepped into view."
-    "Kapı açıldı ve Nkoy Rhedia görüş alanına girdi."
 
-# game/episode014.rpy:986
+    "Kapı açıldı ve Nkoy Rhedia ortaya çıktı."
+
+
 translate turkish uailea_tand_12967543:
 
-    # rh "Who dares to force their way into our settlement?"
-    rh "Yerleşim yerimize zorla girmeye kim cüret eder?"
 
-# game/episode014.rpy:995
+    rh "Kim bizim yerleşimimize zorla girmeye cüret eder?"
+
+
 translate turkish ep014_eva_simulation_eda16a01:
 
-    # e "Hey Thyia, do you know if you can get the simulation room up and running for me?"
-    e "Hey Thyia, simülasyon odasını benim için hazırlayıp çalıştırabilir misin?"
 
-# game/episode014.rpy:997
+    e "Hey Thyia, simülasyon odasını benim için hazırlayabilir misin?"
+
+
 translate turkish ep014_eva_simulation_ebb2a439:
 
-    # th "I think so."
-    th "Sanırım öyle."
 
-# game/episode014.rpy:998
+    th "Sanırım."
+
+
 translate turkish ep014_eva_simulation_ae6e7a66:
 
-    # th "I know [p_name] has used the simulation room from time to time, at least before we came to Erigone."
-    th "Biliyorum [p_name] simülasyon odasını zaman zaman kullandı, en azından biz Erigone'a gelmeden önce."
 
-# game/episode014.rpy:999
+    th "[p_name]'in simülasyon odasını zaman zaman kullandığını biliyorum, en azından Erigone'ye gelmeden önce."
+
+
 translate turkish ep014_eva_simulation_0f1c6620:
 
-    # e "Yeah, he told me."
+
     e "Evet, bana söyledi."
 
-# game/episode014.rpy:1001
+
 translate turkish ep014_eva_simulation_7951201f:
 
-    # th "I don’t think the Acarhyn yanked out the hardware after redecorating the ship, so it should still run."
-    th "Acarhyn'in gemiyi yeniden dekore ettikten sonra donanımı çıkardığını sanmıyorum, bu yüzden hala çalışıyor olmalı."
 
-# game/episode014.rpy:1003
+    th "Acarhyn'ların gemiyi yeniden dekore ettikten sonra donanımı söktüklerini sanmıyorum, yani hala çalışması gerekir."
+
+
 translate turkish ep014_eva_simulation_6d488cb6:
 
-    # e "Oh good, I think I might give it a spin in that case."
-    e "Oh iyi, sanırım bu durumda bir tur atabilirim."
 
-# game/episode014.rpy:1004
+    e "Oh güzel, o zaman bir deneyebilirim."
+
+
 translate turkish ep014_eva_simulation_e0ab99ae:
 
-    # th "Beware though, it’s a very old version."
-    th "Dikkatli olun, bu çok eski bir sürüm."
 
-# game/episode014.rpy:1005
+    th "Yine de dikkat et, çok eski bir versiyon."
+
+
 translate turkish ep014_eva_simulation_2ba63a21:
 
-    # e "I don’t mind."
-    e "I don't mind."
 
-# game/episode014.rpy:1006
+    e "Sorun değil."
+
+
 translate turkish ep014_eva_simulation_2707fdbf:
 
-    # e "[p_name_short] and I did a simulation back on Douvis, it made me all nostalgic, so I don’t mind the old tech."
-    e "[p_name_short] ve Douvis'te bir simülasyon yaptım, beni nostaljik yaptı, bu yüzden eski teknolojiyi umursamıyorum."
 
-# game/episode014.rpy:1008
+    e "[p_name_short] ve ben Douvis'te bir simülasyon yapmıştık, beni nostaljik hissettirdi, o yüzden eski teknoloji sorun değil."
+
+
 translate turkish ep014_eva_simulation_a50c2e4b:
 
-    # th "Do you want me to set things up right now?"
-    th "İşleri hemen ayarlamamı ister misin?"
 
-# game/episode014.rpy:1009
+    th "Şimdi ayarlamaları yapmamı istiyor musun?"
+
+
 translate turkish ep014_eva_simulation_404d913c:
 
-    # e "That would be great."
+
     e "Bu harika olur."
 
-# game/episode014.rpy:1010
+
 translate turkish ep014_eva_simulation_951f10fa:
 
-    # e "I could maybe use some pointers."
-    e "Belki biraz yol gösterici kullanabilirim."
 
-# game/episode014.rpy:1011
+    e "Belki biraz yardıma ihtiyacım olabilir."
+
+
 translate turkish ep014_eva_simulation_d39e327c:
 
-    # th "Alright, I’m finished here anyway, so I’ll walk you through the controls."
-    th "Pekala, zaten burada işim bitti, bu yüzden size kontrolleri göstereceğim."
 
-# game/episode014.rpy:1013
+    th "Tamam, zaten burada işim bitti, sana kontrolleri gösteririm."
+
+
 translate turkish ep014_eva_simulation_a49cd095:
 
-    # e "Wow, you didn’t lie about the tech being old."
-    e "Vay canına, teknolojinin eski olduğu konusunda yalan söylememişsin."
 
-# game/episode014.rpy:1015
+    e "Vay, teknolojinin eski olduğu konusunda yalan söylemiyormuşsun."
+
+
 translate turkish ep014_eva_simulation_69db5f22:
 
-    # th "Nope, it’s the original module."
+
     th "Hayır, bu orijinal modül."
 
-# game/episode014.rpy:1016
+
 translate turkish ep014_eva_simulation_3516bd5d:
 
-    # th "It still seems to run though."
-    th "Yine de çalışıyor gibi görünüyor."
 
-# game/episode014.rpy:1017
+    th "Yine de hala çalışıyor gibi görünüyor."
+
+
 translate turkish ep014_eva_simulation_478421f1:
 
-    # e "Any interesting scenarios on there?"
+
     e "Orada ilginç senaryolar var mı?"
 
-# game/episode014.rpy:1019
+
 translate turkish ep014_eva_simulation_64d6ff01:
 
-    # th "Let’s see."
+
     th "Bakalım."
 
-# game/episode014.rpy:1020
+
 translate turkish ep014_eva_simulation_c2b4654a:
 
-    # th "There’s some retro space adventure about an alien cloud threatening Old Earth, with you trying to stop it."
-    th "Eski Dünya'yı tehdit eden bir uzaylı bulutu hakkında bir retro uzay macerası var ve sen onu durdurmaya çalışıyorsun."
 
-# game/episode014.rpy:1022
+    th "Eski Dünya'yı tehdit eden uzaylı bulutu hakkında retro bir uzay macerası var, onu durdurmaya çalışıyorsun."
+
+
 translate turkish ep014_eva_simulation_075f6e1d:
 
-    # e "Sounds boring."
-    e "Kulağa sıkıcı geliyor."
 
-# game/episode014.rpy:1023
+    e "Sıkıcı geliyor."
+
+
 translate turkish ep014_eva_simulation_eb073bcc:
 
-    # th "Yeah."
+
     th "Evet."
 
-# game/episode014.rpy:1025
+
 translate turkish ep014_eva_simulation_6b4f6fc9:
 
-    # th "Another one has you fighting against some alien species who have enslaved the people of Old Earth."
-    th "Bir diğerinde Eski Dünya halkını köleleştiren bazı uzaylı türlerine karşı savaşıyorsunuz."
 
-# game/episode014.rpy:1026
+    th "Bir diğeri de Eski Dünya halkını köleleştiren uzaylı türlere karşı savaştığın bir senaryo."
+
+
 translate turkish ep014_eva_simulation_4f2fdfa1:
 
-    # e "Lame."
-    e "Ezik."
 
-# game/episode014.rpy:1027
+    e "Dandik."
+
+
 translate turkish ep014_eva_simulation_80157b18:
 
-    # th "Well, that’s about it."
-    th "Eh, hepsi bu kadar."
 
-# game/episode014.rpy:1028
+    th "İşte, bu kadar."
+
+
 translate turkish ep014_eva_simulation_a9fe48eb:
 
-    # th "There’s another scenario called \"Tuolovi\", a custom one, seems to have been accessed last by [p_name]."
-    th "Özel bir senaryo olan \"Tuolovi\" adında başka bir senaryo var, en son [p_name] tarafından erişilmiş gibi görünüyor."
 
-# game/episode014.rpy:1030
+    th "\"Tuolovi\" adında başka bir senaryo var, özel bir tane, en son [p_name] tarafından erişilmiş görünüyor."
+
+
 translate turkish ep014_eva_simulation_5b48d5c8:
 
-    # e "Oh, he told me about his personal stuff, but he didn't mention it was a sim of Tuolovi."
-    e "Oh, bana kişisel eşyalarından bahsetti, ama Tuolovi'nin simülasyonu olduğundan bahsetmedi."
 
-# game/episode014.rpy:1031
+    e "Oh, kişisel şeylerinden bahsetmişti ama Tuolovi simülasyonu olduğunu söylememişti."
+
+
 translate turkish ep014_eva_simulation_4276338c:
 
-    # e "I want to play that one!"
-    e "Bunu oynamak istiyorum!"
 
-# game/episode014.rpy:1032
+    e "Onu oynamak istiyorum!"
+
+
 translate turkish ep014_eva_simulation_13de70ed:
 
-    # th "Are you sure?{w} [p_name] set it up a while ago."
-    th "Emin misiniz? {w} [p_name] bir süre önce kurdu."
 
-# game/episode014.rpy:1033
+    th "Emin misin?{w} [p_name] bunu bir süre önce kurmuştu."
+
+
 translate turkish ep014_eva_simulation_2cdd8cc0:
 
-    # e "I’m sure he won’t mind."
-    e "Eminim aldırmayacaktır."
 
-# game/episode014.rpy:1035
+    e "Eminim sorun etmez."
+
+
 translate turkish ep014_eva_simulation_ada28bcb:
 
-    # th "If you say so."
-    th "Eğer öyle diyorsan."
 
-# game/episode014.rpy:1036
+    th "Sen bilirsin."
+
+
 translate turkish ep014_eva_simulation_0d8adc7d:
 
-    # th "I’ll get you access."
-    th "Sana erişim sağlayacağım."
 
-# game/episode014.rpy:1038
+    th "Sana erişim vereceğim."
+
+
 translate turkish ep014_eva_simulation_1c35e8ff:
 
-    # e "Wonder if [p_name_short] made a lot of changes to our homeworld."
-    e "Acaba [p_name_short] ana gezegenimizde çok fazla değişiklik yaptı mı?"
 
-# game/episode014.rpy:1040
+    e "Acaba [p_name_short] ana dünyamızda çok değişiklik yapmış mıdır."
+
+
 translate turkish ep014_eva_simulation_866207e0:
 
-    # th "It seems to be based on real life data."
-    th "Gerçek hayat verilerine dayanıyor gibi görünüyor."
 
-# game/episode014.rpy:1041
+    th "Gerçek hayat verilerine dayalı görünüyor."
+
+
 translate turkish ep014_eva_simulation_98be1f2a:
 
-    # th "Anyway, copying is done."
-    th "Her neyse, kopyalama tamamlandı."
 
-# game/episode014.rpy:1043
+    th "Her neyse, kopyalama bitti."
+
+
 translate turkish ep014_eva_simulation_ceba9272:
 
-    # e "Well, here goes then."
-    e "Pekala, işte başlıyoruz."
 
-# game/episode014.rpy:1045
+    e "Peki, o zaman başlıyoruz."
+
+
 translate turkish ep014_eva_simulation_9ee32704:
 
-    # th "Have fun!"
+
     th "İyi eğlenceler!"
 
-# game/episode014.rpy:1047
+
 translate turkish ep014_eva_simulation_1fc00be2:
 
-    # e "I will."
-    e "Yapacağım."
 
-# game/episode014.rpy:1052
+    e "Eğleneceğim."
+
+
 translate turkish ep014_eva_simulation_012d7967:
 
-    # e "What’s this?!"
+
     e "Bu da ne?!"
 
-# game/episode014.rpy:1054
+
 translate turkish ep014_eva_simulation_4091cfd7:
 
-    # e "Lilly?"
+
     e "Lilly?"
 
-# game/episode014.rpy:1056
+
 translate turkish ep014_eva_simulation_5826ae79:
 
-    # e "Lilly, why are you looking at me like that?"
-    e "Lilly, neden bana öyle bakıyorsun?"
 
-# game/episode014.rpy:1058
+    e "Lilly, neden bana böyle bakıyorsun?"
+
+
 translate turkish ep014_eva_simulation_78a7d9f9:
 
-    # e "Wait Lilly!{w} No!"
+
     e "Bekle Lilly!{w} Hayır!"
 
-# game/episode014.rpy:1063
+
 translate turkish ep014_ziv_sex_36a74543:
 
-    # "While talking, Ziv had slipped out of her top."
-    "Konuşurken, Ziv üstünü çıkarmıştı."
 
-# game/episode014.rpy:1064
+    "Konuşurken Ziv üstünü çıkarmıştı."
+
+
 translate turkish ep014_ziv_sex_6cb816b8:
 
-    # c "I’d say this changes things completely."
-    c "Bunun işleri tamamen değiştirdiğini söyleyebilirim."
 
-# game/episode014.rpy:1065
+    c "Bu durumu tamamen değiştirdiğini söyleyebilirim."
+
+
 translate turkish ep014_ziv_sex_79073fad:
 
-    # zi "I had a feeling you’d say that."
-    zi "Bunu söyleyeceğini hissetmiştim."
 
-# game/episode014.rpy:1067
+    zi "Bunu söyleyeceğini hissediyordum."
+
+
 translate turkish ep014_ziv_sex_0271a41c:
 
-    # "Ziv wriggled out of her boots and shed her skirt."
-    "Ziv botlarından sıyrıldı ve eteğini sıyırdı."
 
-# game/episode014.rpy:1068
+    "Ziv botlarını çıkardı ve eteğini attı."
+
+
 translate turkish ep014_ziv_sex_0d71ee60:
 
-    # "Her cock was already hard and the smile she wore issued a direct challenge."
-    "Aleti çoktan sertleşmişti ve yüzündeki gülümseme doğrudan bir meydan okumaydı." 
 
-# game/episode014.rpy:1070
+    "Siki zaten sertleşmişti ve yüzündeki gülümseme doğrudan bir meydan okumaydı."
+
+
 translate turkish ep014_ziv_sex_4406e236:
 
-    # zi "I think we need to continue our discussion over here."
-    zi "Sanırım tartışmamıza burada devam etmemiz gerekiyor."
 
-# game/episode014.rpy:1072
+    zi "Sanırım tartışmamızı şurada sürdürmemiz gerekiyor."
+
+
 translate turkish ep014_ziv_sex_65dcc327:
 
-    # "As she walked towards the large bed, my eyes were drawn to her tight ass."
-    "Büyük yatağa doğru yürürken, gözlerim onun sıkı kıçına takıldı."
 
-# game/episode014.rpy:1073
+    "Büyük yatağa doğru yürürken gözlerim onun sıkı götüne takıldı."
+
+
 translate turkish ep014_ziv_sex_78dcbc18:
 
-    # c "The Council will have to wait if they decide to summon us now."
-    c "Konsey bizi şimdi çağırmaya karar verirse beklemek zorunda kalacak."
 
-# game/episode014.rpy:1075
+    c "Şimdi bizi çağırmaya karar verirlerse Konsey beklemek zorunda kalacak."
+
+
 translate turkish ep014_ziv_sex_4b071c96:
 
-    # zi "I’m sure they won’t mind waiting."
+
     zi "Eminim beklemekten rahatsız olmazlar."
 
-# game/episode014.rpy:1076
+
 translate turkish ep014_ziv_sex_97661b45:
 
-    # zi "Why don’t you get out of that armor and come to bed?"
+
     zi "Neden o zırhı çıkarıp yatağa gelmiyorsun?"
 
-# game/episode014.rpy:1078
+
 translate turkish ep014_ziv_sex_d97ce3ad:
 
-    # "While Ziv lounged on the bed, I tried to get naked as quickly as possible."
-    "Ziv yatakta uzanırken ben de olabildiğince çabuk soyunmaya çalıştım." 
 
-# game/episode014.rpy:1082
+    "Ziv yatakta uzanırken ben mümkün olduğunca hızlı soyunmaya çalıştım."
+
+
 translate turkish ep014_ziv_sex_a24c83e6:
 
-    # "As soon as I was ready, Ziv urged me to sit on top of her."
-    "Hazır olur olmaz, Ziv beni onun üstüne oturmaya çağırdı."
 
-# game/episode014.rpy:1083
+    "Hazır olur olmaz Ziv beni üstüne oturmaya teşvik etti."
+
+
 translate turkish ep014_ziv_sex_50cd5b23:
 
-    # zi "Hmmm, I see you’re just as hard for me as I am for you."
-    zi "Hmmm, görüyorum ki sen de benim için en az benim senin için olduğum kadar sertsin."
 
-# game/episode014.rpy:1084
+    zi "Hmmm, görüyorum ki sen de benim sana olduğum kadar bana sertleşmişsin."
+
+
 translate turkish ep014_ziv_sex_9f382a7b:
 
-    # "With powerful strokes, Ziv began to take care of my dick."
-    "Güçlü vuruşlarla, Ziv aletimle ilgilenmeye başladı."
 
-# game/episode014.rpy:1086
+    "Güçlü vuruşlarla Ziv sikimle ilgilenmeye başladı."
+
+
 translate turkish ep014_ziv_sex_975c8904:
 
-    # "She jerked me off while maintaining eye contact all the while."
-    "Sürekli göz teması kurarak bana mastürbasyon yaptı."
 
-# game/episode014.rpy:1087
+    "Beni otuz bir çekerken sürekli göz teması kuruyordu."
+
+
 translate turkish ep014_ziv_sex_43cca1e4:
 
-    # "When my eyes rolled backwards, I felt her mouth wrap around the shaft, increasing the heavenly feeling tenfold."
-    "Gözlerim geriye doğru yuvarlandığında, ağzının şaftın etrafını sardığını hissettim, cennet hissini on kat artırdı."
 
-# game/episode014.rpy:1089
+    "Gözlerim geriye döndüğünde ağzının sikimin etrafını sardığını hissettim, cennet gibi hissi on katına çıkardı."
+
+
 translate turkish ep014_ziv_sex_f2ef3ff1:
 
-    # "My veined shaft disappeared deep into her mouth, where she treated the entire length with her tongue."
-    "Damarlı şaftım ağzının derinliklerinde kayboldu, burada tüm uzunluğunu diliyle tedavi etti."
 
-# game/episode014.rpy:1091
+    "Damarlı sikim ağzının derinliklerinde kayboldu, tüm uzunluğunu diliyle okşadı."
+
+
 translate turkish ep014_ziv_sex_a4caa57b:
 
-    # c "Keep going like that, Ziv!"
+
     c "Böyle devam et, Ziv!"
 
-# game/episode014.rpy:1092
+
 translate turkish ep014_ziv_sex_7857c3e3:
 
-    # c "Oh fuck yes!"
-    c "Oh fuck yes!"
 
-# game/episode014.rpy:1095
+    c "Oh sikeyim evet!"
+
+
 translate turkish ep014_ziv_sex_85c1d558:
 
-    # "Ziv still looked at me as she sucked me off, gauging how close I was to climax."
-    "Ziv beni emerken hâlâ bana bakıyor, doruğa ne kadar yaklaştığımı ölçüyordu."
 
-# game/episode014.rpy:1096
+    "Ziv beni emerken hala bana bakıyor, boşalmaya ne kadar yakın olduğumu ölçüyordu."
+
+
 translate turkish ep014_ziv_sex_0e60100e:
 
-    # "When I very nearly creamed her mouth, she took my cock out."
-    "Ağzını neredeyse kremlediğimde, sikimi çıkardı."
 
-# game/episode014.rpy:1098
+    "Ağzına boşalmak üzereyken sikimi çıkardı."
+
+
 translate turkish ep014_ziv_sex_b2247730:
 
-    # zi "Fuck me, [p_name_short], I want to feel you inside me."
-    zi "Becer beni, [p_name_short], seni içimde hissetmek istiyorum."
 
-# game/episode014.rpy:1102
+    zi "Sik beni, [p_name_short], seni içimde hissetmek istiyorum."
+
+
 translate turkish ep014_ziv_sex_c19e7034:
 
-    # "When I was ready, I began to take care of Ziv’s dick immediately."
-    "Hazır olduğumda hemen Ziv'in sikiyle ilgilenmeye başladım."
 
-# game/episode014.rpy:1103
+    "Hazır olduğumda, hemen Ziv'in sikini ellemeye başladım."
+
+
 translate turkish ep014_ziv_sex_381962f5:
 
-    # "As I licked her shaft, she made an attempt to jerk me off."
-    "Ben onun aletini yalarken, o da beni boşaltmaya çalıştı."
 
-# game/episode014.rpy:1105
+    "Ben onun sikini yalarken, o da beni çekmeye çalıştı."
+
+
 translate turkish ep014_ziv_sex_dfdb8e90:
 
-    # "She managed a few strokes, but my tongue got the better of her."
-    "Birkaç vuruş yaptı ama dilim onu alt etti." 
 
-# game/episode014.rpy:1107
+    "Birkaç kez çekebildi ama dilim onu kendinden geçirdi."
+
+
 translate turkish ep014_ziv_sex_8cc79576:
 
-    # "When I took her throbbing cock inside my mouth, Ziv abandoned any thought of pleasuring me and instead focused completely on her own."
-    "Zonklayan sikini ağzıma aldığımda, Ziv beni tatmin etme düşüncesinden vazgeçti ve bunun yerine tamamen kendi sikine odaklandı." 
 
-# game/episode014.rpy:1109
+    "Zonklayan sikini ağzıma aldığımda, Ziv bana zevk vermeyi bırakıp tamamen kendi zevkine odaklandı."
+
+
 translate turkish ep014_ziv_sex_3eb45991:
 
-    # "I slowly inserted a finger inside the woman’s pussy and began penetrating her slit."
-    "Yavaşça bir parmağımı kadının amına soktum ve yarığına girmeye başladım."
 
-# game/episode014.rpy:1110
+    "Yavaşça bir parmağımı kadının amına soktum ve parmaklamaya başladım."
+
+
 translate turkish ep014_ziv_sex_e2d01878:
 
-    # "Ziv writhed and twitched beneath me and I could taste her precum entering my mouth."
-    "Ziv altımda kıvrandı ve seğirdi ve ağzıma giren prekumunun tadını alabiliyordum."
 
-# game/episode014.rpy:1113
+    "Ziv altımda kıvranıp titredi ve ağzıma gelen zevk suyunun tadını alabiliyordum."
+
+
 translate turkish ep014_ziv_sex_a22e1af6:
 
-    # "Judging by her moans, Ziv was close to orgasm."
-    "İnlemelerine bakılırsa, Ziv orgazma yakındı."
 
-# game/episode014.rpy:1114
+    "İnlemelerinden anlaşıldığı kadarıyla, Ziv orgazma yaklaşmıştı."
+
+
 translate turkish ep014_ziv_sex_4afa73c3:
 
-    # zi "Oh [p_name_short], I don’t want to cum just yet."
-    zi "Oh [p_name_short], henüz boşalmak istemiyorum."
 
-# game/episode014.rpy:1115
+    zi "Ah [p_name_short], henüz boşalmak istemiyorum."
+
+
 translate turkish ep014_ziv_sex_67c9148f:
 
-    # zi "I want to feel you inside me."
+
     zi "Seni içimde hissetmek istiyorum."
 
-# game/episode014.rpy:1117
+
 translate turkish ep014_ziv_sex_7c7536b2:
 
-    # "Ziv spread her legs and grabbed hold of my cock."
+
     "Ziv bacaklarını açtı ve sikimi kavradı."
 
-# game/episode014.rpy:1118
+
 translate turkish ep014_ziv_sex_7dda9fcf:
 
-    # "The tip brushed against the lips of her pussy."
-    "Ucu amının dudaklarına değdi."
 
-# game/episode014.rpy:1120
+    "Sikim onun amının dudaklarına sürtündü."
+
+
 translate turkish ep014_ziv_sex_8f16c865:
 
-    # zi "I’m so ready for you."
+
     zi "Senin için çok hazırım."
 
-# game/episode014.rpy:1121
+
 translate turkish ep014_ziv_sex_a2ad2ec8:
 
-    # c "I can tell."
-    c "Söyleyebilirim."
 
-# game/episode014.rpy:1123
+    c "Görebiliyorum."
+
+
 translate turkish ep014_ziv_sex_98d2227c:
 
-    # "Still holding my cock, Ziv guided it inside."
-    "Hala sikimi tutan Ziv, onu içeri yönlendirdi."
 
-# game/episode014.rpy:1124
+    "Ziv hala sikimi tutuyordu ve içine doğru yönlendirdi."
+
+
 translate turkish ep014_ziv_sex_e3e37026:
 
-    # "The first thrust felt heavenly and Ziv moaned loudly."
-    "İlk itiş cennet gibi hissettirdi ve Ziv yüksek sesle inledi." 
 
-# game/episode014.rpy:1125
+    "İlk vuruş muhteşem hissettirdi ve Ziv yüksek sesle inledi."
+
+
 translate turkish ep014_ziv_sex_2589a1c8:
 
-    # c "You like that, Ziv?"
+
     c "Hoşuna gitti mi, Ziv?"
 
-# game/episode014.rpy:1127
+
 translate turkish ep014_ziv_sex_af0bef70:
 
-    # zi "I love it, I love your cock so much."
+
     zi "Bayıldım, sikini çok seviyorum."
 
-# game/episode014.rpy:1128
+
 translate turkish ep014_ziv_sex_46fa9cb0:
 
-    # zi "Fuck me please, [p_name_short], fuck me hard!"
-    zi "Becer beni lütfen, [p_name_short], sertçe becer beni!"
 
-# game/episode014.rpy:1130
+    zi "Sik beni lütfen, [p_name_short], sert sik beni!"
+
+
 translate turkish ep014_ziv_sex_7a0dbc55:
 
-    # "Pushing my hands against her knees, I drove into her, pushing her deeper in the mattress."
-    "Ellerimi dizlerine bastırarak içine girdim, onu yatağın daha derinlerine ittim."
 
-# game/episode014.rpy:1131
+    "Ellerimi dizlerine dayayarak içine girdim, onu yatağa doğru daha da bastırdım."
+
+
 translate turkish ep014_ziv_sex_b2d88711:
 
-    # "The woman’s moans increased with each thrust of my cock."
-    "Kadının iniltileri sikimin her hamlesinde artıyordu."
 
-# game/episode014.rpy:1134
+    "Kadının inlemeleri her vuruşumda daha da arttı."
+
+
 translate turkish ep014_ziv_sex_5acaab59:
 
-    # "Ziv’s cock flopped up and down on the rhythm of my thrusts, precum still leaking from the tip."
-    "Ziv'in siki itişlerimin ritmiyle aşağı yukarı sallanıyordu, ucundan hâlâ precum sızıyordu."
 
-# game/episode014.rpy:1136
+    "Ziv'in siki vuruşlarımın ritmiyle aşağı yukarı sallanıyor, ucundan hala zevk suyu damlıyordu."
+
+
 translate turkish ep014_ziv_sex_cd1da336:
 
-    # "Her pussy was a mess, wet with the juices flowing from her cock and out of her slit."
-    "Amcığı darmadağındı, sikinden ve yarığından akan sularla ıslanmıştı." 
 
-# game/episode014.rpy:1139
+    "Amı sırılsıklam olmuştu, sikinden ve amından akan zevk sularıyla doluydu."
+
+
 translate turkish ep014_ziv_sex_53d7d926:
 
-    # zi "Oh yes, make me cum!{w} Please make me cum!"
-    zi "Oh yes, make me cum!{w} Lütfen beni boşalt!"
 
-# game/episode014.rpy:1141
+    zi "Ah evet, boşalt beni!{w} Lütfen boşalt beni!"
+
+
 translate turkish ep014_ziv_sex_b1472bb0:
 
-    # "Without missing a beat, I grabbed hold of Ziv’s member and began to jerk it."
-    "Hiç vakit kaybetmeden Ziv'in aletini kavradım ve sarsmaya başladım." 
 
-# game/episode014.rpy:1142
+    "Hiç duraksamadan, Ziv'in sikini kavradım ve çekmeye başladım."
+
+
 translate turkish ep014_ziv_sex_54b6ede6:
 
-    # "Her pussy and cock were drenched completely in her own juices."
-    "Amcığı ve siki tamamen kendi sularıyla sırılsıklam olmuştu." 
 
-# game/episode014.rpy:1145
+    "Amı ve siki kendi zevk sularıyla tamamen ıslanmıştı."
+
+
 translate turkish ep014_ziv_sex_5151ecce:
 
-    # zi "Keep fucking me with that hard cock of yours!"
+
     zi "O sert sikinle beni sikmeye devam et!"
 
-# game/episode014.rpy:1146
+
 translate turkish ep014_ziv_sex_6cfb337c:
 
-    # zi "Oh yes, right there!"
-    zi "Oh evet, tam orada!"
 
-# game/episode014.rpy:1148
+    zi "Ah evet, tam orası!"
+
+
 translate turkish ep014_ziv_sex_0223d4ee:
 
-    # "I seemed to have found Ziv’s sweet spot, because her moans became ever more desperate."
-    "Ziv'in tatlı noktasını bulmuş gibiydim, çünkü inlemeleri giderek daha çaresiz hale geldi."
 
-# game/episode014.rpy:1150
+    "Görünüşe göre Ziv'in hassas noktasını bulmuştum, çünkü inlemeleri gittikçe daha da çaresizleşti."
+
+
 translate turkish ep014_ziv_sex_36d11907:
 
-    # zi "I’m going to...{w} Oh!"
-    zi "I'm going to...{w} Oh!"
 
-# game/episode014.rpy:1153
+    zi "Ben...{w} Ah!"
+
+
 translate turkish ep014_ziv_sex_f0a36b19:
 
-    # "I felt Ziv’s cock pulsing, and she shot thick strands of cum moments later."
-    "Ziv'in sikinin nabzının attığını hissettim ve dakikalar sonra kalın döl şeritleri fışkırttı."
 
-# game/episode014.rpy:1156
+    "Ziv'in sikinin zonkladığını hissettim ve birkaç saniye sonra kalın dölünü fışkırttı."
+
+
 translate turkish ep014_ziv_sex_3b330bec:
 
-    # "Still gripping her member, I directed the stream of cum towards Ziv and painted her chest with her own warm seed."
-    "Hala aletini kavrarken, döl akışını Ziv'e doğru yönlendirdim ve göğsünü kendi sıcak tohumuyla boyadım."
 
-# game/episode014.rpy:1157
+    "Hala sikini tutarken, döl akışını Ziv'e doğru yönlendirdim ve göğsünü kendi sıcak dölüyle boyadım."
+
+
 translate turkish ep014_ziv_sex_451b6647:
 
-    # "I kept fucking the cum-covered woman until I was right at the edge myself."
-    "Kendim de tam sınıra gelene kadar dölle kaplı kadını sikmeye devam ettim."
 
-# game/episode014.rpy:1162
+    "Dölle kaplı kadını sikmeye devam ettim ta ki ben de boşalma noktasına gelene kadar."
+
+
 translate turkish ep014_ziv_sex_f3f2a54c:
 
-    # "I made one last push, spearing my cock deep inside her pussy and filled her womb with cum."
-    "Son bir hamle yaparak sikimi amının derinliklerine soktum ve rahmini dölle doldurdum."
 
-# game/episode014.rpy:1165
+    "Son bir hamle yaparak sikimi amının derinliklerine gömdüm ve rahmine dölümü boşalttım."
+
+
 translate turkish ep014_ziv_sex_0fd4c549:
 
-    # "Cum oozed from between her lips as I retracted my twitching member from her slit."
-    "Seğiren penisimi yarığından geri çekerken dudaklarının arasından döl sızıyordu."
 
-# game/episode014.rpy:1166
+    "Titreyen sikimi amından çıkardığımda, dudaklarının arasından döl sızmaya başladı."
+
+
 translate turkish ep014_ziv_sex_45db533c:
 
-    # "Ziv emitted soft noises of contentment as she evidently enjoyed the feeling of warm seed seeping from her cunt."
-    "Ziv, amcığından sızan ılık tohum hissinden açıkça hoşlandığı için yumuşak memnuniyet sesleri çıkardı."
 
-# game/episode014.rpy:1170
+    "Ziv amından sızan sıcak dölün verdiği hazzı yaşarken memnuniyetle hafif sesler çıkarıyordu."
+
+
 translate turkish ep014_ziv_sex_a0ce15a9:
 
-    # "I whipped out my cock just as it started shooting cum and covered her abdomen in a wide spray."
-    "Tam boşalmaya başladığında sikimi çıkardım ve karnını geniş bir spreyle kapladım."
 
-# game/episode014.rpy:1173
+    "Tam boşalmaya başlarken sikimi çıkardım ve karnını geniş bir şekilde dölle kapladım."
+
+
 translate turkish ep014_ziv_sex_55e47cdb:
 
-    # "My warm seed mixed with Ziv’s cum and dripped onto the bed in small streams."
-    "Sıcak tohumum Ziv'in dölüyle karıştı ve küçük akıntılar halinde yatağa damladı."
 
-# game/episode014.rpy:1175
+    "Sıcak dölüm Ziv'in dölüyle karıştı ve küçük akıntılar halinde yatağa damladı."
+
+
 translate turkish ep014_ziv_sex_a735a265:
 
-    # "Thoroughly spent, Ziv and I rested on the bed."
-    "İyice tükenmiş olan Ziv ve ben yatakta dinlendik." 
 
-# game/episode014.rpy:1177
+    "İyice yorulmuş bir halde, Ziv ve ben yatakta dinlendik."
+
+
 translate turkish ep014_ziv_sex_712b5f3a:
 
-    # zi "That was incredible, [p_name]."
+
     zi "Bu inanılmazdı, [p_name]."
 
-# game/episode014.rpy:1178
+
 translate turkish ep014_ziv_sex_95777e36:
 
-    # zi "I couldn’t imagine our union feeling so good."
-    zi "Birlikteliğimizin bu kadar iyi hissettireceğini hayal bile edemezdim."
 
-# game/episode014.rpy:1179
+    zi "Birleşmemizin bu kadar iyi hissettireceğini hayal bile edemezdim."
+
+
 translate turkish ep014_ziv_sex_a9a75357:
 
-    # c "Well, you’re a great lover, Ziv."
-    c "Sen harika bir aşıksın, Ziv."
 
-# game/episode014.rpy:1181
+    c "Sen harika bir sevgilisin, Ziv."
+
+
 translate turkish ep014_ziv_sex_262d5b0a:
 
-    # zi "Thank you."
+
     zi "Teşekkür ederim."
 
-# game/episode014.rpy:1186
+
 translate turkish ep014_ziv_sex_de675800:
 
-    # zi "But normally achieving a unity such as this takes several years."
-    zi "Ancak normalde böyle bir birliğin sağlanması birkaç yıl alır."
 
-# game/episode014.rpy:1187
+    zi "Ama normalde böyle bir birlikteliğe ulaşmak yıllar alır."
+
+
 translate turkish ep014_ziv_sex_6ef72b46:
 
-    # c "I have a feeling that the rigid multi-level way you Rhenkoy approach sex has something to do with that."
-    c "Siz Rhenkoy'un sekse katı ve çok seviyeli yaklaşımının bununla bir ilgisi olduğunu hissediyorum."
 
-# game/episode014.rpy:1188
+    c "Sanırım Rhenkoy'ların sekse bu katı, çok aşamalı yaklaşımının bunda payı var."
+
+
 translate turkish ep014_ziv_sex_16d67af5:
 
-    # zi "I’m beginning to think you’re right."
-    zi "Haklı olduğunu düşünmeye başlıyorum."
 
-# game/episode014.rpy:1190
+    zi "Haklı olduğunu düşünmeye başladım."
+
+
 translate turkish ep014_ziv_sex_bca499ec:
 
-    # zi "Say, [p_name_short], I was wondering something..."
-    zi "Söyle, [p_name_short], bir şeyi merak ediyordum..."
 
-# game/episode014.rpy:1191
+    zi "Şey, [p_name_short], bir şey merak ediyordum..."
+
+
 translate turkish ep014_ziv_sex_a94781a9:
 
-    # zi "I’m not sure how to say this, but so far you’ve been...{w} Uh...{w} Inside me with your penis."
-    zi "Bunu nasıl söyleyeceğimden emin değilim, ama şimdiye kadar...{w} Uh...{w} Penisinle içime gir."
 
-# game/episode014.rpy:1192
+    zi "Nasıl söyleyeceğimi tam bilmiyorum ama şimdiye kadar sen...{w} Şey...{w} Sikinle içimde oldun."
+
+
 translate turkish ep014_ziv_sex_00d11b49:
 
-    # c "Yes..."
+
     c "Evet..."
 
-# game/episode014.rpy:1193
+
 translate turkish ep014_ziv_sex_5440698a:
 
-    # zi "Well, it might be a little unconventional, but if you ever want to switch it up."
-    zi "Şey, biraz alışılmadık olabilir, ama eğer değiştirmek istersen."
 
-# game/episode014.rpy:1194
+    zi "Şey, biraz alışılmadık olabilir ama eğer rolleri değiştirmek istersen."
+
+
 translate turkish ep014_ziv_sex_32dd36df:
 
-    # c "Unconventional?{w} You mean have anal sex?"
-    c "Alışılmamış? {w} Anal seks mi demek istiyorsun?"
 
-# game/episode014.rpy:1196
+    c "Alışılmadık mı?{w} Anal seks mi demek istiyorsun?"
+
+
 translate turkish ep014_ziv_sex_b75640cb:
 
-    # zi "Yes...{w} I haven’t offended you, have I?"
+
     zi "Evet...{w} Seni kırmadım, değil mi?"
 
-# game/episode014.rpy:1197
+
 translate turkish ep014_ziv_sex_91336a2a:
 
-    # c "No, of course not."
-    c "Hayır, tabii ki değil."
 
-# game/episode014.rpy:1198
+    c "Hayır, tabii ki hayır."
+
+
 translate turkish ep014_ziv_sex_be6962e6:
 
-    # c "I’m just surprised."
+
     c "Sadece şaşırdım."
 
-# game/episode014.rpy:1199
+
 translate turkish ep014_ziv_sex_dc626f8a:
 
-    # c "Are you implying that Rhenkoy don’t have anal sex?"
-    c "Rhenkoy'un anal seks yapmadığını mı ima ediyorsun?"
 
-# game/episode014.rpy:1201
+    c "Yani Rhenkoy'lar anal seks yapmıyor mu?"
+
+
 translate turkish ep014_ziv_sex_0854c5ca:
 
-    # zi "It’s not part of any level of Rhenkoy Companionship, no."
-    zi "Rhenkoy Arkadaşlığının herhangi bir seviyesinin parçası değil, hayır."
 
-# game/episode014.rpy:1202
+    zi "Hayır, Rhenkoy Yoldaşlığının hiçbir seviyesinde böyle bir şey yok."
+
+
 translate turkish ep014_ziv_sex_7aac2bac:
 
-    # zi "It might be practiced in private though, but I’ve never heard anyone speak about it."
-    zi "Gerçi özel olarak uygulanıyor olabilir, ama kimsenin bu konuda konuştuğunu duymadım."
 
-# game/episode014.rpy:1203
+    zi "Gerçi özel hayatta yapılıyor olabilir ama hiç kimsenin bundan bahsettiğini duymadım."
+
+
 translate turkish ep014_ziv_sex_4e24c2ca:
 
-    # c "Really?"
+
     c "Gerçekten mi?"
 
-# game/episode014.rpy:1204
+
 translate turkish ep014_ziv_sex_c9da05a8:
 
-    # c "Well, all I can say that it’s a different feeling."
-    c "Şey, tek söyleyebileceğim bunun farklı bir duygu olduğu."
 
-# game/episode014.rpy:1206
+    c "Şey, tek söyleyebileceğim farklı bir his olduğu."
+
+
 translate turkish ep014_ziv_sex_d8df716d:
 
-    # zi "Would you enjoy me being inside you?"
-    zi "İçinde olmamdan hoşlanır mısın?"
 
-# game/episode014.rpy:1210
+    zi "Ben içinde olsam hoşuna gider mi?"
+
+
 translate turkish ep014_ziv_sex_45144741:
 
-    # c "Yes, I trust you enough to try it some time."
-    c "Evet, bir ara deneyecek kadar sana güveniyorum."
 
-# game/episode014.rpy:1212
+    c "Evet, sana yeterince güveniyorum, bir ara deneyebiliriz."
+
+
 translate turkish ep014_ziv_sex_caa84752:
 
-    # zi "You don’t think me weird?"
-    zi "Beni garip bulmuyor musun?"
 
-# game/episode014.rpy:1213
+    zi "Beni tuhaf bulmuyor musun?"
+
+
 translate turkish ep014_ziv_sex_d7ae8504:
 
-    # c "Not at all."
-    c "Hiç de değil."
 
-# game/episode014.rpy:1214
+    c "Kesinlikle hayır."
+
+
 translate turkish ep014_ziv_sex_05eaf34e:
 
-    # c "I know it’s easier when there’s some written Companionship rule, but we have a relationship, remember."
-    c "Yazılı bir Arkadaşlık kuralı olduğunda daha kolay olduğunu biliyorum, ama bizim bir ilişkimiz var, unutma."
 
-# game/episode014.rpy:1215
+    c "Yazılı Yoldaşlık kuralları olunca daha kolay olduğunu biliyorum ama unutma, bizim bir ilişkimiz var."
+
+
 translate turkish ep014_ziv_sex_c054fcc9:
 
-    # c "So we should talk about who’s top and who’s bottom, or whatever else is on our minds."
-    c "Öyleyse kimin üstte kimin altta olduğunu ya da aklımızda başka ne varsa onu konuşmalıyız."
 
-# game/episode014.rpy:1217
+    c "Bu yüzden kimin üstte kimin altta olacağını ya da aklımızdaki her şeyi konuşabilmeliyiz."
+
+
 translate turkish ep014_ziv_sex_c27b54a7:
 
-    # zi "Alright, I’ll remember that."
-    zi "Tamam, bunu unutmayacağım."
 
-# game/episode014.rpy:1218
+    zi "Tamam, bunu aklımda tutacağım."
+
+
 translate turkish ep014_ziv_sex_fefb75d0:
 
-    # zi "Thank you for being so frank with me."
-    zi "Bana karşı bu kadar açık sözlü olduğun için teşekkür ederim."
 
-# game/episode014.rpy:1221
+    zi "Benimle bu kadar açık olduğun için teşekkür ederim."
+
+
 translate turkish ep014_ziv_sex_68e69dd0:
 
-    # c "I don’t think so."
+
     c "Sanmıyorum."
 
-# game/episode014.rpy:1222
+
 translate turkish ep014_ziv_sex_a127e148:
 
-    # c "You’re enough for me as is, Ziv."
-    c "Bu halinle bana yetiyorsun, Ziv."
 
-# game/episode014.rpy:1224
+    c "Sen bana bu halinle yeterlisin, Ziv."
+
+
 translate turkish ep014_ziv_sex_eae7ca77:
 
-    # zi "Thank you for being so frank with me, [p_name]."
-    zi "Bana karşı bu kadar açık sözlü olduğun için teşekkür ederim, [p_name]."
 
-# game/episode014.rpy:1225
+    zi "Benimle bu kadar açık olduğun için teşekkür ederim, [p_name]."
+
+
 translate turkish ep014_ziv_sex_0e462eb6:
 
-    # c "Of course, it’s important we keep talking about whatever is on our minds."
-    c "Elbette, aklımızdaki her şey hakkında konuşmaya devam etmemiz önemli."
 
-# game/episode014.rpy:1229
+    c "Tabii ki, aklımızdaki her şeyi konuşmaya devam etmemiz önemli."
+
+
 translate turkish ep014_ziv_sex_f63c0a02:
 
-    # c "But would you like to try it yourself with me on top, sometime?"
-    c "Ama bir ara ben üstteyken kendin denemek ister misin?"
 
-# game/episode014.rpy:1231
+    c "Peki sen denemek ister misin, ben üstte olarak?"
+
+
 translate turkish ep014_ziv_sex_5df05bea:
 
-    # zi "I’m rather curious..."
+
     zi "Oldukça merak ediyorum..."
 
-# game/episode014.rpy:1232
+
 translate turkish ep014_ziv_sex_4800b34b:
 
-    # c "In that case, we’ll thoroughly shred all of those Rhenkoy Companionship restrictions one level at a time."
-    c "Bu durumda, tüm bu Rhenkoy Arkadaşlık kısıtlamalarını her seferinde bir seviye olmak üzere tamamen parçalayacağız."
 
-# game/episode014.rpy:1234
+    c "O zaman, tüm bu Rhenkoy Yoldaşlık kısıtlamalarını birer birer yırtıp atacağız."
+
+
 translate turkish ep014_ziv_sex_a39b9f8f:
 
-    # zi "I’d like that very much."
+
     zi "Bunu çok isterim."
 
-# game/episode014.rpy:1238
+
 translate turkish ep014_ziv_sex_353ce2a4:
 
-    # "I pulled Ziv closer against me and she smiled in obvious relief."
-    "Ziv'i kendime doğru çektim ve o da bariz bir rahatlamayla gülümsedi."
 
-# game/episode014.rpy:1239
+    "Ziv'i kendime doğru çektim ve o da rahatlamış bir şekilde gülümsedi."
+
+
 translate turkish ep014_ziv_sex_7e8aeb68:
 
-    # "Ziv nestled herself against my chest and we lay in silence for a long while."
-    "Ziv göğsüme yaslandı ve uzun bir süre sessizlik içinde yattık."
+
+    "Ziv göğsüme sokuldu ve uzun bir süre sessizce uzandık."
 
 translate turkish strings:
 
-    # game/episode014.rpy:24
+
+    old "Episode 14"
+    new "Bölüm 14"
+
+
     old "Unknown"
-    new "Bilinmiyor"
+    new "Bilinmeyen"
 
-    # game/episode014.rpy:25
+
     old "COMMO"
-    new "COMMO"
+    new "HABERLEŞME"
 
-    # game/episode014.rpy:26
+
     old "Commander"
     new "Komutan"
 
-    # game/episode014.rpy:27
-    old "XO"
-    new "XO"
 
-    # game/episode014.rpy:88
+    old "XO"
+    new "İkinci Kaptan"
+
+
     old "Taagmar"
     new "Taagmar"
 
-    # game/episode014.rpy:88
+
     old "A species occupying the Hawwa Cluster, a secret staging ground for Sovereignty forces led by Agust."
-    new "Agust tarafından yönetilen Egemenlik güçleri için gizli bir hazırlık alanı olan Hawwa Kümesi'ni işgal eden bir tür."
+    new "Hawwa Kümesi'ni işgal eden bir tür. Burası Agust liderliğindeki Egemenlik güçlerinin gizli üs bölgesi."
 
-    # game/episode014.rpy:113
+
     old "Douvis, Orbit"
-    new "Douvis, Orbit"
+    new "Douvis, Yörünge"
 
-    # game/episode014.rpy:219
+
     old "Uailea, Approach"
     new "Uailea, Yaklaşım"
 
-    # game/episode014.rpy:228
-    old "Uailea"
-    new "Uailea"
 
-    # game/episode014.rpy:228
     old "Rhenkoy homeworld and the seat of the Council of Nkoy. Many of the planet's cities are noted for their distinct architecture."
-    new "Rhenkoy ana gezegeni ve Nkoy Konseyi'nin merkezi. Gezegenin birçok şehri farklı mimarileriyle dikkat çeker."
+    new "Rhenkoy ana gezegeni ve Nkoy Konseyi'nin merkezi. Gezegenin birçok şehri kendine özgü mimarisiyle tanınır."
 
-    # game/episode014.rpy:278
+
     old "Keep watching"
     new "İzlemeye devam et"
 
-    # game/episode014.rpy:278
+
     old "Stop watching"
     new "İzlemeyi bırak"
 
-    # game/episode014.rpy:395
+
     old "Council Member"
     new "Konsey Üyesi"
 
-    # game/episode014.rpy:574
+
     old "Characters"
     new "Karakterler"
 
-    # game/episode014.rpy:574
+
     old "Rhedia"
     new "Rhedia"
 
-    # game/episode014.rpy:574
-    old "Once a respected member of the Council of Nkoy, Rhedia is now a renegade after openly inciting sedition. The former Nkoy has fled to a large forest near the village of Tand, together with her followers."
-    new "Bir zamanlar Nkoy Konseyi'nin saygın bir üyesi olan Rhedia, açıkça isyana teşvik ettikten sonra artık bir dönek. new Nkoy, takipçileriyle birlikte Tand köyü yakınlarındaki büyük bir ormana kaçtı."
 
-    # game/episode014.rpy:627
+    old "Once a respected member of the Council of Nkoy, Rhedia is now a renegade after openly inciting sedition. The former Nkoy has fled to a large forest near the village of Tand, together with her followers."
+    new "Bir zamanlar Nkoy Konseyi'nin saygın bir üyesi olan Rhedia, açıkça isyana teşvik ettikten sonra artık bir asi. Eski Nkoy, takipçileriyle birlikte Tand köyü yakınlarındaki büyük bir ormana kaçtı."
+
+
     old "Arlya"
     new "Arlya"
 
-    # game/episode014.rpy:627
+
     old "One of the members (Nkoy) of the Council of Nkoy on Uailea, the Rhenkoy homeworld."
-    new "Rhenkoy ana gezegeni Uailea'daki Nkoy Konseyi üyelerinden biri (Nkoy)."
+    new "Rhenkoy ana gezegeni Uailea'daki Nkoy Konseyi'nin üyelerinden (Nkoy) biri."
 
-    # game/episode014.rpy:627
+
     old "While the Council has refused helping the crew, Arlya has come forward on her own with a proposition."
-    new "Konsey mürettebata yardım etmeyi reddederken, Arlya tek başına bir teklifle ortaya çıktı."
+    new "Konsey mürettebata yardım etmeyi reddetmesine rağmen, Arlya kendi başına bir teklifle öne çıktı."
 
-    # game/episode014.rpy:655
+
     old "Uailea Capital, Docks"
-    new "Uailea Capital, Rıhtım"
+    new "Uailea Başkenti, Limanlar"
 
-    # game/episode014.rpy:694
+
     old "Places"
     new "Yerler"
 
-    # game/episode014.rpy:694
+
     old "Tand"
     new "Tand"
 
-    # game/episode014.rpy:694
+
     old "A small and quiet town on Uailea, the Rhenkoy homeworld. Tand borders on a largest forest where Nkoy Rhedia supposedly resides after fleeing the capital."
-    new "Rhenkoy ana gezegeni Uailea'da küçük ve sakin bir kasaba. Tand, Nkoy Rhedia'nın başkentten kaçtıktan sonra yaşadığı varsayılan büyük bir ormana sınırdır."
+    new "Rhenkoy ana gezegeni Uailea'da küçük ve sakin bir kasaba. Tand, Nkoy Rhedia'nın başkentten kaçtıktan sonra yaşadığı söylenen en büyük ormanla sınır komşusu."
 
-    # game/episode014.rpy:710
+
     old "Store Owner"
-    new "Mağaza Sahibi"
+    new "Dükkan Sahibi"
 
-    # game/episode014.rpy:762
+
     old "Shoot to kill"
     new "Öldürmek için ateş et"
 
-    # game/episode014.rpy:762
-    old "Avoid casualties"
-    new "Kayıplardan kaçının"
 
-    # game/episode014.rpy:928
+    old "Avoid casualties"
+    new "Ölümlerden kaçın"
+
+
     old "Prisoner"
     new "Mahkum"
 
-    # game/episode014.rpy:993
+
     old "Tand, Outskirts"
-    new "Tand, Outskirts"
+    new "Tand, Dış Mahalleler"
 
-    # game/episode014.rpy:1079
+
     old "Let her suck you"
-    new "Bırak seni emsin"
+    new "Onu emmen için bırak"
 
-    # game/episode014.rpy:1079
+
     old "Suck her cock"
-    new "Onun sikini yala"
+    new "Sikini em"
 
-    # game/episode014.rpy:1207
+
     old "Agree to receive anal sex"
-    new "Anal seks yapmayı kabul ediyorum"
+    new "Anal seks almayı kabul et"
 
-    # game/episode014.rpy:1207
-    old "Don’t agree"
-    new "Katılmıyorum"
 
-    # game/episode014.rpy:1226
+    old "Don't agree"
+    new "Kabul etme"
+
+
     old "Anal with Ziv"
-    new "Ziv ile Anal"
+    new "Ziv ile anal"
 
-    # game/episode014.rpy:1226
+
     old "Stop talking"
     new "Konuşmayı kes"
-
-# TODO: Translation updated at 2025-06-04 13:38
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-06-19 22:52
 
 translate turkish strings:
 
-    # game/episode014.rpy:3
-    old "Episode 14"
-    new ""
+    # game/episode014.rpy:1228
+    old "Don’t agree"
+    new "Katılmıyorum"
 

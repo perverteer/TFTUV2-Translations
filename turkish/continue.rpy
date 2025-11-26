@@ -1,204 +1,256 @@
-﻿# TODO: Translation updated at 2025-06-04 13:38
+﻿
 
 translate turkish strings:
 
-    # game/continue.rpy:13
+
     old "Please select the Season 1 save you'd like to load, or start a new game instead:"
-    new ""
+    new "Lütfen yüklemek istediğiniz Sezon 1 kayıtını seçin veya bunun yerine yeni bir oyun başlatın:"
 
-    # game/continue.rpy:47
+
     old "Start new game"
-    new ""
+    new "Yeni oyun başlat"
 
-    # game/continue.rpy:91
+
     old "General"
-    new ""
+    new "Genel"
 
-    # game/continue.rpy:91
+
     old "Story"
-    new ""
+    new "Hikaye"
 
-    # game/continue.rpy:91
+
     old "Did Thim enter the Pit of Despair on Nyiruan 12-Beta?"
-    new ""
+    new "Thim, Nyiruan 12-Beta'daki Umutsuzluk Çukuru'na girdi mi?"
 
-    # game/continue.rpy:91
+
     old "Did you help the R'o escape the Pit of Despair?"
-    new ""
+    new "R'o'ların Umutsuzluk Çukuru'ndan kaçmasına yardım ettin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you sign the contract and enter the ConVitæ on Verdant station?"
-    new ""
+    new "Sözleşmeyi imzalayıp Verdant istasyonundaki ConVitæ'ye girdin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex with Luzanne (Futa)?"
-    new ""
+    new "Luzanne (Futa) ile seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you execute Garomph in the human milking factory on Barranthis?"
-    new ""
+    new "Barranthis'teki insan sağım fabrikasında Garomph'u idam ettin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you sabotage the human milking factory on Barranthis?"
-    new ""
+    new "Barranthis'teki insan sağım fabrikasını sabote ettin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you help the women escape from the human milking factory on Barranthis?"
-    new ""
+    new "Kadınların Barranthis'teki insan sağım fabrikasından kaçmasına yardım ettin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you alter the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "Iron Bastard'daki Eva ve Lilly simülasyonunu değiştirdin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you delete the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "Iron Bastard'daki Eva ve Lilly simülasyonunu sildin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you abbandon the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "Iron Bastard'daki Eva ve Lilly simülasyonunu terk ettin mi?"
 
-    # game/continue.rpy:91
+
     old "Did form an alliance with the Warrior caste on Erigone?"
-    new ""
+    new "Erigone'daki Savaşçı kastıyla ittifak kurdun mu?"
 
-    # game/continue.rpy:91
+
     old "Did form an alliance with the Priest caste on Erigone?"
-    new ""
+    new "Erigone'daki Rahip kastıyla ittifak kurdun mu?"
 
-    # game/continue.rpy:91
+
     old "Did you remain neutral and declined to form any alliances on Erigone?"
-    new ""
+    new "Erigone'da tarafsız kaldın ve herhangi bir ittifak kurmayı reddetttin mi?"
 
-    # game/continue.rpy:91
+
     old "Did you rescue the Acarhyn warrior during the Hunt on Erigone?"
-    new ""
+    new "Erigone'daki Av sırasında Acarhyn savaşçısını kurtardın mı?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Lilly?"
-    new ""
+    new "Lilly ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Aven?"
-    new ""
+    new "Aven ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Were trying to get into a relationship with Nadya?"
-    new ""
+    new "Nadya ile bir ilişkiye girmeye çalışıyor muydun?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Céline?"
-    new ""
+    new "Céline ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Do you want Céline to be part of your future harem?"
-    new ""
+    new "Céline'in gelecekteki hareminin bir parçası olmasını istiyor musun?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Thyia?"
-    new ""
+    new "Thyia ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Do you want Thyia to be part of your future harem?"
-    new ""
+    new "Thyia'nın gelecekteki hareminin bir parçası olmasını istiyor musun?"
 
-    # game/continue.rpy:91
+
     old "Were trying to be friends with Ziv?"
-    new ""
+    new "Ziv ile arkadaş olmaya çalışıyor muydun?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Ziv?"
-    new ""
+    new "Ziv ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Do you want Vess to be your submissive?"
-    new ""
+    new "Vess'in senin itaatkârın olmasını istiyor musun?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Vess?"
-    new ""
+    new "Vess ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Are you in a relationship with Jade?"
-    new ""
+    new "Jade ile bir ilişkin var mı?"
 
-    # game/continue.rpy:91
+
     old "Is Jade your submissive?"
-    new ""
+    new "Jade senin itaatkârın mı?"
 
-    # game/continue.rpy:91
+
     old "Were trying to be friends with Raene?"
-    new ""
+    new "Raene ile arkadaş olmaya çalışıyor muydun?"
 
-    # game/continue.rpy:91
+
     old "Were trying to get into a relationship with Raene?"
-    new ""
+    new "Raene ile bir ilişkiye girmeye çalışıyor muydun?"
 
-    # game/continue.rpy:91
+
     old "Have you befriended Thim?"
-    new ""
+    new "Thim ile arkadaş oldun mu?"
 
-    # game/continue.rpy:91
+
     old "Misc"
-    new ""
+    new "Çeşitli"
 
-    # game/continue.rpy:91
+
     old "Did you participate in the R'o orgy?"
-    new ""
+    new "R'o orgisine katıldın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you creampie D'ee, the R'o leader?"
-    new ""
+    new "R'o lideri D'ee'nin içine boşaldın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you creampie the R'o virgin?"
-    new ""
+    new "R'o bakiresinin içine boşaldın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex in the ConVitæ simulation?"
-    new ""
+    new "ConVitæ simülasyonunda seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex with Berit in the ConVitæ simulation?"
-    new ""
+    new "ConVitæ simülasyonunda Berit ile seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex with Leda in the ConVitæ simulation?"
-    new ""
+    new "ConVitæ simülasyonunda Leda ile seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex with the doctor at the ConVitæ research station?"
-    new ""
+    new "ConVitæ araştırma istasyonundaki doktorla seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have an orgy with the Acarhyn on Erigone?"
-    new ""
+    new "Erigone'da Acarhyn'larla orgi yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Did Kit join you during the orgy with the Acarhyn on Erigone?"
-    new ""
+    new "Erigone'da Acarhyn'larla yaptığın orgi sırasında Kit sana katıldı mı?"
 
-    # game/continue.rpy:91
+
     old "Did you have sex with Yve?"
-    new ""
+    new "Yve ile seks yaptın mı?"
 
-    # game/continue.rpy:91
+
     old "Fetish"
-    new ""
+    new "Fetiş"
 
-    # game/continue.rpy:91
+
+    old "Anal"
+    new "Anal"
+
+
     old "Rimming"
-    new ""
+    new "Göt yalama"
 
-    # game/continue.rpy:91
+
     old "Watersports"
-    new ""
+    new "Su sporları"
 
-    # game/continue.rpy:882
+
     old "Start a new game"
-    new ""
+    new "Yeni oyun başlat"
 
-    # game/continue.rpy:896
+
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
-    new ""
+    new "Oyun, Birinci Sezon'dan kaydedilmiş bir oyunu içe aktardığınızda en iyi şekilde tadı çıkarılır. Sezon kayıtlarınıza erişiminizi kaybettiyseniz veya sadece İkinci Sezon ile başlamak istiyorsanız, aşağıdan birinci sezonun en önemli seçimlerini seçebilirsiniz, diğer tüm kararlar varsayılan değere ayarlanacaktır."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:57
+
+translate turkish strings:
+
+    # game/continue.rpy:43
+    old "No season saves currently available"
+    new "Şu anda mevcut sezon kaydı yok"
+
+    # game/continue.rpy:94
+    old "Were you polite to the Tubloshi?"
+    new "Tubloshi'ye kibar davrandın mı?"
+
+    # game/continue.rpy:94
+    old "Were you openly suspicious of the Tubloshi?"
+    new "Tubloshi'ye açıkça şüpheyle mi bakıyordunuz?"
+
+    # game/continue.rpy:94
+    old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "Iron Bastard'da Eva ve Lilly'nin simülasyonunu terk ettin mi?"
+
+    # game/continue.rpy:94
+    old "Do you want to get Lilly pregnant?"
+    new "Lilly'yi hamile bırakmak mı istiyorsun?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Ziv (Futa)?"
+    new "Ziv (Futa) ile arkadaş olmaya mı çalışıyorduk?"
+
+    # game/continue.rpy:94
+    old "Are you in a relationship with Ziv (Futa)?"
+    new "Ziv (Futa) ile bir ilişkiniz var mı?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Raene (Trans)?"
+    new "Raene (Trans) ile arkadaş olmaya mı çalışıyorduk?"
+
+    # game/continue.rpy:94
+    old "Were trying to get into a relationship with Raene (Trans)?"
+    new "Raene (Trans) ile bir ilişki kurmaya mı çalışıyorduk?"
+
+    # game/continue.rpy:94
+    old "Did you have sex with Hannah, the Tubloshi translator?"
+    new "Tubloshi tercümanı Hannah ile seks yaptın mı?"
+
+    # game/continue.rpy:94
+    old "Did you creampie Hannah?"
+    new "Hannah'ya içime boşaldın mı?"
 

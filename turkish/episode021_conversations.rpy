@@ -1,1076 +1,1076 @@
-﻿# TODO: Translation updated at 2025-06-04 13:38
+﻿
 
-# game/episode021_conversations.rpy:51
+
 translate turkish ep021_jade_sex_soft_43e4e8ad:
 
-    # "Just as I was about to sleep, Jade arrived, wearing pretty much nothing."
-    ""
 
-# game/episode021_conversations.rpy:52
+    "Tam uyumak üzereyken Jade geldi, üzerinde neredeyse hiçbir şey yoktu."
+
+
 translate turkish ep021_jade_sex_soft_3017616c:
 
-    # j "I heard we had some time to kill during the journey to Petrarch."
-    j ""
 
-# game/episode021_conversations.rpy:53
+    j "Petrarch'a yolculuk sırasında öldürecek zamanımız olduğunu duydum."
+
+
 translate turkish ep021_jade_sex_soft_b34de2f7:
 
-    # c "Well, we’re not being shot at right now, so I guess I have some spare time."
-    c ""
 
-# game/episode021_conversations.rpy:55
+    c "Şu anda bize ateş edilmiyor, sanırım biraz boş zamanım var."
+
+
 translate turkish ep021_jade_sex_soft_785633e7:
 
-    # "I obliged as Jade closed the door softly behind her and came over to me."
-    ""
 
-# game/episode021_conversations.rpy:56
+    "Jade kapıyı usulca arkasından kapatıp yanıma gelirken ben de ona uydum."
+
+
 translate turkish ep021_jade_sex_soft_f243f204:
 
-    # "The skimpy night dress she was wearing left her breasts exposed, so I was already hard when she reached me."
-    ""
 
-# game/episode021_conversations.rpy:61
+    "Giydiği dar gece elbisesi göğüslerini açıkta bırakıyordu, bu yüzden bana ulaştığında çoktan sertleşmiştim."
+
+
 translate turkish ep021_jade_sex_soft_e6ce3da4:
 
-    # "Jade dropped to her knees and wrapped her hands around my cock greedily."
-    ""
 
-# game/episode021_conversations.rpy:62
+    "Jade dizlerinin üzerine çöktü ve ellerini açgözlülükle sikimin etrafına sardı."
+
+
 translate turkish ep021_jade_sex_soft_8d08fb63:
 
-    # "She moaned in appreciation as she took my member in her mouth."
-    ""
 
-# game/episode021_conversations.rpy:64
+    "Sikimi ağzına alırken takdirle inledi."
+
+
 translate turkish ep021_jade_sex_soft_dd4ae7e6:
 
-    # j "Mmmm, you’re already so hard for me."
-    j ""
 
-# game/episode021_conversations.rpy:66
+    j "Mmmm, benim için çoktan dimdik olmuşsun."
+
+
 translate turkish ep021_jade_sex_soft_37559452:
 
-    # "Her tongue made circles along my shaft, her head moving up and down slowly."
-    ""
 
-# game/episode021_conversations.rpy:67
+    "Dili sikimin etrafında daireler çiziyor, kafasını yavaşça aşağı yukarı oynatıyordu."
+
+
 translate turkish ep021_jade_sex_soft_f2bfdb06:
 
-    # "All I could do was struggling not to cum right away and marvel at her oral skills."
-    ""
 
-# game/episode021_conversations.rpy:69
+    "Tek yapabildiğim hemen boşalmamak için kendimi tutmak ve onun oral yeteneklerine hayran kalmaktı."
+
+
 translate turkish ep021_jade_sex_soft_bf58acc2:
 
-    # c "Your mouth feels so good!"
-    c ""
 
-# game/episode021_conversations.rpy:70
+    c "Ağzın harika hissettiriyor!"
+
+
 translate turkish ep021_jade_sex_soft_05c5ba06:
 
-    # c "But I want to be inside you for real."
-    c ""
 
-# game/episode021_conversations.rpy:71
+    c "Ama gerçekten içine girmek istiyorum."
+
+
 translate turkish ep021_jade_sex_soft_2cfd4ef5:
 
-    # c "Come sit on top of me."
-    c ""
 
-# game/episode021_conversations.rpy:76
+    c "Gel üstüme çık."
+
+
 translate turkish ep021_jade_sex_soft_d2af5e12:
 
-    # "I lay back on the bed and allowed Jade to climb on top of me."
-    ""
 
-# game/episode021_conversations.rpy:77
+    "Yatağa uzandım ve Jade'in üzerime çıkmasına izin verdim."
+
+
 translate turkish ep021_jade_sex_soft_fd8f4dcf:
 
-    # "She wasn’t wearing her panties anymore, just the sheer nightdress."
-    ""
 
-# game/episode021_conversations.rpy:78
+    "Artık külotu yoktu üzerinde, sadece ince geceliği vardı."
+
+
 translate turkish ep021_jade_sex_soft_bf6d816d:
 
-    # "My cock brushed against her thighs as she tousled my hair."
-    ""
 
-# game/episode021_conversations.rpy:80
+    "Saçlarımla oynarken sikim kalçalarına sürtünüyordu."
+
+
 translate turkish ep021_jade_sex_soft_e0b75996:
 
-    # "Jade lowered herself and my cock slowly slid between her lips."
-    ""
 
-# game/episode021_conversations.rpy:81
+    "Jade kendini aşağı indirdi ve sikim yavaşça dudaklarının arasına kaydı."
+
+
 translate turkish ep021_jade_sex_soft_bae604ab:
 
-    # "She quivered and a moan escaped her."
-    ""
 
-# game/episode021_conversations.rpy:83
+    "Titredi ve ağzından bir inleme kaçtı."
+
+
 translate turkish ep021_jade_sex_soft_cd8650eb:
 
-    # c "You’re so wet for me, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:84
+    c "Benim için çok ıslanmışsın, Jade."
+
+
 translate turkish ep021_jade_sex_soft_288e3f2f:
 
-    # j "I am!{w} I so am!"
-    j ""
 
-# game/episode021_conversations.rpy:89
+    j "Evet!{w} Çok ıslandım!"
+
+
 translate turkish ep021_jade_sex_soft_6f07382a:
 
-    # "She began to ride me, taking my cock deeper and deeper inside her cunt."
-    ""
 
-# game/episode021_conversations.rpy:90
+    "Bana binmeye başladı, sikimi amının derinliklerine alıyordu."
+
+
 translate turkish ep021_jade_sex_soft_5d6640ed:
 
-    # "Her nightdress slipped from her shoulders and Jade tried to shrug it on again, distracting her from fucking me."
-    ""
 
-# game/episode021_conversations.rpy:91
+    "Geceliği omuzlarından kayıyordu ve Jade onu tekrar düzeltmeye çalışırken beni sikmekten dikkatini dağıtıyordu."
+
+
 translate turkish ep021_jade_sex_soft_0cf0210d:
 
-    # c "I want you completely naked, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:92
+    c "Seni tamamen çıplak istiyorum, Jade."
+
+
 translate turkish ep021_jade_sex_soft_2e7a4961:
 
-    # "Jade wriggled out of the nightdress and threw it on the floor."
-    ""
 
-# game/episode021_conversations.rpy:94
+    "Jade geceliğinden kurtulup onu yere attı."
+
+
 translate turkish ep021_jade_sex_soft_94338c47:
 
-    # "She arched herself back and took me deep inside her."
-    ""
 
-# game/episode021_conversations.rpy:95
+    "Kendini geriye doğru kıvırdı ve beni derinlerine aldı."
+
+
 translate turkish ep021_jade_sex_soft_bc3f07a8:
 
-    # j "Oh fuck, you’re so big."
-    j ""
 
-# game/episode021_conversations.rpy:97
+    j "Ah siktir, çok büyüksün."
+
+
 translate turkish ep021_jade_sex_soft_af3a7972:
 
-    # j "I love your big dick inside me, [p_name]."
-    j ""
 
-# game/episode021_conversations.rpy:100
+    j "İçimdeki kocaman sikini seviyorum, [p_name]."
+
+
 translate turkish ep021_jade_sex_soft_a922aa05:
 
-    # "Jade held on to my legs and bounced on my hard cock."
-    ""
 
-# game/episode021_conversations.rpy:101
+    "Jade bacaklarıma tutundu ve sertleşmiş sikimin üzerinde zıplamaya başladı."
+
+
 translate turkish ep021_jade_sex_soft_d4ad2dba:
 
-    # "When she came down on me, I made sure to thrust, rooting me even deeper inside her."
-    ""
 
-# game/episode021_conversations.rpy:102
+    "O her aşağı inişinde, ben de yukarı doğru ittirerek daha da derine gömülüyordum."
+
+
 translate turkish ep021_jade_sex_soft_d57e1a65:
 
-    # c "Don’t stop Jade, keep going like that."
-    c ""
 
-# game/episode021_conversations.rpy:103
+    c "Durma Jade, böyle devam et."
+
+
 translate turkish ep021_jade_sex_soft_a1cbba89:
 
-    # j "Oh [p_name_short]! [p_name_short]!"
-    j ""
 
-# game/episode021_conversations.rpy:109
+    j "Ah [p_name_short]! [p_name_short]!"
+
+
 translate turkish ep021_jade_sex_soft_8bb985cd:
 
-    # "Her screams were punctuated by the wet sounds of our flesh clashing together."
-    ""
 
-# game/episode021_conversations.rpy:110
+    "Çığlıkları, bedenlerimizin birbirine çarpmasından çıkan ıslak seslerle bölünüyordu."
+
+
 translate turkish ep021_jade_sex_soft_12366ffd:
 
-    # "My cock was drenched in Jade’s ejaculate and her cries became less articulate by the minute."
-    ""
 
-# game/episode021_conversations.rpy:113
+    "Sikim Jade'in sularıyla sırılsıklam olmuştu ve inlemeleri gittikçe daha da anlamsızlaşıyordu."
+
+
 translate turkish ep021_jade_sex_soft_6292abcb:
 
-    # "Her movements became more erratic too, causing my dick to slip out of her several times."
-    ""
 
-# game/episode021_conversations.rpy:114
+    "Hareketleri de düzensizleşti, sikim birkaç kez içinden kayıp çıktı."
+
+
 translate turkish ep021_jade_sex_soft_627884fc:
 
-    # "When it happened again, I took hold of Jade and flipped her on her back."
-    ""
 
-# game/episode021_conversations.rpy:120
+    "Tekrar olduğunda, Jade'i tuttum ve sırtüstü çevirdim."
+
+
 translate turkish ep021_jade_sex_soft_0288a033:
 
-    # "She was momentarily flustered by the force with which I’d thrown her on her back, but that didn’t last long as I penetrated her again."
-    ""
 
-# game/episode021_conversations.rpy:121
+    "Onu sırtüstü çevirdiğim güç karşısında bir an şaşkına döndü, ama tekrar içine girdiğimde bu uzun sürmedi."
+
+
 translate turkish ep021_jade_sex_soft_082ae226:
 
-    # j "Mmmm, yes, fuck me, [p_name_short]!"
-    j ""
 
-# game/episode021_conversations.rpy:122
+    j "Mmmm, evet, sik beni, [p_name_short]!"
+
+
 translate turkish ep021_jade_sex_soft_1bf24541:
 
-    # "I grabbed her thighs and rammed my cock inside her to the hilt."
-    ""
 
-# game/episode021_conversations.rpy:123
+    "Kalçalarından tuttum ve sikimi köküne kadar içine soktum."
+
+
 translate turkish ep021_jade_sex_soft_cbfef81b:
 
-    # "She was breathless while I fucked her with renewed intensity."
-    ""
 
-# game/episode021_conversations.rpy:125
+    "Onu yenilenen bir şiddetle sikerken nefessiz kalmıştı."
+
+
 translate turkish ep021_jade_sex_soft_6acab1a9:
 
-    # c "I’m going to put a baby inside you, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:128
+    c "İçine bir bebek bırakacağım, Jade."
+
+
 translate turkish ep021_jade_sex_soft_324471a3:
 
-    # j "Yes!{w} Cum inside me please!"
-    j ""
 
-# game/episode021_conversations.rpy:129
+    j "Evet!{w} Lütfen içime boşal!"
+
+
 translate turkish ep021_jade_sex_soft_b9adb243:
 
-    # "My promise unleashed something in Jade."
-    ""
 
-# game/episode021_conversations.rpy:131
+    "Verdiğim söz Jade'de bir şeyleri harekete geçirdi."
+
+
 translate turkish ep021_jade_sex_soft_5c3142d4:
 
-    # c "I’m going to make you cum so hard, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:134
+    c "Seni çok fena boşaltacağım, Jade."
+
+
 translate turkish ep021_jade_sex_soft_90aeb49d:
 
-    # j "Yes!{w} Make me cum please!"
-    j ""
 
-# game/episode021_conversations.rpy:135
+    j "Evet!{w} Lütfen boşalt beni!"
+
+
 translate turkish ep021_jade_sex_soft_f34b0cb8:
 
-    # "I made her wish come true in minutes."
-    ""
 
-# game/episode021_conversations.rpy:140
+    "Dakikalar içinde dileğini gerçekleştirdim."
+
+
 translate turkish ep021_jade_sex_soft_2a99f74b:
 
-    # "I kept fucking her with measured strokes, her breathing reduced to ragged gasps in response."
-    ""
 
-# game/episode021_conversations.rpy:141
+    "Onu ölçülü vuruşlarla sikmeye devam ettim, nefes alışı kesik kesik inlemelere dönüştü."
+
+
 translate turkish ep021_jade_sex_soft_87109d1d:
 
-    # "She began to tremble and I could feel her vagina convulse."
-    ""
 
-# game/episode021_conversations.rpy:142
+    "Titremeye başladı ve amının kasıldığını hissedebiliyordum."
+
+
 translate turkish ep021_jade_sex_soft_80dbabdc:
 
-    # j "Oh [p_name_short], you’re making me-"
-    j ""
 
-# game/episode021_conversations.rpy:143
+    j "Ah [p_name_short], beni-"
+
+
 translate turkish ep021_jade_sex_soft_7b7cecd7:
 
-    # j "F-f-fuck!"
-    j ""
 
-# game/episode021_conversations.rpy:146
+    j "S-s-siktir!"
+
+
 translate turkish ep021_jade_sex_soft_55b313f4:
 
-    # "Jade came."
-    ""
 
-# game/episode021_conversations.rpy:147
+    "Jade boşaldı."
+
+
 translate turkish ep021_jade_sex_soft_d64632ae:
 
-    # "A full-body orgasm that wracked her body."
-    ""
 
-# game/episode021_conversations.rpy:149
+    "Tüm bedenini saran bir orgazm geçirdi."
+
+
 translate turkish ep021_jade_sex_soft_728ae43d:
 
-    # "She kept mumbling my name as her eyes glazed over and her legs thrashed against my body."
-    ""
 
-# game/episode021_conversations.rpy:150
+    "Gözleri buğulanırken ve bacakları bedenime çarparken ismimi mırıldanmaya devam etti."
+
+
 translate turkish ep021_jade_sex_soft_b1ee0366:
 
-    # "I didn’t stop fucking her, because I was close too."
-    ""
 
-# game/episode021_conversations.rpy:154
+    "Ben de boşalmak üzere olduğum için onu sikmeyi bırakmadım."
+
+
 translate turkish ep021_jade_sex_soft_62c59d10:
 
-    # c "I’m going to cum inside you, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:156
+    c "İçine boşalacağım, Jade."
+
+
 translate turkish ep021_jade_sex_soft_d8af05d9:
 
-    # c "I’m going to put a baby inside you."
-    c ""
 
-# game/episode021_conversations.rpy:158
+    c "İçine bir bebek bırakacağım."
+
+
 translate turkish ep021_jade_sex_soft_9d6cfaaa:
 
-    # c "I’m going to fill you up."
-    c ""
 
-# game/episode021_conversations.rpy:159
+    c "Seni dolduracağım."
+
+
 translate turkish ep021_jade_sex_soft_1509fac6:
 
-    # j "Yes, I want it!"
-    j ""
 
-# game/episode021_conversations.rpy:160
+    j "Evet, istiyorum!"
+
+
 translate turkish ep021_jade_sex_soft_1ac8ac3d:
 
-    # j "Please give it to me!"
-    j ""
 
-# game/episode021_conversations.rpy:166
+    j "Lütfen ver bana!"
+
+
 translate turkish ep021_jade_sex_soft_bd0a5979:
 
-    # "As the last vestiges of her climax coursed through her body, I erupted inside her."
-    ""
 
-# game/episode021_conversations.rpy:167
+    "Orgazmının son dalgaları bedeninde dolaşırken, içine boşaldım."
+
+
 translate turkish ep021_jade_sex_soft_0b7e47a9:
 
-    # "A deluge of warm cum flooded her vagina, our moans becoming a shameless chorus."
-    ""
 
-# game/episode021_conversations.rpy:168
+    "Sıcak döl seli amını doldurdu, inlemelerimiz utanmaz bir koroya dönüştü."
+
+
 translate turkish ep021_jade_sex_soft_c7fc0498:
 
-    # "I came so much, making her pussy into a downright mess."
-    ""
 
-# game/episode021_conversations.rpy:171
+    "O kadar çok boşaldım ki, amı tam bir karmaşaya döndü."
+
+
 translate turkish ep021_jade_sex_soft_5583cac2:
 
-    # "Seed leaked out of her as I removed my throbbing erection out of her slit."
-    ""
 
-# game/episode021_conversations.rpy:174
+    "Zonklayan sikimi amından çıkardığımda, döller dışarı sızmaya başladı."
+
+
 translate turkish ep021_jade_sex_soft_ead5e637:
 
-    # c "I’m going to make a mess of you, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:175
+    c "Seni mahvedeceğim, Jade.."
+
+
 translate turkish ep021_jade_sex_soft_df45e3b2:
 
-    # c "I’m cumming!"
-    c ""
 
-# game/episode021_conversations.rpy:176
+    c "Boşalıyorum!"
+
+
 translate turkish ep021_jade_sex_soft_1509fac6_1:
 
-    # j "Yes, I want it!"
-    j ""
 
-# game/episode021_conversations.rpy:177
+    j "Evet, istiyorum!"
+
+
 translate turkish ep021_jade_sex_soft_1ac8ac3d_1:
 
-    # j "Please give it to me!"
-    j ""
 
-# game/episode021_conversations.rpy:183
+    j "Lütfen onu bana ver!"
+
+
 translate turkish ep021_jade_sex_soft_11fd7c3e:
 
-    # "As the last vestiges of her climax coursed through her body, I erupted all over her."
-    ""
 
-# game/episode021_conversations.rpy:186
+    "Orgazmının son dalgaları bedeninde dolaşırken, üzerine boşaldım."
+
+
 translate turkish ep021_jade_sex_soft_975dbe8e:
 
-    # "A deluge of warm cum splashed onto her body, our moans becoming a shameless chorus."
-    ""
 
-# game/episode021_conversations.rpy:187
+    "Sıcak döl seli bedenine fışkırdı, inlemelerimiz utanmaz bir koroya dönüştü."
+
+
 translate turkish ep021_jade_sex_soft_ec900fc7:
 
-    # "Jade smeared it all over her body and licked the seed off her fingers."
-    ""
 
-# game/episode021_conversations.rpy:190
+    "Jade dölü tüm bedenine yaydı ve parmaklarındakileri yaladı."
+
+
 translate turkish ep021_jade_sex_soft_d436b08b:
 
-    # c "I want you to taste my cum, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:191
+    c "Dölümü tatmanı istiyorum, Jade."
+
+
 translate turkish ep021_jade_sex_soft_979828ec:
 
-    # j "Yes, feed me your cum, [p_name_short]!"
-    j ""
 
-# game/episode021_conversations.rpy:192
+    j "Evet, dölünü ver bana, [p_name_short]!"
+
+
 translate turkish ep021_jade_sex_soft_1ac8ac3d_2:
 
-    # j "Please give it to me!"
-    j ""
 
-# game/episode021_conversations.rpy:195
+    j "Lütfen onu bana ver!"
+
+
 translate turkish ep021_jade_sex_soft_34a5f7bf:
 
-    # "As the last vestiges of her climax coursed through her body, I slipped out of her and kneeled beside her head."
-    ""
 
-# game/episode021_conversations.rpy:200
+    "Orgazmının son dalgaları bedeninde dolaşırken, içinden çıktım ve başının yanına diz çöktüm."
+
+
 translate turkish ep021_jade_sex_soft_f2509b51:
 
-    # "A deluge of warm cum painted her entire face."
-    ""
 
-# game/episode021_conversations.rpy:201
+    "Sıcak döl seli tüm yüzünü kapladı."
+
+
 translate turkish ep021_jade_sex_soft_7eadc195:
 
-    # j "Mmmm, there’s so much of it!"
-    j ""
 
-# game/episode021_conversations.rpy:204
+    j "Mmmm, ne kadar çok!"
+
+
 translate turkish ep021_jade_sex_soft_34e9601f:
 
-    # "Jade licked at the seed that covered her lips and swallowed anything she could scoop up with her fingers."
-    ""
 
-# game/episode021_conversations.rpy:208
+    "Jade dudaklarını kaplayan dölü yaladı ve parmaklarıyla toplayabildiği her şeyi yuttu."
+
+
 translate turkish ep021_jade_sex_soft_d41064fb:
 
-    # "I collapsed beside her and she rested her head on my chest."
-    ""
 
-# game/episode021_conversations.rpy:209
+    "Yanına yığıldım ve başını göğsüme yasladı."
+
+
 translate turkish ep021_jade_sex_soft_97abd9d9:
 
-    # j "That was great."
-    j ""
 
-# game/episode021_conversations.rpy:210
+    j "Harikaydı."
+
+
 translate turkish ep021_jade_sex_soft_47d4e608:
 
-    # c "I thought so too."
-    c ""
 
-# game/episode021_conversations.rpy:213
+    c "Ben de öyle düşünüyorum."
+
+
 translate turkish ep021_jade_sex_soft_94a0bfc3:
 
-    # j "I really hope tonight’s the night."
-    j ""
 
-# game/episode021_conversations.rpy:214
+    j "Umarım bu gece o gecedir."
+
+
 translate turkish ep021_jade_sex_soft_306795e3:
 
-    # c "I know what you mean."
-    c ""
 
-# game/episode021_conversations.rpy:215
+    c "Ne demek istediğini biliyorum."
+
+
 translate turkish ep021_jade_sex_soft_3af8c0d5:
 
-    # c "I hope so too, but we have to do it a lot more, just to be sure."
-    c ""
 
-# game/episode021_conversations.rpy:216
+    c "Ben de öyle umuyorum, ama emin olmak için daha çok yapmamız lazım."
+
+
 translate turkish ep021_jade_sex_soft_05a28549:
 
-    # j "Haha, I can get behind that, for sure."
-    j ""
 
-# game/episode021_conversations.rpy:219
+    j "Haha, buna kesinlikle varım."
+
+
 translate turkish ep021_jade_sex_soft_1e8cddc3:
 
-    # "Exhausted, we fell into a deep sleep until the comms crackled and Céline announced we were closing in on Petrarch."
-    ""
 
-# game/episode021_conversations.rpy:221
+    "Yorgun bir şekilde derin bir uykuya daldık, ta ki iletişim cihazı cızırdayıp Céline Petrarch'a yaklaştığımızı söyleyene kadar."
+
+
 translate turkish ep021_jade_sex_soft_662aa7e2:
 
-    # "Exhausted, we fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
-    ""
 
-# game/episode021_conversations.rpy:228
+    "Yorgun bir şekilde derin bir uykuya daldık, ta ki iletişim cihazı cızırdayıp Céline beni uçuş durumu güncellemesi için köprüye çağırana kadar."
+
+
 translate turkish ep021_jade_sex_hard_957be2be:
 
-    # "As we had some time to kill during the journey to Petrarch, I’d requested Jade’s presence in my quarters."
-    ""
 
-# game/episode021_conversations.rpy:230
+    "Petrarch'a giden yolculuk sırasında öldürecek vaktimiz olduğundan, Jade'i odama çağırdım."
+
+
 translate turkish ep021_jade_sex_hard_65fbcc68:
 
-    # "She arrived wearing not much."
-    ""
 
-# game/episode021_conversations.rpy:231
+    "Üzerinde pek bir şey olmadan geldi."
+
+
 translate turkish ep021_jade_sex_hard_42ef2ad1:
 
-    # c "Good, close the door behind you."
-    c ""
 
-# game/episode021_conversations.rpy:232
+    c "Güzel, kapıyı arkandan kapat."
+
+
 translate turkish ep021_jade_sex_hard_16dd6b0e:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode021_conversations.rpy:233
+    j "Evet, efendim."
+
+
 translate turkish ep021_jade_sex_hard_a58c640f:
 
-    # "The fact that I was already naked didn’t faze Jade much, I guess she already knew what her duties would be."
-    ""
 
-# game/episode021_conversations.rpy:234
+    "Çıplak olmam Jade'i pek etkilemedi, sanırım görevlerinin ne olacağını zaten biliyordu."
+
+
 translate turkish ep021_jade_sex_hard_921c3647:
 
-    # c "Come over here, get on your knees and suck my cock."
-    c ""
 
-# game/episode021_conversations.rpy:235
+    c "Buraya gel, diz çök ve sikimi em."
+
+
 translate turkish ep021_jade_sex_hard_fbaa5fcd:
 
-    # j "Of course, master."
-    j ""
 
-# game/episode021_conversations.rpy:236
+    j "Elbette, efendim."
+
+
 translate turkish ep021_jade_sex_hard_5620d282:
 
-    # c "There’s a good girl."
-    c ""
 
-# game/episode021_conversations.rpy:238
+    c "İşte benim uslu kızım."
+
+
 translate turkish ep021_jade_sex_hard_c12ceaa2:
 
-    # "Jade closed the door and made her way to me."
-    ""
 
-# game/episode021_conversations.rpy:239
+    "Jade kapıyı kapattı ve bana doğru ilerledi."
+
+
 translate turkish ep021_jade_sex_hard_f243f204:
 
-    # "The skimpy night dress she was wearing left her breasts exposed, so I was already hard when she reached me."
-    ""
 
-# game/episode021_conversations.rpy:241
+    "Giydiği cimri gece elbisesi göğüslerini açıkta bırakıyordu, bu yüzden bana ulaştığında zaten sertleşmiştim."
+
+
 translate turkish ep021_jade_sex_hard_cb3b1492:
 
-    # "Jade dropped to her knees and wrapped her hands around my cock."
-    ""
 
-# game/episode021_conversations.rpy:242
+    "Jade dizlerinin üzerine çöktü ve ellerini sikimin etrafına sardı."
+
+
 translate turkish ep021_jade_sex_hard_ec6f988e:
 
-    # "She didn’t wait for further instructions and took my member in her mouth."
-    ""
 
-# game/episode021_conversations.rpy:247
+    "Daha fazla talimat beklemedi ve sikimi ağzına aldı."
+
+
 translate turkish ep021_jade_sex_hard_964fb02a:
 
-    # c "That’s it, that’s my little whore."
-    c ""
 
-# game/episode021_conversations.rpy:248
+    c "İşte benim uslu kızım."
+
+
 translate turkish ep021_jade_sex_hard_37559452:
 
-    # "Her tongue made circles along my shaft, her head moving up and down slowly."
-    ""
 
-# game/episode021_conversations.rpy:249
+    "Baş kısmı yavaşça aşağı yukarı hareket ederken, dili sikim boyunca daireler çiziyordu."
+
+
 translate turkish ep021_jade_sex_hard_f2bfdb06:
 
-    # "All I could do was struggling not to cum right away and marvel at her oral skills."
-    ""
 
-# game/episode021_conversations.rpy:251
+    "Tek yapabildiğim hemen boşalmamak için mücadele etmek ve onun sakso becerilerine hayran kalmaktı."
+
+
 translate turkish ep021_jade_sex_hard_e1d8d7d7:
 
-    # c "You’re such a good slut, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:252
+    c "Ne güzel bir sürtüksün sen öyle Jade."
+
+
 translate turkish ep021_jade_sex_hard_17f9965f:
 
-    # c "I’m going to enjoy fucking your brains out."
-    c ""
 
-# game/episode021_conversations.rpy:254
+    c "Seni zevkten çıldırtana kadar sikeceğim."
+
+
 translate turkish ep021_jade_sex_hard_359b29cd:
 
-    # "Jade didn’t pause in distress, but kept working diligently on my shaft."
-    ""
 
-# game/episode021_conversations.rpy:255
+    "Jade sıkıntı içinde duraksamadı, ama sikim üzerinde özenle çalışmaya devam etti."
+
+
 translate turkish ep021_jade_sex_hard_e9a900a9:
 
-    # c "You’d like that, don’t you, my hard cock inside you?"
-    c ""
 
-# game/episode021_conversations.rpy:256
+    c "Hoşuna gider, değil mi, kalkmış sikim içinde?"
+
+
 translate turkish ep021_jade_sex_hard_2cfd4ef5:
 
-    # c "Come sit on top of me."
-    c ""
 
-# game/episode021_conversations.rpy:261
+    c "Gel üstüme çık."
+
+
 translate turkish ep021_jade_sex_hard_d2af5e12:
 
-    # "I lay back on the bed and allowed Jade to climb on top of me."
-    ""
 
-# game/episode021_conversations.rpy:262
+    "Yatağa uzandım ve Jade'in üzerime çıkmasına izin verdim."
+
+
 translate turkish ep021_jade_sex_hard_fd8f4dcf:
 
-    # "She wasn’t wearing her panties anymore, just the sheer nightdress."
-    ""
 
-# game/episode021_conversations.rpy:263
+    "Artık külotunu giymiyordu, sadece şeffaf geceliğini giyiyordu."
+
+
 translate turkish ep021_jade_sex_hard_d5f2acaf:
 
-    # "My cock brushed against her thighs as she steadied herself against my chest."
-    ""
 
-# game/episode021_conversations.rpy:264
+    "O kendini göğsüme yaslarken sikim kalçalarına sürtündü."
+
+
 translate turkish ep021_jade_sex_hard_816d5e14:
 
-    # c "You’re going to ride me, Jade."
-    c ""
 
-# game/episode021_conversations.rpy:265
+    c "Üstümde zıplayacaksın Jade."
+
+
 translate turkish ep021_jade_sex_hard_216598a5:
 
-    # c "I know you want my hard cock inside that dirty pussy of yours."
-    c ""
 
-# game/episode021_conversations.rpy:267
+    c "O azgın amının içinde sikimi istediğini biliyorum."
+
+
 translate turkish ep021_jade_sex_hard_16dd6b0e_1:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode021_conversations.rpy:268
+    j "Evet, efendim."
+
+
 translate turkish ep021_jade_sex_hard_df690767:
 
-    # c "Say you want to ride me like the slut you are."
-    c ""
 
-# game/episode021_conversations.rpy:269
+    c "Sürtük gibi üstümde zıplamak istediğini söyle."
+
+
 translate turkish ep021_jade_sex_hard_f56eb634:
 
-    # j "I want to ride your dick like the slut I am."
-    j ""
 
-# game/episode021_conversations.rpy:271
+    j "Sürtük gibi sikinin üstünde zıplamak istiyorum."
+
+
 translate turkish ep021_jade_sex_hard_e0b75996:
 
-    # "Jade lowered herself and my cock slowly slid between her lips."
-    ""
 
-# game/episode021_conversations.rpy:272
+    "Jade kendini alçalttı ve sikim yavaşça dudaklarının arasından kaydı."
+
+
 translate turkish ep021_jade_sex_hard_bae604ab:
 
-    # "She quivered and a moan escaped her."
-    ""
 
-# game/episode021_conversations.rpy:273
+    "Titredi ve içinden bir inilti kaçtı."
+
+
 translate turkish ep021_jade_sex_hard_c79d34c1:
 
-    # "The feeling of her pussy startled me, because Jade was dripping wet."
-    ""
 
-# game/episode021_conversations.rpy:274
+    "Amını hissetmek beni ürküttü, çünkü Jade sırılsıklamdı."
+
+
 translate turkish ep021_jade_sex_hard_107f24cf:
 
-    # c "Am I making you that wet, Jade?"
-    c ""
 
-# game/episode021_conversations.rpy:275
+    c "Seni bu kadar ıslatıyor muyum, Jade?"
+
+
 translate turkish ep021_jade_sex_hard_cf85a431:
 
-    # c "Do you like being my slut?"
-    c ""
 
-# game/episode021_conversations.rpy:276
+    c "Benim sürtüğüm olmak hoşuna gidiyor mu?"
+
+
 translate turkish ep021_jade_sex_hard_16dd6b0e_2:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode021_conversations.rpy:277
+    j "Evet, efendim."
+
+
 translate turkish ep021_jade_sex_hard_06c340d0:
 
-    # j "You make me so wet, master."
-    j ""
 
-# game/episode021_conversations.rpy:278
+    j "Beni çok ıslatıyorsunuz, efendim."
+
+
 translate turkish ep021_jade_sex_hard_d2b4c498:
 
-    # j "Please may I have your cock inside me, master?"
-    j ""
 
-# game/episode021_conversations.rpy:279
+    j "Lütfen sikinizi içime alabilir miyim, efendim?"
+
+
 translate turkish ep021_jade_sex_hard_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode021_conversations.rpy:280
+    c "Tabii ki."
+
+
 translate turkish ep021_jade_sex_hard_c2ebba69:
 
-    # c "Fuck me, make me feel good."
-    c ""
 
-# game/episode021_conversations.rpy:285
+    c "Sik beni, beni zevke getir."
+
+
 translate turkish ep021_jade_sex_hard_6f07382a:
 
-    # "She began to ride me, taking my cock deeper and deeper inside her cunt."
-    ""
 
-# game/episode021_conversations.rpy:286
+    "Bana binmeye başladı, sikimi amının derinliklerine kadar soktu."
+
+
 translate turkish ep021_jade_sex_hard_5d6640ed:
 
-    # "Her nightdress slipped from her shoulders and Jade tried to shrug it on again, distracting her from fucking me."
-    ""
 
-# game/episode021_conversations.rpy:287
+    "Geceliği omuzlarından kaydı ve Jade onu tekrar silkmeye çalışarak dikkatini beni sikmekten uzaklaştırdı."
+
+
 translate turkish ep021_jade_sex_hard_242839ab:
 
-    # c "Get rid of that nightdress."
-    c ""
 
-# game/episode021_conversations.rpy:288
+    c "Çıkar şu geceliği."
+
+
 translate turkish ep021_jade_sex_hard_aea6ea9f:
 
-    # "Jade wriggled out of her dress and I threw it on the floor."
-    ""
 
-# game/episode021_conversations.rpy:290
+    "Jade elbisesinden kurtuldu ve ben de onu yere fırlattım."
+
+
 translate turkish ep021_jade_sex_hard_94338c47:
 
-    # "She arched herself back and took me deep inside her."
-    ""
 
-# game/episode021_conversations.rpy:291
+    "Kendini geriye attı ve beni içine aldı."
+
+
 translate turkish ep021_jade_sex_hard_2e0ff377:
 
-    # c "That’s it, you little slut."
-    c ""
 
-# game/episode021_conversations.rpy:293
+    c "İşte böyle, benim küçük orospum."
+
+
 translate turkish ep021_jade_sex_hard_aec96443:
 
-    # j "Oh master, you’re so big."
-    j ""
 
-# game/episode021_conversations.rpy:294
+    j "Ah efendim, çok büyüksünüz."
+
+
 translate turkish ep021_jade_sex_hard_7aaef720:
 
-    # j "I love your big dick inside me, master."
-    j ""
 
-# game/episode021_conversations.rpy:297
+    j "Büyük sikiniz içimde harika hissettiriyor, efendim."
+
+
 translate turkish ep021_jade_sex_hard_a922aa05:
 
-    # "Jade held on to my legs and bounced on my hard cock."
-    ""
 
-# game/episode021_conversations.rpy:298
+    "Jade bacaklarıma tutundu ve sert sikimin üzerinde zıpladı."
+
+
 translate turkish ep021_jade_sex_hard_d4ad2dba:
 
-    # "When she came down on me, I made sure to thrust, rooting me even deeper inside her."
-    ""
 
-# game/episode021_conversations.rpy:299
+    "Üzerime geldiğinde, beni daha da derinlerine kökleyerek ittiğinden emin oldum."
+
+
 translate turkish ep021_jade_sex_hard_eed1bd12:
 
-    # c "Keep going like that."
-    c ""
 
-# game/episode021_conversations.rpy:300
+    c "Böyle devam et."
+
+
 translate turkish ep021_jade_sex_hard_ac142632:
 
-    # c "Don’t you dare stop."
-    c ""
 
-# game/episode021_conversations.rpy:303
+    c "Sakın durma."
+
+
 translate turkish ep021_jade_sex_hard_8bb985cd:
 
-    # "Her screams were punctuated by the wet sounds of our flesh clashing together."
-    ""
 
-# game/episode021_conversations.rpy:304
+    "Çığlıkları, etlerimizin birbirine çarparken çıkardığı ıslak seslerle noktalanıyordu."
+
+
 translate turkish ep021_jade_sex_hard_12366ffd:
 
-    # "My cock was drenched in Jade’s ejaculate and her cries became less articulate by the minute."
-    ""
 
-# game/episode021_conversations.rpy:307
+    "Sikim Jade'in dölleriyle sırılsıklam olmuştu ve çığlıkları her geçen dakika daha az anlaşılır hale geliyordu."
+
+
 translate turkish ep021_jade_sex_hard_6292abcb:
 
-    # "Her movements became more erratic too, causing my dick to slip out of her several times."
-    ""
 
-# game/episode021_conversations.rpy:308
+    "Hareketleri de daha düzensiz hale geldi ve sikimin birkaç kez içinden kaymasına neden oldu."
+
+
 translate turkish ep021_jade_sex_hard_f2d16ed3:
 
-    # j "I’m sorry, master."
-    j ""
 
-# game/episode021_conversations.rpy:309
+    j "Özür dilerim, efendim."
+
+
 translate turkish ep021_jade_sex_hard_394c28f8:
 
-    # c "You’re such a dirty little whore, getting all wet like that."
-    c ""
 
-# game/episode021_conversations.rpy:310
+    c "Ne azgın bir orospusun, böyle sırılsıklam oldun."
+
+
 translate turkish ep021_jade_sex_hard_201d4089:
 
-    # c "Lie on your back."
-    c ""
 
-# game/episode021_conversations.rpy:311
+    c "Sırtüstü yat."
+
+
 translate turkish ep021_jade_sex_hard_59c46df2:
 
-    # "When she didn’t immediately understand, I took hold of Jade and flipped her on her back."
-    ""
 
-# game/episode021_conversations.rpy:317
+    "Hemen anlamayınca Jade'i tuttum ve sırt üstü çevirdim."
+
+
 translate turkish ep021_jade_sex_hard_0288a033:
 
-    # "She was momentarily flustered by the force with which I’d thrown her on her back, but that didn’t last long as I penetrated her again."
-    ""
 
-# game/episode021_conversations.rpy:318
+    "Onu sırtüstü yatırdığım için bir an telaşlandı ama ben tekrar içine girince bu telaş uzun sürmedi."
+
+
 translate turkish ep021_jade_sex_hard_cd1435fc:
 
-    # c "That’s better."
-    c ""
 
-# game/episode021_conversations.rpy:319
+    c "Bu daha iyi."
+
+
 translate turkish ep021_jade_sex_hard_1bf24541:
 
-    # "I grabbed her thighs and rammed my cock inside her to the hilt."
-    ""
 
-# game/episode021_conversations.rpy:320
+    "Kalçalarını kavradım ve sikimi sonuna kadar içine soktum."
+
+
 translate turkish ep021_jade_sex_hard_03a835f2:
 
-    # "I fucked her with measured strokes, her breathing reduced to ragged gasps in response."
-    ""
 
-# game/episode021_conversations.rpy:321
+    "Onu ölçülü vuruşlarla siktim, nefes alış verişi tepki olarak kesik kesik solumalara dönüştü."
+
+
 translate turkish ep021_jade_sex_hard_87109d1d:
 
-    # "She began to tremble and I could feel her vagina convulse."
-    ""
 
-# game/episode021_conversations.rpy:324
+    "Titremeye başladı ve amının kasıldığını hissedebiliyordum."
+
+
 translate turkish ep021_jade_sex_hard_63cba9d0:
 
-    # j "M-m-master!"
-    j ""
 
-# game/episode021_conversations.rpy:325
+    j "E-e-efendim!"
+
+
 translate turkish ep021_jade_sex_hard_401f9639:
 
-    # c "Are you cumming, Jade?"
-    c ""
 
-# game/episode021_conversations.rpy:326
+    c "Boşalıyor musun, Jade?"
+
+
 translate turkish ep021_jade_sex_hard_285b331f:
 
-    # j "I-"
-    j ""
 
-# game/episode021_conversations.rpy:328
+    j "B-ben-"
+
+
 translate turkish ep021_jade_sex_hard_2823bb50:
 
-    # "Jade wormed beneath me, clearly on the edge of climax, so I stopped fucking her, my dick still firmly inside of her."
-    ""
 
-# game/episode021_conversations.rpy:329
+    "Jade altımda kıvranıyordu, açıkça doruk noktasındaydı, bu yüzden onu sikmeyi bıraktım, sikim hala sıkıca içindeydi."
+
+
 translate turkish ep021_jade_sex_hard_6750c4e5:
 
-    # c "Answer me!"
-    c ""
 
-# game/episode021_conversations.rpy:330
+    c "Cevap ver bana!"
+
+
 translate turkish ep021_jade_sex_hard_29f06dc9:
 
-    # j "I-I...{w} am!"
-    j ""
 
-# game/episode021_conversations.rpy:331
+    j "E-evet...{w} boşalıyorum!"
+
+
 translate turkish ep021_jade_sex_hard_bccdbee9:
 
-    # c "You didn’t ask me."
-    c ""
 
-# game/episode021_conversations.rpy:334
+    c "Bana sormadın."
+
+
 translate turkish ep021_jade_sex_hard_3d67c683:
 
-    # j "P-p-please, master, am I...{w} Am I allowed t-t-o cum?"
-    j ""
 
-# game/episode021_conversations.rpy:335
+    j "L-l-lütfen, efendim, b-boşalabilir...{w} Boşalmama i-i-izin var mı?"
+
+
 translate turkish ep021_jade_sex_hard_e7e250c0:
 
-    # c "Just this once then."
-    c ""
 
-# game/episode021_conversations.rpy:337
+    c "Sadece bu seferlik."
+
+
 translate turkish ep021_jade_sex_hard_f98e3596:
 
-    # "Within three trusts Jade came."
-    ""
 
-# game/episode021_conversations.rpy:338
+    "Üç güven içinde Jade geldi."
+
+
 translate turkish ep021_jade_sex_hard_d64632ae:
 
-    # "A full-body orgasm that wracked her body."
-    ""
 
-# game/episode021_conversations.rpy:340
+    "Tüm vücudunu saran bir orgazm."
+
+
 translate turkish ep021_jade_sex_hard_82f5e9cd:
 
-    # "She kept mumbling as her eyes glazed over and her legs thrashed against my body."
-    ""
 
-# game/episode021_conversations.rpy:341
+    "Gözleri buğulanırken ve bacakları vücuduma çarparken mırıldanmaya devam etti."
+
+
 translate turkish ep021_jade_sex_hard_b1ee0366:
 
-    # "I didn’t stop fucking her, because I was close too."
-    ""
 
-# game/episode021_conversations.rpy:345
+    "Onu sikmeyi bırakmadım, çünkü ben de yaklaşmıştım."
+
+
 translate turkish ep021_jade_sex_hard_9d6cfaaa:
 
-    # c "I’m going to fill you up."
-    c ""
 
-# game/episode021_conversations.rpy:346
+    c "İçini dolduracağım."
+
+
 translate turkish ep021_jade_sex_hard_93e846f1:
 
-    # j "Please give it to me, master!"
-    j ""
 
-# game/episode021_conversations.rpy:352
+    j "Lütfen verin bana, efendim!"
+
+
 translate turkish ep021_jade_sex_hard_bd0a5979:
 
-    # "As the last vestiges of her climax coursed through her body, I erupted inside her."
-    ""
 
-# game/episode021_conversations.rpy:353
+    "Doruk noktasının son kalıntıları vücudundan akarken, içine patladım."
+
+
 translate turkish ep021_jade_sex_hard_9afa674a:
 
-    # "A deluge of warm cum flooded her vagina."
-    ""
 
-# game/episode021_conversations.rpy:354
+    "Amını ılık bir döl seli doldurdu."
+
+
 translate turkish ep021_jade_sex_hard_c7fc0498:
 
-    # "I came so much, making her pussy into a downright mess."
-    ""
 
-# game/episode021_conversations.rpy:357
+    "O kadar çok boşaldım ki, amı düpedüz dağıldı."
+
+
 translate turkish ep021_jade_sex_hard_5583cac2:
 
-    # "Seed leaked out of her as I removed my throbbing erection out of her slit."
-    ""
 
-# game/episode021_conversations.rpy:360
+    "Zonklayan sikimi göt deliğinden çıkardığımda içinden döller sızdı."
+
+
 translate turkish ep021_jade_sex_hard_73378dac:
 
-    # c "I’m going to make a mess of you, little slut."
-    c ""
 
-# game/episode021_conversations.rpy:361
+    c "Seni berbat edeceğim, küçük sürtük."
+
+
 translate turkish ep021_jade_sex_hard_93e846f1_1:
 
-    # j "Please give it to me, master!"
-    j ""
 
-# game/episode021_conversations.rpy:367
+    j "Lütfen verin bana, efendim!"
+
+
 translate turkish ep021_jade_sex_hard_11fd7c3e:
 
-    # "As the last vestiges of her climax coursed through her body, I erupted all over her."
-    ""
 
-# game/episode021_conversations.rpy:370
+    "Doruk noktasının son kalıntıları vücudundan akarken, her tarafına fışkırdım."
+
+
 translate turkish ep021_jade_sex_hard_acccd7af:
 
-    # "A deluge of warm cum splashed onto her body."
-    ""
 
-# game/episode021_conversations.rpy:371
+    "Vücuduna ılık bir döl seli sıçradı."
+
+
 translate turkish ep021_jade_sex_hard_ec900fc7:
 
-    # "Jade smeared it all over her body and licked the seed off her fingers."
-    ""
 
-# game/episode021_conversations.rpy:374
+    "Jade tüm vücuduna bulaştırdı ve parmaklarındaki dölü yaladı."
+
+
 translate turkish ep021_jade_sex_hard_c2dbd12a:
 
-    # c "I want you to taste my cum, little slut."
-    c ""
 
-# game/episode021_conversations.rpy:375
+    c "Dölümü tatmanı istiyorum, küçük sürtük."
+
+
 translate turkish ep021_jade_sex_hard_93e846f1_2:
 
-    # j "Please give it to me, master!"
-    j ""
 
-# game/episode021_conversations.rpy:378
+    j "Lütfen onu bana verin, efendim!"
+
+
 translate turkish ep021_jade_sex_hard_34a5f7bf:
 
-    # "As the last vestiges of her climax coursed through her body, I slipped out of her and kneeled beside her head."
-    ""
 
-# game/episode021_conversations.rpy:383
+    "Doruk noktasının son kalıntıları vücudundan akarken, içinden çıktım ve başının yanında diz çöktüm."
+
+
 translate turkish ep021_jade_sex_hard_f2509b51:
 
-    # "A deluge of warm cum painted her entire face."
-    ""
 
-# game/episode021_conversations.rpy:386
+    "Sıcak bir döl seli tüm yüzünü boyadı."
+
+
 translate turkish ep021_jade_sex_hard_34e9601f:
 
-    # "Jade licked at the seed that covered her lips and swallowed anything she could scoop up with her fingers."
-    ""
 
-# game/episode021_conversations.rpy:390
+    "Jade dudaklarını kaplayan dölleri yaladı ve parmaklarıyla toplayabildiği her şeyi yuttu."
+
+
 translate turkish ep021_jade_sex_hard_df4e4cad:
 
-    # "I allowed her a few minutes to clean herself up and sent Jade back to her quarters."
-    ""
 
-# game/episode021_conversations.rpy:392
+    "Temizlenmesi için ona birkaç dakika izin verdim ve Jade'i kamarasına geri gönderdim."
+
+
 translate turkish ep021_jade_sex_hard_728505fc:
 
-    # "Exhausted, I fell into a deep sleep until the comms crackled and Céline announced we were closing in on Petrarch."
-    ""
 
-# game/episode021_conversations.rpy:394
+    "Yorgunluktan derin bir uykuya daldım, ta ki telsizler sesi çıkana ve Céline Petrarch'a yaklaştığımızı duyurana kadar."
+
+
 translate turkish ep021_jade_sex_hard_63a0f76f:
 
-    # "Exhausted, I fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
-    ""
 
+    "Bitkin bir halde derin bir uykuya daldım, ta ki telsizler çalmaya başlayana ve Céline uçuş durumu güncellemesi için köprüde bulunmamı isteyene kadar."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

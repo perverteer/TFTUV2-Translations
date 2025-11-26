@@ -1,12618 +1,12436 @@
-﻿# TODO: Translation updated at 2025-06-04 13:38
+﻿
 
-# game/episode019.rpy:52
+
 translate turkish episode019_44a4c3f4:
 
-    # centered "{=chapter_heading}EPISODE 19{/=chapter_heading}"
-    centered ""
 
-# game/episode019.rpy:62
+    centered "{=chapter_heading}BÖLÜM 19{/=chapter_heading}"
+
+
 translate turkish episode019_a4dc0f57:
 
-    # op "Commander?"
-    op ""
 
-# game/episode019.rpy:63
+    op "Komutan?"
+
+
 translate turkish episode019_f33bc2dd:
 
-    # ca "Go away."
-    ca ""
 
-# game/episode019.rpy:64
+    ca "Defol git."
+
+
 translate turkish episode019_520077a4:
 
-    # op "Commander Calista Szuzume?"
-    op ""
 
-# game/episode019.rpy:66
+    op "Komutan Calista Szuzume?"
+
+
 translate turkish episode019_ad983fe8:
 
-    # ca "Former Commander."
-    ca ""
 
-# game/episode019.rpy:67
+    ca "Eski Komutan."
+
+
 translate turkish episode019_277b4c9c:
 
-    # ca "Have you come to gloat?"
-    ca ""
 
-# game/episode019.rpy:69
+    ca "Benimle dalga geçmeye mi geldin?"
+
+
 translate turkish episode019_5099a9eb:
 
-    # op "Not at all, Commander."
-    op ""
 
-# game/episode019.rpy:70
+    op "Hiç de değil, Komutan."
+
+
 translate turkish episode019_320f31a4:
 
-    # ca "As I said, not a Commander anymore."
-    ca ""
 
-# game/episode019.rpy:71
+    ca "Söylediğim gibi, artık Komutan değilim."
+
+
 translate turkish episode019_0f8b82be:
 
-    # ca "They took that all away from me."
-    ca ""
 
-# game/episode019.rpy:72
+    ca "Hepsini elimden aldılar."
+
+
 translate turkish episode019_3071cc5e:
 
-    # ca "Over two decades worth of loyal service and then they just discard me."
-    ca ""
 
-# game/episode019.rpy:73
+    ca "Yirmi yılı aşkın sadık hizmet ve sonra beni çöp gibi attılar."
+
+
 translate turkish episode019_794dea2c:
 
-    # ca "But not before making me seemingly kill my own children and ratting them out once they turned out to be very much alive."
-    ca ""
 
-# game/episode019.rpy:74
+    ca "Ama önce bana kendi çocuklarımı öldürtmüş gibi yaptılar ve hayatta olduklarını öğrenince de onları ele verdiler."
+
+
 translate turkish episode019_46e09678:
 
-    # ca "And then they took my rank, my retirement money and my apartment."
-    ca ""
 
-# game/episode019.rpy:75
+    ca "Ve sonra rütbemi, emekli maaşımı ve evimi aldılar."
+
+
 translate turkish episode019_82c0400b:
 
-    # ca "So fuck off and let me drink."
-    ca ""
 
-# game/episode019.rpy:77
+    ca "O yüzden siktir git ve beni rahat bırak içeyim."
+
+
 translate turkish episode019_2b9feed5:
 
-    # op "I know all about your plight, Calista."
-    op ""
 
-# game/episode019.rpy:78
+    op "Çektiğin sıkıntıların hepsini biliyorum, Calista."
+
+
 translate turkish episode019_e137ea03:
 
-    # op "I know the Sovereignty cast you out, as they've done countless times with other people."
-    op ""
 
-# game/episode019.rpy:79
+    op "Egemenliğin seni dışladığını biliyorum, başkalarına da sayısız kez yaptıkları gibi."
+
+
 translate turkish episode019_f18e01cd:
 
-    # ca "I don't care, leave me alone."
-    ca ""
 
-# game/episode019.rpy:81
+    ca "Umurumda değil, yalnız bırak beni."
+
+
 translate turkish episode019_4cf799f0:
 
-    # op "But you do care, Calista."
-    op ""
 
-# game/episode019.rpy:83
+    op "Ama umursuyorsun, Calista."
+
+
 translate turkish episode019_2c97fe41:
 
-    # op "Otherwise you'd have shrugged off the attempted murder on your children and continued to be the diligent soldier you were before."
-    op ""
 
-# game/episode019.rpy:84
+    op "Yoksa çocuklarını öldürme girişimini görmezden gelir ve eskisi gibi sadık bir asker olmaya devam ederdin."
+
+
 translate turkish episode019_53aad528:
 
-    # op "Instead you're here in the slums, drinking the cheapest liquor on sale."
-    op ""
 
-# game/episode019.rpy:86
+    op "Onun yerine burada, varoşlarda, en ucuz içkiyi içiyorsun."
+
+
 translate turkish episode019_5ca4b766:
 
-    # ca "Such insight."
-    ca ""
 
-# game/episode019.rpy:87
+    ca "Ne kadar da anlayışlısın."
+
+
 translate turkish episode019_21347e9b:
 
-    # ca "What do you want from me?"
-    ca ""
 
-# game/episode019.rpy:89
+    ca "Ne istiyorsun benden?"
+
+
 translate turkish episode019_96503f73:
 
-    # ca "Are you one of those undercover bureaucrats tasked with rooting out poor saps voicing mildly dissident opinions so that they can be sent to a re-education camp?"
-    ca ""
 
-# game/episode019.rpy:91
+    ca "Yoksa hafif muhalif görüşlerini dile getiren zavallıları bulup yeniden eğitim kamplarına göndermekle görevli gizli bürokratlardan biri misin?"
+
+
 translate turkish episode019_6b141d58:
 
-    # op "No, I'm not."
-    op ""
 
-# game/episode019.rpy:92
+    op "Hayır, değilim."
+
+
 translate turkish episode019_cc112a56:
 
-    # op "My parents were sent to one of those camps and I never saw them again."
-    op ""
 
-# game/episode019.rpy:93
+    op "Annem babam o kamplardan birine gönderildi ve bir daha hiç görmedim onları."
+
+
 translate turkish episode019_c21c4e4f:
 
-    # op "You’d have to be a monster to send someone away to a place like that."
-    op ""
 
-# game/episode019.rpy:94
+    op "Birini öyle bir yere göndermek için canavar olmak gerek."
+
+
 translate turkish episode019_27edf1b3:
 
-    # op "So no, I’m not going to rat you out."
-    op ""
 
-# game/episode019.rpy:95
+    op "O yüzden hayır, seni ele vermeyeceğim."
+
+
 translate turkish episode019_70048591:
 
-    # ca "I'm sorry to hear about your parents."
-    ca ""
 
-# game/episode019.rpy:97
+    ca "Ailen için üzgünüm."
+
+
 translate turkish episode019_0453485d:
 
-    # op "It was a long time ago."
-    op ""
 
-# game/episode019.rpy:98
+    op "Çok uzun zaman oldu."
+
+
 translate turkish episode019_4faf9557:
 
-    # op "Though I’d be lying if I said that time heals all wounds."
-    op ""
 
-# game/episode019.rpy:99
+    op "Ama zamanın her yarayı iyileştirdiğini söylersem yalan olur."
+
+
 translate turkish episode019_2117458e:
 
-    # op "I know you have little reason to believe me, but I haven't come here to entrap you."
-    op ""
 
-# game/episode019.rpy:100
+    op "Bana inanmak için pek sebebin olmadığını biliyorum, ama seni tuzağa düşürmeye gelmedim."
+
+
 translate turkish episode019_50e92e32:
 
-    # op "I've come here to offer you a way to strike back at the Sovereignty."
-    op ""
 
-# game/episode019.rpy:101
+    op "Sana Egemenlik'ten intikam alma fırsatı sunmaya geldim."
+
+
 translate turkish episode019_8bf9eb91:
 
-    # op "I represent a group of people who have been disillusioned by the Sovereignty for a long time."
-    op ""
 
-# game/episode019.rpy:102
+    op "Ben uzun zamandır Egemenlik'ten hayal kırıklığına uğramış bir grup insanı temsil ediyorum."
+
+
 translate turkish episode019_31346cec:
 
-    # op "Our group has been attracting new members in secret, and many citizens are sympathetic to our cause."
-    op ""
 
-# game/episode019.rpy:104
+    op "Grubumuz gizlice yeni üyeler çekiyor ve birçok vatandaş davamıza sempati duyuyor."
+
+
 translate turkish episode019_9026a16e:
 
-    # ca "Hah, let me guess, you're claiming to be part of the Auric Exemplar?"
-    ca ""
 
-# game/episode019.rpy:105
+    ca "Hah, tahmin edeyim, Auric Exemplar'ın üyesi olduğunu mu iddia ediyorsun?"
+
+
 translate turkish episode019_7b39bba9:
 
-    # ca "They're a myth."
-    ca ""
 
-# game/episode019.rpy:106
+    ca "Onlar bir efsane sadece."
+
+
 translate turkish episode019_9a438866:
 
-    # ca "Or at most a group of dreamy idealists, more interested in philosophizing about resistance, than putting up a fight."
-    ca ""
 
-# game/episode019.rpy:108
+    ca "Ya da en fazla, direniş hakkında felsefe yapmayı savaşmaya tercih eden hayalperest idealistler."
+
+
 translate turkish episode019_39b540bd:
 
-    # op "I'll concede that the people I represent haven't operated out in the open much."
-    op ""
 
-# game/episode019.rpy:109
+    op "Temsil ettiğim insanların açıkta pek faaliyet göstermediğini kabul ediyorum."
+
+
 translate turkish episode019_9e0cd25b:
 
-    # op "But that is about to change."
-    op ""
 
-# game/episode019.rpy:110
+    op "Ama bu değişmek üzere."
+
+
 translate turkish episode019_05ca9a23:
 
-    # op "We have been making preparations to strike, but we need help."
-    op ""
 
-# game/episode019.rpy:111
+    op "Saldırı için hazırlık yapıyoruz, ama yardıma ihtiyacımız var."
+
+
 translate turkish episode019_fc2f022b:
 
-    # op "Help from people like you, who have been part of the inner workings of the Sovereignty for a long time."
-    op ""
 
-# game/episode019.rpy:113
+    op "Senin gibi, uzun süre Egemenlik'in iç işlerinde çalışmış insanların yardımına."
+
+
 translate turkish episode019_3693fb7b:
 
-    # op "I believe we can offer you a way to hit the Sovereignty where it hurts."
-    op ""
 
-# game/episode019.rpy:114
+    op "Sana Egemenlik'i en can alıcı yerinden vurmanın bir yolunu sunabiliriz."
+
+
 translate turkish episode019_beab8ae7:
 
-    # op "Isn't that what you want, Calista, to make them pay for what they did to you?"
-    op ""
 
-# game/episode019.rpy:116
+    op "Bu senin de istediğin şey değil mi, Calista, sana yaptıklarının bedelini ödetmek?"
+
+
 translate turkish episode019_6da671e9:
 
-    # ca "What would you need me for?"
-    ca ""
 
-# game/episode019.rpy:118
+    ca "Beni ne için kullanacaksınız?"
+
+
 translate turkish episode019_079b26ff:
 
-    # op "As I said, your knowledge of the workings of Sovereignty leadership would be a tremendous help."
-    op ""
 
-# game/episode019.rpy:119
+    op "Söylediğim gibi, Egemenlik liderliğinin işleyişi hakkındaki bilgin muazzam bir yardım olacak."
+
+
 translate turkish episode019_73897f11:
 
-    # op "But so would be your experience as one of the most respected fleet commanders of the Navy."
-    op ""
 
-# game/episode019.rpy:120
+    op "Ayrıca Donanma'nın en saygın filo komutanlarından biri olarak tecrüben de öyle."
+
+
 translate turkish episode019_5f15bd64:
 
-    # op "All I'm asking is for you to agree to one meeting."
-    op ""
 
-# game/episode019.rpy:121
+    op "Tek istediğim bir toplantıya katılmayı kabul etmen."
+
+
 translate turkish episode019_6b0eda8e:
 
-    # op "My superiors will be able to explain more."
-    op ""
 
-# game/episode019.rpy:122
+    op "Üstlerim daha fazlasını açıklayabilecek."
+
+
 translate turkish episode019_bc60de9b:
 
-    # op "If you don't like what they tell you, I'll happily escort you back to this place so you continue drinking yourself to death."
-    op ""
 
-# game/episode019.rpy:124
+    op "Eğer söylediklerini beğenmezsen, seni buraya geri getiririm, kendini içkiyle öldürmeye devam edersin."
+
+
 translate turkish episode019_b0ca2893:
 
-    # ca "All charm, aren't you?"
-    ca ""
 
-# game/episode019.rpy:126
+    ca "Çok çekicisin, değil mi?"
+
+
 translate turkish episode019_ebbcac0e:
 
-    # op "Just giving you the options."
-    op ""
 
-# game/episode019.rpy:127
+    op "Sadece seçeneklerini sunuyorum."
+
+
 translate turkish episode019_3727a18b:
 
-    # ca "One meeting?"
-    ca ""
 
-# game/episode019.rpy:129
+    ca "Bir toplantı mı?"
+
+
 translate turkish episode019_81d80394:
 
-    # op "That's all we ask."
-    op ""
 
-# game/episode019.rpy:131
+    op "Tek istediğimiz bu."
+
+
 translate turkish episode019_cdaa6553:
 
-    # ca "Do you have a place where I can clean myself up first?"
-    ca ""
 
-# game/episode019.rpy:132
+    ca "Önce kendimi temizleyebileceğim bir yer var mı?"
+
+
 translate turkish episode019_adf2cc6b:
 
-    # op "Of course."
-    op ""
 
-# game/episode019.rpy:134
+    op "Tabii ki."
+
+
 translate turkish episode019_3c44f6d6:
 
-    # ca "Lead the way then, Miss Auric Exemplar."
-    ca ""
 
-# game/episode019.rpy:272
+    ca "O zaman yolu göster, Bayan Auric Exemplar."
+
+
 translate turkish ep019_temple_44acd866:
 
-    # "The Sovereignty engineers worked with trained efficiency."
-    ""
 
-# game/episode019.rpy:274
+    "Egemenlik mühendisleri eğitimli bir verimlilikle çalışıyordu."
+
+
 translate turkish ep019_temple_faa109fb:
 
-    # "The Key was floating inside some sort of force field, but didn't appear to be tied down to the spot where it was hovering."
-    ""
 
-# game/episode019.rpy:276
+    "Anahtar bir tür güç alanının içinde süzülüyordu, ama havada asılı durduğu noktaya bağlı görünmüyordu."
+
+
 translate turkish ep019_temple_561edd7b:
 
-    # "Agust, the Confessor, Kvi and Erylin observed the men working for a time, until Agust got bored and started to bark orders at the crew working on getting the artifact out."
-    ""
 
-# game/episode019.rpy:277
+    "Agust, Günah Çıkartıcı, Kvi ve Erylin bir süre çalışan adamları izledi, ta ki Agust sıkılıp eseri çıkarmaya çalışan ekibe emirler yağdırmaya başlayana kadar."
+
+
 translate turkish ep019_temple_414f0ca9:
 
-    # "When bossing the workers around lost its appeal as well, the group shuffled out of the temple."
-    ""
 
-# game/episode019.rpy:279
+    "İşçilere patronluk taslamak da çekiciliğini kaybedince, grup tapınaktan çıktı."
+
+
 translate turkish ep019_temple_6a697b65:
 
-    # "The engines of the armored transport roared back to life, presumably bringing Agust and his friends back to Taagmar."
-    ""
 
-# game/episode019.rpy:280
+    "Zırhlı aracın motorları yeniden gürledi, muhtemelen Agust ve arkadaşlarını Taagmar'a geri götürüyordu."
+
+
 translate turkish ep019_temple_4512ee2b:
 
-    # "The foreman breathed a sigh of relief and continued to direct the removal of the Key from its chamber."
-    ""
 
-# game/episode019.rpy:282
+    "Ustabaşı rahat bir nefes aldı ve Anahtar'ı odasından çıkarma işini yönetmeye devam etti."
+
+
 translate turkish ep019_temple_53f31dae:
 
-    # "Several soldiers were directed to wait outside, where a number of trucks were waiting to bring the Key through the gateway."
-    ""
 
-# game/episode019.rpy:283
+    "Birkaç askere dışarıda beklemeleri söylendi, orada Anahtar'ı geçitten geçirmek için bir dizi kamyon bekliyordu."
+
+
 translate turkish ep019_temple_6e72f3d7:
 
-    # "It would then be airlifted out of the city and brought on the Jaculus, which was still orbiting Taagmar."
-    ""
 
-# game/episode019.rpy:284
+    "Daha sonra şehirden hava yoluyla çıkarılacak ve hala Taagmar'ın yörüngesinde olan Jaculus'a getirilecekti."
+
+
 translate turkish ep019_temple_1d50c60d:
 
-    # "I directed the crew outside, to make sure we were on that transport back through the Grand Arch."
-    ""
 
-# game/episode019.rpy:285
+    "Ekibi dışarı yönlendirdim, Büyük Kemer'den geçecek o nakil aracında olduğumuzdan emin olmak için."
+
+
 translate turkish ep019_temple_a8ba1daa:
 
-    # "The engineers were now ready to move the Key, so it wouldn't be long before they would bring the thing outside."
-    ""
 
-# game/episode019.rpy:290
+    "Mühendisler artık Anahtar'ı taşımaya hazırdı, o yüzden onu dışarı çıkarmaları uzun sürmezdi."
+
+
 translate turkish ep019_temple_1cd7546f:
 
-    # "Soldiers were boarding trucks and several more could be seen in the distance, nearing the gateway."
-    ""
 
-# game/episode019.rpy:291
+    "Askerler kamyonlara biniyordu ve uzakta, geçide yaklaşan birkaç tane daha görünüyordu."
+
+
 translate turkish ep019_temple_cda26a02:
 
-    # "One of the trucks didn't have a canopy, most likely because that one would be used to transport the artifact."
-    ""
 
-# game/episode019.rpy:293
+    "Kamyonlardan birinin brandası yoktu, büyük ihtimalle eseri taşımak için kullanılacak olan oydu."
+
+
 translate turkish ep019_temple_2e2afbe4:
 
-    # "I positioned myself near the co-driver's door, as the others boarded a truck nearby."
-    ""
 
-# game/episode019.rpy:294
+    "Ben yardımcı sürücü kapısının yanına yerleştim, diğerleri yakındaki bir kamyona binerken."
+
+
 translate turkish ep019_temple_a407d1a1:
 
-    # "Thyia was about to enter the driver's side of the truck when she was stopped by the foreman."
-    ""
 
-# game/episode019.rpy:297
+    "Thyia kamyonun sürücü tarafına binmek üzereydi ki ustabaşı onu durdurdu."
+
+
 translate turkish ep019_temple_89344524:
 
-    # man "I'm under orders to drive this myself."
-    man ""
 
-# game/episode019.rpy:298
+    man "Bunu kendim kullanmam için emir aldım."
+
+
 translate turkish ep019_temple_c9b9c319:
 
-    # man "Commander Agust doesn't trust anyone else to do so."
-    man ""
 
-# game/episode019.rpy:299
+    man "Komutan Agust başka kimseye güvenmiyor."
+
+
 translate turkish ep019_temple_947570a1:
 
-    # "I nodded at Thyia, her body language clearly expressing she was at a loss over this snag in our plan."
-    ""
 
-# game/episode019.rpy:301
+    "Thyia'ya başımla işaret ettim, vücut dili planımızdaki bu aksaklık karşısında ne yapacağını bilemediğini açıkça gösteriyordu."
+
+
 translate turkish ep019_temple_08347b95:
 
-    # "Ideally, we would have controlled the truck ourselves, so we could have broken away from the transport at an opportune moment."
-    ""
 
-# game/episode019.rpy:303
+    "İdeal olarak, kamyonu kendimiz kullanacaktık, böylece uygun bir anda nakliyeden ayrılabilirdik."
+
+
 translate turkish ep019_temple_320d281f:
 
-    # "The presence of the foreman didn't complicate things that much, as I was still riding shotgun next to him."
-    ""
 
-# game/episode019.rpy:304
+    "Ustabaşının varlığı işleri çok karıştırmadı, çünkü ben hala onun yanında yardımcı sürücü olarak oturuyordum."
+
+
 translate turkish ep019_temple_c531f992:
 
-    # "The truck went through the gateway."
-    ""
 
-# game/episode019.rpy:305
+    "Kamyon geçitten geçti."
+
+
 translate turkish ep019_temple_5b72769f:
 
-    # "There was a split second where I feared the Key would somehow interfere with our passage through the Arch and reduce us to atoms."
-    ""
 
-# game/episode019.rpy:307
+    "Bir an için Anahtar'ın Kemer'den geçişimizi bir şekilde etkileyip bizi atomlara ayıracağından korktum."
+
+
 translate turkish ep019_temple_06331d93:
 
-    # "Nothing of the sort happened and suddenly we were speeding on the main road through the Taagmar capital."
-    ""
 
-# game/episode019.rpy:308
+    "Öyle bir şey olmadı ve aniden Taagmar başkentinin ana yolunda hızla ilerliyorduk."
+
+
 translate turkish ep019_temple_2a19894e:
 
-    # "Thyia and the others were pulling up next to us."
-    ""
 
-# game/episode019.rpy:309
+    "Thyia ve diğerleri yanımıza yaklaşıyordu."
+
+
 translate turkish ep019_temple_79002ff0:
 
-    # "First we had to clear the barricade, and then we would commandeer the truck."
-    ""
 
-# game/episode019.rpy:311
+    "Önce barikatı geçmemiz gerekiyordu, sonra kamyonu ele geçirecektik."
+
+
 translate turkish ep019_temple_1108c2fb:
 
-    # "The guards at the barricades waved us through without much scrutiny."
-    ""
 
-# game/episode019.rpy:312
+    "Barikattaki muhafızlar bizi fazla incelemeden geçmemize izin verdi."
+
+
 translate turkish ep019_temple_ef92d291:
 
-    # "They were clearly more interested in the glowing statue on the back of the truck."
-    ""
 
-# game/episode019.rpy:314
+    "Açıkça kamyonun arkasındaki parlayan heykelle daha çok ilgileniyorlardı."
+
+
 translate turkish ep019_temple_9e0a5003:
 
-    # "When we were out of sight, I signaled Thyia to get ready."
-    ""
 
-# game/episode019.rpy:315
+    "Görüş alanından çıktığımızda, Thyia'ya hazır olması için işaret verdim."
+
+
 translate turkish ep019_temple_8d5bbf2c:
 
-    # "Thyia’s truck accelerated and overtook us."
-    ""
 
-# game/episode019.rpy:317
+    "Thyia'nın kamyonu hızlandı ve bizi geçti."
+
+
 translate turkish ep019_temple_6d359ccf:
 
-    # "Several meters in front of us, she yanked the steering wheel to the left and hit the brakes, effectively blocking our way."
-    ""
 
-# game/episode019.rpy:319
+    "Önümüzde birkaç metre ileride, direksiyonu sola kırdı ve frene bastı, etkili bir şekilde yolumuzu kapattı."
+
+
 translate turkish ep019_temple_cd6c0a11:
 
-    # man "What the-!"
-    man ""
 
-# game/episode019.rpy:321
+    man "Ne-!"
+
+
 translate turkish ep019_temple_b56885d2:
 
-    # "The foreman slammed the brakes and tried to veer from the road."
-    ""
 
-# game/episode019.rpy:323
+    "Ustabaşı frene bastı ve yoldan sapmaya çalıştı."
+
+
 translate turkish ep019_temple_8f98a943:
 
-    # "Luckily, he didn’t succeed, but I was rather afraid the violence of his actions would launch the Key into the side of the road."
-    ""
 
-# game/episode019.rpy:324
+    "Neyse ki başaramadı, ama yaptığı sert hareketin Anahtarı yolun kenarına fırlatmasından korktum."
+
+
 translate turkish ep019_temple_40778fe2:
 
-    # man "What are those clowns doing?!"
-    man ""
 
-# game/episode019.rpy:326
+    man "Bu palyaçolar ne yapıyor?!"
+
+
 translate turkish ep019_temple_8486b5f8:
 
-    # man "Why are you-"
-    man ""
 
-# game/episode019.rpy:327
+    man "Neden sen-"
+
+
 translate turkish ep019_temple_87d6e233:
 
-    # c "Step out of the truck."
-    c ""
 
-# game/episode019.rpy:329
+    c "Kamyondan in."
+
+
 translate turkish ep019_temple_2e737a41:
 
-    # "The foreman got out where Aven and Thyia already had their guns trained on him."
-    ""
 
-# game/episode019.rpy:330
+    "Ustabaşı indi, Aven ve Thyia çoktan silahlarını ona doğrultmuştu."
+
+
 translate turkish ep019_temple_10a58e65:
 
-    # "I marched him to the back of the truck."
-    ""
 
-# game/episode019.rpy:331
+    "Onu kamyonun arkasına doğru yürüttüm."
+
+
 translate turkish ep019_temple_eb51f3bd:
 
-    # c "We'll take it from here."
-    c ""
 
-# game/episode019.rpy:332
+    c "Buradan sonrasını biz hallederiz."
+
+
 translate turkish ep019_temple_336ab11e:
 
-    # c "Run back to your master to tell him you've lost his precious cargo."
-    c ""
 
-# game/episode019.rpy:333
+    c "Efendine koş git, değerli kargosunu kaybettiğini söyle."
+
+
 translate turkish ep019_temple_b7c41c97:
 
-    # c "I'm sure he'll understand."
-    c ""
 
-# game/episode019.rpy:335
+    c "Eminim anlayışla karşılar."
+
+
 translate turkish ep019_temple_e403dd9e:
 
-    # man "You treacherous motherfucker."
-    man ""
 
-# game/episode019.rpy:336
+    man "Kahpe orospu çocuğu."
+
+
 translate turkish ep019_temple_78dedcc9:
 
-    # man "You won't get a dime, if you're planning on selling that thing on the black market."
-    man ""
 
-# game/episode019.rpy:337
+    man "Eğer bunu kara borsada satmayı planlıyorsanız, bir kuruş bile alamazsınız."
+
+
 translate turkish ep019_temple_e7e410c7:
 
-    # man "The Sovereignty will hunt you down for sure!"
-    man ""
 
-# game/episode019.rpy:338
+    man "Egemenlik sizi kesin avlar!"
+
+
 translate turkish ep019_temple_4aac41ce:
 
-    # c "We'll manage."
-    c ""
 
-# game/episode019.rpy:339
+    c "Bir yolunu buluruz."
+
+
 translate turkish ep019_temple_26fff1da:
 
-    # c "Bye now."
-    c ""
 
-# game/episode019.rpy:340
+    c "Hoşça kal."
+
+
 translate turkish ep019_temple_662f4814:
 
-    # "My gun still pointed at the foreman, I backtracked and got back into the truck."
-    ""
 
-# game/episode019.rpy:342
+    "Silahım hala ustabaşına doğrultuluyken, geri geri giderek kamyona bindim."
+
+
 translate turkish ep019_temple_49a9e0a8:
 
-    # "Thyia had already started the engines, and we sped away as soon as I was back in my seat."
-    ""
 
-# game/episode019.rpy:344
+    "Thyia çoktan motorları çalıştırmıştı, ben koltuğuma oturur oturmaz hızla uzaklaştık."
+
+
 translate turkish ep019_temple_bc28cfe7:
 
-    # "The foreman was visible in the rear view mirror, his fist raised in futile rage."
-    ""
 
-# game/episode019.rpy:345
+    "Ustabaşı dikiz aynasında görünüyordu, yumruğunu boş yere havaya kaldırmış öfkeleniyordu."
+
+
 translate turkish ep019_temple_5dd08001:
 
-    # "We didn't drive to Glixken's ship directly, to keep the foreman in the dark about our destination."
-    ""
 
-# game/episode019.rpy:346
+    "Ustabaşıyı gideceğimiz yer konusunda karanlıkta bırakmak için doğrudan Glixken'in gemisine sürmedik."
+
+
 translate turkish ep019_temple_8467c672:
 
-    # "The fighting in the capital had all but died down, so we didn't encounter any resistance or even any patrols."
-    ""
 
-# game/episode019.rpy:348
+    "Başkentteki çatışmalar neredeyse durmuştu, bu yüzden hiç direnişle ya da devriyeyle karşılaşmadık."
+
+
 translate turkish ep019_temple_4532c99a:
 
-    # "Our ticket out of the warzone was still parked in the same place we left it, unscathed."
-    ""
 
-# game/episode019.rpy:349
+    "Savaş bölgesinden çıkış biletimiz hala bıraktığımız yerde, sapasağlam duruyordu."
+
+
 translate turkish ep019_temple_53a8eb3a:
 
-    # "The unearthing of the Key must have occupied everyone's minds on the Jaculus, so the reappearance of Glixken's ship had remained unnoticed."
-    ""
 
-# game/episode019.rpy:350
+    "Anahtarın ortaya çıkarılması Jaculus'taki herkesin aklını meşgul etmiş olmalı ki, Glixken'in gemisinin yeniden ortaya çıkışı fark edilmemişti."
+
+
 translate turkish ep019_temple_841cc941:
 
-    # "Luckily, the cargo bay of the ship was large enough to house the truck, so we just drove it inside after lowering the door of the hold."
-    ""
 
-# game/episode019.rpy:351
+    "Neyse ki geminin kargo bölmesi kamyonu alacak kadar büyüktü, bu yüzden ambarın kapısını indirdikten sonra içeri sürdük."
+
+
 translate turkish ep019_temple_990ca99a:
 
-    # "The rest of the crew abandoned the other truck and headed into Glixken's former ship as well."
-    ""
 
-# game/episode019.rpy:352
+    "Mürettebatın geri kalanı diğer kamyonu terk edip Glixken'in eski gemisine geçti."
+
+
 translate turkish ep019_temple_2ad650cd:
 
-    # "Within minutes after the truck was safely in the cargo and Céline was at her place behind the controls, we were ready for take-off."
-    ""
 
-# game/episode019.rpy:354
+    "Kamyon güvenli bir şekilde kargoya yerleştirildikten ve Céline kontrollerin başına geçtikten birkaç dakika sonra kalkışa hazırdık."
+
+
 translate turkish ep019_temple_0d171973:
 
-    # "We punched through the atmosphere uncontested and found ourselves among the capital ships orbiting the planet."
-    ""
 
-# game/episode019.rpy:355
+    "Hiç engelle karşılaşmadan atmosferi deldik ve kendimizi gezegeni yörüngede dönen ana gemilerin arasında bulduk."
+
+
 translate turkish ep019_temple_1844c8a3:
 
-    # "Céline set a course out of the system."
-    ""
 
-# game/episode019.rpy:356
+    "Céline sistemden çıkış rotasını belirledi."
+
+
 translate turkish ep019_temple_553fbc73:
 
-    # "From there we would make our way back to the station where the Bastard was parked, adding a couple of random jumps to throw off anyone who might follow us."
-    ""
 
-# game/episode019.rpy:358
+    "Oradan Bastard'ın park edildiği istasyona geri dönecektik, bizi takip edebilecek herkesi atlatmak için birkaç rastgele sıçrama ekleyerek."
+
+
 translate turkish ep019_temple_31bfe374:
 
-    # "None of the capital ships signaled us, so either the alarm hadn't been raised planet side yet, or nobody had connected the theft to the appearance of Glixken's ship near Taagmar."
-    ""
 
-# game/episode019.rpy:359
+    "Ana gemilerden hiçbiri bize sinyal göndermedi, yani ya gezegen tarafında henüz alarm verilmemişti ya da kimse hırsızlığı Glixken'in gemisinin Taagmar yakınlarında görünmesiyle ilişkilendirmemişti."
+
+
 translate turkish ep019_temple_f7b17662:
 
-    # "As soon as we were clear of the Sovereignty blockade, Céline prepared the ship to Burst."
-    ""
 
-# game/episode019.rpy:360
+    "Egemenlik ablukasından kurtulur kurtulmaz, Céline gemiyi Sıçrama'ya hazırladı."
+
+
 translate turkish ep019_temple_b675ce47:
 
-    # "With the push of a button we let the Sovereignty-ravaged system behind us."
-    ""
 
-# game/episode019.rpy:366
+    "Bir düğmeye basarak Egemenlik'in harap ettiği sistemi geride bıraktık."
+
+
 translate turkish ep019_transit_eva_364a4a0c:
 
-    # "The detour back to the station would take a few hours, so most of the crew opted to take a short rest."
-    ""
 
-# game/episode019.rpy:367
+    "İstasyona dönüş yolu birkaç saat sürecekti, bu yüzden mürettebatın çoğu kısa bir dinlenmeyi tercih etti."
+
+
 translate turkish ep019_transit_eva_1c057db9:
 
-    # "I wandered the corridors of the ship, longing to be back in the familiarity of the Bastard."
-    ""
 
-# game/episode019.rpy:369
+    "Geminin koridorlarında dolaştım, Bastard'ın tanıdık ortamına dönmeyi özlemiştim."
+
+
 translate turkish ep019_transit_eva_7d94621b:
 
-    # "Eventually, I found myself near the cargo bay and was surprised to find Eva there."
-    ""
 
-# game/episode019.rpy:371
+    "Sonunda kendimi kargo bölmesinin yakınında buldum ve Eva'yı orada görünce şaşırdım."
+
+
 translate turkish ep019_transit_eva_8155b7d9:
 
-    # c "Admiring the booty we stole from dad?"
-    c ""
 
-# game/episode019.rpy:373
+    c "Babadan çaldığımız ganimeti mi hayranlıkla seyrediyorsun?"
+
+
 translate turkish ep019_transit_eva_555c9b6a:
 
-    # c "Admiring the booty we stole from my dad?"
-    c ""
 
-# game/episode019.rpy:375
+    c "Babamdan çaldığımız ganimeti mi hayranlıkla seyrediyorsun?"
+
+
 translate turkish ep019_transit_eva_207b9b67:
 
-    # "Eva didn't respond, staring intently at the glowing crystal strapped to the back of the truck."
-    ""
 
-# game/episode019.rpy:376
+    "Eva cevap vermedi, kamyonun arkasına bağlanmış parlayan kristale dalgın dalgın bakıyordu."
+
+
 translate turkish ep019_transit_eva_b3e5f9d5:
 
-    # c "Eva?"
-    c ""
 
-# game/episode019.rpy:378
+    c "Eva?"
+
+
 translate turkish ep019_transit_eva_9735a5e3:
 
-    # "When I touched her shoulder, Eva looked at me, startled."
-    ""
 
-# game/episode019.rpy:379
+    "Omzuna dokunduğumda Eva irkildi."
+
+
 translate turkish ep019_transit_eva_8ff1f8ab:
 
-    # e "Oh...{w} Hey, [p_name_short]."
-    e ""
 
-# game/episode019.rpy:380
+    e "Ah...{w} Selam, [p_name_short]."
+
+
 translate turkish ep019_transit_eva_85fa53a0:
 
-    # c "You were miles away."
-    c ""
 
-# game/episode019.rpy:382
+    c "Dalmışsın."
+
+
 translate turkish ep019_transit_eva_22e882d3:
 
-    # e "I guess I was."
-    e ""
 
-# game/episode019.rpy:384
+    e "Sanırım öyle."
+
+
 translate turkish ep019_transit_eva_e4fd5f00:
 
-    # e "This thing is fascinating though."
-    e ""
 
-# game/episode019.rpy:385
+    e "Ama bu şey çok büyüleyici."
+
+
 translate turkish ep019_transit_eva_ac93c66c:
 
-    # c "I just wish we knew what it unlocks, it's called the Key, after all."
-    c ""
 
-# game/episode019.rpy:386
+    c "Keşke neyi açtığını bilseydik, sonuçta adı Anahtar."
+
+
 translate turkish ep019_transit_eva_e1220635:
 
-    # e "It seems ancient, yet also still alive."
-    e ""
 
-# game/episode019.rpy:387
+    e "Çok eski görünüyor, ama hala canlı gibi."
+
+
 translate turkish ep019_transit_eva_ff84a882:
 
-    # c "It does look lively, for a crystal."
-    c ""
 
-# game/episode019.rpy:388
+    c "Bir kristal için oldukça canlı görünüyor."
+
+
 translate turkish ep019_transit_eva_b859cf27:
 
-    # c "Must be the pulsating glow, almost like a heartbeat."
-    c ""
 
-# game/episode019.rpy:389
+    c "Kalp atışı gibi yanıp sönen ışıktan olsa gerek."
+
+
 translate turkish ep019_transit_eva_4fef3055:
 
-    # e "Exactly."
-    e ""
 
-# game/episode019.rpy:392
+    e "Aynen öyle."
+
+
 translate turkish ep019_transit_eva_e1feccdb:
 
-    # e "Mom still doesn't have a clue what it is?"
-    e ""
 
-# game/episode019.rpy:394
+    e "Annemin hala ne olduğu hakkında bir fikri yok mu?"
+
+
 translate turkish ep019_transit_eva_3da453c1:
 
-    # e "Nadya still doesn't have a clue what it is?"
-    e ""
 
-# game/episode019.rpy:395
+    e "Nadya'nın hala ne olduğu hakkında bir fikri yok mu?"
+
+
 translate turkish ep019_transit_eva_0265d7bf:
 
-    # c "I'm afraid not."
-    c ""
 
-# game/episode019.rpy:396
+    c "Maalesef yok."
+
+
 translate turkish ep019_transit_eva_386b8f33:
 
-    # c "But I'm sure she'll think of someone we can contact about this, an expert on dusty alien space crystals."
-    c ""
 
-# game/episode019.rpy:397
+    c "Ama eminim bu konuda iletişime geçebileceğimiz birini düşünecektir, tozlu uzaylı kristalleri konusunda bir uzman."
+
+
 translate turkish ep019_transit_eva_27157b12:
 
-    # c "If this rock turns out to be some sort of decorative object we're all going to be sorely disappointed."
-    c ""
 
-# game/episode019.rpy:400
+    c "Eğer bu taş bir tür dekoratif nesne çıkarsa hepimiz fena hayal kırıklığına uğrayacağız."
+
+
 translate turkish ep019_transit_eva_b3752f63:
 
-    # e "Not much chance of it, the Confessor and dad were far too eager to get their hands on it."
-    e ""
 
-# game/episode019.rpy:402
+    e "Öyle olma ihtimali çok düşük, Günah Çıkartıcı ve babam bunu ele geçirmek için fazla hevesliydi."
+
+
 translate turkish ep019_transit_eva_0eeb2bef:
 
-    # e "Not much chance of it, the Confessor and Agust were far too eager to get their hands on it."
-    e ""
 
-# game/episode019.rpy:403
+    e "Öyle olma ihtimali çok düşük, Günah Çıkartıcı ve Agust bunu ele geçirmek için fazla hevesliydi."
+
+
 translate turkish ep019_transit_eva_8e526f8b:
 
-    # e "They have information about this thing that we currently lack."
-    e ""
 
-# game/episode019.rpy:404
+    e "Bizim şu anda bilmediğimiz bilgilere sahipler."
+
+
 translate turkish ep019_transit_eva_053832f0:
 
-    # c "It seems so."
-    c ""
 
-# game/episode019.rpy:406
+    c "Öyle görünüyor."
+
+
 translate turkish ep019_transit_eva_1f9b0a0d:
 
-    # c "That's why I have high hopes of Mom finding someone who knows more."
-    c ""
 
-# game/episode019.rpy:408
+    c "Bu yüzden annemin daha fazlasını bilen birini bulacağına dair büyük umutlarım var."
+
+
 translate turkish ep019_transit_eva_81015c1a:
 
-    # c "That's why I have high hopes of Nadya finding someone who knows more."
-    c ""
 
-# game/episode019.rpy:410
+    c "Bu yüzden Nadya'nın daha fazlasını bilen birini bulacağına dair büyük umutlarım var."
+
+
 translate turkish ep019_transit_eva_d22870db:
 
-    # e "Let's hope she does."
-    e ""
 
-# game/episode019.rpy:417
+    e "Umarım bulur."
+
+
 translate turkish ep019_transit_ziv_e36c1e52:
 
-    # "Ziv was lounging in the mess hall of the ship."
-    ""
 
-# game/episode019.rpy:418
+    "Ziv geminin yemekhanesinde dinleniyordu."
+
+
 translate turkish ep019_transit_ziv_3bb069b4:
 
-    # zi "[p_name_short], could I have a word with you?"
-    zi ""
 
-# game/episode019.rpy:419
+    zi "[p_name_short], seninle konuşabilir miyim?"
+
+
 translate turkish ep019_transit_ziv_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode019.rpy:421
+    c "Tabii."
+
+
 translate turkish ep019_transit_ziv_8fa2461c:
 
-    # zi "I’ve been thinking about our conversation the other day."
-    zi ""
 
-# game/episode019.rpy:425
+    zi "Geçen günkü konuşmamızı düşünüyordum."
+
+
 translate turkish ep019_transit_ziv_6e240bf8:
 
-    # zi "The fact that you didn’t trust me enough to tell me about the other woman hurts, I can’t deny that."
-    zi ""
 
-# game/episode019.rpy:427
+    zi "Bana diğer kadını söyleyecek kadar güvenmemen canımı yakıyor, bunu inkar edemem."
+
+
 translate turkish ep019_transit_ziv_e3d67e8b:
 
-    # zi "The fact that you didn’t trust me enough to tell me about the other women hurts, I can’t deny that."
-    zi ""
 
-# game/episode019.rpy:428
+    zi "Bana diğer kadınları söyleyecek kadar güvenmemen canımı yakıyor, bunu inkar edemem."
+
+
 translate turkish ep019_transit_ziv_affdbf8e:
 
-    # zi "However, the thought of ending things with you filled me with such sadness."
-    zi ""
 
-# game/episode019.rpy:430
+    zi "Ancak seninle her şeyi bitirme düşüncesi içimi öyle bir üzüntüyle dolduruyor ki."
+
+
 translate turkish ep019_transit_ziv_03998cbc:
 
-    # zi "We’ve started this adventure together and it has always felt so good."
-    zi ""
 
-# game/episode019.rpy:431
+    zi "Bu maceraya birlikte başladık ve her zaman çok güzel hissettirdi."
+
+
 translate turkish ep019_transit_ziv_6c46b846:
 
-    # zi "I don’t want to lose that."
-    zi ""
 
-# game/episode019.rpy:433
+    zi "Bunu kaybetmek istemiyorum."
+
+
 translate turkish ep019_transit_ziv_b9d98c59:
 
-    # zi "I know your outlook on love differs from mine, so I’m not going to ask you to stop seeing that other girl."
-    zi ""
 
-# game/episode019.rpy:435
+    zi "Aşka bakış açının benimkinden farklı olduğunu biliyorum, bu yüzden senden diğer kızı görmekten vazgeçmeni istemeyeceğim."
+
+
 translate turkish ep019_transit_ziv_73aada7a:
 
-    # zi "I know your outlook on love differs from mine, so I’m not going to ask you to stop seeing those other girls."
-    zi ""
 
-# game/episode019.rpy:437
+    zi "Aşka bakış açının benimkinden farklı olduğunu biliyorum, bu yüzden senden diğer kızları görmekten vazgeçmeni istemeyeceğim."
+
+
 translate turkish ep019_transit_ziv_d038d877:
 
-    # zi "I just want us to be able to love each other."
-    zi ""
 
-# game/episode019.rpy:438
+    zi "Sadece birbirimizi sevebilmemizi istiyorum."
+
+
 translate turkish ep019_transit_ziv_83b2fe04:
 
-    # zi "I love you, [p_name]."
-    zi ""
 
-# game/episode019.rpy:439
+    zi "Seni seviyorum, [p_name]."
+
+
 translate turkish ep019_transit_ziv_be0aa889:
 
-    # c "I love you too, Ziv."
-    c ""
 
-# game/episode019.rpy:440
+    c "Ben de seni seviyorum, Ziv."
+
+
 translate turkish ep019_transit_ziv_6f5b55ba:
 
-    # c "And I’m sorry my actions have caused you so much pain, that was never my intention."
-    c ""
 
-# game/episode019.rpy:441
+    c "Ve yaptıklarımın sana bu kadar acı vermesine üzgünüm, niyetim bu değildi."
+
+
 translate turkish ep019_transit_ziv_5d419388:
 
-    # c "Lying about complicated stuff seemed like the easy way out, but it always comes back at you in the end."
-    c ""
 
-# game/episode019.rpy:443
+    c "Karmaşık şeyler hakkında yalan söylemek kolay yol gibi görünüyordu, ama sonunda her zaman geri teper."
+
+
 translate turkish ep019_transit_ziv_4b760e9b:
 
-    # "The kiss we exchanged as I sat beside her, sealed our renewed pledge to one another."
-    ""
 
-# game/episode019.rpy:445
+    "Yanına oturduğumda paylaştığımız öpücük, birbirimize olan yenilenmiş sözümüzü mühürledi."
+
+
 translate turkish ep019_transit_ziv_ccbcacea:
 
-    # zi "Once we have a quiet moment to ourselves, I want us to make love like never before, [p_name]."
-    zi ""
 
-# game/episode019.rpy:446
+    zi "Başbaşa kalacak sakin bir anımız olduğunda, seninle hiç olmadığı gibi sevişmek istiyorum, [p_name]."
+
+
 translate turkish ep019_transit_ziv_4dc03407:
 
-    # c "I’m going to hold you to that."
-    c ""
 
-# game/episode019.rpy:447
+    c "Bu sözünü tutacağım."
+
+
 translate turkish ep019_transit_ziv_ee241385:
 
-    # zi "Good!"
-    zi ""
 
-# game/episode019.rpy:453
+    zi "Güzel!"
+
+
 translate turkish ep019_transit_ziv_ca08067f:
 
-    # zi "And we need to end things."
-    zi ""
 
-# game/episode019.rpy:454
+    zi "Ve artık her şeyi bitirmemiz gerek."
+
+
 translate turkish ep019_transit_ziv_c850444c:
 
-    # "Her statement didn’t come as much of a shock."
-    ""
 
-# game/episode019.rpy:456
+    "Söyledikleri beni çok şaşırtmadı."
+
+
 translate turkish ep019_transit_ziv_30ec7fab:
 
-    # zi "I can’t be with someone who doesn’t treat me with respect."
-    zi ""
 
-# game/episode019.rpy:457
+    zi "Bana saygı duymayan biriyle olamam."
+
+
 translate turkish ep019_transit_ziv_e1071b09:
 
-    # zi "You thought you could lie to me in order to get out of a complicated situation."
-    zi ""
 
-# game/episode019.rpy:459
+    zi "Karmaşık bir durumdan kurtulmak için bana yalan söyleyebileceğini düşündün."
+
+
 translate turkish ep019_transit_ziv_f9a7b20c:
 
-    # zi "That’s not a relationship I want to commit to."
-    zi ""
 
-# game/episode019.rpy:460
+    zi "Bu bağlanmak istediğim türden bir ilişki değil."
+
+
 translate turkish ep019_transit_ziv_7963cf59:
 
-    # c "Understood."
-    c ""
 
-# game/episode019.rpy:464
+    c "Anladım."
+
+
 translate turkish ep019_transit_ziv_71cde989:
 
-    # c "I didn’t mean to disrespect you and I’m sorry."
-    c ""
 
-# game/episode019.rpy:465
+    c "Sana saygısızlık etmek istemedim ve özür dilerim."
+
+
 translate turkish ep019_transit_ziv_5d419388_1:
 
-    # c "Lying about complicated stuff seemed like the easy way out, but it always comes back at you in the end."
-    c ""
 
-# game/episode019.rpy:466
+    c "Karmaşık şeyler hakkında yalan söylemek kolay bir çıkış yolu gibi görünüyordu, ama sonunda her zaman geri teper."
+
+
 translate turkish ep019_transit_ziv_0413526b:
 
-    # c "So, my apologies for offending you, and I do hope we can still be friends."
-    c ""
 
-# game/episode019.rpy:468
+    c "Seni kırdığım için özür dilerim ve umarım hala arkadaş kalabiliriz."
+
+
 translate turkish ep019_transit_ziv_0fbc0ef7:
 
-    # "Ziv nodded appreciatively and smiled."
-    ""
 
-# game/episode019.rpy:469
+    "Ziv takdirle başını salladı ve gülümsedi."
+
+
 translate turkish ep019_transit_ziv_b4ab4577:
 
-    # zi "We can."
-    zi ""
 
-# game/episode019.rpy:470
+    zi "Kalabiliriz."
+
+
 translate turkish ep019_transit_ziv_a49acde8:
 
-    # zi "Thank you, [p_name]."
-    zi ""
 
-# game/episode019.rpy:473
+    zi "Teşekkür ederim, [p_name]."
+
+
 translate turkish ep019_transit_ziv_7d42ac0e:
 
-    # "I didn’t have much else to say, so I left Ziv in the mess, ignoring her disappointed expression."
-    ""
 
-# game/episode019.rpy:481
+    "Söyleyecek başka bir şeyim yoktu, bu yüzden Ziv'i hayal kırıklığına uğramış ifadesini görmezden gelerek yemekhanede bıraktım."
+
+
 translate turkish ep019_docked_58722793:
 
-    # "Finally, we reached the station where the Bastard was docked."
-    ""
 
-# game/episode019.rpy:483
+    "Sonunda Bastard'ın demirlediği istasyona ulaştık."
+
+
 translate turkish ep019_docked_81ce0f01:
 
-    # "Céline landed Glixken's ship in the same hangar bay, and we began the unloading of the Key."
-    ""
 
-# game/episode019.rpy:485
+    "Céline, Glixken'in gemisini aynı hangar bölmesine indirdi ve Anahtar'ı boşaltmaya başladık."
+
+
 translate turkish ep019_docked_58492838:
 
-    # "Thyia fetched two portable carriers from the Bastard's hold to load the artifact onto."
-    ""
 
-# game/episode019.rpy:487
+    "Thyia, eseri yüklemek için Bastard'ın ambarından iki taşınabilir taşıyıcı getirdi."
+
+
 translate turkish ep019_docked_7eede0d9:
 
-    # "After driving the truck near the carriers, Jade went out to man the controls of a large crane."
-    ""
 
-# game/episode019.rpy:489
+    "Kamyonu taşıyıcıların yanına sürdükten sonra, Jade büyük bir vincin kontrollerini kullanmak için dışarı çıktı."
+
+
 translate turkish ep019_docked_61dd1d5c:
 
-    # "Using the crane, she managed to get the Key from the back of the truck and dumped onto the carriers."
-    ""
 
-# game/episode019.rpy:491
+    "Vinci kullanarak, Anahtar'ı kamyonun arkasından alıp taşıyıcıların üzerine bırakmayı başardı."
+
+
 translate turkish ep019_docked_3d2d9e97:
 
-    # "Slowly, the remote-operated carriers drove the Key into the Bastard's cargo bay."
-    ""
 
-# game/episode019.rpy:493
+    "Uzaktan kumandalı taşıyıcılar yavaşça Anahtar'ı Bastard'ın kargo bölmesine taşıdı."
+
+
 translate turkish ep019_docked_62cd2dfc:
 
-    # "Thyia paid the bill for the Bastard's maintenance."
-    ""
 
-# game/episode019.rpy:494
+    "Thyia, Bastard'ın bakım masraflarını ödedi."
+
+
 translate turkish ep019_docked_3cd0ba2e:
 
-    # "At first, we'd been planning on selling Glixken's ship to cover the repairs, but we didn't want to risk the Sovereignty finding the vessel and tracing it back to us."
-    ""
 
-# game/episode019.rpy:496
+    "Başlangıçta, tamiratları karşılamak için Glixken'in gemisini satmayı planlıyorduk, ancak Egemenlik'in gemiyi bulup izini bize kadar sürmesi riskini almak istemedik."
+
+
 translate turkish ep019_docked_a334fbd6:
 
-    # "Jade wiped much of the navigational history from Altum Station and onwards."
-    ""
 
-# game/episode019.rpy:497
+    "Jade, Altum İstasyonu'ndan itibaren navigasyon geçmişinin çoğunu sildi."
+
+
 translate turkish ep019_docked_671f8956:
 
-    # "Together with Céline, she programmed the computer to execute a series of jumps towards a faraway system."
-    ""
 
-# game/episode019.rpy:498
+    "Céline ile birlikte, uzak bir sisteme doğru bir dizi atlama gerçekleştirmesi için bilgisayarı programladılar."
+
+
 translate turkish ep019_docked_c2c4c9ce:
 
-    # "From there the computer would start to record its route again and begin a long automated journey, traveling to random places."
-    ""
 
-# game/episode019.rpy:500
+    "Oradan bilgisayar rotasını tekrar kaydetmeye başlayacak ve rastgele yerlere seyahat ederek uzun bir otomatik yolculuğa başlayacaktı."
+
+
 translate turkish ep019_docked_49a3c830:
 
-    # "If the empty ship was ever intercepted by the Sovereignty, they'd have a hard time piecing together what happened with Glixken and his crew."
-    ""
 
-# game/episode019.rpy:501
+    "Boş gemi Egemenlik tarafından ele geçirilirse, Glixken ve mürettebatına ne olduğunu anlamakta zorlanacaklardı."
+
+
 translate turkish ep019_docked_f4d7e7df:
 
-    # "The rest of the crew worked on getting the Bastard ready for take-off."
-    ""
 
-# game/episode019.rpy:504
+    "Mürettebatın geri kalanı Bastard'ı kalkışa hazırlamak için çalışıyordu."
+
+
 translate turkish ep019_docked_e2e3e618:
 
-    # "I decided to pay my mother a visit, to find out if she'd made some progress with finding an expert on massive glowing crystals."
-    ""
 
-# game/episode019.rpy:505
+    "Devasa parlayan kristaller konusunda bir uzman bulma konusunda ilerleme kaydedip kaydetmediğini öğrenmek için annemi ziyaret etmeye karar verdim."
+
+
 translate turkish ep019_docked_065c4db7:
 
-    # c "Hey mom, still hitting the books?"
-    c ""
 
-# game/episode019.rpy:507
+    c "Hey anne, hala kitapları mı karıştırıyorsun?"
+
+
 translate turkish ep019_docked_ca3dfd09:
 
-    # "I decided to pay Nadya a visit, to find out if she'd made some progress with finding an expert on massive glowing crystals."
-    ""
 
-# game/episode019.rpy:508
+    "Devasa parlayan kristaller konusunda bir uzman bulma konusunda ilerleme kaydedip kaydetmediğini öğrenmek için Nadya'yı ziyaret etmeye karar verdim."
+
+
 translate turkish ep019_docked_58e84874:
 
-    # c "Hey Nadya, still hitting the books?"
-    c ""
 
-# game/episode019.rpy:510
+    c "Hey Nadya, hala kitapları mı karıştırıyorsun?"
+
+
 translate turkish ep019_docked_c2791676:
 
-    # na "Yes, I still am."
-    na ""
 
-# game/episode019.rpy:511
+    na "Evet, hala öyle."
+
+
 translate turkish ep019_docked_8cf94f1d:
 
-    # na "It's such a frustratingly broad subject."
-    na ""
 
-# game/episode019.rpy:512
+    na "Bu kadar geniş bir konu olması sinir bozucu."
+
+
 translate turkish ep019_docked_39bb11ba:
 
-    # na "Equal amounts of peer-reviewed science and speculative drivel."
-    na ""
 
-# game/episode019.rpy:513
+    na "Hakemli bilimsel çalışmalar ve spekülatif saçmalıklar eşit miktarda."
+
+
 translate turkish ep019_docked_369760b3:
 
-    # c "I reckon it's hard to separate the two?"
-    c ""
 
-# game/episode019.rpy:515
+    c "İkisini ayırmak zor olsa gerek?"
+
+
 translate turkish ep019_docked_78560113:
 
-    # na "The obvious nutcases are easy to weed out, but what remains is still a lot of ground to cover."
-    na ""
 
-# game/episode019.rpy:516
+    na "Bariz manyakları elemek kolay, ama geriye hala incelenmesi gereken çok şey kalıyor."
+
+
 translate turkish ep019_docked_d30ac98f:
 
-    # na "We're not the first to find an artifact like this and in many cases, the original creators didn't leave behind any notes on the creation or uses of the objects."
-    na ""
 
-# game/episode019.rpy:517
+    na "Böyle bir eseri bulan ilk kişiler biz değiliz ve çoğu durumda, orijinal yaratıcılar nesnelerin yapımı veya kullanımı hakkında hiçbir not bırakmamış."
+
+
 translate turkish ep019_docked_9343f83a:
 
-    # c "You're saying that identical objects have been found elsewhere?"
-    c ""
 
-# game/episode019.rpy:519
+    c "Başka yerlerde de aynı nesnelerin bulunduğunu mu söylüyorsun?"
+
+
 translate turkish ep019_docked_1d02aade:
 
-    # na "No, just similar objects."
-    na ""
 
-# game/episode019.rpy:520
+    na "Hayır, sadece benzer nesneler."
+
+
 translate turkish ep019_docked_11795723:
 
-    # na "Crystals in all sizes and forms, glowing rocks, that sort of stuff."
-    na ""
 
-# game/episode019.rpy:521
+    na "Her boyut ve şekilde kristaller, parlayan kayalar, bu tür şeyler."
+
+
 translate turkish ep019_docked_5c76b170:
 
-    # na "I know the artifact we took looks very much like a crystal, but we can't be sure it is."
-    na ""
 
-# game/episode019.rpy:522
+    na "Aldığımız eserin bir kristale çok benzediğini biliyorum, ama emin olamayız."
+
+
 translate turkish ep019_docked_74085db3:
 
-    # c "You're suggesting to have a gemologist take a look at it first?"
-    c ""
 
-# game/episode019.rpy:524
+    c "Önce bir gemologun incelemesini mi öneriyorsun?"
+
+
 translate turkish ep019_docked_a2d046fc:
 
-    # na "Not really, just that we need to keep an open mind."
-    na ""
 
-# game/episode019.rpy:525
+    na "Tam olarak değil, sadece açık fikirli olmamız gerektiğini söylüyorum."
+
+
 translate turkish ep019_docked_8e780940:
 
-    # na "There are a lot of theories about alien crystals that were found across the galaxy."
-    na ""
 
-# game/episode019.rpy:526
+    na "Galakside bulunan uzaylı kristalleri hakkında bir sürü teori var."
+
+
 translate turkish ep019_docked_de110509:
 
-    # na "Some say that older civilizations recorded data on them, navigational or otherwise."
-    na ""
 
-# game/episode019.rpy:527
+    na "Bazıları eski medeniyetlerin bunların üzerine navigasyon veya başka veriler kaydettiğini söylüyor."
+
+
 translate turkish ep019_docked_07f11b7a:
 
-    # na "Others have posited that they could be an energy source, due to their pulsating glow and the fact that some of them appear to be electrically charged."
-    na ""
 
-# game/episode019.rpy:528
+    na "Diğerleri ise nabız gibi atarak parlamaları ve bazılarının elektrikle yüklü görünmesi nedeniyle bir enerji kaynağı olabileceklerini öne sürüyor."
+
+
 translate turkish ep019_docked_9a1a34b0:
 
-    # na "Then there's a school of thought that categorizes most of the crystal finds as objects used in religious rituals."
-    na ""
 
-# game/episode019.rpy:529
+    na "Ayrıca kristal buluntularının çoğunu dini ritüellerde kullanılan nesneler olarak sınıflandıran bir düşünce okulu da var."
+
+
 translate turkish ep019_docked_599fa4d5:
 
-    # na "All plausible, but it doesn't bring us much further toward an understanding of the nature of our crystal."
-    na ""
 
-# game/episode019.rpy:530
+    na "Hepsi makul, ama bizim kristalimizin doğasını anlamak konusunda bizi pek ilerletmiyor."
+
+
 translate turkish ep019_docked_a590356e:
 
-    # c "This is not your area of expertise either, right?"
-    c ""
 
-# game/episode019.rpy:532
+    c "Bu senin uzmanlık alanın da değil, değil mi?"
+
+
 translate turkish ep019_docked_8739870f:
 
-    # na "That's another complication."
-    na ""
 
-# game/episode019.rpy:533
+    na "Bu da başka bir sorun."
+
+
 translate turkish ep019_docked_60e2a7f6:
 
-    # na "I know of a research group in Ketnar Kenesh that specializes in these kind of things and might be able to examine the Key more thoroughly."
-    na ""
 
-# game/episode019.rpy:534
+    na "Ketnar Kenesh'te bu tür şeylerde uzmanlaşmış ve Anahtar'ı daha detaylı inceleyebilecek bir araştırma grubu biliyorum."
+
+
 translate turkish ep019_docked_791c07b7:
 
-    # c "Can they be trusted?"
-    c ""
 
-# game/episode019.rpy:536
+    c "Güvenilir mi?"
+
+
 translate turkish ep019_docked_07fdf6f2:
 
-    # na "Possibly."
-    na ""
 
-# game/episode019.rpy:537
+    na "Muhtemelen."
+
+
 translate turkish ep019_docked_5e121498:
 
-    # na "They have no love for the Sovereignty, but that's not the only cutthroat power player with a vested interest currently in existence."
-    na ""
 
-# game/episode019.rpy:538
+    na "Egemenlik'e karşı sempati duymuyorlar, ama şu anda mevcut olan tek acımasız güç oyuncusu onlar değil."
+
+
 translate turkish ep019_docked_0ef7d519:
 
-    # c "Flying around aimlessly with this thing in our cargo hold doesn't seem to be the best move."
-    c ""
 
-# game/episode019.rpy:539
+    c "Bu şeyle kargo bölmemizde amaçsızca uçmak en iyi hareket gibi görünmüyor."
+
+
 translate turkish ep019_docked_4e4449eb:
 
-    # c "So maybe we should risk it."
-    c ""
 
-# game/episode019.rpy:540
+    c "Belki risk almalıyız."
+
+
 translate turkish ep019_docked_56443929:
 
-    # c "Give that research group access to the artifact, but with enough restrictions so that we can bail out as soon was we attract unwanted attention."
-    c ""
 
-# game/episode019.rpy:542
+    c "Araştırma grubuna esere erişim izni verelim, ama istenmeyen ilgi çeker çekmez kaçabilecek kadar kısıtlama koyalım."
+
+
 translate turkish ep019_docked_f785d1c2:
 
-    # na "Agreed."
-    na ""
 
-# game/episode019.rpy:543
+    na "Katılıyorum."
+
+
 translate turkish ep019_docked_74e91d40:
 
-    # c "I'll inform the others."
-    c ""
 
-# game/episode019.rpy:544
+    c "Diğerlerine haber vereceğim."
+
+
 translate turkish ep019_docked_c09bc293:
 
-    # c "Could you send Céline the coordinates of Ketnar Kenesh?"
-    c ""
 
-# game/episode019.rpy:545
+    c "Ketnar Kenesh'in koordinatlarını Céline'e gönderebilir misin?"
+
+
 translate turkish ep019_docked_1e196086:
 
-    # na "They operate out of a research station, orbiting an uninhabited moon."
-    na ""
 
-# game/episode019.rpy:546
+    na "Yerleşik olmayan bir ayın yörüngesindeki bir araştırma istasyonundan çalışıyorlar."
+
+
 translate turkish ep019_docked_8bbc1782:
 
-    # na "It's quite remote and the base doesn't fall under any official jurisdiction."
-    na ""
 
-# game/episode019.rpy:547
+    na "Oldukça uzak ve üs herhangi bir resmi yargı yetkisi altında değil."
+
+
 translate turkish ep019_docked_afb2a600:
 
-    # c "That doesn't sound like a bad place to get some answers."
-    c ""
 
-# game/episode019.rpy:548
+    c "Bazı cevaplar almak için kötü bir yer gibi görünmüyor."
+
+
 translate turkish ep019_docked_30b61812:
 
-    # c "I'll make sure we head out there as soon as possible."
-    c ""
 
-# game/episode019.rpy:550
+    c "En kısa zamanda oraya gideceğimizden emin olacağım."
+
+
 translate turkish ep019_docked_2ef111e3:
 
-    # "When all the preparations were finished, Céline requested permission to leave the station."
-    ""
 
-# game/episode019.rpy:551
+    "Tüm hazırlıklar tamamlandığında, Céline istasyondan ayrılmak için izin istedi."
+
+
 translate turkish ep019_docked_dbb9c116:
 
-    # "Permission was granted almost immediately and both the Bastard and Glixken's former ship disengaged."
-    ""
 
-# game/episode019.rpy:553
+    "İzin neredeyse anında verildi ve hem Bastard hem de Glixken'in eski gemisi ayrıldı."
+
+
 translate turkish ep019_docked_78d15dfa:
 
-    # "The latter ship went through an automated undocking procedure, programmed by Jade and Céline."
-    ""
 
-# game/episode019.rpy:554
+    "İkinci gemi, Jade ve Céline tarafından programlanan otomatik bir ayrılma prosedüründen geçti."
+
+
 translate turkish ep019_docked_4e4b5c04:
 
-    # "When we'd put enough distance between us and the station, Céline ordered the other ship to begin its lonely journey through space, by randomly jumping to anywhere and nowhere."
-    ""
 
-# game/episode019.rpy:556
+    "İstasyonla aramıza yeterli mesafe koyduğumuzda, Céline diğer gemiye herhangi bir yere ve hiçbir yere rastgele atlayarak yalnız yolculuğuna başlaması emrini verdi."
+
+
 translate turkish ep019_docked_06b97df9:
 
-    # "The Bastard set a course to the research station in Ketnar Kenesh."
-    ""
 
-# game/episode019.rpy:557
+    "Bastard, Ketnar Kenesh'teki araştırma istasyonuna doğru rota belirledi."
+
+
 translate turkish ep019_docked_07a30fbb:
 
-    # "As the station was in a remote system, the journey would take a good while, requiring multiple jumps and gate passages."
-    ""
 
-# game/episode019.rpy:558
+    "İstasyon uzak bir sistemde olduğu için, yolculuk birden fazla atlama ve geçit geçişi gerektirerek uzun sürecekti."
+
+
 translate turkish ep019_docked_dada4534:
 
-    # "We all indulged in some much-needed sleep."
-    ""
 
-# game/episode019.rpy:559
+    "Hepimiz çok ihtiyaç duyduğumuz uykuya daldık."
+
+
 translate turkish ep019_docked_c8192213:
 
-    # "The unfamiliar confines of Glixken's ship made everyone uneasy, so nobody had managed a good night's rest while we transported the Key away from Taagmar."
-    ""
 
-# game/episode019.rpy:561
+    "Glixken'in gemisinin alışık olmadığımız ortamı herkesi huzursuz etmişti, bu yüzden Anahtar'ı Taagmar'dan uzaklaştırırken kimse düzgün bir gece uykusu uyuyamamıştı."
+
+
 translate turkish ep019_docked_f332f617:
 
-    # "My dreams were mercifully free from any Scolguin influence."
-    ""
 
-# game/episode019.rpy:566
+    "Rüyalarım şükürler olsun ki Scolguin etkisinden uzaktı."
+
+
 translate turkish ep019_docked_0fc7a875:
 
-    # "I awoke several hours later, because someone was banging on my door."
-    ""
 
-# game/episode019.rpy:567
+    "Birkaç saat sonra, biri kapımı çaldığı için uyandım."
+
+
 translate turkish ep019_docked_1753e276:
 
-    # l "[p_name]! Wake up!"
-    l ""
 
-# game/episode019.rpy:569
+    l "[p_name]! Uyan!"
+
+
 translate turkish ep019_docked_596b811e:
 
-    # "Lilly sounded panicked so I was awake instantly and rushed to the door."
-    ""
 
-# game/episode019.rpy:570
+    "Lilly panik içinde görünüyordu, bu yüzden anında uyanıp kapıya koştum."
+
+
 translate turkish ep019_docked_3502305f:
 
-    # c "What's the matter?"
-    c ""
 
-# game/episode019.rpy:571
+    c "Ne oldu?"
+
+
 translate turkish ep019_docked_33611243:
 
-    # l "Come quickly, it's Eva."
-    l ""
 
-# game/episode019.rpy:572
+    l "Çabuk gel, Eva."
+
+
 translate turkish ep019_docked_6c6c7c02:
 
-    # l "Something's wrong."
-    l ""
 
-# game/episode019.rpy:574
+    l "Bir şeyler yanlış."
+
+
 translate turkish ep019_docked_ab656f20:
 
-    # "Lilly pulled me into the hallway and ushered me toward the cargo bay."
-    ""
 
-# game/episode019.rpy:575
+    "Lilly beni koridora çekip kargo bölmesine doğru yönlendirdi."
+
+
 translate turkish ep019_docked_1f40a094:
 
-    # c "Lilly, what happened with Eva?"
-    c ""
 
-# game/episode019.rpy:577
+    c "Lilly, Eva'ya ne oldu?"
+
+
 translate turkish ep019_docked_263ae0bf:
 
-    # l "I needed to use the restroom just now and noticed the door to Eva's room ajar."
-    l ""
 
-# game/episode019.rpy:578
+    l "Az önce tuvalete gitmem gerekiyordu ve Eva'nın odasının kapısının aralık olduğunu fark ettim."
+
+
 translate turkish ep019_docked_4c24819b:
 
-    # l "She wasn't in the restrooms, or in the mess."
-    l ""
 
-# game/episode019.rpy:579
+    l "Tuvaletlerde ya da yemekhanede değildi."
+
+
 translate turkish ep019_docked_6a5537ea:
 
-    # l "Normally, I wouldn't look for her, but she's been behaving strangely ever since we left Taagmar."
-    l ""
 
-# game/episode019.rpy:580
+    l "Normalde onu aramazdım ama Taagmar'dan ayrıldığımızdan beri tuhaf davranıyordu."
+
+
 translate turkish ep019_docked_45b42f8b:
 
-    # c "You mean her absentmindedness?"
-    c ""
 
-# game/episode019.rpy:582
+    c "Dalgınlığından mı bahsediyorsun?"
+
+
 translate turkish ep019_docked_997aeee9:
 
-    # l "Yes, like she's permanently lost in thought."
-    l ""
 
-# game/episode019.rpy:583
+    l "Evet, sanki sürekli düşüncelere dalmış gibiydi."
+
+
 translate turkish ep019_docked_a18dc365:
 
-    # l "So I checked everywhere and found her in the cargo bay."
-    l ""
 
-# game/episode019.rpy:584
+    l "Bu yüzden her yeri kontrol ettim ve onu kargo bölmesinde buldum."
+
+
 translate turkish ep019_docked_e5f7cb4a:
 
-    # l "Unconscious, next to the crystal."
-    l ""
 
-# game/episode019.rpy:585
+    l "Kristalın yanında, bilinçsiz halde."
+
+
 translate turkish ep019_docked_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode019.rpy:588
+    c "Kahretsin."
+
+
 translate turkish ep019_docked_656543a2:
 
-    # c "Did you wake Thim?"
-    c ""
 
-# game/episode019.rpy:589
+    c "Thim'i uyandırdın mı?"
+
+
 translate turkish ep019_docked_a8858f90:
 
-    # l "I did."
-    l ""
 
-# game/episode019.rpy:591
+    l "Evet."
+
+
 translate turkish ep019_docked_0d981d67:
 
-    # c "Have you brought her to the medbay?"
-    c ""
 
-# game/episode019.rpy:593
+    c "Onu revire götürdün mü?"
+
+
 translate turkish ep019_docked_0864c813:
 
-    # l "I didn't know what to do, mom is with her now."
-    l ""
 
-# game/episode019.rpy:595
+    l "Ne yapacağımı bilemedim, annem şu an onunla birlikte."
+
+
 translate turkish ep019_docked_94ebdf74:
 
-    # l "I didn't know what to do, Nadya is with her now."
-    l ""
 
-# game/episode019.rpy:596
+    l "Ne yapacağımı bilemedim, Nadya şu an onun yanında."
+
+
 translate turkish ep019_docked_c32786ef:
 
-    # "We'd reached the cargo bay."
-    ""
 
-# game/episode019.rpy:599
+    "Kargo bölümüne ulaşmıştık."
+
+
 translate turkish ep019_docked_129d07f3:
 
-    # "Thim was already there, kneeling beside Eva."
-    ""
 
-# game/episode019.rpy:602
+    "Thim çoktan oradaydı, Eva'nın yanında diz çökmüş duruyordu."
+
+
 translate turkish ep019_docked_b013faca:
 
-    # "Nadya was kneeling beside Eva."
-    ""
 
-# game/episode019.rpy:603
+    "Nadya Eva'nın yanında diz çökmüştü."
+
+
 translate turkish ep019_docked_c2c211c4:
 
-    # c "Is she still breathing?"
-    c ""
 
-# game/episode019.rpy:606
+    c "Hala nefes alıyor mu?"
+
+
 translate turkish ep019_docked_270b5553:
 
-    # t "She is, but she appears to be in a coma."
-    t ""
 
-# game/episode019.rpy:607
+    t "Alıyor, ama komada gibi görünüyor."
+
+
 translate turkish ep019_docked_cd809cc8:
 
-    # c "Is she fit enough to be moved to the medbay?"
-    c ""
 
-# game/episode019.rpy:608
+    c "Revire taşınabilecek durumda mı?"
+
+
 translate turkish ep019_docked_d616e7af:
 
-    # t "Yes, she is."
-    t ""
 
-# game/episode019.rpy:611
+    t "Evet, öyle."
+
+
 translate turkish ep019_docked_f335af49:
 
-    # na "She is, but she won't wake up."
-    na ""
 
-# game/episode019.rpy:612
+    na "Evet, ama uyanmıyor."
+
+
 translate turkish ep019_docked_f0d0834a:
 
-    # c "We need to get her to the medbay."
-    c ""
 
-# game/episode019.rpy:613
+    c "Onu revire götürmemiz gerek."
+
+
 translate turkish ep019_docked_8d8e065c:
 
-    # c "What the hell happened here?"
-    c ""
 
-# game/episode019.rpy:615
+    c "Burada ne halt oldu böyle?"
+
+
 translate turkish ep019_docked_2d77db88:
 
-    # l "I don't know, I just found her lying here like this."
-    l ""
 
-# game/episode019.rpy:617
+    l "Bilmiyorum, onu böyle yatarken buldum sadece."
+
+
 translate turkish ep019_docked_48a8e9a4:
 
-    # "Only then I noticed the crystal, it wasn't glowing any longer."
-    ""
 
-# game/episode019.rpy:618
+    "Ancak o zaman kristali fark ettim, artık parlamıyordu."
+
+
 translate turkish ep019_docked_2e0fe575:
 
-    # c "The Key seems to be inert."
-    c ""
 
-# game/episode019.rpy:620
+    c "Anahtar etkisiz gibi görünüyor."
+
+
 translate turkish ep019_docked_325b6ad7:
 
-    # l "You're right, it's not pulsing anymore."
-    l ""
 
-# game/episode019.rpy:621
+    l "Haklısın, artık nabız gibi atmıyor."
+
+
 translate turkish ep019_docked_832a10a9:
 
-    # c "We'll worry about that later, first we need to get Eva inside the medbay."
-    c ""
 
-# game/episode019.rpy:623
+    c "Onunla sonra ilgileniriz, önce Eva'yı revire götürmemiz lazım."
+
+
 translate turkish ep019_docked_ecac9104:
 
-    # "Eva didn't respond when we lifted her from the floor and carried her to the medbay."
-    ""
 
-# game/episode019.rpy:626
+    "Eva'yı yerden kaldırıp revire taşırken hiç tepki vermedi."
+
+
 translate turkish ep019_docked_5c8a8979:
 
-    # t "I'm going to run some tests, but the lab here is very limited."
-    t ""
 
-# game/episode019.rpy:627
+    t "Bazı testler yapacağım ama buradaki laboratuvar çok kısıtlı."
+
+
 translate turkish ep019_docked_e4f24456:
 
-    # t "Depending on how deep her coma is, she'll need specialized care."
-    t ""
 
-# game/episode019.rpy:630
+    t "Komasının derinliğine bağlı olarak, özel bakıma ihtiyacı olacak."
+
+
 translate turkish ep019_docked_4ae607ee:
 
-    # "The autodoc told us what we already feared, Eva had somehow slipped into a coma."
-    ""
 
-# game/episode019.rpy:631
+    "Otomatik doktor zaten korktuğumuz şeyi söyledi, Eva bir şekilde komaya girmişti."
+
+
 translate turkish ep019_docked_031b2a10:
 
-    # na "The autodoc is far too limited to treat a patient like this."
-    na ""
 
-# game/episode019.rpy:632
+    na "Otomatik doktor böyle bir hastayı tedavi etmek için fazla yetersiz."
+
+
 translate turkish ep019_docked_bf906cc4:
 
-    # na "Eva will likely need specialized care."
-    na ""
 
-# game/episode019.rpy:633
+    na "Eva'nın muhtemelen özel bakıma ihtiyacı olacak."
+
+
 translate turkish ep019_docked_d9f1c857:
 
-    # c "Then we'll make sure she gets it."
-    c ""
 
-# game/episode019.rpy:634
+    c "O zaman bunu sağlayacağız."
+
+
 translate turkish ep019_docked_4d4e0822:
 
-    # c "Can you rouse the others, Lilly?"
-    c ""
 
-# game/episode019.rpy:635
+    c "Diğerlerini uyandırabilir misin, Lilly?"
+
+
 translate turkish ep019_docked_d5de3a65:
 
-    # c "We'll need options, and fast."
-    c ""
 
-# game/episode019.rpy:637
+    c "Seçeneklere ihtiyacımız var, hem de hızlıca."
+
+
 translate turkish ep019_docked_bf023ff1:
 
-    # "The entire crew didn't fit into the medbay, so some of them waited in the hallway."
-    ""
 
-# game/episode019.rpy:639
+    "Mürettebatın tamamı revire sığmadı, bu yüzden bazıları koridorda bekledi."
+
+
 translate turkish ep019_docked_1d670aea:
 
-    # th "So that artifact isn't radiating energy anymore?"
-    th ""
 
-# game/episode019.rpy:640
+    th "Yani o eser artık enerji yaymıyor mu?"
+
+
 translate turkish ep019_docked_989e66b2:
 
-    # c "Yes, it seems to be inert."
-    c ""
 
-# game/episode019.rpy:641
+    c "Evet, etkisiz gibi görünüyor."
+
+
 translate turkish ep019_docked_948f39d5:
 
-    # th "And Eva was lying in front of it?"
-    th ""
 
-# game/episode019.rpy:643
+    th "Ve Eva onun önünde mi yatıyordu?"
+
+
 translate turkish ep019_docked_5a8af982:
 
-    # th "That can't be a coincidence."
-    th ""
 
-# game/episode019.rpy:644
+    th "Bu tesadüf olamaz."
+
+
 translate turkish ep019_docked_88df38a7:
 
-    # c "Agreed."
-    c ""
 
-# game/episode019.rpy:645
+    c "Katılıyorum."
+
+
 translate turkish ep019_docked_a8a90472:
 
-    # c "Ever since we got that thing out of the temple, Eva seemed strangely attracted to the Key."
-    c ""
 
-# game/episode019.rpy:646
+    c "O şeyi tapınaktan çıkardığımızdan beri Eva garip bir şekilde Anahtar'a çekiliyordu."
+
+
 translate turkish ep019_docked_249f91bb:
 
-    # c "Like it was calling to her."
-    c ""
 
-# game/episode019.rpy:648
+    c "Sanki onu çağırıyormuş gibi."
+
+
 translate turkish ep019_docked_bcd9c34a:
 
-    # th "Maybe it was."
-    th ""
 
-# game/episode019.rpy:649
+    th "Belki de öyleydi."
+
+
 translate turkish ep019_docked_cd18facf:
 
-    # th "It called to her to fulfill its function?"
-    th ""
 
-# game/episode019.rpy:651
+    th "İşlevini yerine getirmesi için onu çağırdı?"
+
+
 translate turkish ep019_docked_2f22d255:
 
-    # l "By putting her into a coma?"
-    l ""
 
-# game/episode019.rpy:653
+    l "Onu komaya sokarak mı?"
+
+
 translate turkish ep019_docked_6235794e:
 
-    # na "That probably wasn't the desired outcome."
-    na ""
 
-# game/episode019.rpy:654
+    na "Bu muhtemelen istenen sonuç değildi."
+
+
 translate turkish ep019_docked_f3fcb313:
 
-    # na "But if all that energy pent up in the crystal was spent at once..."
-    na ""
 
-# game/episode019.rpy:655
+    na "Ama kristalde biriken tüm enerji bir anda boşaldıysa..."
+
+
 translate turkish ep019_docked_f9dacc52:
 
-    # c "Whatever the reason for Eva's current state, she needs better medical care than we can provide here."
-    c ""
 
-# game/episode019.rpy:658
+    c "Eva'nın şu anki durumunun sebebi her ne olursa olsun, burada verebileceğimizden daha iyi tıbbi bakıma ihtiyacı var."
+
+
 translate turkish ep019_docked_96599b0a:
 
-    # t "She does."
-    t ""
 
-# game/episode019.rpy:659
+    t "Doğru."
+
+
 translate turkish ep019_docked_ebf19ab7:
 
-    # t "There is a chance she'll wake up on her own."
-    t ""
 
-# game/episode019.rpy:660
+    t "Kendi kendine uyanma ihtimali var."
+
+
 translate turkish ep019_docked_6839fe16:
 
-    # t "But that isn't a given, and it's also unclear in what timeframe."
-    t ""
 
-# game/episode019.rpy:663
+    t "Ama bu kesin değil ve ne kadar süreceği de belli değil."
+
+
 translate turkish ep019_docked_d22ec4b2:
 
-    # c "According to the autodoc, there is a chance she'll wake up on her own."
-    c ""
 
-# game/episode019.rpy:664
+    c "Otomatik doktora göre, kendi kendine uyanma ihtimali var."
+
+
 translate turkish ep019_docked_55951399:
 
-    # c "But that isn't a given, and it's also unclear in what timeframe."
-    c ""
 
-# game/episode019.rpy:665
+    c "Ama bu kesin değil ve ne kadar süreceği de belli değil."
+
+
 translate turkish ep019_docked_9ff1141e:
 
-    # c "Céline, are there any medical facilities nearby?"
-    c ""
 
-# game/episode019.rpy:667
+    c "Céline, yakınlarda tıbbi tesis var mı?"
+
+
 translate turkish ep019_docked_8f23be73:
 
-    # ce "Yes, there's one on Paclerara."
-    ce ""
 
-# game/episode019.rpy:670
+    ce "Evet, Paclerara'da bir tane var."
+
+
 translate turkish ep019_docked_cb8e9281:
 
-    # "I noticed Jade's gaze snap to attention."
-    ""
 
-# game/episode019.rpy:671
+    "Jade'in bakışlarının dikkat kesildiğini fark ettim."
+
+
 translate turkish ep019_docked_cf08ff5e:
 
-    # "Paclerara had been mentioned before, in relation to Jade's family."
-    ""
 
-# game/episode019.rpy:672
+    "Paclerara daha önce Jade'in ailesiyle ilgili olarak bahsedilmişti."
+
+
 translate turkish ep019_docked_50326c6f:
 
-    # "Her mother was supposedly buried on the planet, her gravesite a place of pilgrimage."
-    ""
 
-# game/episode019.rpy:674
+    "Annesi sözde bu gezegende gömülüydü, mezarı bir hac yeriydi."
+
+
 translate turkish ep019_docked_ca5af95c:
 
-    # c "Paclerara’s medical facilities constitute of more than a first aid kit, right?"
-    c ""
 
-# game/episode019.rpy:675
+    c "Paclerara'nın tıbbi tesisleri bir ilk yardım çantasından daha fazlası, değil mi?"
+
+
 translate turkish ep019_docked_5ebc3a6b:
 
-    # ce "Yes, but it’s not a high-tech facility like Custer's Reach."
-    ce ""
 
-# game/episode019.rpy:677
+    ce "Evet, ama Custer's Reach gibi yüksek teknolojili bir tesis değil."
+
+
 translate turkish ep019_docked_83675fc9:
 
-    # c "We're not talking about some backwater place that happens to have a first aid kit, right?"
-    c ""
 
-# game/episode019.rpy:678
+    c "Sadece ilk yardım çantası olan ücra bir yerden bahsetmiyoruz, değil mi?"
+
+
 translate turkish ep019_docked_295ae81b:
 
-    # ce "No, but neither is it a high-tech facility, like Custer's Reach."
-    ce ""
 
-# game/episode019.rpy:679
+    ce "Hayır, ama Custer's Reach gibi yüksek teknolojili bir tesis de değil."
+
+
 translate turkish ep019_docked_ec9f0df8:
 
-    # c "It’ll have to do."
-    c ""
 
-# game/episode019.rpy:680
+    c "İdare etmek zorunda."
+
+
 translate turkish ep019_docked_9cca7b00:
 
-    # c "Céline, abandon our course to Ketnar Kenesh, Paclerara will be our first stop."
-    c ""
 
-# game/episode019.rpy:681
+    c "Céline, Ketnar Kenesh rotasını iptal et, ilk durağımız Paclerara olacak."
+
+
 translate turkish ep019_docked_ab05b18c:
 
-    # ce "Understood."
-    ce ""
 
-# game/episode019.rpy:682
+    ce "Anlaşıldı."
+
+
 translate turkish ep019_docked_102452de:
 
-    # "As Céline went to the bridge to plot the new route, the others left the medbay."
-    ""
 
-# game/episode019.rpy:687
+    "Céline yeni rotayı belirlemek için köprüye giderken, diğerleri revirden ayrıldı."
+
+
 translate turkish ep019_docked_63049f8d:
 
-    # "Nadya lingered, clearly worried."
-    ""
 
-# game/episode019.rpy:688
+    "Nadya oyalandı, açıkça endişeliydi."
+
+
 translate turkish ep019_docked_609f21a3:
 
-    # c "I should have paid more attention to Eva."
-    c ""
 
-# game/episode019.rpy:690
+    c "Eva'ya daha çok dikkat etmeliydim."
+
+
 translate turkish ep019_docked_6314aa85:
 
-    # na "You couldn't know something like this would happen."
-    na ""
 
-# game/episode019.rpy:691
+    na "Böyle bir şeyin olacağını bilemezdin."
+
+
 translate turkish ep019_docked_c87b0ece:
 
-    # na "Besides, she didn't exhibit any alarming symptoms, just the absentmindedness."
-    na ""
 
-# game/episode019.rpy:692
+    na "Ayrıca, dalgınlık dışında endişe verici bir belirti göstermemişti."
+
+
 translate turkish ep019_docked_b429ecb4:
 
-    # c "Do you think the Key rendered her unconscious?"
-    c ""
 
-# game/episode019.rpy:693
+    c "Sence Anahtar onu bayılttı mı?"
+
+
 translate turkish ep019_docked_e50daff3:
 
-    # na "That seems a likely explanation."
-    na ""
 
-# game/episode019.rpy:695
+    na "Bu mantıklı bir açıklama gibi görünüyor."
+
+
 translate turkish ep019_docked_9ab56339:
 
-    # na "Maybe expended energy overwhelmed her somehow."
-    na ""
 
-# game/episode019.rpy:696
+    na "Belki de boşalan enerji onu bir şekilde bunalttı."
+
+
 translate turkish ep019_docked_4c06441a:
 
-    # c "But why didn't it happen before, when we were stealing that thing from the temple?"
-    c ""
 
-# game/episode019.rpy:697
+    c "Peki neden daha önce olmadı, o şeyi tapınaktan çalarken?"
+
+
 translate turkish ep019_docked_b17d2579:
 
-    # na "I'm not sure."
-    na ""
 
-# game/episode019.rpy:698
+    na "Emin değilim."
+
+
 translate turkish ep019_docked_bc25af62:
 
-    # na "She was lying directly next to the crystal when Lilly found her in the cargo bay."
-    na ""
 
-# game/episode019.rpy:699
+    na "Lilly onu kargo bölümünde bulduğunda kristale çok yakın yatıyordu."
+
+
 translate turkish ep019_docked_2be685dd:
 
-    # na "Eva didn't come that close to the Key before, or maybe she touched it, after being drawn towards it."
-    na ""
 
-# game/episode019.rpy:700
+    na "Eva daha önce Anahtar'a bu kadar yaklaşmamıştı, ya da belki ona çekildikten sonra dokundu."
+
+
 translate turkish ep019_docked_a7c34609:
 
-    # na "Or maybe she was sleepwalking and her mental state had become more attuned to whatever signal the Key was sending to her."
-    na ""
 
-# game/episode019.rpy:701
+    na "Ya da belki uyurgezerdi ve zihinsel durumu Anahtar'ın ona gönderdiği sinyale daha uyumlu hale gelmişti."
+
+
 translate turkish ep019_docked_13251290:
 
-    # c "Maybe."
-    c ""
 
-# game/episode019.rpy:702
+    c "Belki."
+
+
 translate turkish ep019_docked_a851bb5a:
 
-    # c "We've been wondering what the Key would unlock, maybe it unlocked something inside Eva?"
-    c ""
 
-# game/episode019.rpy:704
+    c "Anahtar'ın neyi açacağını merak ediyorduk, belki de Eva'nın içinde bir şeyi açtı?"
+
+
 translate turkish ep019_docked_156bee26:
 
-    # na "Presuming both Eva and the Key are part of the prophecy, that seems likely."
-    na ""
 
-# game/episode019.rpy:705
+    na "Eva ve Anahtar'ın ikisinin de kehanet parçası olduğunu varsayarsak, bu mantıklı görünüyor."
+
+
 translate turkish ep019_docked_9be8796c:
 
-    # c "The fact that Agust and his coterie were after the Key all but confirms the thing is part of the prophecy."
-    c ""
 
-# game/episode019.rpy:706
+    c "Agust ve çevresinin Anahtar'ın peşinde olması, onun kehanet parçası olduğunu neredeyse doğruluyor."
+
+
 translate turkish ep019_docked_6a511e6f:
 
-    # na "I'm afraid so."
-    na ""
 
-# game/episode019.rpy:707
+    na "Korkarım öyle."
+
+
 translate turkish ep019_docked_b51eb0f9:
 
-    # na "Seeing as we won't be reaching Ketnar Kenesh anytime soon, I'll better get back to my studies."
-    na ""
 
-# game/episode019.rpy:708
+    na "Yakın zamanda Ketnar Kenesh'e ulaşamayacağımıza göre, çalışmalarıma geri dönsem iyi olur."
+
+
 translate turkish ep019_docked_4ae0ec52:
 
-    # c "Good idea, let me know if you find anything."
-    c ""
 
-# game/episode019.rpy:710
+    c "İyi fikir, bir şey bulursan haber ver."
+
+
 translate turkish ep019_docked_c5b19451:
 
-    # na "I will."
-    na ""
 
-# game/episode019.rpy:711
+    na "Veririm."
+
+
 translate turkish ep019_docked_b6cfd57d:
 
-    # "Nadya and I both left the medbay."
-    ""
 
-# game/episode019.rpy:713
+    "Nadya ve ben revirden ayrıldık."
+
+
 translate turkish ep019_docked_9d7a6c25:
 
-    # "I went on to check on Lilly."
-    ""
 
-# game/episode019.rpy:714
+    "Lilly'yi kontrol etmeye gittim."
+
+
 translate turkish ep019_docked_51123a37:
 
-    # c "Sorry, were you trying to get some sleep?"
-    c ""
 
-# game/episode019.rpy:716
+    c "Özür dilerim, uyumaya mı çalışıyordun?"
+
+
 translate turkish ep019_docked_43f5c9e1:
 
-    # l "I was, but without any success, I'm tired and yet I'm so afraid."
-    l ""
 
-# game/episode019.rpy:717
+    l "Evet, ama başaramadım, yorgunum ama çok korkuyorum."
+
+
 translate turkish ep019_docked_8fac0189:
 
-    # c "Yeah, it must have been rough, finding Eva like that."
-    c ""
 
-# game/episode019.rpy:719
+    c "Evet, Eva'yı öyle bulmak zor olmalıydı."
+
+
 translate turkish ep019_docked_5747dc79:
 
-    # l "It was, for a split second I thought she'd died..."
-    l ""
 
-# game/episode019.rpy:721
+    l "Öyleydi, bir an öldüğünü sandım..."
+
+
 translate turkish ep019_docked_7f5477bb:
 
-    # l "That I'd lost her again."
-    l ""
 
-# game/episode019.rpy:723
+    l "Onu yine kaybettiğimi."
+
+
 translate turkish ep019_docked_831a9b2c:
 
-    # "Lilly broke down in tears."
-    ""
 
-# game/episode019.rpy:725
+    "Lilly gözyaşlarına boğuldu."
+
+
 translate turkish ep019_docked_ef734e34:
 
-    # "Part of me wanted to gather her up in my arms and console her, but past events prevented me from acting on it."
-    ""
 
-# game/episode019.rpy:726
+    "İçimden onu kollarıma alıp teselli etmek geldi, ama geçmişteki olaylar bunu yapmamı engelledi."
+
+
 translate turkish ep019_docked_501bb212:
 
-    # "With obvious effort, Lilly composed herself again."
-    ""
 
-# game/episode019.rpy:728
+    "Belli ki çaba göstererek, Lilly kendini topladı."
+
+
 translate turkish ep019_docked_aeb52c40:
 
-    # l "I'm going to try again to get some sleep."
-    l ""
 
-# game/episode019.rpy:729
+    l "Tekrar uyumayı deneyeceğim."
+
+
 translate turkish ep019_docked_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode019.rpy:730
+    c "Tabii."
+
+
 translate turkish ep019_docked_3dec9420:
 
-    # c "Eva will pull through, Lilly, I'm sure of it."
-    c ""
 
-# game/episode019.rpy:732
+    c "Eva bunu atlatacak, Lilly, eminim."
+
+
 translate turkish ep019_docked_8449a65b:
 
-    # "Lilly nodded silently and I left her alone."
-    ""
 
-# game/episode019.rpy:735
+    "Lilly sessizce başını salladı ve onu yalnız bıraktım."
+
+
 translate turkish ep019_docked_9fbe50d1:
 
-    # "I gathered her up in my arms and tried to console her."
-    ""
 
-# game/episode019.rpy:736
+    "Onu kollarıma aldım ve teselli etmeye çalıştım."
+
+
 translate turkish ep019_docked_3aa1e6f3:
 
-    # "Lilly's tears soaked my chest and it took her a good while to compose herself."
-    ""
 
-# game/episode019.rpy:738
+    "Lilly'nin gözyaşları göğsümü ıslattı ve kendini toparlaması uzun sürdü."
+
+
 translate turkish ep019_docked_3dec9420_1:
 
-    # c "Eva will pull through, Lilly, I'm sure of it."
-    c ""
 
-# game/episode019.rpy:740
+    c "Eva bunu atlatacak, Lilly, eminim."
+
+
 translate turkish ep019_docked_a87b89dd:
 
-    # l "She must, [p_name_short], I don't want to lose her again!"
-    l ""
 
-# game/episode019.rpy:742
+    l "Atlatmalı, [p_name_short], onu tekrar kaybetmek istemiyorum!"
+
+
 translate turkish ep019_docked_68ccb3de:
 
-    # l "Will you stay with me tonight?"
-    l ""
 
-# game/episode019.rpy:744
+    l "Bu gece yanımda kalır mısın?"
+
+
 translate turkish ep019_docked_b7ea8324:
 
-    # l "I can't bear to be alone right now."
-    l ""
 
-# game/episode019.rpy:745
+    l "Şu an yalnız kalmaya dayanamam."
+
+
 translate turkish ep019_docked_4e8c7062_1:
 
-    # c "Of course."
-    c ""
 
-# game/episode019.rpy:748
+    c "Tabii ki."
+
+
 translate turkish ep019_docked_90634673:
 
-    # "I lay beside my sister in her bed and pulled her against me."
-    ""
 
-# game/episode019.rpy:750
+    "Yatağında kız kardeşimin yanına uzandım ve onu kendime çektim."
+
+
 translate turkish ep019_docked_87800dd6:
 
-    # "I lay beside Lilly in her bed and pulled her against me."
-    ""
 
-# game/episode019.rpy:751
+    "Yatağında Lilly'nin yanına uzandım ve onu kendime çektim."
+
+
 translate turkish ep019_docked_d05f368c:
 
-    # "She snuggled against my chest, relishing the feeling of protection it gave her."
-    ""
 
-# game/episode019.rpy:752
+    "Göğsüme sokuldu, bunun ona verdiği güven duygusunun tadını çıkarıyordu."
+
+
 translate turkish ep019_docked_91ad4d4b:
 
-    # "Her crying gradually subsided, and her breathing became more regular."
-    ""
 
-# game/episode019.rpy:754
+    "Ağlaması yavaş yavaş duruldu ve nefesi düzene girdi."
+
+
 translate turkish ep019_docked_6cdecd78:
 
-    # "Before long, she was fast asleep, and I slipped slowly into a dreamless sleep as well."
-    ""
 
-# game/episode019.rpy:756
+    "Çok geçmeden derin bir uykuya daldı, ben de yavaşça rüyasız bir uykuya daldım."
+
+
 translate turkish ep019_docked_aeff8283:
 
-    # "Lilly kept crying until her sobbing gradually subsided and her breathing became more regular."
-    ""
 
-# game/episode019.rpy:758
+    "Lilly'nin hıçkırıkları yavaşça kesilene ve nefesi düzene girene kadar ağlaması devam etti."
+
+
 translate turkish ep019_docked_eb4fd037:
 
-    # "When I was sure she'd fallen asleep, I eased her back onto her bed and slipped out of her bedroom."
-    ""
 
-# game/episode019.rpy:778
+    "Uyuduğundan emin olunca, onu yavaşça yatağına bıraktım ve yatak odasından çıktım."
+
+
 translate turkish ep019_paclerara_arrival_255179ec:
 
-    # "Paclerara turned out to be a place full of teeming forests and expansive lakes."
-    ""
 
-# game/episode019.rpy:779
+    "Paclerara, gür ormanlar ve geniş göllerle dolu bir yer çıktı."
+
+
 translate turkish ep019_paclerara_arrival_52c06aac:
 
-    # "Not a lot of the planet was inhabited, much of it still wilderness."
-    ""
 
-# game/episode019.rpy:780
+    "Gezegenin çok az bir kısmı yerleşime açıktı, çoğu hala el değmemiş doğaydı."
+
+
 translate turkish ep019_paclerara_arrival_84aa884c:
 
-    # "We flew over several smaller settlements, on our way to the largest concentration of people on the planet."
-    ""
 
-# game/episode019.rpy:782
+    "Gezegenin en kalabalık yerleşimine giderken birkaç küçük yerleşim yerinin üzerinden uçtuk."
+
+
 translate turkish ep019_paclerara_arrival_5603bbe1:
 
-    # "The Paclerara Residence supposedly housed several thousand and was the main port of the entire planet."
-    ""
 
-# game/episode019.rpy:783
+    "Paclerara Rezidansı'nda birkaç bin kişinin yaşadığı söyleniyordu ve gezegenin ana limanıydı."
+
+
 translate turkish ep019_paclerara_arrival_cd524e23:
 
-    # "Céline had messaged ahead, requesting a landing berth and medical assistance."
-    ""
 
-# game/episode019.rpy:785
+    "Céline önceden mesaj atıp iniş yeri ve tıbbi yardım istemişti."
+
+
 translate turkish ep019_paclerara_arrival_e96b243f:
 
-    # "A team of medics was already waiting when we touched down on one of the pads rising out of the water of the vast lake surrounding the Residence."
-    ""
 
-# game/episode019.rpy:787
+    "Rezidansı çevreleyen büyük gölün sularından yükselen pistlerden birine indiğimizde bir sağlık ekibi çoktan bizi bekliyordu."
+
+
 translate turkish ep019_paclerara_arrival_b084c1df:
 
-    # "Eva was transferred onto a gurney and hurried inside the Residence."
-    ""
 
-# game/episode019.rpy:789
+    "Eva bir sedyeye alındı ve aceleyle Rezidans'ın içine götürüldü."
+
+
 translate turkish ep019_paclerara_arrival_137134f9:
 
-    # "Lilly and I followed them, while the rest of the crew took care of the necessities surrounding the Bastard’s arrival on Paclerara."
-    ""
 
-# game/episode019.rpy:790
+    "Lilly ve ben onları takip ettik, mürettebatın geri kalanı Bastard'ın Paclerara'ya varışıyla ilgili gerekli işlerle ilgilendi."
+
+
 translate turkish ep019_paclerara_arrival_2b779fbe:
 
-    # "The architecture of the Residence was one of clear lines and the interior had that slightly glossy veneer of something newly built or immaculately maintained."
-    ""
 
-# game/episode019.rpy:792
+    "Rezidans'ın mimarisi net çizgilerden oluşuyordu ve iç mekanı yeni yapılmış veya kusursuzca bakımı yapılmış bir şeyin hafif parlak görünümüne sahipti."
+
+
 translate turkish ep019_paclerara_arrival_e8d8f744:
 
-    # "As was to be expected, a considerable percentage of the population were Twi’ll."
-    ""
 
-# game/episode019.rpy:794
+    "Beklendiği gibi, nüfusun önemli bir kısmı Twi'll idi."
+
+
 translate turkish ep019_paclerara_arrival_5b564346:
 
-    # "A considerable percentage of the population turned out to be Twi’ll."
-    ""
 
-# game/episode019.rpy:796
+    "Nüfusun önemli bir kısmının Twi'll olduğu ortaya çıktı."
+
+
 translate turkish ep019_paclerara_arrival_ed0f37cd:
 
-    # "Eva was eventually rolled into a spacious room and placed on a medical bed."
-    ""
 
-# game/episode019.rpy:798
+    "Eva sonunda geniş bir odaya götürüldü ve tıbbi yatağa yatırıldı."
+
+
 translate turkish ep019_paclerara_arrival_b17926f3:
 
-    # "One of the medics turned towards us."
-    ""
 
-# game/episode019.rpy:800
+    "Sağlık görevlilerinden biri bize döndü."
+
+
 translate turkish ep019_paclerara_arrival_16498fd4:
 
-    # man "I assume you are family or close friends?"
-    man ""
 
-# game/episode019.rpy:802
+    man "Sanırım ailesindensiniz ya da yakın arkadaşlarısınız?"
+
+
 translate turkish ep019_paclerara_arrival_ce923d5a:
 
-    # l "Brother and sister."
-    l ""
 
-# game/episode019.rpy:804
+    l "Kardeş ve kız kardeş"
+
+
 translate turkish ep019_paclerara_arrival_62da06f9:
 
-    # l "Close friends."
-    l ""
 
-# game/episode019.rpy:805
+    l "Yakın arkadaşlar."
+
+
 translate turkish ep019_paclerara_arrival_a82608ad:
 
-    # man "What happened to her?"
-    man ""
 
-# game/episode019.rpy:806
+    man "Ona ne oldu?"
+
+
 translate turkish ep019_paclerara_arrival_bf9eb9db:
 
-    # "We’d figured out beforehand that we were going to be as upfront as possible about Eva’s state, without mentioning the artifact."
-    ""
 
-# game/episode019.rpy:807
+    "Eva'nın durumu hakkında mümkün olduğunca açık olacağımızı önceden kararlaştırmıştık, ancak eser hakkında hiçbir şey söylemeyecektik."
+
+
 translate turkish ep019_paclerara_arrival_ff9ba400:
 
-    # c "We found her one night, already comatose."
-    c ""
 
-# game/episode019.rpy:808
+    c "Onu bir gece komada bulduk."
+
+
 translate turkish ep019_paclerara_arrival_fa989d9f:
 
-    # l "She’d been sleepwalking and must have passed out."
-    l ""
 
-# game/episode019.rpy:809
+    l "Uykusunda yürüyordu ve bayılmış olmalı."
+
+
 translate turkish ep019_paclerara_arrival_550ad958:
 
-    # man "Did she hit her head or was there any indication of head trauma?"
-    man ""
 
-# game/episode019.rpy:810
+    man "Kafasını çarptı mı yoksa kafasında travma belirtisi var mıydı?"
+
+
 translate turkish ep019_paclerara_arrival_5500df07:
 
-    # c "No, there wasn’t."
-    c ""
 
-# game/episode019.rpy:811
+    c "Hayır, yoktu."
+
+
 translate turkish ep019_paclerara_arrival_6d67cce6:
 
-    # c "She had trouble sleeping before, as if she was restless, or something."
-    c ""
 
-# game/episode019.rpy:812
+    c "Daha önce uyumakta zorluk çekiyordu, sanki huzursuzmuş gibi ya da öyle bir şeydi."
+
+
 translate turkish ep019_paclerara_arrival_f033cef4:
 
-    # c "But no concussion or anything."
-    c ""
 
-# game/episode019.rpy:813
+    c "Ama beyin sarsıntısı ya da başka bir şey yok."
+
+
 translate turkish ep019_paclerara_arrival_2b46399d:
 
-    # man "Alright, we’ll have a physician have a look at her as soon as the paperwork has been filled out."
-    man ""
 
-# game/episode019.rpy:814
+    man "Tamam, evraklar doldurulur doldurulmaz bir doktor onu muayene edecek."
+
+
 translate turkish ep019_paclerara_arrival_ec234a80:
 
-    # man "Are you staying here at the Residence?"
-    man ""
 
-# game/episode019.rpy:815
+    man "Rezidans'ta mı kalıyorsunuz?"
+
+
 translate turkish ep019_paclerara_arrival_1dcdb854:
 
-    # c "We are, yes."
-    c ""
 
-# game/episode019.rpy:816
+    c "Evet, kalıyoruz."
+
+
 translate turkish ep019_paclerara_arrival_0d59327d:
 
-    # man "I’d suggest you book lodgings for several days."
-    man ""
 
-# game/episode019.rpy:817
+    man "Birkaç günlük konaklama ayarlamanızı öneririm."
+
+
 translate turkish ep019_paclerara_arrival_6ddcc09b:
 
-    # man "Leave us your contact details, so we can notify you with any results."
-    man ""
 
-# game/episode019.rpy:819
+    man "Bize iletişim bilgilerinizi bırakın, sonuçları size bildirelim."
+
+
 translate turkish ep019_paclerara_arrival_2b2fe0bd:
 
-    # "We did as asked and went back to the landing area of the Residence."
-    ""
 
-# game/episode019.rpy:820
+    "İstenileni yaptık ve Rezidans'ın iniş alanına geri döndük."
+
+
 translate turkish ep019_paclerara_arrival_9c8cc722:
 
-    # "Only Céline remained in the lobby."
-    ""
 
-# game/episode019.rpy:822
+    "Lobide sadece Céline kalmıştı."
+
+
 translate turkish ep019_paclerara_arrival_23044de3:
 
-    # ce "Is Eva in good hands?"
-    ce ""
 
-# game/episode019.rpy:823
+    ce "Eva iyi ellerde mi?"
+
+
 translate turkish ep019_paclerara_arrival_058dd7b5:
 
-    # c "Yes, I think so."
-    c ""
 
-# game/episode019.rpy:825
+    c "Evet, öyle sanıyorum."
+
+
 translate turkish ep019_paclerara_arrival_aa9bdb33:
 
-    # l "Where did everyone go?"
-    l ""
 
-# game/episode019.rpy:827
+    l "Diğerleri nereye gitti?"
+
+
 translate turkish ep019_paclerara_arrival_dd74b02c:
 
-    # ce "We’ve booked rooms for the crew."
-    ce ""
 
-# game/episode019.rpy:828
+    ce "Mürettebat için odalar ayarladık."
+
+
 translate turkish ep019_paclerara_arrival_f6f99f8a:
 
-    # ce "Thyia was afraid it would be extremely expensive to house everyone in separate rooms, but apparently having a Twi’ll on the crew counts for a lot."
-    ce ""
 
-# game/episode019.rpy:830
+    ce "Thyia herkese ayrı oda ayarlamanın çok pahalı olacağından korkuyordu ama görünüşe göre mürettebatta bir Twi'll olması büyük avantaj sağladı."
+
+
 translate turkish ep019_paclerara_arrival_6193ee6f:
 
-    # l "That must have been some discount."
-    l ""
 
-# game/episode019.rpy:832
+    l "Bayağı iyi indirim yapmış olmalılar."
+
+
 translate turkish ep019_paclerara_arrival_b0694f62:
 
-    # ce "I believe Thyia was pretty happy with it."
-    ce ""
 
-# game/episode019.rpy:834
+    ce "Sanırım Thyia bundan çok memnun kaldı."
+
+
 translate turkish ep019_paclerara_arrival_1f961d90:
 
-    # l "Great, in that case I’m going to check out my lodgings."
-    l ""
 
-# game/episode019.rpy:835
+    l "Harika, o zaman ben odama bir bakayım."
+
+
 translate turkish ep019_paclerara_arrival_cbf0bbba:
 
-    # l "See if they include a bath."
-    l ""
 
-# game/episode019.rpy:836
+    l "Bakalım küveti var mıymış."
+
+
 translate turkish ep019_paclerara_arrival_5131978c:
 
-    # ce "Now I’m curious too."
-    ce ""
 
-# game/episode019.rpy:837
+    ce "Şimdi ben de merak ettim."
+
+
 translate turkish ep019_paclerara_arrival_e0bc4b6c:
 
-    # l "See you around, [p_name_short]."
-    l ""
 
-# game/episode019.rpy:839
+    l "Görüşürüz, [p_name_short]."
+
+
 translate turkish ep019_paclerara_arrival_549fb120:
 
-    # "The girls left me and I decided to check out the room number Thyia had sent me a little while ago."
-    ""
 
-# game/episode019.rpy:840
+    "Kızlar gitti ve ben de Thyia'nın az önce gönderdiği oda numarasına bakmaya karar verdim."
+
+
 translate turkish ep019_paclerara_arrival_628fbb78:
 
-    # "My route took me through a large part of the Residence."
-    ""
 
-# game/episode019.rpy:841
+    "Yolum Rezidans'ın büyük bir kısmından geçiyordu."
+
+
 translate turkish ep019_paclerara_arrival_4f96d838:
 
-    # "Apart from the medical wing, there was a large residential section, and an area where most of the schools were housed."
-    ""
 
-# game/episode019.rpy:842
+    "Tıp bölümünün dışında, büyük bir yerleşim bölümü ve okulların çoğunun bulunduğu bir alan vardı."
+
+
 translate turkish ep019_paclerara_arrival_204f2e48:
 
-    # "Education seemed to be an important feature of the Paclerara Residence, housing anything from kindergarten to university level courses."
-    ""
 
-# game/episode019.rpy:843
+    "Eğitim, Paclerara Rezidansı'nın önemli bir özelliği gibi görünüyordu, anaokulundan üniversite düzeyine kadar her türlü eğitim kurumu vardı."
+
+
 translate turkish ep019_paclerara_arrival_6631b57b:
 
-    # "Our rooms were in a separate wing of the building, together with some restaurants and other hotel facilities."
-    ""
 
-# game/episode019.rpy:845
+    "Odalarımız binanın ayrı bir kanadındaydı, bazı restoranlar ve diğer otel tesisleriyle birlikte."
+
+
 translate turkish ep019_paclerara_arrival_18cd9dfe:
 
-    # "My room was located fairly high up and fairly luxurious."
-    ""
 
-# game/episode019.rpy:846
+    "Odam oldukça yüksek bir katta ve bir hayli lükstü."
+
+
 translate turkish ep019_paclerara_arrival_d1f98f4f:
 
-    # "A large balcony overlooked the lake below, and allowed for some breathtaking vistas of the forests stretching over the mountains in the distance."
-    ""
 
-# game/episode019.rpy:847
+    "Büyük bir balkon aşağıdaki göle bakıyordu ve uzaktaki dağların üzerinde uzanan ormanların nefes kesici manzarasını sunuyordu."
+
+
 translate turkish ep019_paclerara_arrival_6f654ec2:
 
-    # "First I freshened myself up in the ample bathroom before exploring the Residence for a bit."
-    ""
 
-# game/episode019.rpy:854
+    "Önce geniş banyoda kendimi tazeledim, sonra Rezidans'ı biraz keşfetmeye çıktım."
+
+
 translate turkish ep019_paclerara_lilly_0dc511b7:
 
-    # "Lilly sat in the courtyard of the residential building, enjoying the morning air."
-    ""
 
-# game/episode019.rpy:856
+    "Lilly yerleşim binasının avlusunda oturmuş, sabah havasının tadını çıkarıyordu."
+
+
 translate turkish ep019_paclerara_lilly_7512efc3:
 
-    # c "Hey, you're up early."
-    c ""
 
-# game/episode019.rpy:858
+    c "Hey, erken kalkmışsın."
+
+
 translate turkish ep019_paclerara_lilly_c3741e1f:
 
-    # l "Didn't get much sleep last night."
-    l ""
 
-# game/episode019.rpy:859
+    l "Dün gece pek uyuyamadım."
+
+
 translate turkish ep019_paclerara_lilly_7daa9f79:
 
-    # l "So I figured I'd just get up, instead of keep on trying in frustration."
-    l ""
 
-# game/episode019.rpy:860
+    l "Ben de boşuna debelenip durmaktansa kalkayım dedim."
+
+
 translate turkish ep019_paclerara_lilly_f9746506:
 
-    # c "Worried about Eva?"
-    c ""
 
-# game/episode019.rpy:861
+    c "Eva için mi endişeleniyorsun?"
+
+
 translate turkish ep019_paclerara_lilly_cd87a2a4:
 
-    # l "Yeah."
-    l ""
 
-# game/episode019.rpy:863
+    l "Evet."
+
+
 translate turkish ep019_paclerara_lilly_73b8d77f:
 
-    # l "It's so unfair, we have her back after what seemed like an eternity and now she's just slipped away again."
-    l ""
 
-# game/episode019.rpy:864
+    l "Çok adaletsiz, sanki bir asır sonra onu geri almıştık ve şimdi yine kayıp gitti."
+
+
 translate turkish ep019_paclerara_lilly_2adfcc54:
 
-    # c "The doctors say she's likely to wake up soon."
-    c ""
 
-# game/episode019.rpy:866
+    c "Doktorlar yakında uyanacağını söylüyor."
+
+
 translate turkish ep019_paclerara_lilly_6570f58b:
 
-    # l "But they don't know that for sure, do they?"
-    l ""
 
-# game/episode019.rpy:867
+    l "Ama bundan tam emin değiller, değil mi?"
+
+
 translate turkish ep019_paclerara_lilly_5adcdc1d:
 
-    # l "The estimation on the negative side is that it could also take weeks, or even months."
-    l ""
 
-# game/episode019.rpy:868
+    l "Kötümser tahminlere göre haftalar, hatta aylar sürebilirmiş."
+
+
 translate turkish ep019_paclerara_lilly_d1ea82e8:
 
-    # l "Or maybe she won't wake up at all, forever."
-    l ""
 
-# game/episode019.rpy:869
+    l "Ya da belki hiç uyanmayacak, sonsuza dek."
+
+
 translate turkish ep019_paclerara_lilly_c1e3b80c:
 
-    # c "I refuse to believe that."
-    c ""
 
-# game/episode019.rpy:871
+    c "Buna inanmayı reddediyorum."
+
+
 translate turkish ep019_paclerara_lilly_2111d598:
 
-    # l "I know, I shouldn't immediately think the worst."
-    l ""
 
-# game/episode019.rpy:872
+    l "Biliyorum, hemen en kötüsünü düşünmemeliyim."
+
+
 translate turkish ep019_paclerara_lilly_1c92b729:
 
-    # c "I'm sure you're not doing it on purpose."
-    c ""
 
-# game/episode019.rpy:873
+    c "Bunu bilerek yapmadığına eminim."
+
+
 translate turkish ep019_paclerara_lilly_d92189d6:
 
-    # c "But if it keeps you awake at night..."
-    c ""
 
-# game/episode019.rpy:874
+    c "Ama eğer geceleri uyutmuyorsa..."
+
+
 translate turkish ep019_paclerara_lilly_4863e00c:
 
-    # l "I know..."
-    l ""
 
-# game/episode019.rpy:875
+    l "Biliyorum..."
+
+
 translate turkish ep019_paclerara_lilly_15b89f3e:
 
-    # c "You know you can always call me to keep you company."
-    c ""
 
-# game/episode019.rpy:877
+    c "Sana eşlik etmem için her zaman beni arayabileceğini biliyorsun."
+
+
 translate turkish ep019_paclerara_lilly_627062cb:
 
-    # l "I appreciate that."
-    l ""
 
-# game/episode019.rpy:879
+    l "Bunu takdir ediyorum."
+
+
 translate turkish ep019_paclerara_lilly_f47efc04:
 
-    # l "Last night I wanted to be alone for a while."
-    l ""
 
-# game/episode019.rpy:880
+    l "Dün gece bir süre yalnız kalmak istedim."
+
+
 translate turkish ep019_paclerara_lilly_92bf5f8b:
 
-    # l "Though after a while I regretted not asking you to come by."
-    l ""
 
-# game/episode019.rpy:881
+    l "Ama bir süre sonra seni çağırmadığıma pişman oldum."
+
+
 translate turkish ep019_paclerara_lilly_0f7c9af0:
 
-    # l "But by then it was already 3 in the morning."
-    l ""
 
-# game/episode019.rpy:882
+    l "Ama o zaman sabahın 3'ü olmuştu bile."
+
+
 translate turkish ep019_paclerara_lilly_5c91a216:
 
-    # c "You still could have called me, I don't mind."
-    c ""
 
-# game/episode019.rpy:884
+    c "Yine de beni arayabilirdin, umurumda olmazdı."
+
+
 translate turkish ep019_paclerara_lilly_b3d17b67:
 
-    # l "I'll remember, next time."
-    l ""
 
-# game/episode019.rpy:885
+    l "Bir dahaki sefere aklımda olacak."
+
+
 translate turkish ep019_paclerara_lilly_1efdb823:
 
-    # l "Will you distract me for a while, with some banter?"
-    l ""
 
-# game/episode019.rpy:886
+    l "Biraz sohbet ederek beni oyalar mısın?"
+
+
 translate turkish ep019_paclerara_lilly_7e6fd9cb:
 
-    # c "You mean talk about the weather or something?"
-    c ""
 
-# game/episode019.rpy:888
+    c "Yani havadan sudan falan mı konuşalım?"
+
+
 translate turkish ep019_paclerara_lilly_b349f98c:
 
-    # l "Maybe?"
-    l ""
 
-# game/episode019.rpy:890
+    l "Belki?"
+
+
 translate turkish ep019_paclerara_lilly_bcddc701:
 
-    # l "As long as it takes my mind off things for a while."
-    l ""
 
-# game/episode019.rpy:891
+    l "Yeter ki bir süreliğine aklımı başka şeylere vereyim."
+
+
 translate turkish ep019_paclerara_lilly_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode019.rpy:892
+    c "Tamam."
+
+
 translate turkish ep019_paclerara_lilly_0e3f5a5f:
 
-    # c "The weather is beautiful, isn't it?"
-    c ""
 
-# game/episode019.rpy:894
+    c "Hava çok güzel, değil mi?"
+
+
 translate turkish ep019_paclerara_lilly_f8a1dbfd:
 
-    # l "Haha, yeah, it's gorgeous."
-    l ""
 
-# game/episode019.rpy:896
+    l "Haha, evet, muhteşem."
+
+
 translate turkish ep019_paclerara_lilly_417f8c9e:
 
-    # l "Seriously though, the climate here is great."
-    l ""
 
-# game/episode019.rpy:898
+    l "Gerçekten, buranın iklimi harika."
+
+
 translate turkish ep019_paclerara_lilly_149286f7:
 
-    # l "I wonder if it's like this all year round."
-    l ""
 
-# game/episode019.rpy:899
+    l "Acaba bütün yıl böyle mi?"
+
+
 translate turkish ep019_paclerara_lilly_fa53ebe4:
 
-    # c "I believe it's late spring here now."
-    c ""
 
-# game/episode019.rpy:900
+    c "Sanırım şu an ilkbahar sonları."
+
+
 translate turkish ep019_paclerara_lilly_19f784fb:
 
-    # c "There's a winter period, but it's short and relatively mild."
-    c ""
 
-# game/episode019.rpy:902
+    c "Bir kış dönemi var ama kısa ve nispeten ılıman."
+
+
 translate turkish ep019_paclerara_lilly_c05d6694:
 
-    # l "I get why it's a popular destination."
-    l ""
 
-# game/episode019.rpy:903
+    l "Neden popüler bir yer olduğunu anlıyorum."
+
+
 translate turkish ep019_paclerara_lilly_1ae78462:
 
-    # c "It's not that busy though, must be a well-kept secret."
-    c ""
 
-# game/episode019.rpy:905
+    c "Ama çok kalabalık değil, iyi saklanan bir sır olmalı."
+
+
 translate turkish ep019_paclerara_lilly_b57ba294:
 
-    # l "True, lots of Twi'll though, what's up with that?"
-    l ""
 
-# game/episode019.rpy:907
+    l "Doğru, ama bir sürü Twi'll var, ne oluyor burada?"
+
+
 translate turkish ep019_paclerara_lilly_7944dd8a:
 
-    # c "Jade learned that Paclerara is a place of refuge for her people."
-    c ""
 
-# game/episode019.rpy:908
+    c "Jade, Paclerara'nın halkı için bir sığınak olduğunu öğrendi."
+
+
 translate turkish ep019_paclerara_lilly_d8fc0d6d:
 
-    # c "Some of her family came here after escaping from the Sovereignty."
-    c ""
 
-# game/episode019.rpy:909
+    c "Ailesinin bir kısmı Egemenlik'ten kaçtıktan sonra buraya gelmiş."
+
+
 translate turkish ep019_paclerara_lilly_17041f00:
 
-    # l "Oh wow, I didn't know that."
-    l ""
 
-# game/episode019.rpy:910
+    l "Vay canına, bunu bilmiyordum."
+
+
 translate turkish ep019_paclerara_lilly_d697a222:
 
-    # l "So this is kind of like a safe haven for the Twi'll?"
-    l ""
 
-# game/episode019.rpy:911
+    l "Yani burası Twi'll'ler için bir çeşit güvenli liman mı?"
+
+
 translate turkish ep019_paclerara_lilly_3e304f2e:
 
-    # c "I'm not sure how widely known this place is among them, but it gets its share of visitors."
-    c ""
 
-# game/episode019.rpy:913
+    c "Bu yerin aralarında ne kadar bilindiğinden emin değilim, ama kendine göre ziyaretçi alıyor."
+
+
 translate turkish ep019_paclerara_lilly_51b92eae:
 
-    # l "It sure does."
-    l ""
 
-# game/episode019.rpy:914
+    l "Kesinlikle öyle."
+
+
 translate turkish ep019_paclerara_lilly_11195e7b:
 
-    # l "I hope the Sovereignty doesn't come here to mess it all up."
-    l ""
 
-# game/episode019.rpy:915
+    l "Umarım Egemenlik gelip her şeyi mahvetmez."
+
+
 translate turkish ep019_paclerara_lilly_88df38a7:
 
-    # c "Agreed."
-    c ""
 
-# game/episode019.rpy:917
+    c "Katılıyorum."
+
+
 translate turkish ep019_paclerara_lilly_01fff1da:
 
-    # l "Lots of Twi'll here, haven't you noticed?"
-    l ""
 
-# game/episode019.rpy:918
+    l "Burada çok fazla Twi'll var, fark etmedin mi?"
+
+
 translate turkish ep019_paclerara_lilly_945ecf29:
 
-    # c "Yeah, I've been meaning to ask Jade what's the deal with that."
-    c ""
 
-# game/episode019.rpy:919
+    c "Evet, bunun nedenini Jade'e sormayı düşünüyordum."
+
+
 translate turkish ep019_paclerara_lilly_3ae494ba:
 
-    # l "They seem to be running this place."
-    l ""
 
-# game/episode019.rpy:920
+    l "Burayı onlar yönetiyor gibi görünüyor."
+
+
 translate turkish ep019_paclerara_lilly_cb6dbf8e:
 
-    # l "Maybe they were originally fugitives running from the Sovereignty?"
-    l ""
 
-# game/episode019.rpy:921
+    l "Belki başta Egemenlik'ten kaçan mültecilerdi?"
+
+
 translate turkish ep019_paclerara_lilly_60633d2d:
 
-    # c "Could be."
-    c ""
 
-# game/episode019.rpy:922
+    c "Olabilir."
+
+
 translate turkish ep019_paclerara_lilly_00cbe837:
 
-    # c "Must have been a long time ago, considering the level of civilization they managed to set up here."
-    c ""
 
-# game/episode019.rpy:924
+    c "Burada kurdukları uygarlık seviyesine bakılırsa, uzun zaman önce olmalı."
+
+
 translate turkish ep019_paclerara_lilly_5180883f:
 
-    # l "Yeah, it's amazing."
-    l ""
 
-# game/episode019.rpy:925
+    l "Evet, inanılmaz."
+
+
 translate turkish ep019_paclerara_lilly_97841d9f:
 
-    # l "I just hope the Sovereignty doesn't come around to mess it all up."
-    l ""
 
-# game/episode019.rpy:926
+    l "Sadece umarım Egemenlik gelip her şeyi mahvetmez."
+
+
 translate turkish ep019_paclerara_lilly_7783a784:
 
-    # c "I hope so too."
-    c ""
 
-# game/episode019.rpy:928
+    c "Ben de öyle umuyorum."
+
+
 translate turkish ep019_paclerara_lilly_cbd902cb:
 
-    # "Lilly and I looked at a group of young Twi'll running up the stairs to one of the entrances."
-    ""
 
-# game/episode019.rpy:929
+    "Lilly ve ben bir grup genç Twi'll'in girişlerden birine çıkan merdivenleri koşarak çıkmasını izledik."
+
+
 translate turkish ep019_paclerara_lilly_94bbce50:
 
-    # "They were probably students, late for class."
-    ""
 
-# game/episode019.rpy:931
+    "Muhtemelen derse geç kalan öğrencilerdi."
+
+
 translate turkish ep019_paclerara_lilly_cf9f607a:
 
-    # l "Céline mentioned you had this luxurious bedroom."
-    l ""
 
-# game/episode019.rpy:932
+    l "Céline senin lüks bir odan olduğundan bahsetti."
+
+
 translate turkish ep019_paclerara_lilly_dfd3e85d:
 
-    # c "I wasn't aware I had a different type of room compared to yours?"
-    c ""
 
-# game/episode019.rpy:933
+    c "Seninkinden farklı bir odam olduğunu bilmiyordum?"
+
+
 translate turkish ep019_paclerara_lilly_56b4a5c3:
 
-    # c "They didn't put you in a broom closet, did they?"
-    c ""
 
-# game/episode019.rpy:935
+    c "Seni süpürge dolabına koymadılar, değil mi?"
+
+
 translate turkish ep019_paclerara_lilly_dd6b721d:
 
-    # l "No, it's a nice room."
-    l ""
 
-# game/episode019.rpy:936
+    l "Hayır, güzel bir oda."
+
+
 translate turkish ep019_paclerara_lilly_bf76b889:
 
-    # l "But I heard yours was nicer."
-    l ""
 
-# game/episode019.rpy:937
+    l "Ama seninkinin daha güzel olduğunu duydum."
+
+
 translate turkish ep019_paclerara_lilly_54999a09:
 
-    # l "With a balcony and everything."
-    l ""
 
-# game/episode019.rpy:938
+    l "Balkonu falan da varmış."
+
+
 translate turkish ep019_paclerara_lilly_d7a2804e:
 
-    # c "Yeah, I have one."
-    c ""
 
-# game/episode019.rpy:939
+    c "Evet, var."
+
+
 translate turkish ep019_paclerara_lilly_87e592d0:
 
-    # c "You don't?"
-    c ""
 
-# game/episode019.rpy:940
+    c "Sende yok mu?"
+
+
 translate turkish ep019_paclerara_lilly_abc9753b:
 
-    # l "Nope, I do have a window, so I can still look out over the lake."
-    l ""
 
-# game/episode019.rpy:941
+    l "Yok, ama pencerem var, gölü görebiliyorum en azından."
+
+
 translate turkish ep019_paclerara_lilly_a5aa7af9:
 
-    # l "According to Céline they always grant the captain of a ship the nicer room."
-    l ""
 
-# game/episode019.rpy:942
+    l "Céline'e göre gemi kaptanına her zaman daha güzel odayı veriyorlarmış."
+
+
 translate turkish ep019_paclerara_lilly_41a40811:
 
-    # c "I can't say I blame them for honoring that tradition."
-    c ""
 
-# game/episode019.rpy:943
+    c "Bu geleneğe saygı gösterdikleri için onları suçlayamam."
+
+
 translate turkish ep019_paclerara_lilly_67fd69e1:
 
-    # l "I'm sure you don't."
-    l ""
 
-# game/episode019.rpy:945
+    l "Eminim suçlamazsın."
+
+
 translate turkish ep019_paclerara_lilly_3199f08d:
 
-    # l "Already too accustomed to those silk sheets and VIP room service?"
-    l ""
 
-# game/episode019.rpy:946
+    l "İpek çarşaflara ve VIP oda servisine şimdiden alıştın mı?"
+
+
 translate turkish ep019_paclerara_lilly_873f30c1:
 
-    # c "Those are the bare minimum of amenities I will tolerate."
-    c ""
 
-# game/episode019.rpy:948
+    c "Bunlar benim katlanabileceğim en temel imkanlar."
+
+
 translate turkish ep019_paclerara_lilly_fd336af9:
 
-    # c "Which reminds me I need to file a complaint about the distinct lack of two sexy girls I also need in my bed."
-    c ""
 
-# game/episode019.rpy:950
+    c "Bu da bana yatağımda olması gereken iki seksi kızın eksikliğiyle ilgili şikayet etmem gerektiğini hatırlattı."
+
+
 translate turkish ep019_paclerara_lilly_26a8d734:
 
-    # l "You really must!"
-    l ""
 
-# game/episode019.rpy:951
+    l "Kesinlikle etmelisin!"
+
+
 translate turkish ep019_paclerara_lilly_fe41e806:
 
-    # l "You can tell them the two sexy girls are also very angry they aren’t in that bed."
-    l ""
 
-# game/episode019.rpy:952
+    l "O iki seksi kızın da o yatakta olmadıkları için çok kızgın olduklarını söyleyebilirsin."
+
+
 translate turkish ep019_paclerara_lilly_b7f4b180:
 
-    # c "Noted."
-    c ""
 
-# game/episode019.rpy:954
+    c "Not edildi."
+
+
 translate turkish ep019_paclerara_lilly_64a44900:
 
-    # "Lilly’s eyes had begun to shine with a certain lustfulness, as she clearly thought back on what we did together with Céline."
-    ""
 
-# game/episode019.rpy:955
+    "Lilly'nin gözleri, Céline ile birlikte yaptıklarımızı düşünürken şehvetli bir parıltıyla yanmaya başladı."
+
+
 translate turkish ep019_paclerara_lilly_bfd841ef:
 
-    # "She became suddenly aware we were sitting on a bench in a rather public space, so her voice dropped to a whisper."
-    ""
 
-# game/episode019.rpy:957
+    "Oldukça kalabalık bir yerde bir bankta oturduğumuzu fark edince sesi fısıltıya dönüştü."
+
+
 translate turkish ep019_paclerara_lilly_7962370f:
 
-    # l "You know, before, I used to have this fantasy when I masturbated."
-    l ""
 
-# game/episode019.rpy:958
+    l "Biliyor musun, eskiden kendimi tatmin ederken hep bir hayalim vardı."
+
+
 translate turkish ep019_paclerara_lilly_d0d03330:
 
-    # l "It was of you, fucking me as I slowly lost my mind."
-    l ""
 
-# game/episode019.rpy:960
+    l "Sen beni sikerken aklımı yavaşça kaybediyordum."
+
+
 translate turkish ep019_paclerara_lilly_4b807efa:
 
-    # l "Something you’ve done on more than one occasion."
-    l ""
 
-# game/episode019.rpy:961
+    l "Birden fazla kez yaptığın bir şey."
+
+
 translate turkish ep019_paclerara_lilly_9cf7bd03:
 
-    # "That plain statement coupled with her longing expression made me gulp hard."
-    ""
 
-# game/episode019.rpy:962
+    "Bu düz ifade ve özlem dolu bakışı boğazımın düğümlenmesine neden oldu."
+
+
 translate turkish ep019_paclerara_lilly_4dae0293:
 
-    # l "That image now competes with the thought of you having your way with Céline while she eats me out."
-    l ""
 
-# game/episode019.rpy:963
+    l "O görüntü şimdi Céline beni yalarken senin onu siktiğin düşüncesiyle yarışıyor."
+
+
 translate turkish ep019_paclerara_lilly_7cd64ff0:
 
-    # l "I keep thinking of you ravaging her and craving you’d do the same to me."
-    l ""
 
-# game/episode019.rpy:964
+    l "Sürekli onu nasıl siktiğini ve aynısını bana da yapmanı istediğimi düşünüyorum."
+
+
 translate turkish ep019_paclerara_lilly_8d3916a5:
 
-    # l "And then you do and cum inside me so hard I nearly lose consciousness."
-    l ""
 
-# game/episode019.rpy:966
+    l "Ve sonra yapıyorsun ve içime öyle bir boşalıyorsun ki neredeyse bilincimi kaybediyorum."
+
+
 translate turkish ep019_paclerara_lilly_909e341d:
 
-    # c "Which reminds me I need to file a complaint about the distinct lack of a sexy redheaded girl I also need in my bed."
-    c ""
 
-# game/episode019.rpy:968
+    c "Bu da bana yatağımda olması gereken kızıl saçlı seksi kızın eksikliğiyle ilgili şikayet etmem gerektiğini hatırlattı."
+
+
 translate turkish ep019_paclerara_lilly_26a8d734_1:
 
-    # l "You really must!"
-    l ""
 
-# game/episode019.rpy:969
+    l "Kesinlikle etmelisin!"
+
+
 translate turkish ep019_paclerara_lilly_dac17f25:
 
-    # l "You can tell them the redhead is also very angry she isn’t in that bed."
-    l ""
 
-# game/episode019.rpy:970
+    l "O kızıl saçlı kızın da o yatakta olmadığı için çok kızgın olduğunu söyleyebilirsin."
+
+
 translate turkish ep019_paclerara_lilly_b7f4b180_1:
 
-    # c "Noted."
-    c ""
 
-# game/episode019.rpy:972
+    c "Not edildi."
+
+
 translate turkish ep019_paclerara_lilly_a7c32a2f:
 
-    # "Lilly’s eyes had begun to shine with a certain lustfulness, as she clearly thought back on what we did together on several occasions."
-    ""
 
-# game/episode019.rpy:973
+    "Lilly'nin gözleri, birlikte yaptıklarımızı düşünürken şehvetli bir parıltıyla yanmaya başladı."
+
+
 translate turkish ep019_paclerara_lilly_bfd841ef_1:
 
-    # "She became suddenly aware we were sitting on a bench in a rather public space, so her voice dropped to a whisper."
-    ""
 
-# game/episode019.rpy:975
+    "Aniden, oldukça halka açık bir alanda bir bankta oturduğumuzun farkına vardı, bu yüzden sesi fısıltıya dönüştü."
+
+
 translate turkish ep019_paclerara_lilly_bfd8969d:
 
-    # l "You know, I have this fantasy when I masturbate."
-    l ""
 
-# game/episode019.rpy:976
+    l "Biliyor musun, kendimi tatmin ederken bir hayalim var."
+
+
 translate turkish ep019_paclerara_lilly_35cba38f:
 
-    # l "It’s of you, fucking me hard as I slowly lose my mind."
-    l ""
 
-# game/episode019.rpy:978
+    l "Sen beni sert sikerken aklımı yavaşça kaybediyorum."
+
+
 translate turkish ep019_paclerara_lilly_4b807efa_1:
 
-    # l "Something you’ve done on more than one occasion."
-    l ""
 
-# game/episode019.rpy:979
+    l "Birden fazla kez yaptığınız bir şey."
+
+
 translate turkish ep019_paclerara_lilly_9cf7bd03_1:
 
-    # "That plain statement coupled with her longing expression made me gulp hard."
-    ""
 
-# game/episode019.rpy:980
+    "Bu düz ifade ve özlem dolu bakışı boğazımın düğümlenmesine neden oldu."
+
+
 translate turkish ep019_paclerara_lilly_3b07cc6f:
 
-    # l "And then you cum inside me so hard I nearly lose consciousness."
-    l ""
 
-# game/episode019.rpy:983
+    l "Ve sonra içime öyle bir boşalıyorsun ki neredeyse bilincimi kaybediyorum."
+
+
 translate turkish ep019_paclerara_lilly_f09d7b68:
 
-    # "Another throng of students walked past right at the moment I wanted to grab Lilly and kiss her hard."
-    ""
 
-# game/episode019.rpy:984
+    "Tam Lilly'yi tutup sertçe öpmek istediğim anda başka bir öğrenci grubu yanımızdan geçti."
+
+
 translate turkish ep019_paclerara_lilly_079e5a00:
 
-    # "Our tether to reality instantly restored, I let out a slightly frustrated growl."
-    ""
 
-# game/episode019.rpy:986
+    "Gerçeklik bağımız anında geri geldi, hafif sinirli bir homurtu çıkardım."
+
+
 translate turkish ep019_paclerara_lilly_c32de048:
 
-    # c "I want you so much, Lilly."
-    c ""
 
-# game/episode019.rpy:987
+    c "Seni çok istiyorum, Lilly."
+
+
 translate turkish ep019_paclerara_lilly_aa10ab90:
 
-    # c "Promise me you’ll come and check out my extra special bedroom as soon as possible."
-    c ""
 
-# game/episode019.rpy:988
+    c "Bana en kısa zamanda özel odamı görmeye geleceğine söz ver."
+
+
 translate turkish ep019_paclerara_lilly_10bada1e:
 
-    # l "That’s a promise."
-    l ""
 
-# game/episode019.rpy:990
+    l "Söz veriyorum."
+
+
 translate turkish ep019_paclerara_lilly_39f223b7:
 
-    # l "Though Céline should get in on the action as well."
-    l ""
 
-# game/episode019.rpy:991
+    l "Gerçi Céline de katılmalı bize."
+
+
 translate turkish ep019_paclerara_lilly_e00e0b65:
 
-    # c "Sure, but I want you for myself sometimes too."
-    c ""
 
-# game/episode019.rpy:992
+    c "Tabii, ama bazen seni sadece kendim için de istiyorum."
+
+
 translate turkish ep019_paclerara_lilly_462f05b5:
 
-    # c "It’s the best way to ensure you’ll get all the things you fantasize about and more..."
-    c ""
 
-# game/episode019.rpy:994
+    c "Hayal ettiğin her şeyi ve daha fazlasını yaşamanın en iyi yolu bu..."
+
+
 translate turkish ep019_paclerara_lilly_b6ca29c3:
 
-    # "The Residence square was empty this time, so I pulled her towards me and gave her the kiss I wanted to before we were interrupted."
-    ""
 
-# game/episode019.rpy:995
+    "Konut meydanı bu sefer boştu, bu yüzden onu kendime çektim ve kesintiye uğramadan önce vermek istediğim öpücüğü verdim."
+
+
 translate turkish ep019_paclerara_lilly_93bcbaa6:
 
-    # "Lilly gave into the hunger instantly and we nearly ripped our clothes off to start the promised revelry right there and then."
-    ""
 
-# game/episode019.rpy:997
+    "Lilly hemen bu açlığa teslim oldu ve neredeyse oracıkta söz verilen eğlenceye başlamak için kıyafetlerimizi yırtacaktık."
+
+
 translate turkish ep019_paclerara_lilly_8c723927:
 
-    # "When we pulled away, my sister was breathless."
-    ""
 
-# game/episode019.rpy:999
+    "Biz uzaklaştığımızda, kardeşim nefes nefese kalmıştı."
+
+
 translate turkish ep019_paclerara_lilly_77cee6fc:
 
-    # "When we pulled away, Lilly was breathless."
-    ""
 
-# game/episode019.rpy:1001
+    "Biz uzaklaştığımızda, Lilly nefes nefese kalmıştı."
+
+
 translate turkish ep019_paclerara_lilly_80637fc3:
 
-    # l "Thank you, [p_name_short]."
-    l ""
 
-# game/episode019.rpy:1002
+    l "Teşekkür ederim, [p_name_short]."
+
+
 translate turkish ep019_paclerara_lilly_2635d489:
 
-    # l "You sure know how to take my mind off things."
-    l ""
 
-# game/episode019.rpy:1003
+    l "Aklımı başka şeylere nasıl vereceğimi gerçekten iyi biliyorsun."
+
+
 translate turkish ep019_paclerara_lilly_a185d51c:
 
-    # c "I’ll see you soon."
-    c ""
 
-# game/episode019.rpy:1004
+    c "Yakında görüşürüz."
+
+
 translate turkish ep019_paclerara_lilly_b8406a79:
 
-    # l "You bet."
-    l ""
 
-# game/episode019.rpy:1007
+    l "İddiaya girerim."
+
+
 translate turkish ep019_paclerara_lilly_e6a1ea65:
 
-    # "Lilly smiled and we were silent for a while, watching the students file in and out of the Residence."
-    ""
 
-# game/episode019.rpy:1009
+    "Lilly gülümsedi ve bir süre sessizce oturduk, öğrencilerin Residence'a girip çıkışını izledik."
+
+
 translate turkish ep019_paclerara_lilly_6d35033c:
 
-    # l "Thank you for sitting here with me."
-    l ""
 
-# game/episode019.rpy:1010
+    l "Benimle burada oturduğun için teşekkür ederim."
+
+
 translate turkish ep019_paclerara_lilly_03068463:
 
-    # l "I think I’m going for a swim, to clear my head."
-    l ""
 
-# game/episode019.rpy:1011
+    l "Sanırım yüzmeye gideceğim, kafamı dağıtmak için."
+
+
 translate turkish ep019_paclerara_lilly_e8250fa4:
 
-    # c "Sure thing, enjoy!"
-    c ""
 
-# game/episode019.rpy:1012
+    c "Tabi ki, iyi eğlenceler!"
+
+
 translate turkish ep019_paclerara_lilly_ee87f75b:
 
-    # l "I will, see you around."
-    l ""
 
-# game/episode019.rpy:1021
+    l "Eğleneceğim, görüşürüz."
+
+
 translate turkish ep019_paclerara_aven_5069e876:
 
-    # "The stars were out after another day on Paclerara."
-    ""
 
-# game/episode019.rpy:1022
+    "Paclerara'da bir günün daha sonunda yıldızlar çıkmıştı."
+
+
 translate turkish ep019_paclerara_aven_19df3c01:
 
-    # "Aven would join me in a few minutes, for a candle-lit dinner on my balcony."
-    ""
 
-# game/episode019.rpy:1023
+    "Aven birkaç dakika içinde balkonumda mum ışığında yemeğe katılacaktı."
+
+
 translate turkish ep019_paclerara_aven_0707da36:
 
-    # "The Residence offered room service, so I’d booked us a meal which was due to arrive shortly."
-    ""
 
-# game/episode019.rpy:1024
+    "Residence oda servisi sunuyordu, bu yüzden birazdan gelecek bir yemek sipariş etmiştim."
+
+
 translate turkish ep019_paclerara_aven_d4704e18:
 
-    # "Aven knocked on the door, just as I lit the candles on the table."
-    ""
 
-# game/episode019.rpy:1029
+    "Masadaki mumları yakarken Aven kapıyı çaldı."
+
+
 translate turkish ep019_paclerara_aven_9c8bfbc0:
 
-    # "She’d dressed up for the occasion, and I was momentarily at a loss for words when I opened the door."
-    ""
 
-# game/episode019.rpy:1030
+    "Özel olarak giyinmişti ve kapıyı açtığımda bir an için söyleyecek söz bulamadım."
+
+
 translate turkish ep019_paclerara_aven_c97aee14:
 
-    # av "What, no snarky remark?"
-    av ""
 
-# game/episode019.rpy:1031
+    av "Ne o, alaycı bir yorum yok mu?"
+
+
 translate turkish ep019_paclerara_aven_ae5c4159:
 
-    # c "No, just that you look stunning."
-    c ""
 
-# game/episode019.rpy:1033
+    c "Hayır, sadece muhteşem görünüyorsun."
+
+
 translate turkish ep019_paclerara_aven_6b762982:
 
-    # av "Well, I was told this was no ordinary dinner, so I decided a dress was in order."
-    av ""
 
-# game/episode019.rpy:1034
+    av "Eh, bunun sıradan bir akşam yemeği olmadığını söylemişlerdi, ben de bir elbise giymem gerektiğini düşündüm."
+
+
 translate turkish ep019_paclerara_aven_99b8404e:
 
-    # c "Good choice, is all I can say."
-    c ""
 
-# game/episode019.rpy:1036
+    c "Harika bir seçim, başka bir şey diyemem."
+
+
 translate turkish ep019_paclerara_aven_123a2a34:
 
-    # "Aven followed me to the balcony."
-    ""
 
-# game/episode019.rpy:1037
+    "Aven beni balkona kadar takip etti."
+
+
 translate turkish ep019_paclerara_aven_60dfd5bd:
 
-    # c "Do you care for some champagne?"
-    c ""
 
-# game/episode019.rpy:1039
+    c "Biraz şampanya ister misin?"
+
+
 translate turkish ep019_paclerara_aven_c84496d8:
 
-    # av "Certainly."
-    av ""
 
-# game/episode019.rpy:1040
+    av "Elbette."
+
+
 translate turkish ep019_paclerara_aven_cab9df47:
 
-    # "I filled two glasses and handed one over to Aven."
-    ""
 
-# game/episode019.rpy:1042
+    "İki kadeh doldurdum ve birini Aven'e uzattım."
+
+
 translate turkish ep019_paclerara_aven_f3bc0057:
 
-    # "In lieu of a toast, we kissed."
-    ""
 
-# game/episode019.rpy:1044
+    "Kadeh kaldırmak yerine öpüştük."
+
+
 translate turkish ep019_paclerara_aven_3b8c0c82:
 
-    # "I was about to cancel the whole dinner and just kiss my sister for the entire evening when the doorbell rang again."
-    ""
 
-# game/episode019.rpy:1046
+    "Tam bütün akşam yemeğini iptal edip kız kardeşimle öpüşmeye devam edecektim ki kapı çaldı."
+
+
 translate turkish ep019_paclerara_aven_7dc5322c:
 
-    # "I was about to cancel the whole dinner and just kiss her for the entire evening when the doorbell rang again."
-    ""
 
-# game/episode019.rpy:1047
+    "Akşam yemeğini iptal edip bütün akşam onu öpmeye niyetlenmiştim ki, kapı zili tekrar çaldı."
+
+
 translate turkish ep019_paclerara_aven_13947988:
 
-    # "Aven and I disentangled."
-    ""
 
-# game/episode019.rpy:1048
+    "Aven ve ben birbirimizden ayrıldık."
+
+
 translate turkish ep019_paclerara_aven_00da288c:
 
-    # c "I think that’s room service."
-    c ""
 
-# game/episode019.rpy:1050
+    c "Sanırım oda servisi geldi."
+
+
 translate turkish ep019_paclerara_aven_ffa4f411:
 
-    # "Aven seated herself while I got the door."
-    ""
 
-# game/episode019.rpy:1051
+    "Ben kapıyı açarken Aven yerine oturdu."
+
+
 translate turkish ep019_paclerara_aven_8fb180a2:
 
-    # "Two dishes sat on a small cart, accompanied by one of the kitchen staff."
-    ""
 
-# game/episode019.rpy:1053
+    "Küçük bir arabada iki tabak vardı, mutfak personelinden biri eşlik ediyordu."
+
+
 translate turkish ep019_paclerara_aven_4a00796e:
 
-    # "After thanking the staff member, I wheeled the trolley back into the room."
-    ""
 
-# game/episode019.rpy:1054
+    "Personele teşekkür ettikten sonra arabayı odaya geri götürdüm."
+
+
 translate turkish ep019_paclerara_aven_61c421b4:
 
-    # "Aven made some satisfactory noises when I revealed what was under the cloche of both plates, and we began our meal."
-    ""
 
-# game/episode019.rpy:1055
+    "Her iki tabağın kapağını kaldırdığımda Aven memnuniyet dolu sesler çıkardı ve yemeğimize başladık."
+
+
 translate turkish ep019_paclerara_aven_8e1a723c:
 
-    # "The Paclerara moonlight rippled over the water of the lake, and a light breeze stroked Aven’s hair."
-    ""
 
-# game/episode019.rpy:1057
+    "Paclerara'nın ay ışığı gölün üzerinde dalgalanıyor, hafif bir esinti Aven'in saçlarını okşuyordu."
+
+
 translate turkish ep019_paclerara_aven_a3245e40:
 
-    # av "This truly is a lovely evening, [p_name_short]."
-    av ""
 
-# game/episode019.rpy:1058
+    av "Bu gerçekten harika bir akşam, [p_name_short]."
+
+
 translate turkish ep019_paclerara_aven_51d4d1fb:
 
-    # av "And the food is excellent."
-    av ""
 
-# game/episode019.rpy:1059
+    av "Ve yemek muhteşem."
+
+
 translate turkish ep019_paclerara_aven_2760436a:
 
-    # c "I’m glad you think so."
-    c ""
 
-# game/episode019.rpy:1060
+    c "Böyle düşünmene sevindim."
+
+
 translate turkish ep019_paclerara_aven_e8c94f90:
 
-    # c "I thought we deserved a little peace and quiet after recent events."
-    c ""
 
-# game/episode019.rpy:1061
+    c "Son olaylardan sonra biraz huzur ve sessizliği hak ettik diye düşündüm."
+
+
 translate turkish ep019_paclerara_aven_e0d52d7b:
 
-    # av "True."
-    av ""
 
-# game/episode019.rpy:1063
+    av "Doğru."
+
+
 translate turkish ep019_paclerara_aven_de58942d:
 
-    # av "Is Eva still the same?"
-    av ""
 
-# game/episode019.rpy:1064
+    av "Eva hala aynı mı?"
+
+
 translate turkish ep019_paclerara_aven_f0ac2359:
 
-    # c "I’m afraid so."
-    c ""
 
-# game/episode019.rpy:1066
+    c "Korkarım öyle."
+
+
 translate turkish ep019_paclerara_aven_a84c72ec:
 
-    # av "We should have been more careful with that thing."
-    av ""
 
-# game/episode019.rpy:1067
+    av "O şeyle daha dikkatli olmalıydık."
+
+
 translate turkish ep019_paclerara_aven_3d83191c:
 
-    # c "We didn’t know the Key could have such an effect on a person."
-    c ""
 
-# game/episode019.rpy:1068
+    c "Anahtarın bir insan üzerinde böyle bir etkisi olabileceğini bilmiyorduk."
+
+
 translate turkish ep019_paclerara_aven_ebafcff6:
 
-    # c "The people from who we stole the thing clearly didn’t either."
-    c ""
 
-# game/episode019.rpy:1069
+    c "Onu çaldığımız kişiler de açıkça bilmiyordu."
+
+
 translate turkish ep019_paclerara_aven_db344a92:
 
-    # av "I guess not."
-    av ""
 
-# game/episode019.rpy:1070
+    av "Sanırım öyle."
+
+
 translate turkish ep019_paclerara_aven_cfbf5557:
 
-    # c "So far no one else has felt the influence of the artifact, so I guess it’s now inert."
-    c ""
 
-# game/episode019.rpy:1071
+    c "Şimdiye kadar başka kimse eserin etkisini hissetmedi, sanırım artık etkisiz."
+
+
 translate turkish ep019_paclerara_aven_d8520ea9:
 
-    # c "I refuse to believe the effect of the Key is permanent, otherwise what would be the point?"
-    c ""
 
-# game/episode019.rpy:1073
+    c "Anahtarın etkisinin kalıcı olduğuna inanmayı reddediyorum, yoksa bunun ne anlamı olurdu?"
+
+
 translate turkish ep019_paclerara_aven_e1ce59c0:
 
-    # av "Maybe it was some kind of self-defense mechanism?"
-    av ""
 
-# game/episode019.rpy:1074
+    av "Belki bir çeşit kendini koruma mekanizmasıydı?"
+
+
 translate turkish ep019_paclerara_aven_114837d3:
 
-    # c "Not a great act of self-defense if it depletes all of the remaining energy."
-    c ""
 
-# game/episode019.rpy:1075
+    c "Kalan tüm enerjiyi tüketiyorsa pek iyi bir kendini koruma sayılmaz."
+
+
 translate turkish ep019_paclerara_aven_1122dbe8:
 
-    # c "Besides, I don’t think the Key was some sentient being."
-    c ""
 
-# game/episode019.rpy:1076
+    c "Ayrıca, Anahtarın düşünebilen bir varlık olduğunu sanmıyorum."
+
+
 translate turkish ep019_paclerara_aven_cdf82158:
 
-    # c "The most likely explanation I can think of is that direct contact with the Key somehow overwhelmed Eva."
-    c ""
 
-# game/episode019.rpy:1077
+    c "Aklıma gelen en mantıklı açıklama, Anahtarla doğrudan temas etmenin bir şekilde Eva'yı bunalttığı."
+
+
 translate turkish ep019_paclerara_aven_17c73c30:
 
-    # av "It overwhelmed her mind to the point of unconsciousness?"
-    av ""
 
-# game/episode019.rpy:1078
+    av "Zihnini bayılacak kadar mı bunalttı?"
+
+
 translate turkish ep019_paclerara_aven_f2e7e841:
 
-    # c "Something like that."
-    c ""
 
-# game/episode019.rpy:1080
+    c "Onun gibi bir şey."
+
+
 translate turkish ep019_paclerara_aven_12065f95:
 
-    # av "Sounds outlandish, but I don’t have a better theory."
-    av ""
 
-# game/episode019.rpy:1081
+    av "Kulağa tuhaf geliyor ama daha iyi bir teorim yok."
+
+
 translate turkish ep019_paclerara_aven_b55a5814:
 
-    # av "Hopefully she wakes up soon, so she can tell us in person."
-    av ""
 
-# game/episode019.rpy:1082
+    av "Umarım yakında uyanır da bize kendisi anlatır."
+
+
 translate turkish ep019_paclerara_aven_4a339f97:
 
-    # c "Yes, let’s hope so."
-    c ""
 
-# game/episode019.rpy:1085
+    c "Evet, öyle umalım."
+
+
 translate turkish ep019_paclerara_aven_4dbd77cd:
 
-    # "After a moment of silence, we turned the conversation to lighter subjects and finished our meal."
-    ""
 
-# game/episode019.rpy:1086
+    "Bir süre sessizlikten sonra, sohbeti daha hafif konulara çevirdik ve yemeğimizi bitirdik."
+
+
 translate turkish ep019_paclerara_aven_272dd10f:
 
-    # c "Would you like us to continue the evening inside?"
-    c ""
 
-# game/episode019.rpy:1088
+    c "Akşama içeride devam etmek ister misin?"
+
+
 translate turkish ep019_paclerara_aven_ee5f42fe:
 
-    # av "To raid the minibar?"
-    av ""
 
-# game/episode019.rpy:1089
+    av "Minibarı yağmalamak için mi?"
+
+
 translate turkish ep019_paclerara_aven_f54728e9:
 
-    # c "Possibly, or try out that very large bed?"
-    c ""
 
-# game/episode019.rpy:1092
+    c "Belki, ya da şu kocaman yatağı denemek için?"
+
+
 translate turkish ep019_paclerara_aven_1d726ac4:
 
-    # "As we evidently touched a more serious note in our conversation, I decided to press on with something that had been weighing on my conscience for a while now."
-    ""
 
-# game/episode019.rpy:1093
+    "Sohbetimiz açıkça daha ciddi bir hal alınca, bir süredir vicdanımı rahatsız eden şeyi açmaya karar verdim."
+
+
 translate turkish ep019_paclerara_aven_52e11f66:
 
-    # c "In light of everything, I feel I need to tell you something."
-    c ""
 
-# game/episode019.rpy:1095
+    c "Her şey göz önüne alındığında, sana bir şey söylemem gerekiyor."
+
+
 translate turkish ep019_paclerara_aven_527471a0:
 
-    # "My sister’s fearful look almost made me change the subject, but I carried on regardless."
-    ""
 
-# game/episode019.rpy:1097
+    "Kız kardeşimin korkulu bakışı neredeyse konuyu değiştirmeme neden olacaktı, ama yine de devam ettim."
+
+
 translate turkish ep019_paclerara_aven_2c0df799:
 
-    # "Aven’s fearful look almost made me change the subject, but I carried on regardless."
-    ""
 
-# game/episode019.rpy:1098
+    "Aven'in korkulu bakışı neredeyse konuyu değiştirmeme neden olacaktı, ama yine de devam ettim."
+
+
 translate turkish ep019_paclerara_aven_b9daa86f:
 
-    # c "I love you very much, Aven."
-    c ""
 
-# game/episode019.rpy:1100
+    c "Seni çok seviyorum, Aven."
+
+
 translate turkish ep019_paclerara_aven_e0696351:
 
-    # c "I want to grow old with you, start a family."
-    c ""
 
-# game/episode019.rpy:1102
+    c "Seninle yaşlanmak, bir aile kurmak istiyorum."
+
+
 translate turkish ep019_paclerara_aven_8d3ef370:
 
-    # c "I want to grow old with you."
-    c ""
 
-# game/episode019.rpy:1103
+    c "Seninle yaşlanmak istiyorum."
+
+
 translate turkish ep019_paclerara_aven_9f98c340:
 
-    # c "But you’re not the only woman I love."
-    c ""
 
-# game/episode019.rpy:1105
+    c "Ama sevdiğim tek kadın sen değilsin."
+
+
 translate turkish ep019_paclerara_aven_dd546403:
 
-    # "I expected Aven to splash her glass of wine into my face, or even attempt to throw me over the balcony, but she just looked at me seriously and nodded, inviting me to go on."
-    ""
 
-# game/episode019.rpy:1106
+    "Aven'in şarap kadehini yüzüme fırlatmasını ya da beni balkondan atmaya çalışmasını bekliyordum, ama o sadece ciddi bir şekilde bana baktı ve devam etmemi işaret ederek başını salladı."
+
+
 translate turkish ep019_paclerara_aven_bd274d73:
 
-    # c "At first I didn’t realize how serious it all was."
-    c ""
 
-# game/episode019.rpy:1108
+    c "Başta her şeyin ne kadar ciddi olduğunu anlamamıştım."
+
+
 translate turkish ep019_paclerara_aven_b6a6c50a:
 
-    # c "Thinking that any spark there was between me and them would die out and nothing else would ever come of it."
-    c ""
 
-# game/episode019.rpy:1110
+    c "Aramızdaki kıvılcımın sönüp gideceğini ve başka bir şey olmayacağını düşünüyordum."
+
+
 translate turkish ep019_paclerara_aven_0ddd6bfd:
 
-    # c "Thinking that any spark there was between me and her would die out and nothing else would ever come of it."
-    c ""
 
-# game/episode019.rpy:1111
+    c "Onunla aramdaki kıvılcımın sönüp gideceğini ve başka bir şey olmayacağını düşünüyordum."
+
+
 translate turkish ep019_paclerara_aven_b0f026f5:
 
-    # c "But that didn’t happen."
-    c ""
 
-# game/episode019.rpy:1116
+    c "Ama öyle olmadı."
+
+
 translate turkish ep019_paclerara_aven_85f2dacf:
 
-    # av "Just to be clear, you’re not talking about just one woman, are you?"
-    av ""
 
-# game/episode019.rpy:1117
+    av "Açık olmak gerekirse, sadece bir kadından bahsetmiyorsun, değil mi?"
+
+
 translate turkish ep019_paclerara_aven_e69e42b8:
 
-    # c "No."
-    c ""
 
-# game/episode019.rpy:1118
+    c "Hayır."
+
+
 translate turkish ep019_paclerara_aven_79ea6aac:
 
-    # c "I’m talking about [romances]."
-    c ""
 
-# game/episode019.rpy:1120
+    c "[romances]'dan bahsediyorum."
+
+
 translate turkish ep019_paclerara_aven_0a7df326:
 
-    # "Again Aven surprised me."
-    ""
 
-# game/episode019.rpy:1121
+    "Aven yine beni şaşırttı."
+
+
 translate turkish ep019_paclerara_aven_a522e02c:
 
-    # "Instead of jumping up and pulling me across the table, she sighed and looked out over the lake."
-    ""
 
-# game/episode019.rpy:1123
+    "Ayağa fırlayıp beni masanın üzerinden çekmek yerine, iç çekti ve göle doğru baktı."
+
+
 translate turkish ep019_paclerara_aven_04c955a8:
 
-    # av "Just to be clear, you’re talking about [romances], aren’t you?"
-    av ""
 
-# game/episode019.rpy:1124
+    av "Açık olmak gerekirse, [romances]'dan bahsediyorsun, değil mi?"
+
+
 translate turkish ep019_paclerara_aven_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode019.rpy:1125
+    c "Evet, öyle."
+
+
 translate turkish ep019_paclerara_aven_e3179906:
 
-    # av "You’re in love with her?"
-    av ""
 
-# game/episode019.rpy:1126
+    av "Ona aşık mısın?"
+
+
 translate turkish ep019_paclerara_aven_36391c9b_1:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode019.rpy:1127
+    c "Evet, öyleyim."
+
+
 translate turkish ep019_paclerara_aven_84c32a44:
 
-    # c "As much as I am in love with you."
-    c ""
 
-# game/episode019.rpy:1129
+    c "Tıpkı sana olduğum gibi."
+
+
 translate turkish ep019_paclerara_aven_e00503cf:
 
-    # "Aven sighed and looked out over the lake."
-    ""
 
-# game/episode019.rpy:1131
+    "Aven iç çekti ve göle doğru baktı."
+
+
 translate turkish ep019_paclerara_aven_575f8524:
 
-    # av "I expected as much."
-    av ""
 
-# game/episode019.rpy:1132
+    av "Bunu bekliyordum zaten."
+
+
 translate turkish ep019_paclerara_aven_20d31919:
 
-    # c "You did?"
-    c ""
 
-# game/episode019.rpy:1134
+    c "Öyle mi?"
+
+
 translate turkish ep019_paclerara_aven_aa9c93d3:
 
-    # av "I’m neither blind nor deaf, [p_name]."
-    av ""
 
-# game/episode019.rpy:1137
+    av "Ne kör ne de sağırım, [p_name]."
+
+
 translate turkish ep019_paclerara_aven_d25695a3:
 
-    # av "It’s not easy for our mother to hide her feelings from me."
-    av ""
 
-# game/episode019.rpy:1139
+    av "Annemizin duygularını benden gizlemesi kolay değil."
+
+
 translate turkish ep019_paclerara_aven_319940b8:
 
-    # av "It’s not easy for Nadya to hide her feelings from me."
-    av ""
 
-# game/episode019.rpy:1140
+    av "Nadya'nın duygularını benden gizlemesi kolay değil."
+
+
 translate turkish ep019_paclerara_aven_5ea30d73:
 
-    # av "People sometimes let things slip in conversation, but often even a wayward gaze is enough."
-    av ""
 
-# game/episode019.rpy:1143
+    av "İnsanlar bazen konuşurken ağızlarından bir şeyler kaçırır, ama çoğu zaman kaçamak bir bakış bile yeterli."
+
+
 translate turkish ep019_paclerara_aven_f23ecccb:
 
-    # av "I’ve seen them look at you."
-    av ""
 
-# game/episode019.rpy:1145
+    av "Sana nasıl baktıklarını gördüm."
+
+
 translate turkish ep019_paclerara_aven_62ea3acc:
 
-    # av "I’ve seen her look at you."
-    av ""
 
-# game/episode019.rpy:1146
+    av "Sana nasıl baktığını gördüm."
+
+
 translate turkish ep019_paclerara_aven_8418c4d2:
 
-    # av "And at first I denied it to myself, but then I realized something very simple."
-    av ""
 
-# game/episode019.rpy:1147
+    av "Başta kendime itiraf edemedim ama sonra çok basit bir şeyi fark ettim."
+
+
 translate turkish ep019_paclerara_aven_98fc84c8:
 
-    # av "You, [p_name_short], you made me fall head over heels in love with you."
-    av ""
 
-# game/episode019.rpy:1148
+    av "Sen, [p_name_short], beni kendine deli gibi aşık ettin."
+
+
 translate turkish ep019_paclerara_aven_dbfed1af:
 
-    # av "That feeling is so powerful, so of course it could happen to someone else too."
-    av ""
 
-# game/episode019.rpy:1150
+    av "Bu his o kadar güçlü ki, tabii ki başkasının da başına gelebilirdi."
+
+
 translate turkish ep019_paclerara_aven_3ac67cbe:
 
-    # av "I saw you together with Lilly, back at that facility where we lost our memories."
-    av ""
 
-# game/episode019.rpy:1152
+    av "Seni Lilly ile birlikte gördüm, hafızalarımızı kaybettiğimiz o tesiste."
+
+
 translate turkish ep019_paclerara_aven_80d4d046:
 
-    # av "Afterwards, I thought you were just close because of the sibling bond you unconsciously felt."
-    av ""
 
-# game/episode019.rpy:1154
+    av "Sonrasında, sadece farkında olmadan hissettiğiniz kardeşlik bağından yakın olduğunuzu düşündüm."
+
+
 translate turkish ep019_paclerara_aven_2dfe814b:
 
-    # av "Afterwards, I thought you were just close because of the friendship you unconsciously felt."
-    av ""
 
-# game/episode019.rpy:1155
+    av "Sonrasında, sadece farkında olmadan hissettiğiniz arkadaşlık bağından yakın olduğunuzu düşündüm."
+
+
 translate turkish ep019_paclerara_aven_8d516082:
 
-    # av "But then I caught her looking at you multiple times afterwards, when we had our memories back."
-    av ""
 
-# game/episode019.rpy:1157
+    av "Ama sonra hafızalarımız geri geldiğinde, onu sana bakarken defalarca yakaladım."
+
+
 translate turkish ep019_paclerara_aven_a2ada933:
 
-    # av "And that look in her eye wasn’t something a sister would normally have when looking at her brother."
-    av ""
 
-# game/episode019.rpy:1159
+    av "Ve gözlerindeki o bakış bir kız kardeşin ağabeyine bakışı değildi."
+
+
 translate turkish ep019_paclerara_aven_f86229e3:
 
-    # av "And that look in her eye wasn’t something one would normally have when looking at a friend."
-    av ""
 
-# game/episode019.rpy:1161
+    av "Ve gözlerindeki o bakış bir arkadaşa bakış değildi."
+
+
 translate turkish ep019_paclerara_aven_53092d32:
 
-    # av "I didn’t know you felt the same way about her, of course, so I dismissed it for a while."
-    av ""
 
-# game/episode019.rpy:1164
+    av "Tabii ki sen de aynı şeyi hissettiğini bilmiyordum, o yüzden bir süre görmezden geldim."
+
+
 translate turkish ep019_paclerara_aven_e0598278:
 
-    # av "But then you and I became lovers and the notion of you caring for another sister that way struck me again."
-    av ""
 
-# game/episode019.rpy:1166
+    av "Ama sonra biz sevgili olduk ve senin başka bir kız kardeşe de aynı şekilde ilgi duyabileceğin fikri yine aklıma geldi."
+
+
 translate turkish ep019_paclerara_aven_8ef0ab5d:
 
-    # av "But then you and I became lovers and the notion of you caring for her that way struck me again."
-    av ""
 
-# game/episode019.rpy:1167
+    av "Ama sonra biz sevgili olduk ve senin ona da aynı şekilde ilgi duyabileceğin fikri yine aklıma geldi."
+
+
 translate turkish ep019_paclerara_aven_a8e2714e:
 
-    # av "So I’ve had my suspicions for a long while."
-    av ""
 
-# game/episode019.rpy:1168
+    av "Yani uzun zamandır şüphelerim vardı."
+
+
 translate turkish ep019_paclerara_aven_c3d27f45:
 
-    # av "And now you’ve confirmed them."
-    av ""
 
-# game/episode019.rpy:1170
+    av "Ve şimdi onları doğruladın."
+
+
 translate turkish ep019_paclerara_aven_4baac61c:
 
-    # av "The only thing I don’t understand is why you didn’t come clean to me."
-    av ""
 
-# game/episode019.rpy:1172
+    av "Tek anlamadığım şey neden bana açık açık söylemedin."
+
+
 translate turkish ep019_paclerara_aven_50fbfd95:
 
-    # av "We’ve had many conversations about important stuff, about possibly having children even, why didn’t you tell me?"
-    av ""
 
-# game/episode019.rpy:1174
+    av "Önemli şeyler hakkında, hatta çocuk sahibi olmak hakkında bile konuştuk, neden bana söylemedin?"
+
+
 translate turkish ep019_paclerara_aven_7f492d20:
 
-    # av "We’ve had many conversations about important stuff, why didn’t you tell me?"
-    av ""
 
-# game/episode019.rpy:1175
+    av "Önemli şeyler hakkında çok konuştuk, neden bana söylemedin?"
+
+
 translate turkish ep019_paclerara_aven_ce7d6aff:
 
-    # c "I realize now that I should have told you."
-    c ""
 
-# game/episode019.rpy:1176
+    c "Şimdi anlıyorum ki sana söylemeliydim."
+
+
 translate turkish ep019_paclerara_aven_40fc8f86:
 
-    # c "I was so afraid I’d destroy what we shared together, so I just kept postponing the moment to tell you."
-    c ""
 
-# game/episode019.rpy:1178
+    c "Paylaştığımız her şeyi mahvedeceğimden çok korktum, bu yüzden sana söylemeyi hep erteledim."
+
+
 translate turkish ep019_paclerara_aven_9166f3be:
 
-    # c "Part of me thought that I compartmentalize all those relationships."
-    c ""
 
-# game/episode019.rpy:1180
+    c "Bir yanım tüm bu ilişkileri ayrı tutabileceğimi düşündü."
+
+
 translate turkish ep019_paclerara_aven_b17e4ab1:
 
-    # c "Part of me thought that I compartmentalize both relationships."
-    c ""
 
-# game/episode019.rpy:1181
+    c "Bir yanım her iki ilişkiyi de ayrı tutabileceğimi düşündü."
+
+
 translate turkish ep019_paclerara_aven_a485fc69:
 
-    # c "But that’s far from realistic, of course."
-    c ""
 
-# game/episode019.rpy:1183
+    c "Ama tabii ki bu gerçekçi değil."
+
+
 translate turkish ep019_paclerara_aven_8ad139f3:
 
-    # av "I’d say that’s rather obvious, yes."
-    av ""
 
-# game/episode019.rpy:1185
+    av "Bence bu oldukça açık, evet."
+
+
 translate turkish ep019_paclerara_aven_f6ed1d78:
 
-    # c "Some of the other girls now know about each other."
-    c ""
 
-# game/episode019.rpy:1187
+    c "Diğer kızların bazıları artık birbirlerinden haberdar."
+
+
 translate turkish ep019_paclerara_aven_d1078750:
 
-    # c "And some have decided to enter into a new form of partnership."
-    c ""
 
-# game/episode019.rpy:1188
+    c "Ve bazıları yeni bir ilişki biçimine girmeye karar verdi."
+
+
 translate turkish ep019_paclerara_aven_75b2793f:
 
-    # av "You should have just told me, [p_name_short]."
-    av ""
 
-# game/episode019.rpy:1189
+    av "Bana sadece söylemeliydin, [p_name_short]."
+
+
 translate turkish ep019_paclerara_aven_d12817b0:
 
-    # av "I’m a big girl, I can handle things."
-    av ""
 
-# game/episode019.rpy:1190
+    av "Ben büyük kızım, üstesinden gelebilirim."
+
+
 translate turkish ep019_paclerara_aven_4cdf97ab:
 
-    # c "I know, I never thought you couldn’t."
-    c ""
 
-# game/episode019.rpy:1191
+    c "Biliyorum, yapamayacağını hiç düşünmedim."
+
+
 translate turkish ep019_paclerara_aven_a08d207b:
 
-    # c "I dreaded losing you."
-    c ""
 
-# game/episode019.rpy:1192
+    c "Seni kaybetmekten çok korktum."
+
+
 translate turkish ep019_paclerara_aven_4738d69d:
 
-    # av "You needn’t have worried."
-    av ""
 
-# game/episode019.rpy:1193
+    av "Endişelenmene gerek yoktu."
+
+
 translate turkish ep019_paclerara_aven_ec121b35:
 
-    # av "If we’d just talked about it, you might have learned I’m quite free-thinking when it comes to matters like these."
-    av ""
 
-# game/episode019.rpy:1194
+    av "Eğer konuşsaydık, bu gibi konularda oldukça açık fikirli olduğumu öğrenebilirdin."
+
+
 translate turkish ep019_paclerara_aven_fb33b7e3:
 
-    # c "You mean you’ve had other lovers during the time we were together?"
-    c ""
 
-# game/episode019.rpy:1196
+    c "Yani birlikte olduğumuz süre boyunca başka sevgililerin mi vardı?"
+
+
 translate turkish ep019_paclerara_aven_b6df3f23:
 
-    # "Aven looked at me with a curious expression on her face, while I felt the bottom of my stomach dropping away."
-    ""
 
-# game/episode019.rpy:1197
+    "Aven yüzünde meraklı bir ifadeyle bana bakarken midem düğümlendi."
+
+
 translate turkish ep019_paclerara_aven_a713f03a:
 
-    # "The pang of all-consuming jealousy I felt at that moment wasn’t entirely fair considering the state of my love-life, but I felt it nonetheless."
-    ""
 
-# game/episode019.rpy:1199
+    "O anda hissettiğim o kapsayıcı kıskançlık, kendi aşk hayatımın durumu düşünülünce pek adil değildi ama yine de hissettim."
+
+
 translate turkish ep019_paclerara_aven_e0c00501:
 
-    # av "Haha, you should see your face, [p_name]."
-    av ""
 
-# game/episode019.rpy:1201
+    av "Haha, yüzünü görmeliydin, [p_name]."
+
+
 translate turkish ep019_paclerara_aven_5a7e002e:
 
-    # av "There’s no one else and there hasn’t been anyone else."
-    av ""
 
-# game/episode019.rpy:1203
+    av "Başka kimse yok ve hiç olmadı da."
+
+
 translate turkish ep019_paclerara_aven_5e4ac000:
 
-    # av "You’re enough for me."
-    av ""
 
-# game/episode019.rpy:1204
+    av "Sen bana yetersin."
+
+
 translate turkish ep019_paclerara_aven_154c65fb:
 
-    # c "So you do still want me?"
-    c ""
 
-# game/episode019.rpy:1206
+    c "Yani hala beni istiyorsun?"
+
+
 translate turkish ep019_paclerara_aven_1f5500aa:
 
-    # av "Are you kidding?"
-    av ""
 
-# game/episode019.rpy:1208
+    av "Dalga mı geçiyorsun?"
+
+
 translate turkish ep019_paclerara_aven_57b2be2f:
 
-    # av "Of course I do."
-    av ""
 
-# game/episode019.rpy:1209
+    av "Tabii ki istiyorum."
+
+
 translate turkish ep019_paclerara_aven_889b2847:
 
-    # av "I want everything we’ve ever discussed and more!"
-    av ""
 
-# game/episode019.rpy:1210
+    av "Konuştuğumuz her şeyi ve daha fazlasını istiyorum!"
+
+
 translate turkish ep019_paclerara_aven_d216abbc:
 
-    # c "I’m very glad to hear that."
-    c ""
 
-# game/episode019.rpy:1214
+    c "Bunu duyduğuma çok sevindim."
+
+
 translate turkish ep019_paclerara_aven_b805ceb1:
 
-    # av "[romances] is welcome to join us, of course."
-    av ""
 
-# game/episode019.rpy:1215
+    av "[romances] tabii ki bize katılabilir."
+
+
 translate turkish ep019_paclerara_aven_61af85b3:
 
-    # c "Are you serious about that?"
-    c ""
 
-# game/episode019.rpy:1217
+    c "Ciddi misin?"
+
+
 translate turkish ep019_paclerara_aven_c8c8c154:
 
-    # av "Well, I was half-joking."
-    av ""
 
-# game/episode019.rpy:1218
+    av "Şey, yarı şaka yapıyordum."
+
+
 translate turkish ep019_paclerara_aven_732c3e6c:
 
-    # av "But a threesome does sound exciting, to be honest."
-    av ""
 
-# game/episode019.rpy:1220
+    av "Ama dürüst olmak gerekirse üçlü kulağa heyecan verici geliyor."
+
+
 translate turkish ep019_paclerara_aven_25486306:
 
-    # av "I know it’s the typical male sexual fantasy and all that, but I’m intrigued nonetheless."
-    av ""
 
-# game/episode019.rpy:1224
+    av "Bunun tipik bir erkek fantezisi olduğunu biliyorum ama yine de ilgimi çekiyor."
+
+
 translate turkish ep019_paclerara_aven_84a98a3e:
 
-    # av "You were talking about some of the girls deciding to enter a new form of partnership?"
-    av ""
 
-# game/episode019.rpy:1225
+    av "Bazı kızların yeni bir ilişki biçimine girmeye karar verdiğinden bahsediyordun?"
+
+
 translate turkish ep019_paclerara_aven_821f1333:
 
-    # av "What does that mean exactly?"
-    av ""
 
-# game/episode019.rpy:1226
+    av "Bu tam olarak ne anlama geliyor?"
+
+
 translate turkish ep019_paclerara_aven_979c0d3c:
 
-    # c "They have agreed to share a bed together with me."
-    c ""
 
-# game/episode019.rpy:1227
+    c "Benimle aynı yatağı paylaşmayı kabul ettiler."
+
+
 translate turkish ep019_paclerara_aven_f60571b5:
 
-    # av "They have?"
-    av ""
 
-# game/episode019.rpy:1229
+    av "Öyle mi?"
+
+
 translate turkish ep019_paclerara_aven_257fa852:
 
-    # av "Interesting."
-    av ""
 
-# game/episode019.rpy:1230
+    av "İlginç."
+
+
 translate turkish ep019_paclerara_aven_bae2dad3:
 
-    # c "You’re welcome to join, of course."
-    c ""
 
-# game/episode019.rpy:1232
+    c "Sen de katılabilirsin tabii ki."
+
+
 translate turkish ep019_paclerara_aven_07801e70:
 
-    # av "How magnanimous of you."
-    av ""
 
-# game/episode019.rpy:1233
+    av "Ne kadar cömertsin."
+
+
 translate turkish ep019_paclerara_aven_da1a9641:
 
-    # c "Always!"
-    c ""
 
-# game/episode019.rpy:1235
+    c "Her zaman!"
+
+
 translate turkish ep019_paclerara_aven_77180c40:
 
-    # av "So you’re really asking me to participate in this typical male sexual fantasy of yours?"
-    av ""
 
-# game/episode019.rpy:1236
+    av "Yani gerçekten beni bu tipik erkek fantezine katılmaya mı davet ediyorsun?"
+
+
 translate turkish ep019_paclerara_aven_01a7ab5d:
 
-    # c "Only if you want to."
-    c ""
 
-# game/episode019.rpy:1237
+    c "Sadece istersen."
+
+
 translate turkish ep019_paclerara_aven_dfa1912c:
 
-    # c "I don’t want you to do anything you’re uncomfortable with."
-    c ""
 
-# game/episode019.rpy:1239
+    c "Rahatsız olacağın bir şey yapmanı istemiyorum."
+
+
 translate turkish ep019_paclerara_aven_0b552b2f:
 
-    # av "Part of me probably doesn’t want to believe it, but I’m intrigued to be honest."
-    av ""
 
-# game/episode019.rpy:1241
+    av "Bir yanım buna inanmak istemiyor belki ama açıkçası meraklandım."
+
+
 translate turkish ep019_paclerara_aven_b8ae5b49:
 
-    # c "I seem to remember discussing some very interesting acts that can only be performed on a large bed."
-    c ""
 
-# game/episode019.rpy:1242
+    c "Sadece büyük bir yatakta yapılabilecek bazı ilginç şeylerden bahsettiğimizi hatırlıyorum."
+
+
 translate turkish ep019_paclerara_aven_448c2e18:
 
-    # c "As it happens, such a large piece of furniture currently stands inside."
-    c ""
 
-# game/episode019.rpy:1245
+    c "Tesadüfe bak ki, içeride tam da öyle büyük bir mobilya var."
+
+
 translate turkish ep019_paclerara_aven_a5f70a41:
 
-    # c "Consider yourself invited, but only when you’re ready."
-    c ""
 
-# game/episode019.rpy:1247
+    c "Kendini davetli say, ama sadece hazır olduğunda."
+
+
 translate turkish ep019_paclerara_aven_dec104e7:
 
-    # av "It might surprise you how soon I’ll be ready."
-    av ""
 
-# game/episode019.rpy:1248
+    av "Ne kadar çabuk hazır olacağım seni şaşırtabilir."
+
+
 translate turkish ep019_paclerara_aven_c70507f6:
 
-    # c "Now I’m intrigued."
-    c ""
 
-# game/episode019.rpy:1249
+    c "Şimdi ben meraklandım."
+
+
 translate turkish ep019_paclerara_aven_9b798ef8:
 
-    # c "We could do some precautionary but vigorous bed-testing right now..."
-    c ""
 
-# game/episode019.rpy:1251
+    c "Şimdi biraz önlem amaçlı ama sağlam bir yatak testi yapabiliriz..."
+
+
 translate turkish ep019_paclerara_aven_9dd1c223:
 
-    # av "Ugh, I’d love to, but I kinda promised Lilly to go on a walk with her."
-    av ""
 
-# game/episode019.rpy:1252
+    av "Ah, çok isterim ama Lilly'ye onunla yürüyüşe çıkacağıma söz verdim."
+
+
 translate turkish ep019_paclerara_aven_7069a926:
 
-    # c "You could feign a sudden illness?"
-    c ""
 
-# game/episode019.rpy:1254
+    c "Aniden hastalandığını söyleyebilirsin?"
+
+
 translate turkish ep019_paclerara_aven_fbdcc037:
 
-    # av "Tempting, but I already made her the promise before you invited me for dinner."
-    av ""
 
-# game/episode019.rpy:1255
+    av "Cazip ama sen beni akşam yemeğine davet etmeden önce ona söz verdim."
+
+
 translate turkish ep019_paclerara_aven_eab20dd4:
 
-    # av "Besides, she needs someone to talk to, with Eva in the hospital and all."
-    av ""
 
-# game/episode019.rpy:1256
+    av "Hem Eva hastanedeyken birileriyle konuşmaya ihtiyacı var."
+
+
 translate turkish ep019_paclerara_aven_7963cf59:
 
-    # c "Understood."
-    c ""
 
-# game/episode019.rpy:1257
+    c "Anladım."
+
+
 translate turkish ep019_paclerara_aven_2fb82098:
 
-    # c "I’ll pencil you in for some vigorous bed-testing tomorrow night."
-    c ""
 
-# game/episode019.rpy:1259
+    c "Yarın gece sağlam bir yatak testi için seni programıma alıyorum."
+
+
 translate turkish ep019_paclerara_aven_bfeaf2b4:
 
-    # "She embraced me and we exchanged a longing kiss."
-    ""
 
-# game/episode019.rpy:1260
+    "Bana sarıldı ve özlem dolu bir öpücük paylaştık."
+
+
 translate turkish ep019_paclerara_aven_1aa6b2f7:
 
-    # "I could feel her body through the thin fabric of her dress and trailed the curve of hips with my hands."
-    ""
 
-# game/episode019.rpy:1261
+    "İnce elbisesinin kumaşından vücudunu hissedebiliyordum ve ellerimle kalçalarının kıvrımlarını okşadım."
+
+
 translate turkish ep019_paclerara_aven_caa20d51:
 
-    # "Aven shivered in response as our kiss deepened, her tongue meeting mine."
-    ""
 
-# game/episode019.rpy:1264
+    "Öpüşmemiz derinleşirken Aven titredi, dili benimkiyle buluştu."
+
+
 translate turkish ep019_paclerara_aven_c67735c9:
 
-    # "My sister moaned as she put her hand on my butt and pulled me closer into the kiss."
-    ""
 
-# game/episode019.rpy:1266
+    "Kız kardeşim elini kalçama koyup beni öpücüğe doğru çekerken inledi."
+
+
 translate turkish ep019_paclerara_aven_63b804fb:
 
-    # "My girlfriend moaned as she put her hand on my butt and pulled me closer into the kiss."
-    ""
 
-# game/episode019.rpy:1267
+    "Sevgilim elini kalçama koyup beni öpücüğe doğru çekerken inledi."
+
+
 translate turkish ep019_paclerara_aven_e5509019:
 
-    # "When we ultimately disengaged, Aven let out a wistful sigh."
-    ""
 
-# game/episode019.rpy:1269
+    "Sonunda ayrıldığımızda, Aven özlemli bir iç çekti."
+
+
 translate turkish ep019_paclerara_aven_4e546e44:
 
-    # av "I should really go now, before I lose myself."
-    av ""
 
-# game/episode019.rpy:1270
+    av "Kendimi kaybetmeden gitmeliyim artık."
+
+
 translate turkish ep019_paclerara_aven_d8c4ef1f:
 
-    # c "See you tomorrow."
-    c ""
 
-# game/episode019.rpy:1271
+    c "Yarın görüşürüz."
+
+
 translate turkish ep019_paclerara_aven_0e1545bb:
 
-    # av "Love you, [p_name]."
-    av ""
 
-# game/episode019.rpy:1277
+    av "Seni seviyorum, [p_name]."
+
+
 translate turkish ep019_paclerara_thyia_17c3d713:
 
-    # "I hadn’t seen Thyia all day, so I went out to look for her."
-    ""
 
-# game/episode019.rpy:1279
+    "Thyia'yı bütün gün görmemiştim, bu yüzden onu aramaya çıktım."
+
+
 translate turkish ep019_paclerara_thyia_8684dc1b:
 
-    # "Eventually, I found her on the landing pad near the Bastard."
-    ""
 
-# game/episode019.rpy:1280
+    "Sonunda onu Bastard'ın yanındaki iniş pistinde buldum."
+
+
 translate turkish ep019_paclerara_thyia_cf962ed2:
 
-    # "She was hunched over the bot she’d been building for some time."
-    ""
 
-# game/episode019.rpy:1282
+    "Bir süredir üzerinde çalıştığı robotun üzerine eğilmişti."
+
+
 translate turkish ep019_paclerara_thyia_67d9f26c:
 
-    # th "No, straight ahead!"
-    th ""
 
-# game/episode019.rpy:1283
+    th "Hayır, dümdüz ileri!"
+
+
 translate turkish ep019_paclerara_thyia_32e59d0d:
 
-    # th "Dammit, straight ahead!"
-    th ""
 
-# game/episode019.rpy:1284
+    th "Lanet olsun, düz git!"
+
+
 translate turkish ep019_paclerara_thyia_39a9a4fb:
 
-    # th "That’s a right turn, you stupid piece of metal!"
-    th ""
 
-# game/episode019.rpy:1285
+    th "Sağa dön diyorum, seni aptal metal parçası!"
+
+
 translate turkish ep019_paclerara_thyia_6d31d7c5:
 
-    # c "Is your bot having behavioral troubles?"
-    c ""
 
-# game/episode019.rpy:1287
+    c "Robotun davranış sorunları mı var?"
+
+
 translate turkish ep019_paclerara_thyia_c879ddc8:
 
-    # th "Either that, or it’s deaf..."
-    th ""
 
-# game/episode019.rpy:1288
+    th "Ya öyle, ya da sağır..."
+
+
 translate turkish ep019_paclerara_thyia_fe101a1c:
 
-    # c "But, you finished it."
-    c ""
 
-# game/episode019.rpy:1289
+    c "Ama bitirdin işte."
+
+
 translate turkish ep019_paclerara_thyia_d9dd069e:
 
-    # th "That I did."
-    th ""
 
-# game/episode019.rpy:1290
+    th "Evet, bitirdim."
+
+
 translate turkish ep019_paclerara_thyia_c0cdf46c:
 
-    # th "I completed everything last night."
-    th ""
 
-# game/episode019.rpy:1291
+    th "Dün gece her şeyi tamamladım."
+
+
 translate turkish ep019_paclerara_thyia_767dc46b:
 
-    # th "This is the first test drive, and I think the voice commands need a bit of work."
-    th ""
 
-# game/episode019.rpy:1292
+    th "Bu ilk test sürüşü ve sesli komutların biraz düzeltilmesi gerekiyor sanırım."
+
+
 translate turkish ep019_paclerara_thyia_b68f0cc6:
 
-    # c "Yeah, but everything else seems to work."
-    c ""
 
-# game/episode019.rpy:1294
+    c "Evet ama diğer her şey çalışıyor gibi görünüyor."
+
+
 translate turkish ep019_paclerara_thyia_7f3e5a35:
 
-    # th "Yes, it does."
-    th ""
 
-# game/episode019.rpy:1295
+    th "Evet, öyle."
+
+
 translate turkish ep019_paclerara_thyia_3784a5e1:
 
-    # th "I’m quite happy with it."
-    th ""
 
-# game/episode019.rpy:1296
+    th "Oldukça memnunum."
+
+
 translate turkish ep019_paclerara_thyia_fe8c8040:
 
-    # c "It’s a brilliant piece of engineering, Thyia."
-    c ""
 
-# game/episode019.rpy:1297
+    c "Harika bir mühendislik eseri, Thyia."
+
+
 translate turkish ep019_paclerara_thyia_2662dc1e:
 
-    # c "Especially since you’ve done it all by yourself."
-    c ""
 
-# game/episode019.rpy:1299
+    c "Özellikle hepsini tek başına yaptığın düşünülünce."
+
+
 translate turkish ep019_paclerara_thyia_b34d6396:
 
-    # th "It’s just a little robot."
-    th ""
 
-# game/episode019.rpy:1300
+    th "Sadece küçük bir robot işte."
+
+
 translate turkish ep019_paclerara_thyia_6b24c9cd:
 
-    # c "Which you’ve built from scratch."
-    c ""
 
-# game/episode019.rpy:1301
+    c "Sıfırdan yaptığın bir robot."
+
+
 translate turkish ep019_paclerara_thyia_7ca43d0e:
 
-    # c "Nothing to be modest about."
-    c ""
 
-# game/episode019.rpy:1303
+    c "Mütevazı olmana gerek yok."
+
+
 translate turkish ep019_paclerara_thyia_ada28bcb:
 
-    # th "If you say so."
-    th ""
 
-# game/episode019.rpy:1304
+    th "Öyle diyorsan."
+
+
 translate turkish ep019_paclerara_thyia_734b6bcd:
 
-    # c "So, the next stage is mounting the thing with a load of guns, so it can act as our personal bodyguard?"
-    c ""
 
-# game/episode019.rpy:1306
+    c "Peki, sıradaki aşama buna bir sürü silah takıp kişisel korumamız olarak kullanmak mı?"
+
+
 translate turkish ep019_paclerara_thyia_98953902:
 
-    # th "You’ve just heard it has trouble obeying simple directional commands, so I’m not sure if arming it is a good idea at stage."
-    th ""
 
-# game/episode019.rpy:1307
+    th "Az önce basit yön komutlarına bile uymakta zorlandığını gördün, bu aşamada silahlandırmak iyi bir fikir olmayabilir."
+
+
 translate turkish ep019_paclerara_thyia_a5faf2da:
 
-    # c "I see your point."
-    c ""
 
-# game/episode019.rpy:1309
+    c "Haklısın."
+
+
 translate turkish ep019_paclerara_thyia_5aa76b8e:
 
-    # th "Seriously though, this bot is just intended to help me carry out repairs and stuff."
-    th ""
 
-# game/episode019.rpy:1310
+    th "Ciddi olarak, bu robot sadece tamir işlerinde ve benzeri şeylerde bana yardım etmek için tasarlandı."
+
+
 translate turkish ep019_paclerara_thyia_f3815777:
 
-    # c "Keep you company whenever you’re lonely."
-    c ""
 
-# game/episode019.rpy:1312
+    c "Yalnız olduğunda sana arkadaşlık etsin diye."
+
+
 translate turkish ep019_paclerara_thyia_a7e944aa:
 
-    # th "Ha, yes, looking forward to the philosophical debates we’re undoubtedly going to have."
-    th ""
 
-# game/episode019.rpy:1313
+    th "Ha, evet, kesinlikle yapacağımız felsefi tartışmaları iple çekiyorum."
+
+
 translate turkish ep019_paclerara_thyia_5c99904c:
 
-    # c "Just warn me when it starts to question the nature of its existence."
-    c ""
 
-# game/episode019.rpy:1314
+    c "Varoluşunu sorgulamaya başladığında bana haber ver."
+
+
 translate turkish ep019_paclerara_thyia_e6e3ed89:
 
-    # th "You’ll be the first to know when it develops a conscience and the urge to eradicate all life in the known universe."
-    th ""
 
-# game/episode019.rpy:1315
+    th "Bir bilinç geliştirip bilinen evrendeki tüm yaşamı yok etme dürtüsü edindiğinde ilk sen öğreneceksin."
+
+
 translate turkish ep019_paclerara_thyia_e7693a20:
 
-    # c "I feel safe already."
-    c ""
 
-# game/episode019.rpy:1316
+    c "Şimdiden kendimi güvende hissettim."
+
+
 translate turkish ep019_paclerara_thyia_d9a167d7:
 
-    # c "Nice out here, by the way."
-    c ""
 
-# game/episode019.rpy:1318
+    c "Bu arada, burası çok güzel."
+
+
 translate turkish ep019_paclerara_thyia_7cf488ee:
 
-    # th "It sure is."
-    th ""
 
-# game/episode019.rpy:1319
+    th "Kesinlikle öyle."
+
+
 translate turkish ep019_paclerara_thyia_47756235:
 
-    # th "You can see the lake from inside the Residence, but out here it almost seems like you’re surrounded by water."
-    th ""
 
-# game/episode019.rpy:1321
+    th "Göl Rezidans'ın içinden görünüyor ama burada sanki suyun ortasındaymışsın gibi hissettiriyor."
+
+
 translate turkish ep019_paclerara_thyia_98fd3e18:
 
-    # "We both looked out over the lake for a while, the robot moving in aimless circles behind us."
-    ""
 
-# game/episode019.rpy:1322
+    "İkimiz de bir süre gölü seyrettik, robot arkamızda amaçsızca daireler çiziyordu."
+
+
 translate turkish ep019_paclerara_thyia_84eb6183:
 
-    # th "Any change in Eva’s situation?"
-    th ""
 
-# game/episode019.rpy:1323
+    th "Eva'nın durumunda bir değişiklik var mı?"
+
+
 translate turkish ep019_paclerara_thyia_f82c73c6:
 
-    # c "No, I’m afraid not."
-    c ""
 
-# game/episode019.rpy:1324
+    c "Hayır, maalesef yok."
+
+
 translate turkish ep019_paclerara_thyia_421d0d95:
 
-    # c "The doctors remain hopeful, though I’m not sure if they just say it as reassurance."
-    c ""
 
-# game/episode019.rpy:1325
+    c "Doktorlar umutlu görünüyor ama bunu sadece bizi rahatlatmak için mi söylüyorlar emin değilim."
+
+
 translate turkish ep019_paclerara_thyia_bac2a518:
 
-    # th "That wouldn’t be very professional of them."
-    th ""
 
-# game/episode019.rpy:1326
+    th "Bu çok profesyonelce olmazdı."
+
+
 translate turkish ep019_paclerara_thyia_97ca0b98:
 
-    # c "I guess not."
-    c ""
 
-# game/episode019.rpy:1327
+    c "Sanırım öyle."
+
+
 translate turkish ep019_paclerara_thyia_63d63561:
 
-    # th "So let’s remain hopeful."
-    th ""
 
-# game/episode019.rpy:1329
+    th "O zaman umudumuzu koruyalım."
+
+
 translate turkish ep019_paclerara_thyia_b98f72a0:
 
-    # "Thyia covered my hand with hers as we stood by the railing in silence, the water rippling below us."
-    ""
 
-# game/episode019.rpy:1331
+    "Korkuluklara yaslanmış sessizce dururken Thyia elimi eliyle kapattı, aşağıda sular dalgalanıyordu."
+
+
 translate turkish ep019_paclerara_thyia_3470317f:
 
-    # "After a while, the robot began to bump into us repeatedly and painfully."
-    ""
 
-# game/episode019.rpy:1333
+    "Bir süre sonra robot tekrar tekrar canımızı acıtacak şekilde bize çarpmaya başladı."
+
+
 translate turkish ep019_paclerara_thyia_18ecebf3:
 
-    # th "Ow!{w} Reverse and stop at once!"
-    th ""
 
-# game/episode019.rpy:1334
+    th "Ah!{w} Geri çekil ve dur hemen!"
+
+
 translate turkish ep019_paclerara_thyia_31313721:
 
-    # "The robot moved away obediently and came to a halt a short distance away from us."
-    ""
 
-# game/episode019.rpy:1336
+    "Robot itaatkâr bir şekilde geri çekildi ve bizden kısa bir mesafe ötede durdu."
+
+
 translate turkish ep019_paclerara_thyia_6dfb7314:
 
-    # th "Right, I’m going back to beating some sense into that thing."
-    th ""
 
-# game/episode019.rpy:1337
+    th "Tamam, şu şeye biraz akıl vermeye geri dönüyorum."
+
+
 translate turkish ep019_paclerara_thyia_c00db45d:
 
-    # c "Go easy, I’m sure it’s just a little clumsy."
-    c ""
 
-# game/episode019.rpy:1338
+    c "Sakin ol, sadece biraz sakar."
+
+
 translate turkish ep019_paclerara_thyia_1a360338:
 
-    # th "Clumsy?{w} I can still feel the spot where it rammed into my shin."
-    th ""
 
-# game/episode019.rpy:1339
+    th "Sakar mı?{w} Bacağıma çarptığı yerin acısını hala hissediyorum."
+
+
 translate turkish ep019_paclerara_thyia_03d06199:
 
-    # c "Be firm, but fair then."
-    c ""
 
-# game/episode019.rpy:1340
+    c "Sert ol ama adil davran."
+
+
 translate turkish ep019_paclerara_thyia_09f2a8d5:
 
-    # th "I will."
-    th ""
 
-# game/episode019.rpy:1341
+    th "Öyle yapacağım."
+
+
 translate turkish ep019_paclerara_thyia_f7772536:
 
-    # c "Good luck."
-    c ""
 
-# game/episode019.rpy:1343
+    c "İyi şanslar."
+
+
 translate turkish ep019_paclerara_thyia_b2570409:
 
-    # "I kissed Thyia goodbye and left her to discipline the wayward robot."
-    ""
 
-# game/episode019.rpy:1348
+    "Thyia'yı öpüp vedalaştım ve onu asi robotla baş başa bıraktım."
+
+
 translate turkish ep019_paclerara_kit_15a1b1d7:
 
-    # "Kit stepped out of the elevator as I was going back to my room."
-    ""
 
-# game/episode019.rpy:1349
+    "Odama dönerken Kit asansörden çıktı."
+
+
 translate turkish ep019_paclerara_kit_2c5b70c5:
 
-    # "At first I thought Kit was talking to himself, but then I registered the peculiar looking alien next to him."
-    ""
 
-# game/episode019.rpy:1350
+    "İlk başta Kit kendi kendine konuşuyor sandım, sonra yanındaki tuhaf görünümlü uzaylıyı fark ettim."
+
+
 translate turkish ep019_paclerara_kit_b7a6bcc6:
 
-    # "The creature’s murmuring speech was punctuated by color shift of its skin."
-    ""
 
-# game/episode019.rpy:1351
+    "Yaratığın mırıldanarak konuşması, derisinin renk değiştirmesiyle vurgulanıyordu."
+
+
 translate turkish ep019_paclerara_kit_73a37ee2:
 
-    # "The effect was rather hypnotic and detracted from its somewhat troubling appearance."
-    ""
 
-# game/episode019.rpy:1352
+    "Bu etki oldukça hipnotize ediciydi ve rahatsız edici görünüşünü unutturuyordu."
+
+
 translate turkish ep019_paclerara_kit_e683232b:
 
-    # "Kit didn’t seem to mind how his conversation partner looked at all, he appeared to be charmed even."
-    ""
 
-# game/episode019.rpy:1353
+    "Kit konuştuğu kişinin görünüşünü hiç umursamıyor gibiydi, hatta büyülenmiş görünüyordu."
+
+
 translate turkish ep019_paclerara_kit_c16e9d4e:
 
-    # ki "You don’t say, I happen to love a good massage!"
-    ki ""
 
-# game/episode019.rpy:1355
+    ki "Sahi mi, ben de iyi bir masaja bayılırım!"
+
+
 translate turkish ep019_paclerara_kit_046fe0cb:
 
-    # ki "Oh hey, [p_name_short]."
-    ki ""
 
-# game/episode019.rpy:1356
+    ki "Aa merhaba, [p_name_short]."
+
+
 translate turkish ep019_paclerara_kit_c3896a4f:
 
-    # c "Hi, I thought you were still in the bar?"
-    c ""
 
-# game/episode019.rpy:1357
+    c "Selam, hala barda olduğunu sanıyordum?"
+
+
 translate turkish ep019_paclerara_kit_9a906693:
 
-    # ki "Just left."
-    ki ""
 
-# game/episode019.rpy:1358
+    ki "Yeni çıktım."
+
+
 translate turkish ep019_paclerara_kit_489593aa:
 
-    # ki "Oh, allow me to introduce you to Pllxytlxx."
-    ki ""
 
-# game/episode019.rpy:1359
+    ki "Ah, sana Pllxytlxx'i tanıştırayım."
+
+
 translate turkish ep019_paclerara_kit_026e6bae:
 
-    # ki "Pllxytlxx, this is my friend [p_name]."
-    ki ""
 
-# game/episode019.rpy:1360
+    ki "Pllxytlxx, bu arkadaşım [p_name]."
+
+
 translate turkish ep019_paclerara_kit_ec602286:
 
-    # c "Nice to meet you."
-    c ""
 
-# game/episode019.rpy:1362
+    c "Tanıştığımıza memnun oldum."
+
+
 translate turkish ep019_paclerara_kit_c6016b96:
 
-    # woman "Singleton one is bestowed an honor."
-    woman ""
 
-# game/episode019.rpy:1363
+    woman "Tekil varlık onurlandırıldı."
+
+
 translate turkish ep019_paclerara_kit_78ae6952:
 
-    # "It took me a few seconds to work out that the alien was talking about itself being honored to meet me."
-    ""
 
-# game/episode019.rpy:1364
+    "Uzaylının benimle tanışmaktan onur duyduğunu anlamam birkaç saniyemi aldı."
+
+
 translate turkish ep019_paclerara_kit_caad375a:
 
-    # ki "I’ve met Pllxytlxx in the bar below, and we’ve been talking for hours."
-    ki ""
 
-# game/episode019.rpy:1365
+    ki "Pllxytlxx ile aşağıdaki barda tanıştım ve saatlerdir konuşuyoruz."
+
+
 translate turkish ep019_paclerara_kit_babeb87c:
 
-    # ki "We’ve just decided to continue our conversation in my room."
-    ki ""
 
-# game/episode019.rpy:1366
+    ki "Sohbetimize benim odamda devam etmeye karar verdik."
+
+
 translate turkish ep019_paclerara_kit_89aefe22:
 
-    # c "I see."
-    c ""
 
-# game/episode019.rpy:1367
+    c "Anladım."
+
+
 translate turkish ep019_paclerara_kit_68983400:
 
-    # "Pllxytlxx seemed to be impatient and hovered further up the hallway."
-    ""
 
-# game/episode019.rpy:1368
+    "Pllxytlxx sabırsız görünüyordu ve koridorda daha ileriye süzüldü."
+
+
 translate turkish ep019_paclerara_kit_03d7a783:
 
-    # ki "You go on ahead, I’ll be with you in just a moment."
-    ki ""
 
-# game/episode019.rpy:1370
+    ki "Sen önden git, ben birazdan geliyorum."
+
+
 translate turkish ep019_paclerara_kit_66798e1d:
 
-    # woman "Singleton is thirsting for more words."
-    woman ""
 
-# game/episode019.rpy:1371
+    woman "Tekil varlık daha fazla söz için susuyor."
+
+
 translate turkish ep019_paclerara_kit_130ddbb2:
 
-    # "Kit opened the door to his room from his tablet and Pllxytlxx floated inside."
-    ""
 
-# game/episode019.rpy:1372
+    "Kit tabletinden odasının kapısını açtı ve Pllxytlxx içeri süzüldü."
+
+
 translate turkish ep019_paclerara_kit_fcfff26d:
 
-    # "Just before she crossed the threshold her skin turned a vibrant red."
-    ""
 
-# game/episode019.rpy:1373
+    "Eşikten geçmeden hemen önce derisi canlı bir kırmızıya döndü."
+
+
 translate turkish ep019_paclerara_kit_6d1deaec:
 
-    # woman "Singleton will be waiting."
-    woman ""
 
-# game/episode019.rpy:1374
+    woman "Tekil varlık bekleyecek."
+
+
 translate turkish ep019_paclerara_kit_710b3775:
 
-    # "Mesmerized and faintly weirded out for a moment, I turned back to Kit."
-    ""
 
-# game/episode019.rpy:1376
+    "Bir an büyülenmiş ve hafifçe tuhaflamış bir halde Kit'e döndüm."
+
+
 translate turkish ep019_paclerara_kit_909e3461:
 
-    # ki "Damn, she turned red."
-    ki ""
 
-# game/episode019.rpy:1377
+    ki "Vay, kıpkırmızı oldu."
+
+
 translate turkish ep019_paclerara_kit_cc869f33:
 
-    # ki "That one is so ready for me."
-    ki ""
 
-# game/episode019.rpy:1378
+    ki "Benim için hazır resmen."
+
+
 translate turkish ep019_paclerara_kit_5476996d:
 
-    # c "Wait a minute, are you planning on having sex with her?"
-    c ""
 
-# game/episode019.rpy:1380
+    c "Bir dakika, onunla sevişmeyi mi planlıyorsun?"
+
+
 translate turkish ep019_paclerara_kit_a3f4effb:
 
-    # ki "I’m not sure the C’taet have a concept of gender."
-    ki ""
 
-# game/episode019.rpy:1381
+    ki "C'taet'lerin cinsiyet kavramı olduğundan emin değilim."
+
+
 translate turkish ep019_paclerara_kit_d4542ac6:
 
-    # c "But you are planning to have sex?"
-    c ""
 
-# game/episode019.rpy:1383
+    c "v"
+
+
 translate turkish ep019_paclerara_kit_ab68543b:
 
-    # ki "I will if Pllxytlxx will have me."
-    ki ""
 
-# game/episode019.rpy:1384
+    ki "Pllxytlxx beni kabul ederse yaparım."
+
+
 translate turkish ep019_paclerara_kit_704f7352:
 
-    # ki "We really clicked back in the bar, [p_name_short]."
-    ki ""
 
-# game/episode019.rpy:1385
+    ki "Barda gerçekten çok iyi anlaştık, [p_name_short]."
+
+
 translate turkish ep019_paclerara_kit_95b72675:
 
-    # c "She doesn’t look like your usual type."
-    c ""
 
-# game/episode019.rpy:1387
+    c "O senin normalde sevdiğin tipte birine benzemiyor."
+
+
 translate turkish ep019_paclerara_kit_4ca74833:
 
-    # ki "I wasn’t aware I had a type."
-    ki ""
 
-# game/episode019.rpy:1388
+    ki "Bir tipim olduğunu bilmiyordum."
+
+
 translate turkish ep019_paclerara_kit_21cd3765:
 
-    # c "I do admit you had some outlandish lays back in the day, but Pllxytlxx looks rather fearsome."
-    c ""
 
-# game/episode019.rpy:1389
+    c "Eskiden biraz tuhaf yatak odası alışkanlıkların olduğunu kabul ediyorum, ama Pllxytlxx oldukça korkutucu görünüyor."
+
+
 translate turkish ep019_paclerara_kit_378aa1e2:
 
-    # ki "You think so?"
-    ki ""
 
-# game/episode019.rpy:1390
+    ki "Öyle mi düşünüyorsun?"
+
+
 translate turkish ep019_paclerara_kit_451cf69f:
 
-    # c "Well, the serrated tentacles covering the beak, mouth or whatever for a start..."
-    c ""
 
-# game/episode019.rpy:1392
+    c "Öncelikle, gagayı, ağzı veya her neyse onu kaplayan tırtıklı dokunaçlar..."
+
+
 translate turkish ep019_paclerara_kit_9330aca7:
 
-    # ki "Those are tactile hairs and actually very soft."
-    ki ""
 
-# game/episode019.rpy:1393
+    ki "Bunlar dokunsal tüyler ve aslında çok yumuşak."
+
+
 translate turkish ep019_paclerara_kit_b42e6d07:
 
-    # c "I should have known you already copped a feel."
-    c ""
 
-# game/episode019.rpy:1395
+    c "Çoktan elleyip yokladığını tahmin etmeliydim."
+
+
 translate turkish ep019_paclerara_kit_f8de0ed7:
 
-    # ki "Well, I know for a fact that C’taet are supposed to be incredible in the sack."
-    ki ""
 
-# game/episode019.rpy:1396
+    ki "C'taet'lerin yatakta muhteşem olduklarını biliyorum."
+
+
 translate turkish ep019_paclerara_kit_aec29b05:
 
-    # ki "And since the Sovereignty outlawed any non-humanoid species to have fun with, I feel rather left out."
-    ki ""
 
-# game/episode019.rpy:1397
+    ki "Ve Egemenlik insansı olmayan türlerle eğlenmeyi yasakladığından beri, kendimi dışlanmış hissediyorum."
+
+
 translate turkish ep019_paclerara_kit_b1c70369:
 
-    # c "You seem to have done your homework and rather determined."
-    c ""
 
-# game/episode019.rpy:1398
+    c "Ödevini yapmış ve oldukça kararlı görünüyorsun."
+
+
 translate turkish ep019_paclerara_kit_1542d56e:
 
-    # c "But just be careful, Kit."
-    c ""
 
-# game/episode019.rpy:1399
+    c "Ama dikkatli ol, Kit."
+
+
 translate turkish ep019_paclerara_kit_43eb1f55:
 
-    # c "You know what happened to the first human who stuck his penis in a Sircovican jelly colony."
-    c ""
 
-# game/episode019.rpy:1401
+    c "Sikini Sircovican jöle kolonisine sokan ilk insana ne olduğunu biliyorsun."
+
+
 translate turkish ep019_paclerara_kit_a44c488b:
 
-    # ki "Pllxytlxx has already assured me that they’re not corrosive."
-    ki ""
 
-# game/episode019.rpy:1402
+    ki "Pllxytlxx bana aşındırıcı olmadıklarına dair güvence verdi bile."
+
+
 translate turkish ep019_paclerara_kit_862b8374:
 
-    # ki "So I’ll be keeping all my appendages tonight."
-    ki ""
 
-# game/episode019.rpy:1403
+    ki "Yani bu gece tüm uzuvlarımı koruyacağım."
+
+
 translate turkish ep019_paclerara_kit_607e3acc:
 
-    # c "Ever the explorer..."
-    c ""
 
-# game/episode019.rpy:1404
+    c "Her zamanki kaşif..."
+
+
 translate turkish ep019_paclerara_kit_6bfa6635:
 
-    # c "Well, go for it then."
-    c ""
 
-# game/episode019.rpy:1405
+    c "Peki, hadi git bakalım."
+
+
 translate turkish ep019_paclerara_kit_e31a12a1:
 
-    # "Kit all but sprinted toward the entrance of his room."
-    ""
 
-# game/episode019.rpy:1407
+    "Kit neredeyse koşarak odasının girişine yöneldi."
+
+
 translate turkish ep019_paclerara_kit_8e731c8b:
 
-    # ki "I’ll tell you all about it tomorrow."
-    ki ""
 
-# game/episode019.rpy:1408
+    ki "Yarın sana her şeyi anlatacağım."
+
+
 translate turkish ep019_paclerara_kit_cffbbb2f:
 
-    # c "I’m sure you will."
-    c ""
 
-# game/episode019.rpy:1409
+    c "Eminim anlatırsın."
+
+
 translate turkish ep019_paclerara_kit_37618bbe:
 
-    # "Giddy with excitement, Kit disappeared from view and I went into the elevator, trying hard not to think about those fearsome yet reportedly very soft tactile hairs..."
-    ""
 
-# game/episode019.rpy:1429
+    "Heyecandan başı dönerek Kit gözden kayboldu ve ben asansöre bindim, o ürkütücü ama söylendiğine göre çok yumuşak olan dokunsal tüyleri düşünmemeye çalışarak..."
+
+
 translate turkish ep019_paclerara_eva_9161f17f:
 
-    # "Perhaps a futile gesture, but I wanted to be close to Eva."
-    ""
 
-# game/episode019.rpy:1430
+    "Belki de boşuna bir jestti, ama Eva'ya yakın olmak istedim."
+
+
 translate turkish ep019_paclerara_eva_32a503a4:
 
-    # "The medical staff let me inside Eva’s room without much fuss."
-    ""
 
-# game/episode019.rpy:1432
+    "Tıbbi personel, fazla sorun çıkarmadan beni Eva'nın odasına aldı."
+
+
 translate turkish ep019_paclerara_eva_70857b65:
 
-    # "The sun was shining through the large windows, bathing Eva in a golden light."
-    ""
 
-# game/episode019.rpy:1434
+    "Güneş, büyük pencerelerden içeri girerek Eva'yı altın rengi bir ışıkla kaplıyordu."
+
+
 translate turkish ep019_paclerara_eva_6bf886f3:
 
-    # "My sister looked peaceful and serene."
-    ""
 
-# game/episode019.rpy:1437
+    "Kız kardeşim huzurlu ve sakin görünüyordu."
+
+
 translate turkish ep019_paclerara_eva_c99fcf3f:
 
-    # "My girlfriend looked peaceful and serene."
-    ""
 
-# game/episode019.rpy:1439
+    "Kız arkadaşım huzurlu ve sakin görünüyordu."
+
+
 translate turkish ep019_paclerara_eva_444468df:
 
-    # "My friend looked peaceful and serene."
-    ""
 
-# game/episode019.rpy:1441
+    "Arkadaşım huzurlu ve sakin görünüyordu."
+
+
 translate turkish ep019_paclerara_eva_838117a5:
 
-    # "I grabbed a chair and sat next to her."
-    ""
 
-# game/episode019.rpy:1442
+    "Bir sandalye çekip yanına oturdum."
+
+
 translate turkish ep019_paclerara_eva_bdfc9e24:
 
-    # "Not sure what to do with myself, I began to talk to her."
-    ""
 
-# game/episode019.rpy:1443
+    "Ne yapacağımı bilemediğim için, onunla konuşmaya başladım."
+
+
 translate turkish ep019_paclerara_eva_c99dcbaf:
 
-    # "I knew she probably couldn’t hear me, but I did it anyway."
-    ""
 
-# game/episode019.rpy:1444
+    "Muhtemelen beni duyamayacağını biliyordum, ama yine de yaptım."
+
+
 translate turkish ep019_paclerara_eva_726d5973:
 
-    # c "Hey, Eva."
-    c ""
 
-# game/episode019.rpy:1445
+    c "Hey, Eva."
+
+
 translate turkish ep019_paclerara_eva_4913c320:
 
-    # c "We’ve reached Paclerara and you’re now in a hospital."
-    c ""
 
-# game/episode019.rpy:1446
+    c "Paclerara'ya vardık ve şu anda hastanedesin."
+
+
 translate turkish ep019_paclerara_eva_0fe88c4f:
 
-    # c "It’s a planet where a lot of Jade’s people live, and it’s quite beautiful."
-    c ""
 
-# game/episode019.rpy:1447
+    c "Bu gezegende Jade'in halkının çoğu yaşıyor ve oldukça güzel bir yer."
+
+
 translate turkish ep019_paclerara_eva_45425af1:
 
-    # c "I wish you could be here to see it."
-    c ""
 
-# game/episode019.rpy:1448
+    c "Keşke burada olup bunu görebilseydin."
+
+
 translate turkish ep019_paclerara_eva_343bac5c:
 
-    # "Having a one-sided conversation turned out to be hard work."
-    ""
 
-# game/episode019.rpy:1451
+    "Tek taraflı bir konuşma yapmak zor bir işti."
+
+
 translate turkish ep019_paclerara_eva_1bd3782e:
 
-    # "I paused for a moment to look at my sister."
-    ""
 
-# game/episode019.rpy:1453
+    "Bir an durup kız kardeşime baktım."
+
+
 translate turkish ep019_paclerara_eva_52965686:
 
-    # "I paused for a moment to look at Eva."
-    ""
 
-# game/episode019.rpy:1454
+    "Bir an durup Eva'ya baktım.."
+
+
 translate turkish ep019_paclerara_eva_19e7fade:
 
-    # "My gaze traveled over the steady rise and fall of her chest, the soft features of her face, her full mouth and the long lashes of her closed eyes."
-    ""
 
-# game/episode019.rpy:1455
+    "Bakışlarım, göğsünün düzenli iniş çıkışlarını, yüzünün yumuşak hatlarını, dolgun dudaklarını ve kapalı gözlerinin uzun kirpiklerini dolaştı."
+
+
 translate turkish ep019_paclerara_eva_84b80644:
 
-    # "The sight of her filled me with such sadness."
-    ""
 
-# game/episode019.rpy:1457
+    "Onu görmek beni büyük bir üzüntüyle doldurdu."
+
+
 translate turkish ep019_paclerara_eva_4c7698d0:
 
-    # "I didn’t want to burst out in tears next to her, so I tried to continue making conversation."
-    ""
 
-# game/episode019.rpy:1458
+    "Yanında gözyaşlarına boğulmak istemediğim için konuşmaya devam etmeye çalıştım."
+
+
 translate turkish ep019_paclerara_eva_4ff16d48:
 
-    # c "You are going to get through this."
-    c ""
 
-# game/episode019.rpy:1459
+    c "Bunu atlatacaksın."
+
+
 translate turkish ep019_paclerara_eva_fbfca51b:
 
-    # c "The doctors here are very good, so you’ll have the best care available."
-    c ""
 
-# game/episode019.rpy:1460
+    c "Buradaki doktorlar çok iyi, en iyi bakımı alacaksın."
+
+
 translate turkish ep019_paclerara_eva_0632a620:
 
-    # c "You’ll wake up soon, I’m sure of it."
-    c ""
 
-# game/episode019.rpy:1461
+    c "Yakında uyanacaksın, eminim."
+
+
 translate turkish ep019_paclerara_eva_6b55d716:
 
-    # c "And we’ll all be there for you, I hope you know that."
-    c ""
 
-# game/episode019.rpy:1462
+    c "Ve hepimiz senin yanında olacağız, bunu biliyorsun umarım."
+
+
 translate turkish ep019_paclerara_eva_e1b4a3c7:
 
-    # c "I’m going to leave you for a while now, but I’ll be back tomorrow."
-    c ""
 
-# game/episode019.rpy:1464
+    c "Şimdi bir süreliğine gidiyorum, ama yarın döneceğim."
+
+
 translate turkish ep019_paclerara_eva_bfc3a848:
 
-    # "I kissed her forehead lightly and walked out of the room with a heavy heart."
-    ""
 
-# game/episode019.rpy:1469
+    "Alnını hafifçe öptüm ve kalbim ağır bir şekilde odadan çıktım."
+
+
 translate turkish ep019_paclerara_eva_alt_5461ad73:
 
-    # "I was standing on the balcony looking out over the lake when Lilly stormed in."
-    ""
 
-# game/episode019.rpy:1470
+    "Balkonda göle bakarken Lilly içeri daldı."
+
+
 translate turkish ep019_paclerara_eva_alt_feb24f17:
 
-    # l "[p_name_short]!"
-    l ""
 
-# game/episode019.rpy:1471
+    l "[p_name_short]!"
+
+
 translate turkish ep019_paclerara_eva_alt_0c67ff30:
 
-    # l "She’s awake!"
-    l ""
 
-# game/episode019.rpy:1473
+    l "Uyandı!"
+
+
 translate turkish ep019_paclerara_eva_alt_ca0bcd87:
 
-    # "There was no doubt on who she meant, so I sprinted after Lilly as she turned and ran back through the door again."
-    ""
 
-# game/episode019.rpy:1474
+    "Kimi kastettiğinden şüphe yoktu, Lilly dönüp kapıdan tekrar koştuğunda ben de peşinden koştum."
+
+
 translate turkish ep019_paclerara_eva_alt_f7eaf038:
 
-    # c "Have you talked to her?"
-    c ""
 
-# game/episode019.rpy:1475
+    c "Onunla konuştun mu?"
+
+
 translate turkish ep019_paclerara_eva_alt_a4461a2f:
 
-    # l "A few words."
-    l ""
 
-# game/episode019.rpy:1476
+    l "Birkaç kelime."
+
+
 translate turkish ep019_paclerara_eva_alt_b6c58f18:
 
-    # l "She still seems a little groggy, but otherwise fine."
-    l ""
 
-# game/episode019.rpy:1478
+    l "Hala biraz sersem görünüyor ama onun dışında iyi."
+
+
 translate turkish ep019_paclerara_eva_alt_aff4c475:
 
-    # "Rushing through the corridors of the Residence, we reached Eva’s room in the hospital area of the complex."
-    ""
 
-# game/episode019.rpy:1480
+    "Konutun koridorlarından koşarak geçtik ve kompleksin hastane bölümündeki Eva'nın odasına ulaştık."
+
+
 translate turkish ep019_paclerara_eva_alt_7cf5e427:
 
-    # "The door was already open, and Eva was sitting on the edge of her bed."
-    ""
 
-# game/episode019.rpy:1482
+    "Kapı zaten açıktı ve Eva yatağının kenarında oturuyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_bdac236b:
 
-    # "She jumped up when she saw us."
-    ""
 
-# game/episode019.rpy:1483
+    "Bizi görünce yerinden fırladı."
+
+
 translate turkish ep019_paclerara_eva_alt_8f635990:
 
-    # e "I know where to go!"
-    e ""
 
-# game/episode019.rpy:1484
+    e "Nereye gideceğimizi biliyorum!"
+
+
 translate turkish ep019_paclerara_eva_alt_9c0ac8a2:
 
-    # e "I’ve found the Abyss of Birds!"
-    e ""
 
-# game/episode019.rpy:1485
+    e "Kuşların Uçurumu'nu buldum!"
+
+
 translate turkish ep019_paclerara_eva_alt_4ace722f:
 
-    # "The sudden effort was obviously too much for her, so Eva nearly toppled over."
-    ""
 
-# game/episode019.rpy:1487
+    "Ani hareket onun için fazla gelmişti, Eva neredeyse devriliyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_7ec8dec6:
 
-    # "At the last moment, she steadied herself against the bed and sat down again."
-    ""
 
-# game/episode019.rpy:1489
+    "Son anda yatağa tutunarak kendini dengeledi ve tekrar oturdu."
+
+
 translate turkish ep019_paclerara_eva_alt_100cac30:
 
-    # e "Sorry about that."
-    e ""
 
-# game/episode019.rpy:1490
+    e "Özür dilerim."
+
+
 translate turkish ep019_paclerara_eva_alt_9a657059:
 
-    # "I resisted the urge to hug her fiercely, as it would be a little difficult with her sitting again."
-    ""
 
-# game/episode019.rpy:1491
+    "Oturduğu için onu sıkıca kucaklamak zor olacaktı, bu dürtüye karşı koydum."
+
+
 translate turkish ep019_paclerara_eva_alt_d68c51ec:
 
-    # "She also still looked very frail."
-    ""
 
-# game/episode019.rpy:1492
+    "Hala çok kırılgan görünüyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_c3dc605f:
 
-    # c "How are you feeling, Eva?"
-    c ""
 
-# game/episode019.rpy:1494
+    c "Nasıl hissediyorsun, Eva?"
+
+
 translate turkish ep019_paclerara_eva_alt_76a7ce2d:
 
-    # e "Fine, I guess?"
-    e ""
 
-# game/episode019.rpy:1496
+    e "İyiyim sanırım?"
+
+
 translate turkish ep019_paclerara_eva_alt_21a959c0:
 
-    # e "It feels like I slept for days, which is exactly what happened if I am to believe the doctors here."
-    e ""
 
-# game/episode019.rpy:1497
+    e "Günlerce uyumuşum gibi hissediyorum, ki buradaki doktorlara göre aynen öyle olmuş."
+
+
 translate turkish ep019_paclerara_eva_alt_72a796fb:
 
-    # c "Yes, you were out for a while."
-    c ""
 
-# game/episode019.rpy:1499
+    c "Evet, bir süre kendinde değildin."
+
+
 translate turkish ep019_paclerara_eva_alt_52123328:
 
-    # l "What the hell happened, Eva?"
-    l ""
 
-# game/episode019.rpy:1501
+    l "Ne oldu be Eva?"
+
+
 translate turkish ep019_paclerara_eva_alt_dc8aef67:
 
-    # e "It’s all a little hazy."
-    e ""
 
-# game/episode019.rpy:1502
+    e "Her şey biraz bulanık."
+
+
 translate turkish ep019_paclerara_eva_alt_b9de90b2:
 
-    # e "Ever since we retrieved the artifact I’ve been feeling weird."
-    e ""
 
-# game/episode019.rpy:1504
+    e "Eseri bulduğumuzdan beri kendimi tuhaf hissediyordum."
+
+
 translate turkish ep019_paclerara_eva_alt_934c4edb:
 
-    # e "Like I was drawn towards it."
-    e ""
 
-# game/episode019.rpy:1505
+    e "Sanki beni kendine çekiyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_be79fd6e:
 
-    # e "It kept me up at night, as if it was calling to me."
-    e ""
 
-# game/episode019.rpy:1507
+    e "Geceleri uyutmuyordu, sanki beni çağırıyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_29ba355b:
 
-    # e "Sounds weird, right?"
-    e ""
 
-# game/episode019.rpy:1508
+    e "Kulağa tuhaf geliyor, değil mi?"
+
+
 translate turkish ep019_paclerara_eva_alt_2c93a438:
 
-    # c "No, it doesn’t, considering what’s happened."
-    c ""
 
-# game/episode019.rpy:1510
+    c "Hayır, gelmiyor, olanları düşününce."
+
+
 translate turkish ep019_paclerara_eva_alt_911ebbcd:
 
-    # e "So when the Key was on the Bastard the call became too strong."
-    e ""
 
-# game/episode019.rpy:1511
+    e "Anahtar Bastard'dayken çağrı çok güçlendi."
+
+
 translate turkish ep019_paclerara_eva_alt_91c27622:
 
-    # e "Probably because it was closer by, I don’t know?"
-    e ""
 
-# game/episode019.rpy:1512
+    e "Muhtemelen daha yakın olduğu için, bilmiyorum?"
+
+
 translate turkish ep019_paclerara_eva_alt_57622136:
 
-    # e "I got into the hold and touched the Key."
-    e ""
 
-# game/episode019.rpy:1514
+    e "Ambara girdim ve Anahtar'a dokundum."
+
+
 translate turkish ep019_paclerara_eva_alt_f6dbc036:
 
-    # "Eva closed her eyes for a moment, her body swinging a little, as if she felt woozy."
-    ""
 
-# game/episode019.rpy:1515
+    "Eva bir an gözlerini kapattı, başı dönüyormuş gibi hafifçe sallandı."
+
+
 translate turkish ep019_paclerara_eva_alt_51a89eb6:
 
-    # "It took some effort for the open her eyes again."
-    ""
 
-# game/episode019.rpy:1516
+    "Gözlerini tekrar açmak için epey çaba sarf etti."
+
+
 translate turkish ep019_paclerara_eva_alt_8e1a6462:
 
-    # c "What did you mean earlier, about knowing where to go?"
-    c ""
 
-# game/episode019.rpy:1518
+    c "Az önce nereye gideceğini bildiğini söyledin, ne demek istedin?"
+
+
 translate turkish ep019_paclerara_eva_alt_9fdb196b:
 
-    # l "Something about birds?"
-    l ""
 
-# game/episode019.rpy:1520
+    l "Kuşlarla ilgili bir şey mi?"
+
+
 translate turkish ep019_paclerara_eva_alt_ab24d578:
 
-    # e "Yes!"
-    e ""
 
-# game/episode019.rpy:1522
+    e "Evet!"
+
+
 translate turkish ep019_paclerara_eva_alt_02b3067a:
 
-    # e "So, as soon as I touched the Key, it was as if something exploded in my head."
-    e ""
 
-# game/episode019.rpy:1523
+    e "Anahtar'a dokunur dokunmaz, kafamda bir şey patlamış gibi oldu."
+
+
 translate turkish ep019_paclerara_eva_alt_c58f2801:
 
-    # e "Suddenly, there were all these visions."
-    e ""
 
-# game/episode019.rpy:1524
+    e "Birden bir sürü görüntü belirdi."
+
+
 translate turkish ep019_paclerara_eva_alt_3f371cc7:
 
-    # e "Like a series of pictures, rapidly flashing before my eyes."
-    e ""
 
-# game/episode019.rpy:1525
+    e "Gözlerimin önünde hızla yanıp sönen bir dizi resim gibi."
+
+
 translate turkish ep019_paclerara_eva_alt_e06e933c:
 
-    # e "They kept repeating."
-    e ""
 
-# game/episode019.rpy:1526
+    e "Sürekli tekrar ediyorlardı."
+
+
 translate turkish ep019_paclerara_eva_alt_25934196:
 
-    # e "I saw three stars glowing brightly, a planet in orbit washed in the light of a supernova."
-    e ""
 
-# game/episode019.rpy:1527
+    e "Parlak parlak yanan üç yıldız gördüm, bir süpernovanın ışığıyla yıkanan yörüngede bir gezegen."
+
+
 translate turkish ep019_paclerara_eva_alt_61e489d2:
 
-    # e "Then I walked across a volcanic plain, filled with skeletons, until I came upon a large crater."
-    e ""
 
-# game/episode019.rpy:1528
+    e "Sonra iskeletlerle dolu volkanik bir ovadan yürüyerek büyük bir kratere ulaştım."
+
+
 translate turkish ep019_paclerara_eva_alt_bf54686c:
 
-    # e "I descended into the crater, the sounds of birds all around me."
-    e ""
 
-# game/episode019.rpy:1529
+    e "Kraterin içine indim, etrafımda kuş sesleri vardı."
+
+
 translate turkish ep019_paclerara_eva_alt_12d1ece4:
 
-    # c "That sounds very familiar."
-    c ""
 
-# game/episode019.rpy:1531
+    c "Bu çok tanıdık geliyor."
+
+
 translate turkish ep019_paclerara_eva_alt_d721c5fc:
 
-    # e "Yes, it does, because it’s straight from the prophecy."
-    e ""
 
-# game/episode019.rpy:1532
+    e "Evet, öyle, çünkü bu doğrudan kehanetten geliyor."
+
+
 translate turkish ep019_paclerara_eva_alt_93f71a01:
 
-    # e "It starts with “in the dying light of triple suns” and later it talks about a “field of ancient hubris and conceit“."
-    e ""
 
-# game/episode019.rpy:1533
+    e "”Üç güneşin ölmekte olan ışığında” ile başlar ve daha sonra ”eski kibir ve kendini beğenmişliğin tarlası”ndan bahseder."
+
+
 translate turkish ep019_paclerara_eva_alt_c8e8ac5e:
 
-    # e "The latter is clearly the site of a massacre, like I saw in those visions."
-    e ""
 
-# game/episode019.rpy:1535
+    e "İkincisi açıkça bir katliam yeri, tıpkı o vizyonlarda gördüğüm gibi."
+
+
 translate turkish ep019_paclerara_eva_alt_e1d23b5c:
 
-    # l "But Eva, you’ve been studying that prophecy for a while now."
-    l ""
 
-# game/episode019.rpy:1536
+    l "Ama Eva, bu kehanetin üzerinde bir süredir çalışıyorsun."
+
+
 translate turkish ep019_paclerara_eva_alt_d8511dbf:
 
-    # l "Do those dreams not just indicate that your subconscious is processing the things you’ve read?"
-    l ""
 
-# game/episode019.rpy:1538
+    l "Bu rüyalar sadece bilinçaltının okuduklarını işlediğini göstermiyor mu?"
+
+
 translate turkish ep019_paclerara_eva_alt_dc31a32a:
 
-    # e "I considered that, but I’m sure it isn’t that."
-    e ""
 
-# game/episode019.rpy:1539
+    e "Bunu düşündüm, ama bunun öyle olmadığından eminim."
+
+
 translate turkish ep019_paclerara_eva_alt_d388aec3:
 
-    # e "Because of those visions I know where we need to go."
-    e ""
 
-# game/episode019.rpy:1540
+    e "O vizyonlar sayesinde nereye gitmemiz gerektiğini biliyorum."
+
+
 translate turkish ep019_paclerara_eva_alt_45807339:
 
-    # e "The third line of the prophecy always puzzled me, the one about the great bear roaring."
-    e ""
 
-# game/episode019.rpy:1541
+    e "Kehanetin üçüncü satırı beni hep şaşırttı, büyük ayının kükrediği kısım."
+
+
 translate turkish ep019_paclerara_eva_alt_349d910c:
 
-    # e "I thought the planet mentioned in the prophecy was wrapped in noise, like a persistent aural storm or something."
-    e ""
 
-# game/episode019.rpy:1543
+    e "Kehanette bahsedilen gezegenin sürekli bir ses fırtınası gibi bir şeyle sarılı olduğunu düşünüyordum."
+
+
 translate turkish ep019_paclerara_eva_alt_5793209b:
 
-    # e "But the visions showed me something else."
-    e ""
 
-# game/episode019.rpy:1544
+    e "Ama vizyonlar bana başka bir şey gösterdi."
+
+
 translate turkish ep019_paclerara_eva_alt_c8179d81:
 
-    # e "I really saw the dying light, it was from a star gone supernova, hence “the great bear roars”."
-    e ""
 
-# game/episode019.rpy:1546
+    e "Gerçekten sönen ışığı gördüm, süpernova olan bir yıldızdandı, yani 'büyük ayı kükrüyor' bundan geliyor."
+
+
 translate turkish ep019_paclerara_eva_alt_80352fe4:
 
-    # l "You’ve lost me there."
-    l ""
 
-# game/episode019.rpy:1548
+    l "Orada kafam karıştı."
+
+
 translate turkish ep019_paclerara_eva_alt_780242f9:
 
-    # e "Ursa Major, one of the oldest discovered constellations."
-    e ""
 
-# game/episode019.rpy:1549
+    e "Ursa Major, keşfedilen en eski takımyıldızlardan biri."
+
+
 translate turkish ep019_paclerara_eva_alt_6da1cf3b:
 
-    # e "“Ursa” is a derivation of “ursus”, meaning “bear”."
-    e ""
 
-# game/episode019.rpy:1550
+    e "“Ursa”, ‘ayı’ anlamına gelen “ursus” kelimesinden türemiştir."
+
+
 translate turkish ep019_paclerara_eva_alt_3739c14e:
 
-    # c "So you’re saying the prophecy points to a triple star system somewhere in Ursa Major, likely ravaged by a supernova at some point."
-    c ""
 
-# game/episode019.rpy:1551
+    c "Yani kehanetin Ursa Major'da bir yerde, muhtemelen bir süpernova tarafından harap edilmiş üçlü yıldız sistemini işaret ettiğini söylüyorsun."
+
+
 translate turkish ep019_paclerara_eva_alt_1d0be274:
 
-    # c "I guess that narrows it down somewhat, but still not a lot."
-    c ""
 
-# game/episode019.rpy:1553
+    c "Sanırım bu biraz daraltıyor alanı, ama yine de çok değil."
+
+
 translate turkish ep019_paclerara_eva_alt_a10c6d44:
 
-    # e "I’m aware that it’s still a lot of space to cover."
-    e ""
 
-# game/episode019.rpy:1554
+    e "Hala araştırılacak çok alan olduğunun farkındayım."
+
+
 translate turkish ep019_paclerara_eva_alt_8080d714:
 
-    # e "But there aren’t a lot of triple-star systems in Ursa Major and we’re looking for a very old system."
-    e ""
 
-# game/episode019.rpy:1555
+    e "Ama Ursa Major'da çok fazla üçlü yıldız sistemi yok ve biz çok eski bir sistem arıyoruz."
+
+
 translate turkish ep019_paclerara_eva_alt_501a456c:
 
-    # e "And this might sound insane, but I’m fairly sure I’ll know when we’re in the right place."
-    e ""
 
-# game/episode019.rpy:1557
+    e "Ve bu kulağa çılgınca gelebilir, ama doğru yerde olduğumuzu anlayacağımdan oldukça eminim."
+
+
 translate turkish ep019_paclerara_eva_alt_103fd941:
 
-    # l "You’re saying you’re like a human way sign now?"
-    l ""
 
-# game/episode019.rpy:1559
+    l "Yani şimdi insan yol tabelası gibi bir şey olduğunu mu söylüyorsun?"
+
+
 translate turkish ep019_paclerara_eva_alt_2f0a1871:
 
-    # e "I said it might sound insane."
-    e ""
 
-# game/episode019.rpy:1560
+    e "Kulağa çılgınca gelebileceğini söyledim."
+
+
 translate turkish ep019_paclerara_eva_alt_ecd89094:
 
-    # c "Insane though it might be, I don’t think we can ignore what’s happened to you."
-    c ""
 
-# game/episode019.rpy:1561
+    c "Ne kadar çılgınca olsa da, sana olanları görmezden gelemeyiz."
+
+
 translate turkish ep019_paclerara_eva_alt_4559275a:
 
-    # c "The Key clearly had an effect on you, and it seemed drained after you touched it."
-    c ""
 
-# game/episode019.rpy:1562
+    c "Anahtar'ın seni etkilediği açık ve sen ona dokunduktan sonra gücü tükenmiş görünüyordu."
+
+
 translate turkish ep019_paclerara_eva_alt_8995ab79:
 
-    # c "You haven’t had any dreams about the prophecy before, did you?"
-    c ""
 
-# game/episode019.rpy:1564
+    c "Daha önce kehanet hakkında hiç rüya görmemiştin, değil mi?"
+
+
 translate turkish ep019_paclerara_eva_alt_d9f67eec:
 
-    # e "No, not at all."
-    e ""
 
-# game/episode019.rpy:1565
+    e "Hayır, hiç görmedim."
+
+
 translate turkish ep019_paclerara_eva_alt_46f2e12b:
 
-    # c "So we should take this seriously."
-    c ""
 
-# game/episode019.rpy:1566
+    c "O zaman bunu ciddiye almalıyız."
+
+
 translate turkish ep019_paclerara_eva_alt_7984460f:
 
-    # c "Could you confer with Céline, make a list of possible triple-star systems we could visit?"
-    c ""
 
-# game/episode019.rpy:1567
+    c "Céline ile görüşüp ziyaret edebileceğimiz olası üçlü yıldız sistemlerinin bir listesini çıkarabilir misin?"
+
+
 translate turkish ep019_paclerara_eva_alt_32ad8933:
 
-    # e "Yes, I’ll message Céline to visit me."
-    e ""
 
-# game/episode019.rpy:1568
+    e "Evet, Céline'e beni ziyaret etmesi için mesaj göndereceğim."
+
+
 translate turkish ep019_paclerara_eva_alt_70cc186d:
 
-    # c "Good, but only if you’re feeling better."
-    c ""
 
-# game/episode019.rpy:1570
+    c "Güzel, ama sadece kendini daha iyi hissediyorsan."
+
+
 translate turkish ep019_paclerara_eva_alt_4bf58ffb:
 
-    # l "Yes, we don’t want you to exert yourself."
-    l ""
 
-# game/episode019.rpy:1572
+    l "Evet, kendini zorlamanı istemiyoruz."
+
+
 translate turkish ep019_paclerara_eva_alt_2fb96431:
 
-    # e "I might need to lie down, feeling a bit queasy again."
-    e ""
 
-# game/episode019.rpy:1573
+    e "Uzanmam gerekebilir, yine biraz midem bulanıyor."
+
+
 translate turkish ep019_paclerara_eva_alt_301125db:
 
-    # c "Of course, we’ll leave you in peace for now."
-    c ""
 
-# game/episode019.rpy:1575
+    c "Tabii ki, şimdilik seni rahat bırakıyoruz."
+
+
 translate turkish ep019_paclerara_eva_alt_f8f1efa6:
 
-    # "Lilly and I walked out of the room as Eva got back onto the bed."
-    ""
 
-# game/episode019.rpy:1577
+    "Eva yatağa geri dönerken Lilly ve ben odadan çıktık."
+
+
 translate turkish ep019_paclerara_eva_alt_c11fb54e:
 
-    # l "Do you think there’s anything to Eva’s dreams?"
-    l ""
 
-# game/episode019.rpy:1578
+    l "Eva'nın rüyalarında bir şey olduğunu düşünüyor musun?"
+
+
 translate turkish ep019_paclerara_eva_alt_5d9a17d6:
 
-    # c "It’s too much of a coincidence and the only lead we have right now."
-    c ""
 
-# game/episode019.rpy:1579
+    c "Bu fazla tesadüf ve şu anda elimizdeki tek ipucu bu."
+
+
 translate turkish ep019_paclerara_eva_alt_7597b0be:
 
-    # l "True, I just hope this isn’t some wild goose chase."
-    l ""
 
-# game/episode019.rpy:1580
+    l "Doğru, umarım bu boş bir çaba olmaz."
+
+
 translate turkish ep019_paclerara_eva_alt_fffaad0e:
 
-    # l "And I also wonder what we’ll find there..."
-    l ""
 
-# game/episode019.rpy:1586
+    l "Ve orada ne bulacağımızı da merak ediyorum..."
+
+
 translate turkish ep019_paclerara_thim_da953d68:
 
-    # "Thim hurried towards me as I was crossing the square."
-    ""
 
-# game/episode019.rpy:1587
+    "Meydanı geçerken Thim bana doğru aceleyle geldi."
+
+
 translate turkish ep019_paclerara_thim_cfa67ef4:
 
-    # c "Can I help you with something?"
-    c ""
 
-# game/episode019.rpy:1589
+    c "Sana yardımcı olabilir miyim?"
+
+
 translate turkish ep019_paclerara_thim_ac29d869:
 
-    # t "Yes, I want a word."
-    t ""
 
-# game/episode019.rpy:1590
+    t "Evet, konuşmak istiyorum."
+
+
 translate turkish ep019_paclerara_thim_67fce720:
 
-    # c "Shoot."
-    c ""
 
-# game/episode019.rpy:1591
+    c "Söyle."
+
+
 translate turkish ep019_paclerara_thim_8305c8c8:
 
-    # "I could tell Thim was rather nervous, he didn’t seem as hostile as he normally was."
-    ""
 
-# game/episode019.rpy:1592
+    "Thim'in oldukça gergin olduğunu görebiliyordum, her zamanki kadar düşmanca görünmüyordu."
+
+
 translate turkish ep019_paclerara_thim_7ab8ead9:
 
-    # t "I want out."
-    t ""
 
-# game/episode019.rpy:1593
+    t "Ayrılmak istiyorum."
+
+
 translate turkish ep019_paclerara_thim_d4b292db:
 
-    # t "You’ve dragged me along all this time and I’ve never complained, but I’m done."
-    t ""
 
-# game/episode019.rpy:1594
+    t "Bunca zaman beni sürüklediniz ve hiç şikayet etmedim, ama artık bitti."
+
+
 translate turkish ep019_paclerara_thim_74b979a5:
 
-    # c "You’re a security risk, Thim."
-    c ""
 
-# game/episode019.rpy:1595
+    c "Sen bir güvenlik riskisin, Thim."
+
+
 translate turkish ep019_paclerara_thim_22d5f3d2:
 
-    # c "You have been since you decided to call the guards on us back on the Ypotryll."
-    c ""
 
-# game/episode019.rpy:1597
+    c "Ypotryll'de bizi muhafızlara ihbar etmeye karar verdiğinden beri öylesin."
+
+
 translate turkish ep019_paclerara_thim_52bd9b8f:
 
-    # t "That was ages ago!"
-    t ""
 
-# game/episode019.rpy:1598
+    t "O çok önceydi!"
+
+
 translate turkish ep019_paclerara_thim_7afe6ef5:
 
-    # c "Maybe, but who’s to say you won’t go running to the authorities as soon as we cut you loose?"
-    c ""
 
-# game/episode019.rpy:1600
+    c "Belki, ama seni serbest bıraktığımız anda yetkililere koşmayacağını kim söyleyebilir?"
+
+
 translate turkish ep019_paclerara_thim_c0d0c5b9:
 
-    # t "I won’t, you have my word."
-    t ""
 
-# game/episode019.rpy:1604
+    t "Yapmayacağım, söz veriyorum."
+
+
 translate turkish ep019_paclerara_thim_ec66f4ac:
 
-    # c "You want to stay here?"
-    c ""
 
-# game/episode019.rpy:1606
+    c "Burada mı kalmak istiyorsun?"
+
+
 translate turkish ep019_paclerara_thim_c546a618:
 
-    # t "Maybe, I don’t know."
-    t ""
 
-# game/episode019.rpy:1607
+    t "Belki, bilmiyorum."
+
+
 translate turkish ep019_paclerara_thim_85b8a019:
 
-    # t "I just want to do something with my life, instead of tagging along with the crew."
-    t ""
 
-# game/episode019.rpy:1608
+    t "Sadece mürettebatın peşinden sürüklenmek yerine hayatımla bir şeyler yapmak istiyorum."
+
+
 translate turkish ep019_paclerara_thim_7db1ffd7:
 
-    # t "I’ve had enough of being the unwanted third wheel."
-    t ""
 
-# game/episode019.rpy:1609
+    t "İstenmeyen fazlalık olmaktan bıktım."
+
+
 translate turkish ep019_paclerara_thim_81f9c02e:
 
-    # t "Maybe I can get a job somewhere, something low key."
-    t ""
 
-# game/episode019.rpy:1610
+    t "Belki bir yerde iş bulabilirim, göze batmayan bir şey."
+
+
 translate turkish ep019_paclerara_thim_d1ae3374:
 
-    # c "If that’s what you want, I’ll have to ask the others if they’ll agree."
-    c ""
 
-# game/episode019.rpy:1612
+    c "Eğer istediğin buysa, diğerlerine sorup onaylayıp onaylamayacaklarını öğrenmem gerek."
+
+
 translate turkish ep019_paclerara_thim_98be6560:
 
-    # t "You’ll ask them?"
-    t ""
 
-# game/episode019.rpy:1613
+    t "Onlara soracak mısın?"
+
+
 translate turkish ep019_paclerara_thim_255ecca1:
 
-    # c "I will."
-    c ""
 
-# game/episode019.rpy:1614
+    c "Evet."
+
+
 translate turkish ep019_paclerara_thim_6c6cafac:
 
-    # t "Thank you."
-    t ""
 
-# game/episode019.rpy:1615
+    t "Teşekkür ederim."
+
+
 translate turkish ep019_paclerara_thim_0ab635df:
 
-    # c "I’ll let you know what they decide."
-    c ""
 
-# game/episode019.rpy:1617
+    c "Ne karar verdiklerini sana bildireceğim."
+
+
 translate turkish ep019_paclerara_thim_6ca40639:
 
-    # "Thim nodded in appreciation and went back inside the Residence."
-    ""
 
-# game/episode019.rpy:1619
+    "Thim takdirle başını salladı ve Rezidansın içine geri döndü."
+
+
 translate turkish ep019_paclerara_thim_29799655:
 
-    # c "My answer is no."
-    c ""
 
-# game/episode019.rpy:1620
+    c "Cevabım hayır."
+
+
 translate turkish ep019_paclerara_thim_430c07eb:
 
-    # t "Come on, [p_name], I haven’t done anything to endanger the crew after you deserted."
-    t ""
 
-# game/episode019.rpy:1621
+    t "Hadi ama, [p_name], sen terk ettikten sonra mürettebatı tehlikeye atacak hiçbir şey yapmadım."
+
+
 translate turkish ep019_paclerara_thim_76be9dcb:
 
-    # c "That’s true, but you know too much about our future plans."
-    c ""
 
-# game/episode019.rpy:1622
+    c "Bu doğru, ama bizim gelecek planlarımız hakkında çok fazla şey biliyorsun."
+
+
 translate turkish ep019_paclerara_thim_d8a98a5a:
 
-    # c "I can’t let that knowledge fall into enemy hands, I hope you understand that."
-    c ""
 
-# game/episode019.rpy:1624
+    c "Bu bilgi düşmanın eline geçmesine izin veremem, umarım bunu anlıyorsundur."
+
+
 translate turkish ep019_paclerara_thim_9ee46dae:
 
-    # t "So you don’t trust me, is that it?"
-    t ""
 
-# game/episode019.rpy:1625
+    t "Yani bana güvenmiyorsun, öyle mi?"
+
+
 translate turkish ep019_paclerara_thim_116babd1:
 
-    # t "Or aren’t you letting me go because you don’t like me?"
-    t ""
 
-# game/episode019.rpy:1627
+    t "Yoksa beni sevmediğin için mi bırakmıyorsun?"
+
+
 translate turkish ep019_paclerara_thim_9f58ceaf:
 
-    # t "Fuck, that’s it, isn’t it?!"
-    t ""
 
-# game/episode019.rpy:1628
+    t "Siktir, işte bu, değil mi?!"
+
+
 translate turkish ep019_paclerara_thim_3500a749:
 
-    # c "No-"
-    c ""
 
-# game/episode019.rpy:1630
+    c "Hayır-"
+
+
 translate turkish ep019_paclerara_thim_87f3938b:
 
-    # t "You’re such an immature little baby."
-    t ""
 
-# game/episode019.rpy:1631
+    t "Sen çok olgunlaşmamış, küçücük bir bebeksin."
+
+
 translate turkish ep019_paclerara_thim_5efbac63:
 
-    # t "Still nursing that grudge you had about me back at the Academy."
-    t ""
 
-# game/episode019.rpy:1632
+    t "Hala Akademi'de bana karşı beslediğin kinini taşıyorsun."
+
+
 translate turkish ep019_paclerara_thim_a486ff55:
 
-    # t "You vindictive cunt, you don’t realize you’re destroying lives with that stupid fucking resentment of yours!"
-    t ""
 
-# game/episode019.rpy:1633
+    t "Sen intikamcı kaltak, o aptalca kinle hayatları mahvettiğinin farkında bile değilsin!"
+
+
 translate turkish ep019_paclerara_thim_d6d50c23:
 
-    # "Thim was about to spew more invective at me, so I had to cut him off."
-    ""
 
-# game/episode019.rpy:1634
+    "Thim bana daha fazla hakaret etmek üzereydi, bu yüzden onu durdurmak zorunda kaldım."
+
+
 translate turkish ep019_paclerara_thim_b10393fa:
 
-    # c "Shut the fuck up, Thim."
-    c ""
 
-# game/episode019.rpy:1636
+    c "Kapa çeneni, Thim."
+
+
 translate turkish ep019_paclerara_thim_fe5c76da:
 
-    # c "It’s not about any grudge I might carry."
-    c ""
 
-# game/episode019.rpy:1637
+    c "Bu, benim beslediğim bir kinle ilgili değil."
+
+
 translate turkish ep019_paclerara_thim_318a492d:
 
-    # c "What if you’re captured and they torture you?"
-    c ""
 
-# game/episode019.rpy:1638
+    c "Ya yakalanırsan ve sana işkence yaparlarsa?"
+
+
 translate turkish ep019_paclerara_thim_b32b8b71:
 
-    # c "I’m sure you’ll be able to withstand some prodding, but those Sovereignty torturers are inventive."
-    c ""
 
-# game/episode019.rpy:1639
+    c "Biraz baskıya dayanabileceğinden eminim, ama o Egemenlik işkencecileri çok yaratıcıdır."
+
+
 translate turkish ep019_paclerara_thim_ab989675:
 
-    # c "It’s simply too risky to let you go."
-    c ""
 
-# game/episode019.rpy:1640
+    c "Seni bırakmak çok riskli."
+
+
 translate turkish ep019_paclerara_thim_0d8f8c14:
 
-    # c "And while it’s no secret I don’t like you, I don’t keep you confined to the ship because of that."
-    c ""
+    c "Senden hoşlanmadığım sır değil ama seni gemide tutmamın nedeni bu değil."
 
-# game/episode019.rpy:1641
 translate turkish ep019_paclerara_thim_f8479fff:
 
-    # t "But I could easily go into hiding."
-    t ""
+    t "Ama kolayca saklanabilirim."
 
-# game/episode019.rpy:1642
 translate turkish ep019_paclerara_thim_38b87f6e:
 
-    # c "And they’ll find you just as easily, especially when you’re on your own."
-    c ""
+    c "Ve özellikle yalnızken seni aynı kolaylıkla bulurlar."
 
-# game/episode019.rpy:1643
 translate turkish ep019_paclerara_thim_7b48d6eb:
 
-    # "Thim’s last protest already betrayed his flailing confidence."
-    ""
+    "Thim'in son itirazı zaten sarsılan özgüvenini ele veriyordu."
 
-# game/episode019.rpy:1645
 translate turkish ep019_paclerara_thim_8e5c18ec:
 
-    # "For a second, it appeared as if he was about to launch in another angry rant, but instead he turned around and stomped back into the Residence, quivering with impotent fury."
-    ""
+    "Bir an için başka bir öfkeli nutuk atacakmış gibi göründü, ama bunun yerine arkasını döndü ve çaresiz bir öfkeyle titreyerek Rezidans'a geri döndü."
 
-# game/episode019.rpy:1647
 translate turkish ep019_paclerara_thim_da953d68_1:
 
-    # "Thim hurried towards me as I was crossing the square."
-    ""
+    "Meydanı geçerken Thim bana doğru koştu."
 
-# game/episode019.rpy:1649
 translate turkish ep019_paclerara_thim_d5993cce:
 
-    # t "Wait up, please, [p_name]!"
-    t ""
+    t "Bekle lütfen, [p_name]!"
 
-# game/episode019.rpy:1650
 translate turkish ep019_paclerara_thim_15cef1a8:
 
-    # c "What do you need?"
-    c ""
+    c "Ne istiyorsun?"
 
-# game/episode019.rpy:1651
 translate turkish ep019_paclerara_thim_8535d451:
 
-    # t "Nothing in particular."
-    t ""
+    t "Özel bir şey değil."
 
-# game/episode019.rpy:1653
 translate turkish ep019_paclerara_thim_b22942d8:
 
-    # t "I just wanted to know how your sister is doing."
-    t ""
+    t "Sadece kız kardeşinin nasıl olduğunu öğrenmek istedim."
 
-# game/episode019.rpy:1655
 translate turkish ep019_paclerara_thim_6bfa3cb7:
 
-    # t "I just wanted to know how Eva is doing."
-    t ""
+    t "Sadece Eva'nın nasıl olduğunu öğrenmek istedim."
 
-# game/episode019.rpy:1656
 translate turkish ep019_paclerara_thim_c9583bcf:
 
-    # c "No news yet, I’m afraid."
-    c ""
+    c "Henüz bir haber yok maalesef."
 
-# game/episode019.rpy:1658
 translate turkish ep019_paclerara_thim_ebf9066e:
 
-    # t "Damn, I’d hoped the facilities here would be better equipped to shed some light on her situation."
-    t ""
+    t "Lanet olsun, buradaki tesislerin durumu hakkında daha fazla bilgi verebileceğini umuyordum."
 
-# game/episode019.rpy:1659
 translate turkish ep019_paclerara_thim_11bde5d7:
 
-    # c "She’s in good hands, all we can do is hope for the best."
-    c ""
+    c "İyi ellerde, tek yapabileceğimiz en iyisini ummak."
 
-# game/episode019.rpy:1660
 translate turkish ep019_paclerara_thim_d616e7af:
 
-    # t "Yes, she is."
-    t ""
+    t "Evet, öyle."
 
-# game/episode019.rpy:1662
 translate turkish ep019_paclerara_thim_3abe910f:
 
-    # t "Paclerara is a pretty great place, and the medical facilities are top notch."
-    t ""
+    t "Paclerara harika bir yer ve tıbbi tesisleri birinci sınıf."
 
-# game/episode019.rpy:1663
 translate turkish ep019_paclerara_thim_8a59d47c:
 
-    # c "I was sure you’d appreciate the shiny medical stuff."
-    c ""
+    c "Parlak tıbbi aletleri beğeneceğinden emindim."
 
-# game/episode019.rpy:1664
 translate turkish ep019_paclerara_thim_096b2cf7:
 
-    # t "I do."
-    t ""
+    t "Beğendim."
 
-# game/episode019.rpy:1665
 translate turkish ep019_paclerara_thim_e898ba8f:
 
-    # t "They have quite some advanced treatments available here."
-    t ""
+    t "Burada oldukça gelişmiş tedaviler mevcut."
 
-# game/episode019.rpy:1666
 translate turkish ep019_paclerara_thim_74f1f996:
 
-    # t "I wish I could have gone to one of these places to train, instead of struggling through endless hours of target practice at the Academy."
-    t ""
+    t "Keşke Akademi'de sonsuz atış talimi yapmak yerine bu yerlerden birinde eğitim alabilseydim."
 
-# game/episode019.rpy:1667
 translate turkish ep019_paclerara_thim_5fe0c30c:
 
-    # c "I hear you."
-    c ""
+    c "Anlıyorum seni."
 
-# game/episode019.rpy:1668
 translate turkish ep019_paclerara_thim_c5bc0b5f:
 
-    # c "But maybe you will, one day, when all this has blown over."
-    c ""
+    c "Ama belki bir gün, tüm bunlar geçtiğinde olabilir."
 
-# game/episode019.rpy:1670
 translate turkish ep019_paclerara_thim_2e0acbbe:
 
-    # t "Will I?"
-    t ""
+    t "Öyle mi?"
 
-# game/episode019.rpy:1672
 translate turkish ep019_paclerara_thim_49d5dce4:
 
-    # t "It seems we’re doomed to be on the run perpetually."
-    t ""
+    t "Sürekli kaçmaya mahkum gibiyiz."
 
-# game/episode019.rpy:1673
 translate turkish ep019_paclerara_thim_0e306992:
 
-    # c "It may seem that way, but I don’t plan on keeping on running away forever."
-    c ""
+    c "Öyle görünebilir ama sonsuza kadar kaçmaya devam etmeyi planlamıyorum."
 
-# game/episode019.rpy:1674
 translate turkish ep019_paclerara_thim_b89a7179:
 
-    # c "We’re going to take the fight to the Sovereignty one day, or carve out a peaceful life for us somewhere at the very least."
-    c ""
+    c "Bir gün Egemenlik'le savaşacağız ya da en azından kendimize bir yerde huzurlu bir hayat kuracağız."
 
-# game/episode019.rpy:1676
 translate turkish ep019_paclerara_thim_0058179a:
 
-    # t "I do like your boundless optimism."
-    t ""
+    t "Sınırsız iyimserliğini seviyorum."
 
-# game/episode019.rpy:1677
 translate turkish ep019_paclerara_thim_b814cd4e:
 
-    # c "We can’t all be the Pessimistic Physician."
-    c ""
+    c "Hepimiz Karamsar Doktor olamayız."
 
-# game/episode019.rpy:1679
 translate turkish ep019_paclerara_thim_1d9ded31:
 
-    # t "Haha, I’m not pessimistic."
-    t ""
+    t "Haha, karamsar değilim."
 
-# game/episode019.rpy:1680
 translate turkish ep019_paclerara_thim_5221b066:
 
-    # t "Just a little afraid to dream."
-    t ""
+    t "Sadece hayal kurmaktan biraz korkuyorum."
 
-# game/episode019.rpy:1681
 translate turkish ep019_paclerara_thim_64ba8aea:
 
-    # c "Sounds like a pessimist to me."
-    c ""
+    c "Bana karamsar gibi geldin."
 
-# game/episode019.rpy:1683
 translate turkish ep019_paclerara_thim_b5fc7861:
 
-    # t "You win."
-    t ""
+    t "Sen kazandın."
 
-# game/episode019.rpy:1685
 translate turkish ep019_paclerara_thim_0a5404e9:
 
-    # t "Well, I’m going to continue my tour of the Residence."
-    t ""
+    t "Neyse, Rezidans turuma devam edeceğim."
 
-# game/episode019.rpy:1686
 translate turkish ep019_paclerara_thim_de429aa9:
 
-    # c "Right, I won’t keep you from gawking at all those shiny defibrillators and heart monitors they have here."
-    c ""
+    c "Tamam, seni buradaki parlak defibrilatörlere ve kalp monitörlerine bakmaktan alıkoymayayım."
 
-# game/episode019.rpy:1688
 translate turkish ep019_paclerara_thim_f57c9292:
 
-    # t "Exactly!"
-    t ""
+    t "Aynen öyle!"
 
-# game/episode019.rpy:1689
 translate turkish ep019_paclerara_thim_1cd07e36:
 
-    # c "I’ll let you know if something changes with Eva."
-    c ""
+    c "Eva'nın durumunda bir değişiklik olursa haber veririm."
 
-# game/episode019.rpy:1690
 translate turkish ep019_paclerara_thim_310f0991:
 
-    # t "Thanks, appreciated."
-    t ""
+    t "Teşekkürler, minnettarım."
 
-# game/episode019.rpy:1691
 translate turkish ep019_paclerara_thim_539a802c:
 
-    # t "See you around."
-    t ""
+    t "Görüşürüz."
 
-# game/episode019.rpy:1698
 translate turkish ep019_paclerara_celine_d1da1bad:
 
-    # "Céline was messing with the entertainment module as I entered her guest quarters."
-    ""
+    "Ben misafir odasına girdiğimde Céline eğlence modülüyle uğraşıyordu."
 
-# game/episode019.rpy:1699
 translate turkish ep019_paclerara_celine_a0ab89b4:
 
-    # c "Can’t find a show you like?"
-    c ""
+    c "Beğendiğin bir program bulamadın mı?"
 
-# game/episode019.rpy:1701
 translate turkish ep019_paclerara_celine_02924998:
 
-    # ce "Something like that."
-    ce ""
+    ce "Onun gibi bir şey."
 
-# game/episode019.rpy:1702
 translate turkish ep019_paclerara_celine_2687e181:
 
-    # ce "I’ve been trying to find a Sovereignty news channel, to catch up with any news from over there."
-    ce ""
+    ce "Egemenlik'ten haberleri takip etmek için bir haber kanalı bulmaya çalışıyordum."
 
-# game/episode019.rpy:1703
 translate turkish ep019_paclerara_celine_8e087fed:
 
-    # c "I don’t think Sovereignty news outlets are allowed in these parts."
-    c ""
+    c "Buralarda Egemenlik haber kanallarına izin verildiğini sanmıyorum."
 
-# game/episode019.rpy:1704
 translate turkish ep019_paclerara_celine_d7a02309:
 
-    # ce "I’ve come to realize that as well."
-    ce ""
+    ce "Ben de fark ettim."
 
-# game/episode019.rpy:1707
 translate turkish ep019_paclerara_celine_26eceaca:
 
-    # ce "So instead I’ve been replaying the filthy things we did together with Lilly inside my head."
-    ce ""
+    ce "O yüzden Lilly'yle birlikte yaptığımız yaramaz şeyleri kafamda tekrar canlandırıyordum."
 
-# game/episode019.rpy:1708
 translate turkish ep019_paclerara_celine_45623e87:
 
-    # c "There should be porn channels on that module as well..."
-    c ""
+    c "O modülde porno kanalları da olmalı..."
 
-# game/episode019.rpy:1709
 translate turkish ep019_paclerara_celine_a218231d:
 
-    # ce "What we did was much better."
-    ce ""
+    ce "Bizim yaptıklarımız çok daha iyiydi."
 
-# game/episode019.rpy:1710
 translate turkish ep019_paclerara_celine_d5028011:
 
-    # c "I agree."
-    c ""
+    c "Katılıyorum."
 
-# game/episode019.rpy:1713
 translate turkish ep019_paclerara_celine_c7829024:
 
-    # ce "I was wondering though, [p_name_short], about what Lilly said when you...{w} uh...{w} came inside her."
-    ce ""
+    ce "Ama merak ediyorum [p_name_short], sen içine boşaldığında Lilly'nin söylediği şey hakkında..."
 
-# game/episode019.rpy:1714
 translate turkish ep019_paclerara_celine_c9c9586b:
 
-    # c "What did she say, I was a little distracted at the time?"
-    c ""
+    c "Ne söylemişti, o anda biraz dalgındım?"
 
-# game/episode019.rpy:1715
 translate turkish ep019_paclerara_celine_e5e398ee:
 
-    # ce "Lilly mentioned that she wanted you to put a baby inside her."
-    ce ""
+    ce "Lilly senden içine bir bebek koymak istediğini söylemişti."
 
-# game/episode019.rpy:1716
 translate turkish ep019_paclerara_celine_952761e8:
 
-    # ce "Was that something she said in the heat of the moment?"
-    ce ""
+    ce "O anın heyecanıyla mı söylemişti?"
 
-# game/episode019.rpy:1717
 translate turkish ep019_paclerara_celine_285e6f9f:
 
-    # c "Undoubtedly, but Lilly and I have discussed the possibility of having kids."
-    c ""
+    c "Şüphesiz öyle, ama Lilly'yle çocuk sahibi olma olasılığını konuşmuştuk."
 
-# game/episode019.rpy:1719
 translate turkish ep019_paclerara_celine_70967e1a:
 
-    # ce "I was wondering though, [p_name_short], about something that Lilly said to me."
-    ce ""
+    ce "Ama merak ediyorum [p_name_short], Lilly'nin bana söylediği bir şey hakkında."
 
-# game/episode019.rpy:1720
 translate turkish ep019_paclerara_celine_ef251b09:
 
-    # c "What did she tell you?"
-    c ""
+    c "Ne söyledi sana?"
 
-# game/episode019.rpy:1721
 translate turkish ep019_paclerara_celine_5e561720:
 
-    # ce "Lilly said that you discussed having kids before."
-    ce ""
+    ce "Lilly daha önce çocuk sahibi olmayı konuştuğunuzu söyledi."
 
-# game/episode019.rpy:1722
 translate turkish ep019_paclerara_celine_d9cf1510:
 
-    # ce "Was that a serious discussion?"
-    ce ""
+    ce "Ciddi bir konuşma mıydı?"
 
-# game/episode019.rpy:1723
 translate turkish ep019_paclerara_celine_3d63edce:
 
-    # c "It was, yes."
-    c ""
+    c "Evet, öyleydi."
 
-# game/episode019.rpy:1724
 translate turkish ep019_paclerara_celine_40f607f8:
 
-    # ce "So you want to have children with Lilly?"
-    ce ""
+    ce "Yani Lilly'yle çocuk sahibi olmak istiyor musun?"
 
-# game/episode019.rpy:1726
 translate turkish ep019_paclerara_celine_9d9fb6df:
 
-    # c "I do."
-    c ""
+    c "Evet."
 
-# game/episode019.rpy:1728
 translate turkish ep019_paclerara_celine_34ec15bf:
 
-    # ce "And what about me?"
-    ce ""
+    ce "Peki ya ben?"
 
-# game/episode019.rpy:1729
 translate turkish ep019_paclerara_celine_ae407aea:
 
-    # c "Do I want children with you?"
-    c ""
+    c "Seninle çocuk sahibi olmak istiyor muyum?"
 
-# game/episode019.rpy:1733
 translate turkish ep019_paclerara_celine_f483715b:
 
-    # c "I’d love to, if you want kids to."
-    c ""
+    c "Sen de istersen çok isterim."
 
-# game/episode019.rpy:1735
 translate turkish ep019_paclerara_celine_edbf84f7:
 
-    # ce "I’ve certainly thought about it."
-    ce ""
+    ce "Kesinlikle düşündüm."
 
-# game/episode019.rpy:1736
 translate turkish ep019_paclerara_celine_d5a7a655:
 
-    # ce "Especially when we started out on Lanan and things were getting serious."
-    ce ""
+    ce "Özellikle Lanan'da başladığımızda ve işler ciddileştiğinde."
 
-# game/episode019.rpy:1737
 translate turkish ep019_paclerara_celine_11f2c44b:
 
-    # ce "But ultimately, I didn’t discuss it with you."
-    ce ""
+    ce "Ama sonunda seninle konuşmadım."
 
-# game/episode019.rpy:1738
 translate turkish ep019_paclerara_celine_936655e5:
 
-    # ce "Too much danger surrounding us all of the time."
-    ce ""
+    ce "Her zaman etrafımızda çok fazla tehlike var."
 
-# game/episode019.rpy:1739
 translate turkish ep019_paclerara_celine_1659b3f5:
 
-    # c "I know, I had the same reservations at first."
-    c ""
+    c "Biliyorum, başta benim de aynı çekincelerim vardı."
 
-# game/episode019.rpy:1740
 translate turkish ep019_paclerara_celine_3a34953f:
 
-    # c "But if this is something we both want, we shouldn’t let fear get in the way of happy decisions like these."
-    c ""
+    c "Ama ikimiz de istiyorsak, korkuya böyle mutlu kararların önüne geçme izni vermemeliyiz."
 
-# game/episode019.rpy:1741
 translate turkish ep019_paclerara_celine_f380d6c7:
 
-    # c "So Céline, if you’re still willing, I’d love you to be the mother of my children."
-    c ""
+    c "Yani Céline, hala istekliysen, çocuklarımın annesi olmanı çok isterim."
 
-# game/episode019.rpy:1743
 translate turkish ep019_paclerara_celine_92256d0b:
 
-    # "Céline nodded vigorously and put her arms around me."
-    ""
+    "Céline heyecanla başını salladı ve kollarını bana doladı."
 
-# game/episode019.rpy:1744
 translate turkish ep019_paclerara_celine_cafea7c3:
 
-    # "She kissed me hard, tears welling in her eyes."
-    ""
+    "Gözleri yaşlarla dolarak beni sertçe öptü."
 
-# game/episode019.rpy:1746
 translate turkish ep019_paclerara_celine_6963ae9e:
 
-    # ce "You make me so happy, [p_name_short]!"
-    ce ""
+    ce "Beni çok mutlu ediyorsun, [p_name_short]!"
 
-# game/episode019.rpy:1748
 translate turkish ep019_paclerara_celine_96eae791:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
+    "Kanepeye uzandık, sarılıp güneşin batışını izledik."
 
-# game/episode019.rpy:1750
 translate turkish ep019_paclerara_celine_ca096f70:
 
-    # c "I don’t want to disappoint you, Céline, but..."
-    c ""
+    c "Seni hayal kırıklığına uğratmak istemem Céline, ama..."
 
-# game/episode019.rpy:1752
 translate turkish ep019_paclerara_celine_022b4718:
 
-    # ce "I’m not disappointed!"
-    ce ""
+    ce "Hayal kırıklığına uğramadım!"
 
-# game/episode019.rpy:1753
 translate turkish ep019_paclerara_celine_0f372fb9:
 
-    # ce "Far from it, actually."
-    ce ""
+    ce "Aslında tam tersi."
 
-# game/episode019.rpy:1754
 translate turkish ep019_paclerara_celine_a33893e0:
 
-    # ce "I really don’t see myself as a mother."
-    ce ""
+    ce "Kendimi anne olarak göremiyorum."
 
-# game/episode019.rpy:1755
 translate turkish ep019_paclerara_celine_efae95e1:
 
-    # ce "If Lilly wants to have a go, she can go right at it."
-    ce ""
+    ce "Eğer Lilly deneyecekse, devam edebilir."
 
-# game/episode019.rpy:1756
 translate turkish ep019_paclerara_celine_a77b23c1:
 
-    # c "I’m glad you feel that way."
-    c ""
+    c "Böyle düşünmene sevindim."
 
-# game/episode019.rpy:1758
 translate turkish ep019_paclerara_celine_77ca664f:
 
-    # ce "You, and you alone make me so happy, [p_name_short]!"
-    ce ""
+    ce "Sen, ve sadece sen beni çok mutlu ediyorsun, [p_name_short]!"
 
-# game/episode019.rpy:1759
 translate turkish ep019_paclerara_celine_d37ca3f5:
 
-    # ce "I don’t want anything else but you."
-    ce ""
+    ce "Senden başka hiçbir şey istemiyorum."
 
-# game/episode019.rpy:1761
 translate turkish ep019_paclerara_celine_96eae791_1:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
+    "Kanepeye uzandık, sarılıp güneşin batışını izledik."
 
-# game/episode019.rpy:1763
 translate turkish ep019_paclerara_celine_045a46ef:
 
-    # c "I don’t, no."
-    c ""
+    c "Hayır, istemiyorum."
 
-# game/episode019.rpy:1764
 translate turkish ep019_paclerara_celine_b87a6b36:
 
-    # ce "I thought as much."
-    ce ""
+    ce "Öyle düşünmüştüm."
 
-# game/episode019.rpy:1766
 translate turkish ep019_paclerara_celine_4f73ec0c:
 
-    # ce "Is it a categoric no for you?"
-    ce ""
+    ce "Kesin bir hayır mı bu?"
 
-# game/episode019.rpy:1768
 translate turkish ep019_paclerara_celine_1714e9ed:
 
-    # ce "Or just because it’s your sister?"
-    ce ""
+    ce "Yoksa sadece kız kardeşin olduğu için mi?"
 
-# game/episode019.rpy:1770
 translate turkish ep019_paclerara_celine_a06f3c1e:
 
-    # ce "Or just not with Lilly?"
-    ce ""
+    ce "Ya da sadece Lilly'yle mi olmaz?"
 
-# game/episode019.rpy:1774
 translate turkish ep019_paclerara_celine_2da5fc8b:
 
-    # c "Yes, we both decided it wasn’t a good idea."
-    c ""
+    c "Evet, ikimiz de iyi bir fikir olmadığına karar verdik."
 
-# game/episode019.rpy:1775
 translate turkish ep019_paclerara_celine_26f5229e:
 
-    # c "But with you it might be another matter."
-    c ""
+    c "Ama seninle başka bir durum olabilir."
 
-# game/episode019.rpy:1776
 translate turkish ep019_paclerara_celine_3bdd7b97:
 
-    # ce "Oh?"
-    ce ""
+    ce "Öyle mi?"
 
-# game/episode019.rpy:1778
 translate turkish ep019_paclerara_celine_680ca956:
 
-    # ce "Well, I can’t say that I haven’t thought about it."
-    ce ""
+    ce "Şey, düşünmediğimi söyleyemem."
 
-# game/episode019.rpy:1779
 translate turkish ep019_paclerara_celine_d5a7a655_1:
 
-    # ce "Especially when we started out on Lanan and things were getting serious."
-    ce ""
+    ce "Özellikle Lanan'da başladığımızda ve işler ciddileştiğinde."
 
-# game/episode019.rpy:1780
 translate turkish ep019_paclerara_celine_11f2c44b_1:
 
-    # ce "But ultimately, I didn’t discuss it with you."
-    ce ""
+    ce "Ama sonunda seninle konuşmadım."
 
-# game/episode019.rpy:1781
 translate turkish ep019_paclerara_celine_936655e5_1:
 
-    # ce "Too much danger surrounding us all of the time."
-    ce ""
+    ce "Her zaman etrafımızda çok fazla tehlike var."
 
-# game/episode019.rpy:1782
 translate turkish ep019_paclerara_celine_1659b3f5_1:
 
-    # c "I know, I had the same reservations at first."
-    c ""
+    c "Biliyorum, başta benim de aynı çekincelerim vardı."
 
-# game/episode019.rpy:1783
 translate turkish ep019_paclerara_celine_3a34953f_1:
 
-    # c "But if this is something we both want, we shouldn’t let fear get in the way of happy decisions like these."
-    c ""
+    c "Ama ikimiz de istiyorsak, korkuya böyle mutlu kararların önüne geçme izni vermemeliyiz."
 
-# game/episode019.rpy:1784
 translate turkish ep019_paclerara_celine_f380d6c7_1:
 
-    # c "So Céline, if you’re still willing, I’d love you to be the mother of my children."
-    c ""
+    c "Yani Céline, hala istekliysen, çocuklarımın annesi olmanı çok isterim."
 
-# game/episode019.rpy:1786
 translate turkish ep019_paclerara_celine_92256d0b_1:
 
-    # "Céline nodded vigorously and put her arms around me."
-    ""
+    "Céline heyecanla başını salladı ve kollarını bana doladı."
 
-# game/episode019.rpy:1787
 translate turkish ep019_paclerara_celine_cafea7c3_1:
 
-    # "She kissed me hard, tears welling in her eyes."
-    ""
+    "Gözleri yaşlarla dolarak beni sertçe öptü."
 
-# game/episode019.rpy:1789
+
 translate turkish ep019_paclerara_celine_6963ae9e_1:
 
-    # ce "You make me so happy, [p_name_short]!"
-    ce ""
 
-# game/episode019.rpy:1791
+    ce "Beni çok mutlu ediyorsun, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_celine_96eae791_2:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
 
-# game/episode019.rpy:1793
+    "Kanepeye uzanmış, sarılıp güneşin batışını izliyorduk."
+
+
 translate turkish ep019_paclerara_celine_ca096f70_1:
 
-    # c "I don’t want to disappoint you, Céline, but..."
-    c ""
 
-# game/episode019.rpy:1795
+    c "Seni hayal kırıklığına uğratmak istemiyorum, Céline, ama..."
+
+
 translate turkish ep019_paclerara_celine_022b4718_1:
 
-    # ce "I’m not disappointed!"
-    ce ""
 
-# game/episode019.rpy:1796
+    ce "Hayal kırıklığına uğramadım!"
+
+
 translate turkish ep019_paclerara_celine_0f372fb9_1:
 
-    # ce "Far from it, actually."
-    ce ""
 
-# game/episode019.rpy:1798
+    ce "Aslında, tam tersine."
+
+
 translate turkish ep019_paclerara_celine_a33893e0_1:
 
-    # ce "I really don’t see myself as a mother."
-    ce ""
 
-# game/episode019.rpy:1799
+    ce "Kendimi bir anne olarak göremiyorum."
+
+
 translate turkish ep019_paclerara_celine_b9b45337:
 
-    # c "I think you’d make a great mother, but it’s not for me."
-    c ""
 
-# game/episode019.rpy:1800
+    c "Bence harika bir anne olursun, ama bu bana göre değil."
+
+
 translate turkish ep019_paclerara_celine_b5cb7a75:
 
-    # ce "Not for me either."
-    ce ""
 
-# game/episode019.rpy:1801
+    ce "Bana göre de değil."
+
+
 translate turkish ep019_paclerara_celine_9e50f6d4:
 
-    # ce "I’m glad we’ve cleared this up."
-    ce ""
 
-# game/episode019.rpy:1803
+    ce "Bunu netleştirdiğimize sevindim."
+
+
 translate turkish ep019_paclerara_celine_b1f27814:
 
-    # ce "I only want you, and you alone, [p_name_short]."
-    ce ""
 
-# game/episode019.rpy:1804
+    ce "Sadece seni istiyorum, bir tek seni, [p_name_short]."
+
+
 translate turkish ep019_paclerara_celine_292a9e6a:
 
-    # ce "You make me so happy!"
-    ce ""
 
-# game/episode019.rpy:1805
+    ce "Beni çok mutlu ediyorsun!"
+
+
 translate turkish ep019_paclerara_celine_e0661c03:
 
-    # c "You do too!"
-    c ""
 
-# game/episode019.rpy:1807
+    c "Sen de beni!"
+
+
 translate turkish ep019_paclerara_celine_96eae791_3:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
 
-# game/episode019.rpy:1809
+    "Kanepeye uzanmış, sarılıp güneşin batışını izliyorduk."
+
+
 translate turkish ep019_paclerara_celine_1a5171dc:
 
-    # ce "So instead, I’ve been watching some sappy drama."
-    ce ""
 
-# game/episode019.rpy:1811
+    ce "Onun yerine duygusal bir dizi izliyordum."
+
+
 translate turkish ep019_paclerara_celine_db0d245a:
 
-    # ce "Had to turn it off though."
-    ce ""
 
-# game/episode019.rpy:1812
+    ce "Ama kapatmak zorunda kaldım."
+
+
 translate turkish ep019_paclerara_celine_b3921824:
 
-    # c "Why did you?"
-    c ""
 
-# game/episode019.rpy:1814
+    c "Neden ki?"
+
+
 translate turkish ep019_paclerara_celine_1e52e411:
 
-    # ce "It was about a mother who had to abandon her two children."
-    ce ""
 
-# game/episode019.rpy:1815
+    ce "İki çocuğunu terk etmek zorunda kalan bir anne hakkındaydı."
+
+
 translate turkish ep019_paclerara_celine_5c98f2b8:
 
-    # c "Ah, that hit a little too close to home, I presume?"
-    c ""
 
-# game/episode019.rpy:1817
+    c "Ah, bu biraz fazla yakından dokundu sanırım?"
+
+
 translate turkish ep019_paclerara_celine_fd361499:
 
-    # ce "Yeah..."
-    ce ""
 
-# game/episode019.rpy:1819
+    ce "Evet..."
+
+
 translate turkish ep019_paclerara_celine_455ec5b5:
 
-    # ce "I wonder where mom is now."
-    ce ""
 
-# game/episode019.rpy:1820
+    ce "Annemin şimdi nerede olduğunu merak ediyorum."
+
+
 translate turkish ep019_paclerara_celine_a32740d7:
 
-    # ce "Is she still a Commander, does she ever think about us?"
-    ce ""
 
-# game/episode019.rpy:1821
+    ce "Hala Komutan mı, bizi hiç düşünüyor mu?"
+
+
 translate turkish ep019_paclerara_celine_dc72b582:
 
-    # c "Your mother and I had our differences, or rather we only had differences..."
-    c ""
 
-# game/episode019.rpy:1822
+    c "Annenle aramızda anlaşmazlıklar vardı, daha doğrusu sadece anlaşmazlıklarımız vardı..."
+
+
 translate turkish ep019_paclerara_celine_68ece3d7:
 
-    # c "And she was a hard-nosed officer and all that."
-    c ""
 
-# game/episode019.rpy:1823
+    c "Ve o katı bir subaydı, hepsi bu."
+
+
 translate turkish ep019_paclerara_celine_603cbb02:
 
-    # c "But I can’t believe her to be so cold-hearted as to never think about those terrible moments before we escaped the Ypotryll, or what might have happened after."
-    c ""
 
-# game/episode019.rpy:1825
+    c "Ama Ypotryll'den kaçmadan önceki o korkunç anları veya sonrasında neler olabileceğini hiç düşünmeyecek kadar taş kalpli olduğuna inanamıyorum."
+
+
 translate turkish ep019_paclerara_celine_6011b119:
 
-    # ce "Me neither."
-    ce ""
 
-# game/episode019.rpy:1826
+    ce "Ben de."
+
+
 translate turkish ep019_paclerara_celine_b8d76cdc:
 
-    # ce "She was quite protective of us when we were little."
-    ce ""
 
-# game/episode019.rpy:1827
+    ce "Küçükken bizi çok korurdu."
+
+
 translate turkish ep019_paclerara_celine_30849063:
 
-    # ce "And part of the reason mom was so hard on you was because she knew I was smitten with you."
-    ce ""
 
-# game/episode019.rpy:1828
+    ce "Ve annemin sana karşı bu kadar sert olmasının bir nedeni de benim sana aşık olduğumu bilmesiydi."
+
+
 translate turkish ep019_paclerara_celine_bdad8d16:
 
-    # c "Totally unfair of course."
-    c ""
 
-# game/episode019.rpy:1830
+    c "Tabii ki bu çok haksızlıktı."
+
+
 translate turkish ep019_paclerara_celine_45b973dd:
 
-    # ce "Of course!"
-    ce ""
 
-# game/episode019.rpy:1831
+    ce "Kesinlikle!"
+
+
 translate turkish ep019_paclerara_celine_cd4fb6f4:
 
-    # ce "I think she might even be a little proud of what you’ve accomplished."
-    ce ""
 
-# game/episode019.rpy:1832
+    ce "Sanırım başardıklarınla biraz gurur bile duyuyor olabilir."
+
+
 translate turkish ep019_paclerara_celine_46625d4f:
 
-    # c "That would be stretching things a little too far..."
-    c ""
 
-# game/episode019.rpy:1833
+    c "Bu biraz fazla iyimser olur..."
+
+
 translate turkish ep019_paclerara_celine_1744696e:
 
-    # c "Unless deserting and being on the run for so long count as achievements."
-    c ""
 
-# game/episode019.rpy:1835
+    c "Firar edip bu kadar uzun süre kaçak olmak başarı sayılmıyorsa."
+
+
 translate turkish ep019_paclerara_celine_db6049ec:
 
-    # ce "Not that, but you’re a captain now, in every sense of the word."
-    ce ""
 
-# game/episode019.rpy:1836
+    ce "O değil, ama artık her anlamıyla bir kaptansın."
+
+
 translate turkish ep019_paclerara_celine_246177f2:
 
-    # ce "You might not think it, but you’re the one we’re all looking up to when an important decision needs to be made."
-    ce ""
 
-# game/episode019.rpy:1837
+    ce "Sen farkında olmasan da, önemli bir karar alınması gerektiğinde hepimiz sana güveniyoruz."
+
+
 translate turkish ep019_paclerara_celine_7997f01f:
 
-    # c "Well, if you put it that way..."
-    c ""
 
-# game/episode019.rpy:1838
+    c "Eh, öyle deyince..."
+
+
 translate turkish ep019_paclerara_celine_7ea777bb:
 
-    # c "I still find it hard to believe your mother would have anything positive to say about me."
-    c ""
 
-# game/episode019.rpy:1840
+    c "Annenin benim hakkımda olumlu bir şey söyleyeceğine hala inanamıyorum."
+
+
 translate turkish ep019_paclerara_celine_6eb0dae1:
 
-    # ce "Yes, it may be a stretch."
-    ce ""
 
-# game/episode019.rpy:1842
+    ce "Evet, biraz abartı olabilir."
+
+
 translate turkish ep019_paclerara_celine_5abdd53c:
 
-    # ce "But having experienced hardship myself, I think I know how all the responsibility weighed on her."
-    ce ""
 
-# game/episode019.rpy:1843
+    ce "Ama ben de zorluklar yaşadığım için, tüm sorumluluğun onu nasıl etkilediğini anlayabiliyorum."
+
+
 translate turkish ep019_paclerara_celine_a2ae8437:
 
-    # ce "Raising two kids on her own while being an officer in the Navy."
-    ce ""
 
-# game/episode019.rpy:1844
+    ce "Donanmada subay olarak çalışırken iki çocuk büyütmek."
+
+
 translate turkish ep019_paclerara_celine_221e6ee0:
 
-    # c "Yeah, that must have been tough."
-    c ""
 
-# game/episode019.rpy:1846
+    c "Evet, zor olmalıydı."
+
+
 translate turkish ep019_paclerara_celine_90a525ee:
 
-    # ce "I sometimes wonder how I would manage myself."
-    ce ""
 
-# game/episode019.rpy:1847
+    ce "Bazen ben nasıl başa çıkardım diye düşünüyorum."
+
+
 translate turkish ep019_paclerara_celine_833fda5d:
 
-    # c "Raising children?"
-    c ""
 
-# game/episode019.rpy:1849
+    c "Çocuk yetiştirmek mi?"
+
+
 translate turkish ep019_paclerara_celine_7f8a0972:
 
-    # ce "Yeah."
-    ce ""
 
-# game/episode019.rpy:1850
+    ce "Evet."
+
+
 translate turkish ep019_paclerara_celine_40ae4c08:
 
-    # c "Would you like to be a mother?"
-    c ""
 
-# game/episode019.rpy:1852
+    c "Anne olmak ister misin?"
+
+
 translate turkish ep019_paclerara_celine_36ed2180:
 
-    # ce "I’m not sure."
-    ce ""
 
-# game/episode019.rpy:1856
+    ce "Emin değilim."
+
+
 translate turkish ep019_paclerara_celine_42694bca:
 
-    # c "I’ve always wanted a gaggle of kids."
-    c ""
 
-# game/episode019.rpy:1857
+    c "Ben hep bir sürü çocuk istedim."
+
+
 translate turkish ep019_paclerara_celine_c23ffb76:
 
-    # ce "Really?"
-    ce ""
 
-# game/episode019.rpy:1858
+    ce "Gerçekten mi?"
+
+
 translate turkish ep019_paclerara_celine_79ea6e92:
 
-    # c "Yes, preferably with you."
-    c ""
 
-# game/episode019.rpy:1860
+    c "Evet, tercihen seninle."
+
+
 translate turkish ep019_paclerara_celine_4c28d7c8:
 
-    # "Céline’s face lit up, as I clearly broke through the hesitation that held her back previously."
-    ""
 
-# game/episode019.rpy:1861
+    "Céline'in yüzü aydınlandı, daha önce onu tutan tereddüdü açıkça kırmıştım."
+
+
 translate turkish ep019_paclerara_celine_4d2e5bd9:
 
-    # ce "I didn’t want to presume you wanted to start a family."
-    ce ""
 
-# game/episode019.rpy:1862
+    ce "Aile kurmak istediğini varsaymak istemedim."
+
+
 translate turkish ep019_paclerara_celine_7dc1aa46:
 
-    # ce "With us on the run and everything."
-    ce ""
 
-# game/episode019.rpy:1863
+    ce "Biz kaçaktayken ve her şey bu durumdayken."
+
+
 translate turkish ep019_paclerara_celine_f47b3347:
 
-    # c "I’ve had the same doubts, but risk aversion shouldn’t get in the way of making life-changing decisions."
-    c ""
 
-# game/episode019.rpy:1864
+    c "Benim de aynı şüphelerim vardı, ama risk korkusu hayatı değiştirecek kararların önüne geçmemeli."
+
+
 translate turkish ep019_paclerara_celine_94ae8563:
 
-    # c "So, Céline, will you be the mother of my children?"
-    c ""
 
-# game/episode019.rpy:1865
+    c "Peki Céline, çocuklarımın annesi olur musun?"
+
+
 translate turkish ep019_paclerara_celine_f41d487e:
 
-    # ce "So formal, but yes of course, I want nothing more!"
-    ce ""
 
-# game/episode019.rpy:1867
+    ce "Çok resmi oldu ama tabii ki, başka bir şey istemem!"
+
+
 translate turkish ep019_paclerara_celine_cafea7c3_2:
 
-    # "She kissed me hard, tears welling in her eyes."
-    ""
 
-# game/episode019.rpy:1869
+    "Gözlerinde yaşlarla beni sertçe öptü."
+
+
 translate turkish ep019_paclerara_celine_6963ae9e_2:
 
-    # ce "You make me so happy, [p_name_short]!"
-    ce ""
 
-# game/episode019.rpy:1871
+    ce "Beni çok mutlu ediyorsun, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_celine_96eae791_4:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
 
-# game/episode019.rpy:1873
+    "Kanepeye uzanmış, sarılıp güneşin batışını izliyorduk."
+
+
 translate turkish ep019_paclerara_celine_ca096f70_2:
 
-    # c "I don’t want to disappoint you, Céline, but..."
-    c ""
 
-# game/episode019.rpy:1875
+    c "Seni hayal kırıklığına uğratmak istemiyorum, Céline, ama..."
+
+
 translate turkish ep019_paclerara_celine_022b4718_2:
 
-    # ce "I’m not disappointed!"
-    ce ""
 
-# game/episode019.rpy:1876
+    ce "Hayal kırıklığına uğramadım!"
+
+
 translate turkish ep019_paclerara_celine_0f372fb9_2:
 
-    # ce "Far from it, actually."
-    ce ""
 
-# game/episode019.rpy:1878
+    ce "Aslında, tam tersine."
+
+
 translate turkish ep019_paclerara_celine_c75d519e:
 
-    # ce "I thought for a split second that I would be disappointing you, because I really don’t see myself as a mother."
-    ce ""
 
-# game/episode019.rpy:1879
+    ce "Bir an için seni hayal kırıklığına uğratacağımı düşündüm, çünkü kendimi bir anne olarak göremiyorum."
+
+
 translate turkish ep019_paclerara_celine_b9b45337_1:
 
-    # c "I think you’d make a great mother, but it’s not for me."
-    c ""
 
-# game/episode019.rpy:1880
+    c "Bence harika bir anne olursun, ama bu bana göre değil."
+
+
 translate turkish ep019_paclerara_celine_b5cb7a75_1:
 
-    # ce "Not for me either."
-    ce ""
 
-# game/episode019.rpy:1881
+    ce "Bana göre de değil."
+
+
 translate turkish ep019_paclerara_celine_9e50f6d4_1:
 
-    # ce "I’m glad we’ve cleared this up."
-    ce ""
 
-# game/episode019.rpy:1883
+    ce "Bunu netleştirdiğimize sevindim."
+
+
 translate turkish ep019_paclerara_celine_b1f27814_1:
 
-    # ce "I only want you, and you alone, [p_name_short]."
-    ce ""
 
-# game/episode019.rpy:1884
+    ce "Sadece seni istiyorum, bir tek seni, [p_name_short]."
+
+
 translate turkish ep019_paclerara_celine_292a9e6a_1:
 
-    # ce "You make me so happy!"
-    ce ""
 
-# game/episode019.rpy:1885
+    ce "Beni çok mutlu ediyorsun!"
+
+
 translate turkish ep019_paclerara_celine_e0661c03_1:
 
-    # c "You do too!"
-    c ""
 
-# game/episode019.rpy:1887
+    c "Sen de beni!"
+
+
 translate turkish ep019_paclerara_celine_96eae791_5:
 
-    # "We lay on the couch, cuddling and watching the sun go down."
-    ""
 
-# game/episode019.rpy:1894
+    "Kanepeye uzanmış, sarılıp güneşin batışını izliyorduk."
+
+
 translate turkish ep019_paclerara_jade_f6dd393b:
 
-    # "I caught up with Jade just as she was about to head out of the residential complex."
-    ""
 
-# game/episode019.rpy:1896
+    "Jade'e tam konut kompleksinden çıkarken yetiştim."
+
+
 translate turkish ep019_paclerara_jade_1410883a:
 
-    # j "Oh [p_name_short], I was just about to go for a walk."
-    j ""
 
-# game/episode019.rpy:1897
+    j "Ah [p_name_short], tam yürüyüşe çıkıyordum."
+
+
 translate turkish ep019_paclerara_jade_2c992148:
 
-    # c "Mind if I join you?"
-    c ""
 
-# game/episode019.rpy:1898
+    c "Sana katılsam olur mu?"
+
+
 translate turkish ep019_paclerara_jade_96c50de9:
 
-    # j "Not at all."
-    j ""
 
-# game/episode019.rpy:1900
+    j "Tabii ki."
+
+
 translate turkish ep019_paclerara_jade_bd47186c:
 
-    # "We both headed for the outskirts of the forest."
-    ""
 
-# game/episode019.rpy:1901
+    "İkimiz de ormanın kıyısına doğru yürüdük."
+
+
 translate turkish ep019_paclerara_jade_1060aa7e:
 
-    # c "Do you have a particular destination?"
-    c ""
 
-# game/episode019.rpy:1903
+    c "Belirli bir yere mi gidiyorsun?"
+
+
 translate turkish ep019_paclerara_jade_9f3c64c0:
 
-    # j "Yes actually, I've asked around for the location of my mother's burial place."
-    j ""
 
-# game/episode019.rpy:1904
+    j "Evet aslında, annemin mezarının yerini sordum etrafta."
+
+
 translate turkish ep019_paclerara_jade_977e979c:
 
-    # j "I was hoping to visit it."
-    j ""
 
-# game/episode019.rpy:1905
+    j "Ziyaret etmek istiyordum."
+
+
 translate turkish ep019_paclerara_jade_a6e1d7be:
 
-    # c "Oh, I didn't realize you wanted to visit her."
-    c ""
 
-# game/episode019.rpy:1906
+    c "Ah, onu ziyaret etmek istediğini bilmiyordum."
+
+
 translate turkish ep019_paclerara_jade_bca05ab1:
 
-    # c "If you'd like to have moment of peace and quiet of your own?"
-    c ""
 
-# game/episode019.rpy:1908
+    c "Yalnız başına huzurlu ve sessiz bir an geçirmek istersen?"
+
+
 translate turkish ep019_paclerara_jade_c632e22d:
 
-    # j "No, I'd be happy for your company."
-    j ""
 
-# game/episode019.rpy:1909
+    j "Hayır, benimle olman beni mutlu eder."
+
+
 translate turkish ep019_paclerara_jade_11adf254:
 
-    # c "Happy to hear that."
-    c ""
 
-# game/episode019.rpy:1911
+    c "Bunu duyduğuma sevindim."
+
+
 translate turkish ep019_paclerara_jade_7e4201c2:
 
-    # "We entered the forest, Jade leading the way."
-    ""
 
-# game/episode019.rpy:1912
+    "Ormana girdik, Jade önden ilerliyordu."
+
+
 translate turkish ep019_paclerara_jade_986ec06e:
 
-    # c "I didn't think Paclerara would be this much of a paradise."
-    c ""
 
-# game/episode019.rpy:1914
+    c "Paclerara'nın bu kadar cennet gibi olacağını düşünmemiştim."
+
+
 translate turkish ep019_paclerara_jade_3fa16d45:
 
-    # j "Yes, it's beautiful, pristine even."
-    j ""
 
-# game/episode019.rpy:1915
+    j "Evet, güzel, hatta el değmemiş gibi."
+
+
 translate turkish ep019_paclerara_jade_d83e8990:
 
-    # j "I'm glad my mother lived the last years of her life in a place like this."
-    j ""
 
-# game/episode019.rpy:1917
+    j "Annemin hayatının son yıllarını böyle bir yerde geçirmiş olmasına sevindim."
+
+
 translate turkish ep019_paclerara_jade_c899f90c:
 
-    # j "Luclite was a smoking ruin once the Sovereignty was done with it."
-    j ""
 
-# game/episode019.rpy:1918
+    j "Egemenlik işini bitirdiğinde Luclite tüten bir harabeydi."
+
+
 translate turkish ep019_paclerara_jade_f7d1b750:
 
-    # c "Utterly destroying something is something the Sovereignty is very good at."
-    c ""
 
-# game/episode019.rpy:1919
+    c "Bir şeyi tamamen yok etmek Egemenlik'in çok iyi olduğu bir şey."
+
+
 translate turkish ep019_paclerara_jade_027414eb:
 
-    # c "I think it's even one of their tenets of war, to completely obliterate a civilization, in order to destroy the sense of identity of its subjugated civilians."
-    c ""
 
-# game/episode019.rpy:1921
+    c "Bence bu onların savaş ilkelerinden biri, boyun eğdirdikleri sivillerin kimlik duygusunu yok etmek için bir medeniyeti tamamen ortadan kaldırmak."
+
+
 translate turkish ep019_paclerara_jade_70ff1f30:
 
-    # j "That sounds very plausible."
-    j ""
 
-# game/episode019.rpy:1922
+    j "Kulağa çok mantıklı geliyor."
+
+
 translate turkish ep019_paclerara_jade_2039dabe:
 
-    # c "Leave it to the Sovereignty to codify their acts of atrocity in an official rulebook."
-    c ""
 
-# game/episode019.rpy:1924
+    c "Vahşet eylemlerini resmi bir kurala dönüştürmek tam da Egemenlik'ten beklenecek bir şey."
+
+
 translate turkish ep019_paclerara_jade_55fb3a8a:
 
-    # "Jade snickered as we headed deeper into the forest."
-    ""
 
-# game/episode019.rpy:1926
+    "Jade ormanın derinliklerine doğru ilerlerken kıkırdadı."
+
+
 translate turkish ep019_paclerara_jade_00901cf3:
 
-    # j "I'd thought the gravesite would be nearer to the residential building."
-    j ""
 
-# game/episode019.rpy:1927
+    j "Mezarlığın yerleşim binasına daha yakın olacağını düşünmüştüm."
+
+
 translate turkish ep019_paclerara_jade_e6abf1e0:
 
-    # c "It seems quite far away."
-    c ""
 
-# game/episode019.rpy:1928
+    c "Bayağı uzak görünüyor."
+
+
 translate turkish ep019_paclerara_jade_aa14f918:
 
-    # c "It's a place of pilgrimage too, right?"
-    c ""
 
-# game/episode019.rpy:1929
+    c "Burası aynı zamanda bir hac yeri, değil mi?"
+
+
 translate turkish ep019_paclerara_jade_4c0bf4e7:
 
-    # j "Apparently, though it's only busy at certain times of the year."
-    j ""
 
-# game/episode019.rpy:1930
+    j "Görünüşe göre öyle, ama sadece yılın belirli zamanlarında kalabalık oluyor."
+
+
 translate turkish ep019_paclerara_jade_1f222c9e:
 
-    # j "Mostly around the date she passed away."
-    j ""
 
-# game/episode019.rpy:1931
+    j "Çoğunlukla onun vefat ettiği tarihlerde."
+
+
 translate turkish ep019_paclerara_jade_d5b74c43:
 
-    # c "Yes, that makes sense."
-    c ""
 
-# game/episode019.rpy:1932
+    c "Evet, mantıklı."
+
+
 translate turkish ep019_paclerara_jade_684a47f8:
 
-    # c "So there's likely nobody around at the moment?"
-    c ""
 
-# game/episode019.rpy:1933
+    c "Yani şu anda etrafta kimse yok gibi, öyle mi?"
+
+
 translate turkish ep019_paclerara_jade_14317f00:
 
-    # j "I don't think so, or we would have met others along the way I guess."
-    j ""
 
-# game/episode019.rpy:1934
+    j "Sanmıyorum, yoksa yol boyunca başkalarına rastlardık herhalde."
+
+
 translate turkish ep019_paclerara_jade_d1b2071d:
 
-    # j "We're nearly there, I think."
-    j ""
 
-# game/episode019.rpy:1936
+    j "Sanırım neredeyse geldik."
+
+
 translate turkish ep019_paclerara_jade_f02189b1:
 
-    # "Jade's mood turned pensive and we didn't talk much as we approached the burial site."
-    ""
 
-# game/episode019.rpy:1938
+    "Mezarlığa yaklaşırken Jade'in havası düşünceli bir hal aldı ve pek konuşmadık."
+
+
 translate turkish ep019_paclerara_jade_70f37bfc:
 
-    # "After a while, a stone path leading to a small monument could be seen through the trees."
-    ""
 
-# game/episode019.rpy:1939
+    "Bir süre sonra, ağaçların arasından küçük bir anıta giden taş yol görünmeye başladı."
+
+
 translate turkish ep019_paclerara_jade_8b1e8294:
 
-    # "The forest was very quiet, as if the local wildlife kept silent out of respect for the dead that were buried here."
-    ""
 
-# game/episode019.rpy:1940
+    "Orman çok sessizdi, sanki burada gömülü olan ölülere saygıdan dolayı yerel yaban hayatı sessizliğe bürünmüştü."
+
+
 translate turkish ep019_paclerara_jade_63678217:
 
-    # j "This must be the place."
-    j ""
 
-# game/episode019.rpy:1942
+    j "Burası olmalı."
+
+
 translate turkish ep019_paclerara_jade_44c0de69:
 
-    # "Jade and I approached the monument."
-    ""
 
-# game/episode019.rpy:1943
+    "Jade ve ben anıta yaklaştık."
+
+
 translate turkish ep019_paclerara_jade_7c5bdb5b:
 
-    # "The stones pulsed with a softly glowing light, almost like a heartbeat."
-    ""
 
-# game/episode019.rpy:1945
+    "Taşlar hafif bir ışıkla, neredeyse kalp atışı gibi titreşiyordu."
+
+
 translate turkish ep019_paclerara_jade_19d14dd6:
 
-    # "We stood in silence in front of the shrine."
-    ""
 
-# game/episode019.rpy:1947
+    "Türbenin önünde sessizce durduk."
+
+
 translate turkish ep019_paclerara_jade_8fa2eff5:
 
-    # "I saw tears in Jade’s eyes and took her hand, giving it a tentative squeeze."
-    ""
 
-# game/episode019.rpy:1949
+    "Jade'in gözlerindeki yaşları gördüm ve elini tutup hafifçe sıktım."
+
+
 translate turkish ep019_paclerara_jade_8e6676b2:
 
-    # "Jade leaned against me in response, her head resting against my chest."
-    ""
 
-# game/episode019.rpy:1950
+    "Jade karşılık olarak bana yaslandı, başını göğsüme dayadı."
+
+
 translate turkish ep019_paclerara_jade_d353077b:
 
-    # "It took her a good while before she was able to speak."
-    ""
 
-# game/episode019.rpy:1952
+    "Konuşabilmesi için bir süre geçmesi gerekti."
+
+
 translate turkish ep019_paclerara_jade_bc9bfbd6:
 
-    # j "It’s still a little surreal, being here."
-    j ""
 
-# game/episode019.rpy:1953
+    j "Burada olmak hala biraz gerçek dışı geliyor."
+
+
 translate turkish ep019_paclerara_jade_4b11ee82:
 
-    # j "After we were taken away from Luclite, I never saw my parents again."
-    j ""
 
-# game/episode019.rpy:1954
+    j "Luclite'dan götürüldükten sonra bir daha hiç anne babamı görmedim."
+
+
 translate turkish ep019_paclerara_jade_99ed8f84:
 
-    # j "To think she spent her last years here on Paclerara..."
-    j ""
 
-# game/episode019.rpy:1955
+    j "Son yıllarını burada, Paclerara'da geçirdiğini düşününce..."
+
+
 translate turkish ep019_paclerara_jade_e04323a9:
 
-    # c "It must have been lonely for her."
-    c ""
 
-# game/episode019.rpy:1957
+    c "Onun için yalnız bir hayat olmalıydı."
+
+
 translate turkish ep019_paclerara_jade_c9aecbac:
 
-    # j "Yes, I reckon it must have been."
-    j ""
 
-# game/episode019.rpy:1958
+    j "Evet, öyle olduğunu düşünüyorum."
+
+
 translate turkish ep019_paclerara_jade_cfa737ca:
 
-    # j "Even being surrounded by other Twi’ll."
-    j ""
 
-# game/episode019.rpy:1959
+    j "Diğer Twi'lllerle çevrili olsa bile."
+
+
 translate turkish ep019_paclerara_jade_24dc6a4e:
 
-    # c "Have you ever wondered if your parents ever tried to find you?"
-    c ""
 
-# game/episode019.rpy:1961
+    c "Hiç anne babanın seni bulmaya çalışıp çalışmadığını merak ettin mi?"
+
+
 translate turkish ep019_paclerara_jade_bc608158:
 
-    # j "When I was younger, I always imagined that my family would come to rescue me."
-    j ""
 
-# game/episode019.rpy:1962
+    j "Küçükken hep ailemin beni kurtarmaya geleceğini hayal ederdim."
+
+
 translate turkish ep019_paclerara_jade_3e8ab29f:
 
-    # j "You know, Twi’ll troopers crashing dramatically through the skylights, eventually carried away while dangling from a rope attached to a fast-moving ship."
-    j ""
 
-# game/episode019.rpy:1964
+    j "Hani şöyle, Twi'll askerleri çatı pencerelerinden dramatik bir şekilde içeri dalıp, hızla giden bir gemiye bağlı ipten sallanarak beni kaçıracaklardı."
+
+
 translate turkish ep019_paclerara_jade_007b8fa6:
 
-    # j "But that never happened, of course."
-    j ""
 
-# game/episode019.rpy:1965
+    j "Ama tabii ki hiçbir zaman olmadı böyle bir şey."
+
+
 translate turkish ep019_paclerara_jade_134739e6:
 
-    # c "Still, I get why the action heroics are better than the reality."
-    c ""
 
-# game/episode019.rpy:1967
+    c "Yine de neden aksiyon dolu kahramanlık hikayelerinin gerçekten daha iyi olduğunu anlıyorum."
+
+
 translate turkish ep019_paclerara_jade_a1221ee5:
 
-    # j "Certainly."
-    j ""
 
-# game/episode019.rpy:1968
+    j "Kesinlikle."
+
+
 translate turkish ep019_paclerara_jade_27525d3a:
 
-    # j "When I got older, I realized just how efficient the Sovereignty is when it comes to processing and obscuring the origin of Twi’ll and other conquered species."
-    j ""
 
-# game/episode019.rpy:1970
+    j "Büyüdüğümde, Egemenlik'in Twi'll ve diğer fethedilmiş türlerin kökenlerini işleyip gizleme konusunda ne kadar etkili olduğunu anladım."
+
+
 translate turkish ep019_paclerara_jade_f7d38cbd:
 
-    # j "It’s virtually impossible for an outsider to get any information."
-    j ""
 
-# game/episode019.rpy:1971
+    j "Dışarıdan birinin herhangi bir bilgi alması neredeyse imkansız."
+
+
 translate turkish ep019_paclerara_jade_c656ab39:
 
-    # c "It’s almost impossible for regular citizens, let alone prisoners."
-    c ""
 
-# game/episode019.rpy:1972
+    c "Sıradan vatandaşlar için bile neredeyse imkansız, tutsakları saymıyorum bile."
+
+
 translate turkish ep019_paclerara_jade_39db82b3:
 
-    # j "Exactly."
-    j ""
 
-# game/episode019.rpy:1973
+    j "Aynen öyle."
+
+
 translate turkish ep019_paclerara_jade_ba13c88d:
 
-    # j "One of the reasons I became so good at messing with computers is because it allowed me to get into records that were otherwise sealed."
-    j ""
 
-# game/episode019.rpy:1974
+    j "Bilgisayarlarla uğraşmakta bu kadar iyi olmamın nedenlerinden biri, erişilmesi yasak olan kayıtlara ulaşmamı sağlamasıydı."
+
+
 translate turkish ep019_paclerara_jade_451984e2:
 
-    # c "I knew your interest in hacking went way beyond humoring my juvenile requests."
-    c ""
 
-# game/episode019.rpy:1976
+    c "Hacklemekle ilgili merakının benim çocukça isteklerimi yerine getirmekten çok daha ötesi olduğunu biliyordum."
+
+
 translate turkish ep019_paclerara_jade_5ff6bd25:
 
-    # j "Don’t get me wrong, hacking that school sign to tell everyone about the principal’s infidelities was a lot of fun, but not the main purpose in my life."
-    j ""
 
-# game/episode019.rpy:1977
+    j "Yanlış anlama, okul tabelasını hacklayip müdürün sadakatsizliklerini herkese göstermek çok eğlenceliydi ama hayatımın asıl amacı bu değildi."
+
+
 translate turkish ep019_paclerara_jade_98d50c59:
 
-    # c "Damn, I’d already forgotten about Principal Bradley O’Zinger’s many dalliances..."
-    c ""
 
-# game/episode019.rpy:1979
+    c "Lanet olsun, Müdür Bradley O'Zinger'ın sayısız ilişkisini unutmuştum bile..."
+
+
 translate turkish ep019_paclerara_jade_2dc36081:
 
-    # j "He was an incorrigible lech and a veritable creep towards your sisters."
-    j ""
 
-# game/episode019.rpy:1981
+    j "Düzeltilemez bir sapıktı ve kız kardeşlerine karşı tam bir sapkındı."
+
+
 translate turkish ep019_paclerara_jade_3d90d833:
 
-    # j "He was an incorrigible lech and a veritable creep towards Eva and Lilly."
-    j ""
 
-# game/episode019.rpy:1983
+    j "Düzeltilemez bir sapıktı ve Eva ile Lilly'ye karşı tam bir sapkındı."
+
+
 translate turkish ep019_paclerara_jade_e111d109:
 
-    # "Jade smiled a little tensely and stared out into the forest."
-    ""
 
-# game/episode019.rpy:1984
+    "Jade gergin bir şekilde gülümsedi ve ormana doğru baktı."
+
+
 translate turkish ep019_paclerara_jade_68754dec:
 
-    # j "I’m happy we could visit this place, [p_name_short], albeit under such unfortunate circumstances."
-    j ""
 
-# game/episode019.rpy:1985
+    j "Bu kadar talihsiz koşullar altında olsa da buraya gelebildiğimiz için mutluyum, [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_9e8032df:
 
-    # c "The circumstances are less than ideal, but I know Eva is going to pull through."
-    c ""
 
-# game/episode019.rpy:1986
+    c "Koşullar pek iyi değil ama biliyorum ki Eva bunu atlatacak."
+
+
 translate turkish ep019_paclerara_jade_434bfde7:
 
-    # c "I’m glad we were able to visit too, because it’s so important to you."
-    c ""
 
-# game/episode019.rpy:1987
+    c "Ben de ziyaret edebildiğimiz için mutluyum, çünkü senin için çok önemli."
+
+
 translate turkish ep019_paclerara_jade_a0a315d6:
 
-    # j "I didn’t realize it was at first."
-    j ""
 
-# game/episode019.rpy:1989
+    j "İlk başta bunun farkında değildim."
+
+
 translate turkish ep019_paclerara_jade_bcdb6882:
 
-    # j "But it seems such a hopeful place, you know?"
-    j ""
 
-# game/episode019.rpy:1990
+    j "Ama burası umut dolu bir yer gibi görünüyor, anlıyor musun?"
+
+
 translate turkish ep019_paclerara_jade_d3155be8:
 
-    # c "Because of all the Twi’ll living here together?"
-    c ""
 
-# game/episode019.rpy:1991
+    c "Bütün Twi'llerin burada birlikte yaşamasından dolayı mı?"
+
+
 translate turkish ep019_paclerara_jade_1b44a408:
 
-    # j "Yes, but also the school and the archives."
-    j ""
 
-# game/episode019.rpy:1992
+    j "Evet, ama aynı zamanda okul ve arşivler de var."
+
+
 translate turkish ep019_paclerara_jade_53377a81:
 
-    # j "The researchers there are trying to recreate a history of our people, so that we will never forget who we were."
-    j ""
 
-# game/episode019.rpy:1993
+    j "Oradaki araştırmacılar halkımızın tarihini yeniden oluşturmaya çalışıyor, kim olduğumuzu asla unutmayalım diye."
+
+
 translate turkish ep019_paclerara_jade_8099cf56:
 
-    # c "True, Paclerara feels like an effort to rebuild Twi’ll civilization."
-    c ""
 
-# game/episode019.rpy:1994
+    c "Doğru, Paclerara sanki Twi'll medeniyetini yeniden inşa etme çabası gibi."
+
+
 translate turkish ep019_paclerara_jade_d66e70ca:
 
-    # j "It truly does, in more ways than one."
-    j ""
 
-# game/episode019.rpy:1995
+    j "Gerçekten öyle, hem de birçok açıdan."
+
+
 translate turkish ep019_paclerara_jade_d04526ee:
 
-    # j "Us Twi’ll have been scattered all across the universe, or confined to slavery inside the borders of the Sovereignty."
-    j ""
 
-# game/episode019.rpy:1996
+    j "Biz Twi'ller evrenin dört bir yanına dağıldık ya da Egemenlik'in sınırları içinde köleliğe mahkum edildik."
+
+
 translate turkish ep019_paclerara_jade_c965dd7f:
 
-    # j "According to the doctors I spoke with at the clinic, the Twi’ll birth-rate has been dangerously low for years now."
-    j ""
 
-# game/episode019.rpy:1997
+    j "Klinikteki konuştuğum doktorlara göre, Twi'll doğum oranı yıllardır tehlikeli derecede düşükmüş."
+
+
 translate turkish ep019_paclerara_jade_64b54bc0:
 
-    # c "Are you saying your species is dying out?"
-    c ""
 
-# game/episode019.rpy:1999
+    c "Türünüzün yok olmak üzere olduğunu mu söylüyorsun?"
+
+
 translate turkish ep019_paclerara_jade_a1d4ae8e:
 
-    # j "Not exactly, apparently we’re not at the point of no return yet."
-    j ""
 
-# game/episode019.rpy:2000
+    j "Tam olarak değil, görünüşe göre henüz geri dönüşü olmayan noktada değiliz."
+
+
 translate turkish ep019_paclerara_jade_3a113c92:
 
-    # j "But there’s reason to worry."
-    j ""
 
-# game/episode019.rpy:2001
+    j "Ama endişelenmek için sebepler var."
+
+
 translate turkish ep019_paclerara_jade_b382bbc2:
 
-    # j "Too many Twi’ll are sexually tangled up with other species..."
-    j ""
 
-# game/episode019.rpy:2002
+    j "Çok fazla Twi'll başka türlerle cinsel ilişkiye giriyor..."
+
+
 translate turkish ep019_paclerara_jade_17791864:
 
-    # c "Guilty as charged."
-    c ""
 
-# game/episode019.rpy:2004
+    c "Suçlu olduğumu kabul ediyorum."
+
+
 translate turkish ep019_paclerara_jade_cddeccb0:
 
-    # j "Yes, we are..."
-    j ""
 
-# game/episode019.rpy:2008
+    j "Evet, öyleyiz..."
+
+
 translate turkish ep019_paclerara_jade_90c80113:
 
-    # c "Say Jade, we’ve never spoken of it before."
-    c ""
 
-# game/episode019.rpy:2009
+    c "Bak Jade, bunu daha önce hiç konuşmadık."
+
+
 translate turkish ep019_paclerara_jade_fe3c06ec:
 
-    # c "But do you want children?"
-    c ""
 
-# game/episode019.rpy:2011
+    c "Ama çocuk istiyor musun?"
+
+
 translate turkish ep019_paclerara_jade_6799b041:
 
-    # j "For a long time, it never seemed like an option."
-    j ""
 
-# game/episode019.rpy:2012
+    j "Uzun süre boyunca, hiç seçenek gibi görünmedi."
+
+
 translate turkish ep019_paclerara_jade_7c78bfbd:
 
-    # j "I mean, I was your Attendant and you’re human, genetically incompatible, so..."
-    j ""
 
-# game/episode019.rpy:2014
+    j "Yani, ben senin Hizmetkarındım ve sen insansın, genetik olarak uyumsuzuz, o yüzden..."
+
+
 translate turkish ep019_paclerara_jade_df853a2c:
 
-    # j "Which is, incidentally, such an injustice, because Twi’ll and humans go so well together, sexually."
-    j ""
 
-# game/episode019.rpy:2015
+    j "Bu arada bu çok büyük bir haksızlık, çünkü Twi'ller ve insanlar cinsel olarak çok iyi anlaşıyor."
+
+
 translate turkish ep019_paclerara_jade_c26b6736:
 
-    # j "But I’d be lying if I haven’t dreamed about it."
-    j ""
 
-# game/episode019.rpy:2017
+    j "Ama bunu hayal etmediğimi söylersem yalan olur."
+
+
 translate turkish ep019_paclerara_jade_bc02d403:
 
-    # j "Especially lately, when I heard about the final resting place of my mother."
-    j ""
 
-# game/episode019.rpy:2018
+    j "Özellikle son zamanlarda, annemin son dinlenme yerini öğrendiğimden beri."
+
+
 translate turkish ep019_paclerara_jade_041cfdcc:
 
-    # j "It’s likely the N'ec L'ordann va T'olnec bloodline will end after I die."
-    j ""
 
-# game/episode019.rpy:2019
+    j "Muhtemelen N'ec L'ordann va T'olnec soyağacı ben öldükten sonra son bulacak."
+
+
 translate turkish ep019_paclerara_jade_7f4fa701:
 
-    # c "So it’s a question of continuing a family legacy for you?"
-    c ""
 
-# game/episode019.rpy:2021
+    c "Yani senin için aile mirasını devam ettirme meselesi mi?"
+
+
 translate turkish ep019_paclerara_jade_9d619fef:
 
-    # j "No, that would make the issue far too loaded."
-    j ""
 
-# game/episode019.rpy:2022
+    j "Hayır, bu konuyu fazla ağırlaştırırdı."
+
+
 translate turkish ep019_paclerara_jade_94a04593:
 
-    # j "Mainly, I just want a couple of brats to dote upon!"
-    j ""
 
-# game/episode019.rpy:2023
+    j "Esas olarak, sadece üzerine titreyeceğim birkaç yaramaz istiyorum!"
+
+
 translate turkish ep019_paclerara_jade_209ddf6e:
 
-    # c "So, raising children with a Twi’ll husband?"
-    c ""
 
-# game/episode019.rpy:2025
+    c "Yani, bir Twi'll kocayla mı çocuk yetiştireceksin?"
+
+
 translate turkish ep019_paclerara_jade_224497b4:
 
-    # j "No!"
-    j ""
 
-# game/episode019.rpy:2026
+    j "Hayır!"
+
+
 translate turkish ep019_paclerara_jade_7d7745f0:
 
-    # j "Starting a family with you of course!"
-    j ""
 
-# game/episode019.rpy:2028
+    j "Tabii ki seninle bir aile kurmak!"
+
+
 translate turkish ep019_paclerara_jade_2d20d347:
 
-    # j "But listen to me raving about becoming a mother, what about you?"
-    j ""
 
-# game/episode019.rpy:2029
+    j "Ama bak ben anne olmaktan bahsedip duruyorum, ya sen ne düşünüyorsun?"
+
+
 translate turkish ep019_paclerara_jade_6b1cd2fe:
 
-    # c "I’d love to have children with you."
-    c ""
 
-# game/episode019.rpy:2030
+    c "Seninle çocuk sahibi olmayı çok isterim."
+
+
 translate turkish ep019_paclerara_jade_21437d62:
 
-    # c "And you’d make a great mother, I’m sure."
-    c ""
 
-# game/episode019.rpy:2031
+    c "Ve eminim harika bir anne olursun."
+
+
 translate turkish ep019_paclerara_jade_cc6418bb:
 
-    # c "But as you say, genetically incompatible."
-    c ""
 
-# game/episode019.rpy:2033
+    c "Ama dediğin gibi, genetik olarak uyumsuzuz."
+
+
 translate turkish ep019_paclerara_jade_4f5b044c:
 
-    # "Jade’s smile was as radiant as it was infectious."
-    ""
 
-# game/episode019.rpy:2034
+    "Jade'in gülümsemesi hem parlak hem de bulaşıcıydı."
+
+
 translate turkish ep019_paclerara_jade_034cf970:
 
-    # j "Are you serious about this?"
-    j ""
 
-# game/episode019.rpy:2035
+    j "Bu konuda ciddi misin?"
+
+
 translate turkish ep019_paclerara_jade_20bb8e1c:
 
-    # c "Of course I am, I wouldn’t play with your feelings like that."
-    c ""
 
-# game/episode019.rpy:2036
+    c "Tabii ki ciddiyim, duygularınla böyle oynamam."
+
+
 translate turkish ep019_paclerara_jade_dfbc56b8:
 
-    # j "Because there might be a way."
-    j ""
 
-# game/episode019.rpy:2038
+    j "Çünkü bir yolu olabilir."
+
+
 translate turkish ep019_paclerara_jade_5c8b4771:
 
-    # j "As I said, Twi’ll and humans are so compatible sexually."
-    j ""
 
-# game/episode019.rpy:2039
+    j "Dediğim gibi, Twi'ller ve insanlar cinsel olarak çok uyumlu."
+
+
 translate turkish ep019_paclerara_jade_fb136693:
 
-    # j "Apparently, that’s not just a feeling."
-    j ""
 
-# game/episode019.rpy:2040
+    j "Görünüşe göre bu sadece bir his değil."
+
+
 translate turkish ep019_paclerara_jade_769521cb:
 
-    # j "Scientists at the clinic here have created an experimental procedure to make Twi’ll and human reproductive systems work together."
-    j ""
 
-# game/episode019.rpy:2041
+    j "Buradaki klinikteki bilim insanları, Twi'll ve insan üreme sistemlerinin birlikte çalışmasını sağlayacak deneysel bir yöntem geliştirmişler."
+
+
 translate turkish ep019_paclerara_jade_9c23979e:
 
-    # c "They have?"
-    c ""
 
-# game/episode019.rpy:2043
+    c "Öyle mi?"
+
+
 translate turkish ep019_paclerara_jade_a906ab10:
 
-    # j "Yes, it’s only for Twi’ll and human couples who arrive here together and consent to the procedure."
-    j ""
 
-# game/episode019.rpy:2044
+    j "Evet, sadece buraya birlikte gelen ve işleme onay veren Twi'll ve insan çiftleri için."
+
+
 translate turkish ep019_paclerara_jade_25107add:
 
-    # j "It’s not a risky method, but it requires an intervention for both species."
-    j ""
 
-# game/episode019.rpy:2045
+    j "Riskli bir yöntem değil, ama her iki tür için de bir müdahale gerekiyor."
+
+
 translate turkish ep019_paclerara_jade_286f2d13:
 
-    # j "Females need an operation, while males need an injection."
-    j ""
 
-# game/episode019.rpy:2046
+    j "Dişilerin ameliyat olması, erkeklerin ise iğne yaptırması gerekiyor."
+
+
 translate turkish ep019_paclerara_jade_b22448e5:
 
-    # c "And after that we could conceive together?"
-    c ""
 
-# game/episode019.rpy:2048
+    c "Ve bundan sonra birlikte çocuk sahibi olabilir miyiz?"
+
+
 translate turkish ep019_paclerara_jade_9f64a2bd:
 
-    # j "Yes."
-    j ""
 
-# game/episode019.rpy:2049
+    j "Evet."
+
+
 translate turkish ep019_paclerara_jade_c71e1650:
 
-    # c "And would we need repeated treatments?"
-    c ""
 
-# game/episode019.rpy:2050
+    c "Peki tekrarlanan tedavilere ihtiyacımız olacak mı?"
+
+
 translate turkish ep019_paclerara_jade_7e8047d6:
 
-    # j "No, that’s the genius of it!"
-    j ""
 
-# game/episode019.rpy:2051
+    j "Hayır, işin dehası da bu zaten!"
+
+
 translate turkish ep019_paclerara_jade_7b4a1c6d:
 
-    # j "It only takes one cycle of treatments."
-    j ""
 
-# game/episode019.rpy:2052
+    j "Sadece bir tedavi döngüsü yeterli."
+
+
 translate turkish ep019_paclerara_jade_6dcc08ce:
 
-    # c "Is there any downside?"
-    c ""
 
-# game/episode019.rpy:2053
+    c "Herhangi bir dezavantajı var mı?"
+
+
 translate turkish ep019_paclerara_jade_b9e7fd85:
 
-    # c "Like, does it render you infertile when it comes to human on human coupling?"
-    c ""
 
-# game/episode019.rpy:2055
+    c "Yani, insan-insan ilişkisinde kısırlığa neden oluyor mu?"
+
+
 translate turkish ep019_paclerara_jade_2e442f13:
 
-    # "Jade’s face fell and she looked away from me."
-    ""
 
-# game/episode019.rpy:2056
+    "Jade'in yüzü düştü ve benden uzağa baktı."
+
+
 translate turkish ep019_paclerara_jade_b02b4c90:
 
-    # j "I was afraid you’d ask that."
-    j ""
 
-# game/episode019.rpy:2057
+    j "Bunu soracağından korkuyordum."
+
+
 translate turkish ep019_paclerara_jade_a6e34739:
 
-    # j "There’s a downside of course."
-    j ""
 
-# game/episode019.rpy:2058
+    j "Tabii ki bir dezavantajı var."
+
+
 translate turkish ep019_paclerara_jade_3209111c:
 
-    # j "The procedure strengthens the male’s sperm, that’s all."
-    j ""
 
-# game/episode019.rpy:2059
+    j "İşlem sadece erkeğin tohumunu güçlendiriyor, hepsi bu."
+
+
 translate turkish ep019_paclerara_jade_52fb1a50:
 
-    # j "For the women, it’s different."
-    j ""
 
-# game/episode019.rpy:2060
+    j "Kadınlar için durum farklı."
+
+
 translate turkish ep019_paclerara_jade_fc2747cd:
 
-    # j "When a human woman undergoes the procedure, she’ll only be able to conceive with Twi’ll males afterwards."
-    j ""
 
-# game/episode019.rpy:2061
+    j "Bir insan kadını bu işlemi geçirdiğinde, sadece Twi'll erkekleriyle çocuk sahibi olabilecek."
+
+
 translate turkish ep019_paclerara_jade_98e75037:
 
-    # j "Likewise, if I were to get it done, I would only be able to have children with human males."
-    j ""
 
-# game/episode019.rpy:2063
+    j "Aynı şekilde, ben yaptırırsam sadece insan erkekleriyle çocuk sahibi olabileceğim."
+
+
 translate turkish ep019_paclerara_jade_894d10d4:
 
-    # j "But I’m willing to take that risk."
-    j ""
 
-# game/episode019.rpy:2064
+    j "Ama bu riski almaya hazırım."
+
+
 translate turkish ep019_paclerara_jade_5271c253:
 
-    # j "For us!"
-    j ""
 
-# game/episode019.rpy:2065
+    j "Bizim için!"
+
+
 translate turkish ep019_paclerara_jade_f2685489:
 
-    # j "There’s nobody else I want children with but you!"
-    j ""
 
-# game/episode019.rpy:2069
+    j "Senden başka kimseyle çocuk sahibi olmak istemiyorum!"
+
+
 translate turkish ep019_paclerara_jade_e15d9154:
 
-    # c "Are you absolutely sure?"
-    c ""
 
-# game/episode019.rpy:2070
+    c "Kesinlikle emin misin?"
+
+
 translate turkish ep019_paclerara_jade_79f3908a:
 
-    # c "I mean it’s your choice, obviously, but I don’t want you to feel pressured or anything."
-    c ""
 
-# game/episode019.rpy:2071
+    c "Yani bu senin seçimin tabii ki, ama kendini baskı altında hissetmeni istemiyorum."
+
+
 translate turkish ep019_paclerara_jade_2dad1f5e:
 
-    # c "If you don’t want it to happen, it won’t."
-    c ""
 
-# game/episode019.rpy:2072
+    c "Eğer olmasını istemiyorsan, olmaz."
+
+
 translate turkish ep019_paclerara_jade_2b2d8e21:
 
-    # c "Maybe they’ll finetune the process more over the next couple of years, so that it won’t have this side effect."
-    c ""
 
-# game/episode019.rpy:2074
+    c "Belki önümüzdeki birkaç yıl içinde süreci daha da iyileştirirler ve bu yan etki ortadan kalkar."
+
+
 translate turkish ep019_paclerara_jade_d63de2ad:
 
-    # j "I don’t want to wait years."
-    j ""
 
-# game/episode019.rpy:2075
+    j "Yıllarca beklemek istemiyorum."
+
+
 translate turkish ep019_paclerara_jade_3ae38d9f:
 
-    # j "I want your baby, [p_name_short]."
-    j ""
 
-# game/episode019.rpy:2077
+    j "Senin bebeğini istiyorum, [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_379c0810:
 
-    # j "Or babies, for that matter."
-    j ""
 
-# game/episode019.rpy:2079
+    j "Ya da bebeklerini, bu konuda."
+
+
 translate turkish ep019_paclerara_jade_5d149df5:
 
-    # j "I’ve been in love with you for a very long time, even before we acknowledged our feelings."
-    j ""
 
-# game/episode019.rpy:2080
+    j "Çok uzun zamandır sana aşığım, hatta duygularımızı kabul etmeden önce bile."
+
+
 translate turkish ep019_paclerara_jade_bb2be233:
 
-    # j "And I’ve wanted your children for almost as long."
-    j ""
 
-# game/episode019.rpy:2081
+    j "Ve neredeyse o zamandan beri senin çocuklarını istiyorum."
+
+
 translate turkish ep019_paclerara_jade_74420e76:
 
-    # c "I’m so mad about you, Jade, I’d love for us to start trying for a family."
-    c ""
 
-# game/episode019.rpy:2083
+    c "Sana çok aşığım Jade, bir aile kurmak için denemeye başlamak istiyorum."
+
+
 translate turkish ep019_paclerara_jade_d413c173:
 
-    # c "I’m not sure I can ask you do that for me, Jade."
-    c ""
 
-# game/episode019.rpy:2084
+    c "Bunu benim için yapmanı isteyebileceğimden emin değilim, Jade."
+
+
 translate turkish ep019_paclerara_jade_c6085d57:
 
-    # c "I can’t be responsible for partially sterilizing you."
-    c ""
 
-# game/episode019.rpy:2086
+    c "Kısmen kısırlaşmana neden olmaktan sorumlu olamam."
+
+
 translate turkish ep019_paclerara_jade_dae8b329:
 
-    # j "You know it’s my own choice, right?"
-    j ""
 
-# game/episode019.rpy:2087
+    j "Bunun kendi seçimim olduğunu biliyorsun, değil mi?"
+
+
 translate turkish ep019_paclerara_jade_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode019.rpy:2088
+    c "Biliyorum."
+
+
 translate turkish ep019_paclerara_jade_1e34b001:
 
-    # c "It’s your own body."
-    c ""
 
-# game/episode019.rpy:2089
+    c "Bu senin kendi bedenin."
+
+
 translate turkish ep019_paclerara_jade_341fc91b:
 
-    # c "But it’s definitive, right, there’s no going back?"
-    c ""
 
-# game/episode019.rpy:2091
+    c "Ama bu kesin, değil mi, geri dönüşü yok?"
+
+
 translate turkish ep019_paclerara_jade_94456c77:
 
-    # j "No, there isn’t."
-    j ""
 
-# game/episode019.rpy:2092
+    j "Hayır, yok."
+
+
 translate turkish ep019_paclerara_jade_41048960:
 
-    # c "I don’t really want to think about it, but what if something happens to me?"
-    c ""
 
-# game/episode019.rpy:2093
+    c "Bunu düşünmek istemiyorum ama ya bana bir şey olursa?"
+
+
 translate turkish ep019_paclerara_jade_ad53d1a6:
 
-    # c "What if I’m no longer there and you’ve met someone else and are ready to move on?"
-    c ""
 
-# game/episode019.rpy:2095
+    c "Ya ben artık orada değilsem ve sen başka biriyle tanışmış ve hayatına devam etmeye hazırsan?"
+
+
 translate turkish ep019_paclerara_jade_a9f629f3:
 
-    # j "This isn’t some whim, [p_name]."
-    j ""
 
-# game/episode019.rpy:2096
+    j "Bu bir heves değil, [p_name]."
+
+
 translate turkish ep019_paclerara_jade_5d149df5_1:
 
-    # j "I’ve been in love with you for a very long time, even before we acknowledged our feelings."
-    j ""
 
-# game/episode019.rpy:2097
+    j "Seninle tanışmadan çok önce, uzun zamandır sana aşığım."
+
+
 translate turkish ep019_paclerara_jade_bb2be233_1:
 
-    # j "And I’ve wanted your children for almost as long."
-    j ""
 
-# game/episode019.rpy:2101
+    j "Ve ben de neredeyse aynı süredir senin çocuklarını istiyorum."
+
+
 translate turkish ep019_paclerara_jade_a5a8c4e5:
 
-    # c "Don’t misunderstand me, I really want us to have kids."
-    c ""
 
-# game/episode019.rpy:2102
+    c "Beni yanlış anlama, gerçekten çocuk sahibi olmak istiyorum."
+
+
 translate turkish ep019_paclerara_jade_1a04042e:
 
-    # c "I just don’t want to overwhelm you with my enthusiasm and force you into making life-changing choices."
-    c ""
 
-# game/episode019.rpy:2104
+    c "Sadece sana karşı olan heyecanımla seni bunaltmak ve hayatında büyük değişiklikler yapmaya zorlamak istemiyorum."
+
+
 translate turkish ep019_paclerara_jade_9c7bf52b:
 
-    # j "Well, I’m not getting those enthused vibes from you, to be honest."
-    j ""
 
-# game/episode019.rpy:2105
+    j "Açıkçası, senden o kadar da heyecanlı bir hava almıyorum."
+
+
 translate turkish ep019_paclerara_jade_926a80e6:
 
-    # c "But I am, Jade!"
-    c ""
 
-# game/episode019.rpy:2106
+    c "Ama ben öyleyim, Jade!"
+
+
 translate turkish ep019_paclerara_jade_397abb57:
 
-    # c "As I said, you’d be a great mother."
-    c ""
 
-# game/episode019.rpy:2107
+    c "Dediğim gibi, sen harika bir anne olurdun."
+
+
 translate turkish ep019_paclerara_jade_da4d2b3d:
 
-    # c "And I’m mad about you, so I’d love for us to start trying for a family."
-    c ""
 
-# game/episode019.rpy:2109
+    c "Ve sana deli gibi aşığım, bu yüzden bir aile kurmaya çalışmaya başlamayı çok isterim."
+
+
 translate turkish ep019_paclerara_jade_b4bd8745:
 
-    # c "I’m sorry Jade, but I couldn’t live with myself, knowing that you made that sacrifice for me."
-    c ""
 
-# game/episode019.rpy:2110
+    c "Üzgünüm Jade, ama senin benim için bu fedakarlığı yaptığını bilerek kendimle yaşayamazdım."
+
+
 translate turkish ep019_paclerara_jade_e56cab18:
 
-    # c "Anything could happen in the near future, feelings change..."
-    c ""
 
-# game/episode019.rpy:2112
+    c "Yakın gelecekte her şey olabilir, duygular değişir..."
+
+
 translate turkish ep019_paclerara_jade_c40620c6:
 
-    # j "I...{w} Maybe you’re right."
-    j ""
 
-# game/episode019.rpy:2113
+    j "Ben...{w} Belki de haklısın."
+
+
 translate turkish ep019_paclerara_jade_25b9f4a9:
 
-    # j "That treatment got my hopes up and I was so excited."
-    j ""
 
-# game/episode019.rpy:2114
+    j "Bu tedavi umutlarımı yeşertti ve çok heyecanlandım."
+
+
 translate turkish ep019_paclerara_jade_78418549:
 
-    # j "But you’re right, it is irreversible."
-    j ""
 
-# game/episode019.rpy:2115
+    j "Ama haklısın, bu geri dönüşü olmayan bir şey."
+
+
 translate turkish ep019_paclerara_jade_dd9f3d27:
 
-    # j "And the negatives are quite skewed toward females."
-    j ""
 
-# game/episode019.rpy:2117
+    j "Ve olumsuzluklar kadınlara oldukça eğilimlidir.."
+
+
 translate turkish ep019_paclerara_jade_dfad48ee:
 
-    # "Jade pressed herself closer to me and we looked out over the monument into the forest."
-    ""
 
-# game/episode019.rpy:2119
+    "Jade bana daha da yaklaştı ve anıtın üzerinden ormana doğru baktık."
+
+
 translate turkish ep019_paclerara_jade_b8357fdb:
 
-    # j "Sorry for all this."
-    j ""
 
-# game/episode019.rpy:2120
+    j "Tüm bunlar için özür dilerim."
+
+
 translate turkish ep019_paclerara_jade_d90f600a:
 
-    # j "Coming here has brought out all these emotions."
-    j ""
 
-# game/episode019.rpy:2121
+    j "Buraya gelmek tüm bu duyguları ortaya çıkardı."
+
+
 translate turkish ep019_paclerara_jade_740e141e:
 
-    # c "Don’t say sorry, you have nothing to apologize for."
-    c ""
 
-# game/episode019.rpy:2122
+    c "Özür dileme, özür dilenecek bir şey yok."
+
+
 translate turkish ep019_paclerara_jade_585e328e:
 
-    # c "And the treatment proves there is hope."
-    c ""
 
-# game/episode019.rpy:2123
+    c "Ve tedavi, umut olduğunu kanıtlıyor."
+
+
 translate turkish ep019_paclerara_jade_f0eb359c:
 
-    # c "Maybe they’ll finetune it over the next couple of years, so that it won’t have all these side effects."
-    c ""
 
-# game/episode019.rpy:2125
+    c "Belki önümüzdeki birkaç yıl içinde bunu iyileştirirler, böylece tüm bu yan etkiler ortadan kalkar."
+
+
 translate turkish ep019_paclerara_jade_bc5502ef:
 
-    # j "Yeah, maybe they will."
-    j ""
 
-# game/episode019.rpy:2129
+    j "Evet, belki de öyle olur."
+
+
 translate turkish ep019_paclerara_jade_d764f8d6:
 
-    # "Jade looked at me happily and kissed me."
-    ""
 
-# game/episode019.rpy:2131
+    "Jade bana mutlu bir şekilde baktı ve beni öptü."
+
+
 translate turkish ep019_paclerara_jade_5c66ffae:
 
-    # j "I’m going to book us an appointment as soon as possible."
-    j ""
 
-# game/episode019.rpy:2132
+    j "En kısa zamanda randevu alacağım."
+
+
 translate turkish ep019_paclerara_jade_564621ac:
 
-    # c "I can’t believe we’re actually doing this."
-    c ""
 
-# game/episode019.rpy:2133
+    c "Gerçekten bunu yapacağımıza inanamıyorum."
+
+
 translate turkish ep019_paclerara_jade_abb64e5d:
 
-    # j "We are, [p_name_short], we are!"
-    j ""
 
-# game/episode019.rpy:2135
+    j "Yapıyoruz, [p_name_short], gerçekten yapıyoruz!"
+
+
 translate turkish ep019_paclerara_jade_f344fb09:
 
-    # "We kissed and stood in front of the monument for a long time, holding each other."
-    ""
 
-# game/episode019.rpy:2138
+    "Öpüştük ve uzun süre anıtın önünde birbirimize sarılarak durduk."
+
+
 translate turkish ep019_paclerara_jade_87a1c68e:
 
-    # "Jade and I stood in front of the monument for a long time, holding each other."
-    ""
 
-# game/episode019.rpy:2139
+    "Jade ve ben uzun süre anıtın önünde birbirimize sarılarak durduk."
+
+
 translate turkish ep019_paclerara_jade_22a886d8:
 
-    # j "It’s starting to get dark."
-    j ""
 
-# game/episode019.rpy:2140
+    j "Hava kararmaya başlıyor."
+
+
 translate turkish ep019_paclerara_jade_c16ffcd8:
 
-    # j "Maybe we should head back?"
-    j ""
 
-# game/episode019.rpy:2141
+    j "Belki geri dönmeliyiz?"
+
+
 translate turkish ep019_paclerara_jade_88df38a7:
 
-    # c "Agreed."
-    c ""
 
-# game/episode019.rpy:2142
+    c "Katılıyorum."
+
+
 translate turkish ep019_paclerara_jade_e1e14c02:
 
-    # j "Thank you for coming out here with me."
-    j ""
 
-# game/episode019.rpy:2143
+    j "Benimle buraya geldiğin için teşekkür ederim."
+
+
 translate turkish ep019_paclerara_jade_ba279f53:
 
-    # j "It means a lot."
-    j ""
 
-# game/episode019.rpy:2144
+    j "Bu benim için çok şey ifade ediyor."
+
+
 translate turkish ep019_paclerara_jade_d79de659:
 
-    # c "I know it does, thank you for allowing me to come with you."
-    c ""
 
-# game/episode019.rpy:2146
+    c "Biliyorum, seninle gelmeme izin verdiğin için teşekkür ederim."
+
+
 translate turkish ep019_paclerara_jade_4c6033e7:
 
-    # "Jade smiled and kept my hand in hers while we made the journey back to the residential complex."
-    ""
 
-# game/episode019.rpy:2154
+    "Jade gülümsedi ve konut kompleksine geri dönerken elimi elinde tuttu."
+
+
 translate turkish ep019_paclerara_jade_alt_fd7374e7:
 
-    # "I was about to swim a few laps, when the door to the pool opened."
-    ""
 
-# game/episode019.rpy:2157
+    "Birkaç tur yüzmek üzereydim ki havuzun kapısı açıldı."
+
+
 translate turkish ep019_paclerara_jade_alt_b7a25a26:
 
-    # "Jade walked inside."
-    ""
 
-# game/episode019.rpy:2158
+    "Jade içeri girdi."
+
+
 translate turkish ep019_paclerara_jade_alt_96b5a164:
 
-    # "She openly admired my half-naked body for a few seconds and then strode towards me."
-    ""
 
-# game/episode019.rpy:2159
+    "Yarı çıplak vücudumu birkaç saniye açıkça süzdü ve sonra bana doğru yürüdü."
+
+
 translate turkish ep019_paclerara_jade_alt_bce80095:
 
-    # c "Going for a swim too?"
-    c ""
 
-# game/episode019.rpy:2161
+    c "Sen de mi yüzmeye geldin?"
+
+
 translate turkish ep019_paclerara_jade_alt_9c0a06c7:
 
-    # j "Actually, I had something else in mind."
-    j ""
 
-# game/episode019.rpy:2163
+    j "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_a169e5ab:
 
-    # "Jade was kissing me in an instant, and I was tearing at her clothes."
-    ""
 
-# game/episode019.rpy:2190
+    "Jade bir anda beni öpmeye başladı ve ben de onun kıyafetlerini çıkarmaya çalışıyordum."
+
+
 translate turkish ep019_paclerara_jade_alt_73face3e:
 
-    # "[girl] walked inside."
-    ""
 
-# game/episode019.rpy:2191
+    "[girl] içeri girdi."
+
+
 translate turkish ep019_paclerara_jade_alt_96b5a164_1:
 
-    # "She openly admired my half-naked body for a few seconds and then strode towards me."
-    ""
 
-# game/episode019.rpy:2192
+    "Yarı çıplak vücudumu birkaç saniye açıkça süzdü ve sonra bana doğru yürüdü."
+
+
 translate turkish ep019_paclerara_jade_alt_bce80095_1:
 
-    # c "Going for a swim too?"
-    c ""
 
-# game/episode019.rpy:2195
+    c "Sen de mi yüzmeye geldin?"
+
+
 translate turkish ep019_paclerara_jade_alt_2d052b77:
 
-    # l "Actually, I had something else in mind."
-    l ""
 
-# game/episode019.rpy:2199
+    l "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_6dc8658b:
 
-    # av "Actually, I had something else in mind."
-    av ""
 
-# game/episode019.rpy:2203
+    av "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_0481de0d:
 
-    # na "Actually, I had something else in mind."
-    na ""
 
-# game/episode019.rpy:2207
+    na "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_7929ada2:
 
-    # ce "Actually, I had something else in mind."
-    ce ""
 
-# game/episode019.rpy:2211
+    ce "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_18b66002:
 
-    # ra "Actually, I had something else in mind."
-    ra ""
 
-# game/episode019.rpy:2215
+    ra "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_cad174ac:
 
-    # th "Actually, I had something else in mind."
-    th ""
 
-# game/episode019.rpy:2219
+    th "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_86fcbb1c:
 
-    # zi "Actually, I had something else in mind."
-    zi ""
 
-# game/episode019.rpy:2223
+    zi "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_f494afbd:
 
-    # ve "Actually, I had something else in mind."
-    ve ""
 
-# game/episode019.rpy:2225
+    ve "Aslında aklımda başka bir şey vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_c9bd5c22:
 
-    # "[girl] was kissing me in an instant, and I was tearing at her clothes."
-    ""
 
-# game/episode019.rpy:2226
+    "[girl] bir anda beni öpmeye başladı ve ben de onun kıyafetlerini çıkarmaya çalışıyordum."
+
+
 translate turkish ep019_paclerara_jade_alt_2f74ff51:
 
-    # "We shuffled toward one of the deck chairs, intent on taking the action a little further there."
-    ""
 
-# game/episode019.rpy:2227
+    "Şezlonglardan birine doğru ilerledik, orada işi biraz daha ilerletmek niyetindeydik."
+
+
 translate turkish ep019_paclerara_jade_alt_7ec773ef:
 
-    # "That’s when we heard the doors open again."
-    ""
 
-# game/episode019.rpy:2244
+    "Tam o sırada kapıların tekrar açıldığını duyduk."
+
+
 translate turkish ep019_paclerara_jade_alt_3738da9c:
 
-    # "[girl] tore away from me, and the effect of her jumping off me would have been funny if it weren’t for Jade standing in the doorway."
-    ""
 
-# game/episode019.rpy:2246
+    "[girl] benden uzaklaştı ve üzerimden atlayışı, kapıda Jade durmasaydı komik olabilirdi."
+
+
 translate turkish ep019_paclerara_jade_alt_d1fa407f:
 
-    # l "Right, I’ll see you around, [p_name_short]."
-    l ""
 
-# game/episode019.rpy:2248
+    l "Tamam, sonra görüşürüz, [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_053fe3b7:
 
-    # av "Right, I’ll see you around, [p_name_short]."
-    av ""
 
-# game/episode019.rpy:2250
+    av "Tamam, sonra görüşürüz, [p_name_short]."
+
+
+
 translate turkish ep019_paclerara_jade_alt_d691aecb:
 
-    # na "Right, I’ll see you around, [p_name_short]."
-    na ""
 
-# game/episode019.rpy:2252
+    na "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_1c35f66a:
 
-    # ce "Right, I’ll see you around, [p_name_short]."
-    ce ""
 
-# game/episode019.rpy:2254
+    ce "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_eda5aaf4:
 
-    # ra "Right, I’ll see you around, [p_name_short]."
-    ra ""
 
-# game/episode019.rpy:2256
+    ra "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_a82f14f7:
 
-    # th "Right, I’ll see you around, [p_name_short]."
-    th ""
 
-# game/episode019.rpy:2258
+    th "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_31fd5082:
 
-    # zi "Right, I’ll see you around, [p_name_short]."
-    zi ""
 
-# game/episode019.rpy:2260
+    zi "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_44b57b62:
 
-    # ve "Right, I’ll see you around, [p_name_short]."
-    ve ""
 
-# game/episode019.rpy:2261
+    ve "Tamam, görüşürüz [p_name_short]."
+
+
 translate turkish ep019_paclerara_jade_alt_5466c5d1:
 
-    # "With that, she hurried out of the pool area, greeting Jade in passing."
-    ""
 
-# game/episode019.rpy:2263
+    "Bunu söyledikten sonra, havuz bölgesinden aceleyle çıktı, geçerken Jade'i selamladı."
+
+
 translate turkish ep019_paclerara_jade_alt_2a616a6c:
 
-    # "[girl] had effectively left me alone to do the explaining that was undoubtedly required next."
-    ""
 
-# game/episode019.rpy:2264
+    "[girl] beni kesinlikle gerekli olan açıklamayı yapmak için yalnız bırakmıştı."
+
+
 translate turkish ep019_paclerara_jade_alt_8fb94117:
 
-    # "Jade took some of the work out of my hands, as she walked towards me."
-    ""
 
-# game/episode019.rpy:2267
+    "Jade bana doğru yürürken, işimin bir kısmını üzerimden aldı."
+
+
 translate turkish ep019_paclerara_jade_alt_83a6f3f8:
 
-    # j "Were you just kissing your sister?"
-    j ""
 
-# game/episode019.rpy:2269
+    j "Az önce kız kardeşini mi öpüyordun?"
+
+
 translate turkish ep019_paclerara_jade_alt_e133b4c4:
 
-    # j "Were you just kissing your mother?"
-    j ""
 
-# game/episode019.rpy:2271
+    j "Az önce anneni mi öpüyordun?"
+
+
 translate turkish ep019_paclerara_jade_alt_8d1113c3:
 
-    # j "Were you just kissing her?"
-    j ""
 
-# game/episode019.rpy:2276
+    j "Az önce onu mu öpüyordun?"
+
+
 translate turkish ep019_paclerara_jade_alt_ac6949be:
 
-    # c "Yeah, I was."
-    c ""
 
-# game/episode019.rpy:2279
+    c "Evet, öyleydim."
+
+
 translate turkish ep019_paclerara_jade_alt_5e6c72f6:
 
-    # j "That didn’t seem like a kiss you’d give your sister."
-    j ""
 
-# game/episode019.rpy:2281
+    j "Bu kız kardeşine vereceğin türden bir öpücük gibi görünmüyordu."
+
+
 translate turkish ep019_paclerara_jade_alt_68f56c27:
 
-    # j "That didn’t seem like a kiss you’d give your mother."
-    j ""
 
-# game/episode019.rpy:2283
+    j "Bu annene vereceğin türden bir öpücük gibi görünmüyordu."
+
+
 translate turkish ep019_paclerara_jade_alt_6b268b4e:
 
-    # j "That didn’t seem like platonic kissing either, whatever that might be."
-    j ""
 
-# game/episode019.rpy:2284
+    j "Bu platonik bir öpüşme de değildi, her ne anlama geliyorsa."
+
+
 translate turkish ep019_paclerara_jade_alt_c21ba10d:
 
-    # j "More like a lover’s kiss."
-    j ""
 
-# game/episode019.rpy:2285
+    j "Daha çok sevgili öpücüğü gibiydi."
+
+
 translate turkish ep019_paclerara_jade_alt_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode019.rpy:2287
+    c "Evet."
+
+
 translate turkish ep019_paclerara_jade_alt_872c9f72:
 
-    # c "Of course I wasn’t."
-    c ""
 
-# game/episode019.rpy:2289
+    c "Tabii ki değildim."
+
+
 translate turkish ep019_paclerara_jade_alt_250ff279:
 
-    # j "Seems to me you were."
-    j ""
 
-# game/episode019.rpy:2290
+    j "Bana öyleymiş gibi geldi."
+
+
 translate turkish ep019_paclerara_jade_alt_ac684387:
 
-    # j "Don’t lie to me, [p_name]."
-    j ""
 
-# game/episode019.rpy:2292
+    j "Bana yalan söyleme, [p_name]."
+
+
 translate turkish ep019_paclerara_jade_alt_84817a2d:
 
-    # j "You were full on snogging your sister."
-    j ""
 
-# game/episode019.rpy:2294
+    j "Kız kardeşinle öpüşüp duruyordun."
+
+
 translate turkish ep019_paclerara_jade_alt_85d1dec3:
 
-    # j "You were full on snogging your mother."
-    j ""
 
-# game/episode019.rpy:2296
+    j "Annenle öpüşüp duruyordun."
+
+
 translate turkish ep019_paclerara_jade_alt_d06ef12a:
 
-    # j "You were full on snogging her."
-    j ""
 
-# game/episode019.rpy:2298
+    j "Onunla öpüşüp duruyordun."
+
+
 translate turkish ep019_paclerara_jade_alt_0ce808c4:
 
-    # j "What’s going on, [p_name_short]?"
-    j ""
 
-# game/episode019.rpy:2299
+    j "Neler oluyor, [p_name_short]?"
+
+
 translate turkish ep019_paclerara_jade_alt_ac4a331e:
 
-    # j "Are you seeing other women?"
-    j ""
 
-# game/episode019.rpy:2300
+    j "Başka kadınlarla görüşüyor musun?"
+
+
 translate turkish ep019_paclerara_jade_alt_7829ccf9:
 
-    # c "I don’t think there’s any use in denying it now."
-    c ""
 
-# game/episode019.rpy:2301
+    c "Artık inkar etmenin bir anlamı yok."
+
+
 translate turkish ep019_paclerara_jade_alt_6a2b52d7:
 
-    # c "Yes, I’m involved in a relationship with [girl]."
-    c ""
 
-# game/episode019.rpy:2320
+    c "Evet, [girl] ile bir ilişkim var."
+
+
 translate turkish ep019_paclerara_jade_alt_c0dc3c3a:
 
-    # c "She isn’t the only one."
-    c ""
 
-# game/episode019.rpy:2321
+    c "O tek değil."
+
+
 translate turkish ep019_paclerara_jade_alt_d578ecff:
 
-    # c "There are others."
-    c ""
 
-# game/episode019.rpy:2323
+    c "Başkaları da var."
+
+
 translate turkish ep019_paclerara_jade_alt_4e32beb0:
 
-    # j "Who?"
-    j ""
 
-# game/episode019.rpy:2324
+    j "Kim?"
+
+
 translate turkish ep019_paclerara_jade_alt_cfa6ca55:
 
-    # c "[romances]."
-    c ""
 
-# game/episode019.rpy:2326
+    c "[romances]."
+
+
 translate turkish ep019_paclerara_jade_alt_cd9bf10c:
 
-    # j "Wow, that’s quite a lot..."
-    j ""
 
-# game/episode019.rpy:2328
+    j "Vay, bayağı fazlaymış..."
+
+
 translate turkish ep019_paclerara_jade_alt_e6e317d0:
 
-    # j "Wow..."
-    j ""
 
-# game/episode019.rpy:2331
+    j "Vay..."
+
+
 translate turkish ep019_paclerara_jade_alt_a623b4ad:
 
-    # j "Why didn’t you tell me, [p_name]?"
-    j ""
 
-# game/episode019.rpy:2332
+    j "Neden bana söylemedin, [p_name]?"
+
+
 translate turkish ep019_paclerara_jade_alt_34781c51:
 
-    # j "Did you think I couldn’t handle the thought of you being with other women?"
-    j ""
 
-# game/episode019.rpy:2333
+    j "Senin başka kadınlarla olma düşüncesini kaldıramayacağımı mı sandın?"
+
+
 translate turkish ep019_paclerara_jade_alt_683b8475:
 
-    # j "You do know I’ve been your intimate companion since forever, right?"
-    j ""
 
-# game/episode019.rpy:2334
+    j "Başından beri senin yakın arkadaşın olduğumu biliyorsun, değil mi?"
+
+
 translate turkish ep019_paclerara_jade_alt_2f5b3038:
 
-    # j "And that I was trained for exactly these kinds of situations?"
-    j ""
 
-# game/episode019.rpy:2335
+    j "Ve tam olarak bu tür durumlar için eğitildiğimi de?"
+
+
 translate turkish ep019_paclerara_jade_alt_e2ea8b1b:
 
-    # c "Yes, I know."
-    c ""
 
-# game/episode019.rpy:2336
+    c "Evet, biliyorum."
+
+
 translate turkish ep019_paclerara_jade_alt_0f78f840:
 
-    # c "Still, training aside, I was afraid of what you might feel or think."
-    c ""
 
-# game/episode019.rpy:2338
+    c "Yine de, eğitimi bir kenara bırakırsak, ne hissedeceğinden ya da düşüneceğinden korktum."
+
+
 translate turkish ep019_paclerara_jade_alt_8bc72c1d:
 
-    # c "And when everything was still uncertain between me and the others, it was simpler to just not tell anyone about it."
-    c ""
 
-# game/episode019.rpy:2340
+    c "Ve benimle diğerleri arasında her şey hala belirsizken, kimseye söylememek daha basitti."
+
+
 translate turkish ep019_paclerara_jade_alt_dc064408:
 
-    # c "And when everything was still uncertain between me and her, it was simpler to just not tell anyone about it."
-    c ""
 
-# game/episode019.rpy:2342
+    c "Ve benimle onun arasında her şey hala belirsizken, kimseye söylememek daha basitti."
+
+
 translate turkish ep019_paclerara_jade_alt_98113381:
 
-    # j "Well, you could have told me."
-    j ""
 
-# game/episode019.rpy:2344
+    j "Eh, bana söyleyebilirdin."
+
+
 translate turkish ep019_paclerara_jade_alt_087c4cf7:
 
-    # j "And I want you to know that I don’t care."
-    j ""
 
-# game/episode019.rpy:2346
+    j "Ve umursamadığımı bilmeni istiyorum."
+
+
 translate turkish ep019_paclerara_jade_alt_3317af69:
 
-    # j "If it’s my opinion of incest you’re scared of, I can tell you that much more outlandish sexual deviances are taught in Attendant training."
-    j ""
 
-# game/episode019.rpy:2349
+    j "Eğer ensest hakkındaki görüşümden korkuyorsan, Hizmetkar eğitiminde bundan çok daha tuhaf cinsel sapkınlıklar öğretildiğini söyleyebilirim."
+
+
 translate turkish ep019_paclerara_jade_alt_c1559758:
 
-    # j "So having a go at your mother and sisters doesn’t really faze me, to be honest."
-    j ""
 
-# game/episode019.rpy:2351
+    j "Yani dürüst olmak gerekirse, annen ve kız kardeşlerinle birlikte olman beni etkilemiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_1ce3df62:
 
-    # j "So having a go at your mother or sister doesn’t really faze me, to be honest."
-    j ""
 
-# game/episode019.rpy:2353
+    j "Yani dürüst olmak gerekirse, annen veya kız kardeşinle birlikte olman beni etkilemiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_99699c06:
 
-    # j "So having a go at your sisters doesn’t really faze me, to be honest."
-    j ""
 
-# game/episode019.rpy:2355
+    j "Yani dürüst olmak gerekirse, kız kardeşlerinle birlikte olman beni etkilemiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_4aabb96a:
 
-    # j "So having a go at your sister doesn’t really faze me, to be honest."
-    j ""
 
-# game/episode019.rpy:2357
+    j "Yani dürüst olmak gerekirse, kız kardeşinle birlikte olman beni etkilemiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_9a7f550a:
 
-    # j "So having a go at your mother doesn’t really faze me, to be honest."
-    j ""
 
-# game/episode019.rpy:2359
+    j "Yani dürüst olmak gerekirse, annenle birlikte olman beni etkilemiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_7a8eacac:
 
-    # j "In fact, it doesn’t surprise me that it didn’t happen sooner."
-    j ""
 
-# game/episode019.rpy:2361
+    j "Aslında, daha önce olmamış olması beni şaşırtmıyor."
+
+
 translate turkish ep019_paclerara_jade_alt_ab37f788:
 
-    # j "I wouldn’t have minded becoming Eva’s attendant if that were even possible, if you know what I mean."
-    j ""
 
-# game/episode019.rpy:2363
+    j "Eva'nın hizmetkarı olmaktan rahatsız olmazdım, mümkün olsaydı tabii, ne demek istediğimi anlıyorsun."
+
+
 translate turkish ep019_paclerara_jade_alt_ddc5e722:
 
-    # j "I wouldn’t have minded becoming Lilly’s attendant if that were even possible, if you know what I mean."
-    j ""
 
-# game/episode019.rpy:2365
+    j "Lilly'nin hizmetkarı olmaktan rahatsız olmazdım, mümkün olsaydı tabii, ne demek istediğimi anlıyorsun."
+
+
 translate turkish ep019_paclerara_jade_alt_4c83ce91:
 
-    # j "I wouldn’t have minded becoming their attendant if that were even possible, if you know what I mean."
-    j ""
 
-# game/episode019.rpy:2367
+    j "Onların hizmetkarı olmaktan rahatsız olmazdım, mümkün olsaydı tabii, ne demek istediğimi anlıyorsun."
+
+
 translate turkish ep019_paclerara_jade_alt_0560df9b:
 
-    # j "It might be true that I’ve been conditioned to accept promiscuity, but over the years I’ve come to learn that I actually enjoy the idea of free love."
-    j ""
 
-# game/episode019.rpy:2368
+    j "Çok eşliliği kabul etmek için şartlandırılmış olabilirim, ama yıllar içinde özgür aşk fikrinden gerçekten hoşlandığımı öğrendim."
+
+
 translate turkish ep019_paclerara_jade_alt_63cea6c5:
 
-    # j "The idea of you being with other women doesn’t scare me, or make me jealous."
-    j ""
 
-# game/episode019.rpy:2370
+    j "Senin başka kadınlarla olman beni korkutmuyor ya da kıskanç yapmıyor."
+
+
 translate turkish ep019_paclerara_jade_alt_cfd0a421:
 
-    # j "In fact, it makes me rather curious."
-    j ""
 
-# game/episode019.rpy:2371
+    j "Aslında, bu beni oldukça meraklandırıyor."
+
+
 translate turkish ep019_paclerara_jade_alt_7c44050d:
 
-    # j "Curious enough to want to join in..."
-    j ""
 
-# game/episode019.rpy:2389
+    j "Katılmak isteyecek kadar meraklandırıyor..."
+
+
 translate turkish ep019_paclerara_jade_alt_83e5cf09:
 
-    # c "You'd want to share a bed with me and [girl]?"
-    c ""
 
-# game/episode019.rpy:2391
+    c "Benimle ve [girl] ile aynı yatağı paylaşmak ister miydin?"
+
+
 translate turkish ep019_paclerara_jade_alt_69188b94:
 
-    # c "You'd want to share a bed with me and the other women?"
-    c ""
 
-# game/episode019.rpy:2393
+    c "Benimle ve diğer kadınlarla aynı yatağı paylaşmak ister miydin?"
+
+
 translate turkish ep019_paclerara_jade_alt_46f9247b:
 
-    # j "Yes, I would."
-    j ""
 
-# game/episode019.rpy:2394
+    j "Evet, isterdim."
+
+
 translate turkish ep019_paclerara_jade_alt_fcc8889b:
 
-    # j "As I said, I've come to realize I really love sex."
-    j ""
 
-# game/episode019.rpy:2395
+    j "Dediğim gibi, seksten gerçekten hoşlandığımı fark ettim."
+
+
 translate turkish ep019_paclerara_jade_alt_4c6babb0:
 
-    # j "It's not something transactional or subservient like my Attendant training taught me."
-    j ""
 
-# game/episode019.rpy:2396
+    j "Hizmetkar eğitiminde öğretildiği gibi karşılıklı ya da itaatkar bir şey değil."
+
+
 translate turkish ep019_paclerara_jade_alt_6856e6c8:
 
-    # j "Even the sex we've had together before you freed me had a certain edge to it."
-    j ""
 
-# game/episode019.rpy:2397
+    j "Sen beni özgür bırakmadan önce birlikte yaptığımız seksin bile farklı bir yanı vardı."
+
+
 translate turkish ep019_paclerara_jade_alt_1485013e:
 
-    # j "Like it was real, if you know what I mean."
-    j ""
 
-# game/episode019.rpy:2398
+    j "Sanki gerçekti, ne demek istediğimi anlıyorsan."
+
+
 translate turkish ep019_paclerara_jade_alt_fc4ef3ca:
 
-    # j "Like I wasn't just there to be taken advantage of."
-    j ""
 
-# game/episode019.rpy:2400
+    j "Sanki sadece faydalanılmak için orada değildim."
+
+
 translate turkish ep019_paclerara_jade_alt_89f23a56:
 
-    # j "So I'm all for exploring new things."
-    j ""
 
-# game/episode019.rpy:2401
+    j "Bu yüzden yeni şeyler keşfetmeye varım."
+
+
 translate turkish ep019_paclerara_jade_alt_de3275a3:
 
-    # j "As long as I get to do it together with you."
-    j ""
 
-# game/episode019.rpy:2404
+    j "Seninle birlikte yapabildikçe."
+
+
 translate turkish ep019_paclerara_jade_alt_ff3e331f:
 
-    # j "And if you’re still serious about the whole conversation earlier in the forest."
-    j ""
 
-# game/episode019.rpy:2405
+    j "Ve eğer ormanda daha önce yaptığımız konuşmayı hala ciddiye alıyorsan."
+
+
 translate turkish ep019_paclerara_jade_alt_10207a36:
 
-    # c "Of course I am, you can’t make a promise like that and then take it back."
-    c ""
 
-# game/episode019.rpy:2406
+    c "Tabii ki ciddiye alıyorum, öyle bir söz verip sonra geri alamazsın."
+
+
 translate turkish ep019_paclerara_jade_alt_539896c6:
 
-    # c "We will undergo treatment together and make a whole host of cute little babies."
-    c ""
 
-# game/episode019.rpy:2408
+    c "Birlikte tedavi göreceğiz ve bir sürü tatlı küçük bebek yapacağız."
+
+
 translate turkish ep019_paclerara_jade_alt_13b70bcf:
 
-    # j "Stop it, or I’m going to cry again!"
-    j ""
 
-# game/episode019.rpy:2409
+    j "Dur, yoksa yine ağlayacağım!"
+
+
 translate turkish ep019_paclerara_jade_alt_ef995e58:
 
-    # j "I might already be hormonal and we haven’t even started yet."
-    j ""
 
-# game/episode019.rpy:2410
+    j "Daha başlamadık bile ama şimdiden hormonal olabilirim."
+
+
 translate turkish ep019_paclerara_jade_alt_92290af1:
 
-    # c "In all seriousness, I’m so happy you’re open to all this."
-    c ""
 
-# game/episode019.rpy:2412
+    c "Tüm ciddiyetimle söylüyorum, bütün bunlara açık olmana çok sevindim."
+
+
 translate turkish ep019_paclerara_jade_alt_4effd71b:
 
-    # c "I'm so happy to hear you say that."
-    c ""
 
-# game/episode019.rpy:2413
+    c "Bunu söylediğini duymak beni çok mutlu etti."
+
+
 translate turkish ep019_paclerara_jade_alt_90893244:
 
-    # c "I didn't dare hope you would even entertain the idea of getting involved in a polyamorous relationship."
-    c ""
 
-# game/episode019.rpy:2417
+    c "Çok eşli bir ilişkiye girme fikrini bile düşüneceğini ummaya cesaret edememiştim."
+
+
 translate turkish ep019_paclerara_jade_alt_53e00396:
 
-    # j "Well, as I said before, your mother and sisters are extremely hot."
-    j ""
 
-# game/episode019.rpy:2419
+    j "Eh, daha önce de söylediğim gibi, annen ve kız kardeşlerin çok seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_462f7ea1:
 
-    # j "Well, as I said before, your sisters are extremely hot."
-    j ""
 
-# game/episode019.rpy:2421
+    j "Eh, daha önce de söylediğim gibi, kız kardeşlerin çok seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_e6fd86e8:
 
-    # j "Well, as I said before, your sister is extremely hot."
-    j ""
 
-# game/episode019.rpy:2423
+    j "Eh, daha önce de söylediğim gibi, kız kardeşin çok seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_518f384b:
 
-    # j "Well, as I said before, your mother is extremely hot."
-    j ""
 
-# game/episode019.rpy:2425
+    j "Eh, daha önce de söylediğim gibi, annen çok seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_102daa1e:
 
-    # j "Well, your girlfriend is a hot piece of ass."
-    j ""
 
-# game/episode019.rpy:2427
+    j "Eh, kız arkadaşın bayağı seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_0589f611:
 
-    # j "Well, your girlfriends are all hot."
-    j ""
 
-# game/episode019.rpy:2430
+    j "Eh, kız arkadaşlarının hepsi seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_102daa1e_1:
 
-    # j "Well, your girlfriend is a hot piece of ass."
-    j ""
 
-# game/episode019.rpy:2432
+    j "Eh, kız arkadaşın bayağı seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_0589f611_1:
 
-    # j "Well, your girlfriends are all hot."
-    j ""
 
-# game/episode019.rpy:2433
+    j "Eh, kız arkadaşlarının hepsi seksi."
+
+
 translate turkish ep019_paclerara_jade_alt_2062310b:
 
-    # j "So that kind of helps."
-    j ""
 
-# game/episode019.rpy:2434
+    j "Yani bu biraz yardımcı oluyor."
+
+
 translate turkish ep019_paclerara_jade_alt_0d12ecdc:
 
-    # c "I'm sure it does."
-    c ""
 
-# game/episode019.rpy:2436
+    c "Eminim öyledir."
+
+
 translate turkish ep019_paclerara_jade_alt_1c550db6:
 
-    # j "Seriously though, I'm willing to try this with you."
-    j ""
 
-# game/episode019.rpy:2438
+    j "Ciddi konuşuyorum, bunu seninle denemeye hazırım."
+
+
 translate turkish ep019_paclerara_jade_alt_2bd05b74:
 
-    # j "And with [girl], if she wants to be involved."
-    j ""
 
-# game/episode019.rpy:2440
+    j "Ve [girl] ile de, eğer o da isterse."
+
+
 translate turkish ep019_paclerara_jade_alt_0381e4a1:
 
-    # j "And with [romances], if they want to be involved."
-    j ""
 
-# game/episode019.rpy:2442
+    j "Ve [romances] ile de, eğer onlar da isterse."
+
+
 translate turkish ep019_paclerara_jade_alt_ed5a812e:
 
-    # j "And with the others, if they want to be involved."
-    j ""
 
-# game/episode019.rpy:2445
+    j "Ve diğerleriyle de, eğer onlar da isterse."
+
+
 translate turkish ep019_paclerara_jade_alt_3d671545:
 
-    # c "Lilly and Céline are already on-board."
-    c ""
 
-# game/episode019.rpy:2447
+    c "Lilly ve Céline zaten kabul etti."
+
+
 translate turkish ep019_paclerara_jade_alt_80696baa:
 
-    # c "Ziv and Eva too."
-    c ""
 
-# game/episode019.rpy:2449
+    c "Ziv ve Eva da."
+
+
 translate turkish ep019_paclerara_jade_alt_45f9fc9c:
 
-    # c "Eva too."
-    c ""
 
-# game/episode019.rpy:2451
+    c "Eva da."
+
+
 translate turkish ep019_paclerara_jade_alt_915390c3:
 
-    # c "Ziv too."
-    c ""
 
-# game/episode019.rpy:2452
+    c "Ziv da."
+
+
 translate turkish ep019_paclerara_jade_alt_55930f40:
 
-    # j "You've been a busy boy..."
-    j ""
 
-# game/episode019.rpy:2454
+    j "Bayağı meşgul olmuşsun..."
+
+
 translate turkish ep019_paclerara_jade_alt_5643e9b2:
 
-    # c "Ziv and Eva are already on-board."
-    c ""
 
-# game/episode019.rpy:2456
+    c "Ziv ve Eva zaten kabul etti."
+
+
 translate turkish ep019_paclerara_jade_alt_eecadd32:
 
-    # c "Eva is already on-board."
-    c ""
 
-# game/episode019.rpy:2458
+    c "Eva zaten kabul etti."
+
+
 translate turkish ep019_paclerara_jade_alt_6e21b0e4:
 
-    # c "Ziv is already on-board."
-    c ""
 
-# game/episode019.rpy:2460
+    c "Ziv zaten kabul etti."
+
+
 translate turkish ep019_paclerara_jade_alt_fd22e294:
 
-    # c "I hope the other will be on-board as well."
-    c ""
 
-# game/episode019.rpy:2461
+    c "Umarım diğerleri de kabul eder."
+
+
 translate turkish ep019_paclerara_jade_alt_f239b76f:
 
-    # j "You're going to be a busy boy..."
-    j ""
 
-# game/episode019.rpy:2464
+    j "Bayağı meşgul olacaksın..."
+
+
 translate turkish ep019_paclerara_jade_alt_ed7e8d3e:
 
-    # c "Lilly and Céline are not interested."
-    c ""
 
-# game/episode019.rpy:2465
+    c "Lilly ve Céline ilgilenmiyor."
+
+
 translate turkish ep019_paclerara_jade_alt_f40a1898:
 
-    # j "Good, we might need to take things a little further in the near future, in that case."
-    j ""
 
-# game/episode019.rpy:2466
+    j "İyi, bu durumda yakın gelecekte işleri biraz daha ilerletmemiz gerekebilir."
+
+
 translate turkish ep019_paclerara_jade_alt_537c34df:
 
-    # c "I like what I'm hearing."
-    c ""
 
-# game/episode019.rpy:2468
+    c "Duyduklarımı beğendim."
+
+
 translate turkish ep019_paclerara_jade_alt_7a8cecee:
 
-    # j "I'm sure you do."
-    j ""
 
-# game/episode019.rpy:2471
+    j "Eminim beğenmişsindir."
+
+
 translate turkish ep019_paclerara_jade_alt_78106880:
 
-    # c "Really, I didn’t know you saw things that way."
-    c ""
 
-# game/episode019.rpy:2472
+    c "Gerçekten, olaylara böyle baktığını bilmiyordum."
+
+
 translate turkish ep019_paclerara_jade_alt_2d0c0bfe:
 
-    # c "I’m not sure [girl] is ready to share though."
-    c ""
 
-# game/episode019.rpy:2473
+    c "Ama [girl]'in paylaşmaya hazır olduğundan emin değilim."
+
+
 translate turkish ep019_paclerara_jade_alt_b7c36b7b:
 
-    # c "And having you to myself from time to time is something very precious."
-    c ""
 
-# game/episode019.rpy:2474
+    c "Ve zaman zaman seninle baş başa kalmak benim için çok değerli."
+
+
 translate turkish ep019_paclerara_jade_alt_39fa721a:
 
-    # c "Would you object to that?"
-    c ""
 
-# game/episode019.rpy:2477
+    c "Buna karşı çıkar mısın?"
+
+
 translate turkish ep019_paclerara_jade_alt_3ca73b89:
 
-    # j "You want to keep seeing us both, but separate?"
-    j ""
 
-# game/episode019.rpy:2479
+    j "İkimizi de görmeye devam etmek istiyorsun, ama ayrı ayrı mı?"
+
+
 translate turkish ep019_paclerara_jade_alt_d72ffbc8:
 
-    # j "You want to keep seeing us all, but separate?"
-    j ""
 
-# game/episode019.rpy:2480
+    j "Hepimizi görmeye devam etmek istiyorsun, ama ayrı ayrı mı?"
+
+
 translate turkish ep019_paclerara_jade_alt_26eefe0a_1:
 
-    # c "Yes."
-    c ""
 
-# game/episode019.rpy:2482
+    c "Evet."
+
+
 translate turkish ep019_paclerara_jade_alt_65f12404:
 
-    # j "If [girl] is also fine with it I won’t complain."
-    j ""
 
-# game/episode019.rpy:2484
+    j "Eğer [girl] de kabul ederse, benim için sorun yok."
+
+
 translate turkish ep019_paclerara_jade_alt_f82aa410:
 
-    # j "If [romances] are also fine with it I won’t complain."
-    j ""
 
-# game/episode019.rpy:2486
+    j "Eğer [romances] da kabul ederse, benim için sorun yok."
+
+
 translate turkish ep019_paclerara_jade_alt_de9095a0:
 
-    # j "If the others are also fine with it I won’t complain."
-    j ""
 
-# game/episode019.rpy:2488
+    j "Eğer diğerleri de kabul ederse, benim için sorun yok."
+
+
 translate turkish ep019_paclerara_jade_alt_f5291c64:
 
-    # j "As long as I get you in my bed regularly."
-    j ""
 
-# game/episode019.rpy:2489
+    j "Yeter ki düzenli olarak yatağıma gel."
+
+
 translate turkish ep019_paclerara_jade_alt_133a9656:
 
-    # c "That goes without saying."
-    c ""
 
-# game/episode019.rpy:2490
+    c "Onu söylemene gerek yok."
+
+
 translate turkish ep019_paclerara_jade_alt_6ce75aea:
 
-    # j "Good."
-    j ""
 
-# game/episode019.rpy:2492
+    j "Güzel."
+
+
 translate turkish ep019_paclerara_jade_alt_ef51c14d:
 
-    # j "But I do want a reward for being such an open-minded girlfriend though."
-    j ""
 
-# game/episode019.rpy:2493
+    j "Ama böyle açık fikirli bir sevgili olduğum için bir ödül istiyorum."
+
+
 translate turkish ep019_paclerara_jade_alt_8d30c300:
 
-    # c "Oh?{w} A kiss won't do, probably?"
-    c ""
 
-# game/episode019.rpy:2494
+    c "Oh?{w} Bir öpücük yeterli olmaz herhalde?"
+
+
 translate turkish ep019_paclerara_jade_alt_33993f8d:
 
-    # j "It's a start."
-    j ""
 
-# game/episode019.rpy:2495
+    j "Bu bir başlangıç."
+
+
 translate turkish ep019_paclerara_jade_alt_aad27a60:
 
-    # j "But what I really want is to get fucked."
-    j ""
 
-# game/episode019.rpy:2503
+    j "Ama asıl istediğim sikilmek."
+
+
 translate turkish ep019_paclerara_ziv_17adf53b:
 
-    # "Do you want to perform oral on Ziv in this scene?"
-    ""
 
-# game/episode019.rpy:2507
+    "Bu sahnede Ziv'e oral yapmak istiyor musun?"
+
+
 translate turkish ep019_paclerara_ziv_85f8ffb4:
 
-    # "Giving oral enabled"
-    ""
 
-# game/episode019.rpy:2510
+    "Oral yapma etkinleştirildi"
+
+
 translate turkish ep019_paclerara_ziv_3f6f915b:
 
-    # "Giving oral disabled"
-    ""
 
-# game/episode019.rpy:2512
+    "Oral yapma devre dışı bırakıldı"
+
+
 translate turkish ep019_paclerara_ziv_278a0e21:
 
-    # "Is Ziv allowed to give you anal?"
-    ""
 
-# game/episode019.rpy:2516
+    "Ziv'in sana anal yapmasına izin var mı?"
+
+
 translate turkish ep019_paclerara_ziv_777ff71e:
 
-    # "Receiving anal enabled"
-    ""
 
-# game/episode019.rpy:2519
+    "Anal alma etkinleştirildi"
+
+
 translate turkish ep019_paclerara_ziv_ed5b9e29:
 
-    # "Receiving anal disabled"
-    ""
 
-# game/episode019.rpy:2525
+    "Anal alma devre dışı bırakıldı"
+
+
 translate turkish ep019_paclerara_ziv_71f9e6c4:
 
-    # "Ziv sent me a message requesting to see me."
-    ""
 
-# game/episode019.rpy:2526
+    "Ziv beni görmek için bir mesaj gönderdi."
+
+
 translate turkish ep019_paclerara_ziv_5898e18e:
 
-    # "When I arrived at her room, she buzzed me through almost immediately."
-    ""
 
-# game/episode019.rpy:2528
+    "Odasına vardığımda, hemen içeri almak için kapıyı açtı."
+
+
 translate turkish ep019_paclerara_ziv_cc9bbeaf:
 
-    # "I found Ziv draped on the sofa, offering me a clear view up her skirt."
-    ""
 
-# game/episode019.rpy:2529
+    "Ziv'i kanepeye uzanmış buldum, eteğinin altını net bir şekilde görebiliyordum."
+
+
 translate turkish ep019_paclerara_ziv_6c1e2a3f:
 
-    # c "It clearly seems you’re ready for something."
-    c ""
 
-# game/episode019.rpy:2531
+    c "Belli ki bir şeylere hazırsın."
+
+
 translate turkish ep019_paclerara_ziv_ba638e2d:
 
-    # zi "Oh, I am."
-    zi ""
 
-# game/episode019.rpy:2533
+    zi "Oh, kesinlikle hazırım."
+
+
 translate turkish ep019_paclerara_ziv_bdd690ac:
 
-    # zi "I’m calling in on that promise you’ve made earlier."
-    zi ""
 
-# game/episode019.rpy:2535
+    zi "Daha önce verdiğin sözü tutmanın vakti geldi."
+
+
 translate turkish ep019_paclerara_ziv_b6398d03:
 
-    # "I stood in front her as she got upright."
-    ""
 
-# game/episode019.rpy:2536
+    "O doğrulurken karşısında durdum."
+
+
 translate turkish ep019_paclerara_ziv_00099992:
 
-    # zi "I think you should undress."
-    zi ""
 
-# game/episode019.rpy:2538
+    zi "Soyunsan iyi olur bence."
+
+
 translate turkish ep019_paclerara_ziv_d2452ba2:
 
-    # "I stripped down to my underwear."
-    ""
 
-# game/episode019.rpy:2539
+    "İç çamaşırıma kadar soyundum."
+
+
 translate turkish ep019_paclerara_ziv_2efe147b:
 
-    # zi "Everything, please."
-    zi ""
 
-# game/episode019.rpy:2541
+    zi "Hepsini çıkar, lütfen."
+
+
 translate turkish ep019_paclerara_ziv_3525ee7c:
 
-    # "My cock jumped into view as I removed my boxers."
-    ""
 
-# game/episode019.rpy:2543
+    "Boxerımı çıkardığımda sikimi ortaya çıktı."
+
+
 translate turkish ep019_paclerara_ziv_803936dc:
 
-    # zi "Already hard."
-    zi ""
 
-# game/episode019.rpy:2545
+    zi "Şimdiden sertleşmiş."
+
+
 translate turkish ep019_paclerara_ziv_5e408856:
 
-    # "Ziv reached out and wrapped her fingers around my dick."
-    ""
 
-# game/episode019.rpy:2546
+    "Ziv uzandı ve parmaklarını sikimin etrafına sardı."
+
+
 translate turkish ep019_paclerara_ziv_360309c3:
 
-    # "She gave my cock an experimental tug and looked deep into my eyes."
-    ""
 
-# game/episode019.rpy:2548
+    "Denemek için sikimi okşadı ve gözlerimin içine baktı."
+
+
 translate turkish ep019_paclerara_ziv_211b8b69:
 
-    # zi "I’m going to make you cum so hard."
-    zi ""
 
-# game/episode019.rpy:2549
+    zi "Seni öyle bir boşaltacağım ki."
+
+
 translate turkish ep019_paclerara_ziv_4d19da8c:
 
-    # zi "Will you do the same for me?"
-    zi ""
 
-# game/episode019.rpy:2550
+    zi "Sen de aynısını bana yapacak mısın?"
+
+
 translate turkish ep019_paclerara_ziv_441d0e19:
 
-    # c "You’re wearing too many clothes."
-    c ""
 
-# game/episode019.rpy:2552
+    c "Üzerinde çok fazla kıyafet var."
+
+
 translate turkish ep019_paclerara_ziv_10f0b4ea:
 
-    # "Ziv quickly removed her top and showed me her breasts."
-    ""
 
-# game/episode019.rpy:2554
+    "Ziv hızlıca üstünü çıkardı ve göğüslerini gösterdi."
+
+
 translate turkish ep019_paclerara_ziv_5ca16315:
 
-    # zi "Is this any better?"
-    zi ""
 
-# game/episode019.rpy:2555
+    zi "Bu daha iyi mi?"
+
+
 translate turkish ep019_paclerara_ziv_932a50ec:
 
-    # c "Certainly an improvement."
-    c ""
 
-# game/episode019.rpy:2556
+    c "Kesinlikle daha iyi."
+
+
 translate turkish ep019_paclerara_ziv_efb2f4fb:
 
-    # c "But not enough."
-    c ""
 
-# game/episode019.rpy:2558
+    c "Ama yeterli değil."
+
+
 translate turkish ep019_paclerara_ziv_6116f67c:
 
-    # "The skirt followed, revealing Ziv’s cock in state of arousal much like mine."
-    ""
 
-# game/episode019.rpy:2560
+    "Eteği de çıkardı ve benimki gibi sertleşmiş siki ortaya çıktı."
+
+
 translate turkish ep019_paclerara_ziv_53f7548b:
 
-    # "Ziv stroked her own cock, looking up at me."
-    ""
 
-# game/episode019.rpy:2563
+    "Ziv bana bakarak kendi sikini okşadı."
+
+
 translate turkish ep019_paclerara_ziv_11d380f8:
 
-    # zi "I’d really like to fuck you as well."
-    zi ""
 
-# game/episode019.rpy:2564
+    zi "Ben de seni sikmek istiyorum."
+
+
 translate turkish ep019_paclerara_ziv_b1f36f7f:
 
-    # zi "Can you imagine this going up your ass, [p_name_short]?"
-    zi ""
 
-# game/episode019.rpy:2565
+    zi "Bunun götüne girdiğini hayal edebiliyor musun, [p_name_short]?"
+
+
 translate turkish ep019_paclerara_ziv_00d11b49:
 
-    # c "Yes..."
-    c ""
 
-# game/episode019.rpy:2566
+    c "Evet..."
+
+
 translate turkish ep019_paclerara_ziv_d8cdff42:
 
-    # zi "I won’t hold back, you know."
-    zi ""
 
-# game/episode019.rpy:2567
+    zi "Kendimi tutmayacağım, biliyorsun."
+
+
 translate turkish ep019_paclerara_ziv_2658f931:
 
-    # zi "You deserve a good hard fuck."
-    zi ""
 
-# game/episode019.rpy:2569
+    zi "Sert sikilmeyi hak ediyorsun."
+
+
 translate turkish ep019_paclerara_ziv_1b56e610:
 
-    # zi "I’d really like you to fuck me hard."
-    zi ""
 
-# game/episode019.rpy:2570
+    zi "Senin de beni sert sikmeni istiyorum."
+
+
 translate turkish ep019_paclerara_ziv_b8b0d575:
 
-    # zi "I can already imagine your hard cock inside my pussy."
-    zi ""
 
-# game/episode019.rpy:2571
+    zi "Sert sikinin amımın içinde olduğunu şimdiden hayal edebiliyorum."
+
+
 translate turkish ep019_paclerara_ziv_0a536f45:
 
-    # c "Are you already wet, Ziv?"
-    c ""
 
-# game/episode019.rpy:2572
+    c "Şimdiden ıslandın mı, Ziv?"
+
+
 translate turkish ep019_paclerara_ziv_c058cf31:
 
-    # zi "Yes!"
-    zi ""
 
-# game/episode019.rpy:2573
+    zi "Evet!"
+
+
 translate turkish ep019_paclerara_ziv_d4c788b9:
 
-    # "Ziv kicked off her boots and made me lie down onto the sofa."
-    ""
 
-# game/episode019.rpy:2578
+    "Ziv botlarını çıkardı ve beni kanepeye yatırdı."
+
+
 translate turkish ep019_paclerara_ziv_ef6fed94:
 
-    # "She hovered over me and took my dick inside her mouth."
-    ""
 
-# game/episode019.rpy:2580
+    "Üzerime eğildi ve sikimi ağzına aldı."
+
+
 translate turkish ep019_paclerara_ziv_8aa6becc:
 
-    # "Ziv’s own cock dangled in front of me."
-    ""
 
-# game/episode019.rpy:2583
+    "Ziv'in siki tam önümde sallanıyordu."
+
+
 translate turkish ep019_paclerara_ziv_ea7fd92a:
 
-    # "I took her dick inside my mouth as she started sucking on mine."
-    ""
 
-# game/episode019.rpy:2584
+    "O benimkini emmeye başlarken ben de onun sikini ağzıma aldım."
+
+
 translate turkish ep019_paclerara_ziv_b84d77e4:
 
-    # "The stimulation from my mouth made Ziv moan."
-    ""
 
-# game/episode019.rpy:2585
+    "Ağzımın verdiği zevkle Ziv inledi."
+
+
 translate turkish ep019_paclerara_ziv_83a654d8:
 
-    # "Ziv’s tongue whirled over my shaft, and I could feel precum oozing inside her mouth."
-    ""
 
-# game/episode019.rpy:2588
+    "Ziv'in dili sikimin üzerinde dolanıyor, zevk suyumun ağzına aktığını hissedebiliyordum."
+
+
 translate turkish ep019_paclerara_ziv_d6d63b87:
 
-    # "The sensation made me want to take Ziv’s cock deeper inside my mouth."
-    ""
 
-# game/episode019.rpy:2589
+    "Bu his Ziv'in sikini ağzımda daha derine almak istememe neden oldu."
+
+
 translate turkish ep019_paclerara_ziv_ea816766:
 
-    # "She sensed my desire and lowered her abdomen."
-    ""
 
-# game/episode019.rpy:2590
+    "İsteğimi hissetti ve karnını aşağı indirdi."
+
+
 translate turkish ep019_paclerara_ziv_c9116599:
 
-    # "Her cock was now at the back of my throat."
-    ""
 
-# game/episode019.rpy:2591
+    "Siki şimdi boğazımın dibindeydi."
+
+
 translate turkish ep019_paclerara_ziv_eb480265:
 
-    # "I suppressed the brief feeling of nausea and tried to relax my breathing."
-    ""
 
-# game/episode019.rpy:2594
+    "Kısa süreli mide bulantısını bastırıp nefesimi düzenlemeye çalıştım."
+
+
 translate turkish ep019_paclerara_ziv_5ac0fe6f:
 
-    # "Ziv didn’t hear me retch or otherwise gag on her cock, so she began to slowly move her ass up and down."
-    ""
 
-# game/episode019.rpy:2595
+    "Ziv öğürme ya da boğulma sesimi duymadığından, yavaşça götünü aşağı yukarı hareket ettirmeye başladı."
+
+
 translate turkish ep019_paclerara_ziv_5a4a5de5:
 
-    # "Establishing a steady rhythm, she fucked my mouth slowly."
-    ""
 
-# game/episode019.rpy:2596
+    "Düzenli bir ritim tutturarak ağzımı yavaşça sikiyordu."
+
+
 translate turkish ep019_paclerara_ziv_52e2b483:
 
-    # "I guided her softly by placing my hands on her hips in order to prevent her from choking me."
-    ""
 
-# game/episode019.rpy:2600
+    "Beni boğmaması için ellerimi kalçalarına koyup nazikçe yönlendirdim."
+
+
 translate turkish ep019_paclerara_ziv_8875ca48:
 
-    # "She worked on my cock diligently, sucking deeply and at the right angle, perfectly aware of what made me feel good."
-    ""
 
-# game/episode019.rpy:2602
+    "Beni neyin zevke getirdiğini çok iyi bilerek, sikimi özenle ve doğru açıdan derin derin emiyordu."
+
+
 translate turkish ep019_paclerara_ziv_c9b8ed0e:
 
-    # "Ziv twitched, and a stream of precum leaked into my throat."
-    ""
 
-# game/episode019.rpy:2603
+    "Ziv titredi ve zevk suyu boğazıma aktı."
+
+
 translate turkish ep019_paclerara_ziv_ce50f16c:
 
-    # "I swallowed the saline liquid and was eager for more, but Ziv mercilessly dislodged her cock from my mouth."
-    ""
 
-# game/episode019.rpy:2604
+    "Tuzlu sıvıyı yuttum ve daha fazlasını istedim ama Ziv acımasızca sikini ağzımdan çıkardı."
+
+
 translate turkish ep019_paclerara_ziv_05ab47de:
 
-    # "At the same time, my cock escaped from her mouth as well."
-    ""
 
-# game/episode019.rpy:2606
+    "Aynı anda benim sikim de onun ağzından çıktı."
+
+
 translate turkish ep019_paclerara_ziv_d92ff7d3:
 
-    # "More precum oozed into her mouth and I didn’t want her to stop, but Ziv mercilessly dislodged my cock from her mouth."
-    ""
 
-# game/episode019.rpy:2611
+    "Daha fazla zevk suyu ağzına aktı ve durmasını istemiyordum ama Ziv acımasızca sikimi ağzından çıkardı."
+
+
 translate turkish ep019_paclerara_ziv_1639bc36:
 
-    # zi "I don’t want you to cum just yet."
-    zi ""
 
-# game/episode019.rpy:2613
+    zi "Henüz boşalmanı istemiyorum."
+
+
 translate turkish ep019_paclerara_ziv_41b180dc:
 
-    # zi "Spread your legs for me, please."
-    zi ""
 
-# game/episode019.rpy:2618
+    zi "Bacaklarını aç benim için, lütfen."
+
+
 translate turkish ep019_paclerara_ziv_c56a9353:
 
-    # "I obliged and Ziv pushed my legs further apart."
-    ""
 
-# game/episode019.rpy:2619
+    "Söylediğini yaptım ve Ziv bacaklarımı daha da ayırdı."
+
+
 translate turkish ep019_paclerara_ziv_ab3e1da7:
 
-    # "She trailed her fingers from the top of my shaft toward my balls."
-    ""
 
-# game/episode019.rpy:2621
+    "Parmaklarını sikimin ucundan taşaklarıma doğru gezdirdi."
+
+
 translate turkish ep019_paclerara_ziv_1d022f78:
 
-    # "The feeling of her fingertip running between my balls and further down made me shiver uncontrollably."
-    ""
 
-# game/episode019.rpy:2622
+    "Parmak ucunu taşaklarımın arasından aşağı doğru kaydırması kontrolsüzce titrememe neden oldu."
+
+
 translate turkish ep019_paclerara_ziv_721ad5d6:
 
-    # "She lingered near my taint and exerted more pressure there."
-    ""
 
-# game/episode019.rpy:2623
+    "Kasıklarımda oyalandı ve oraya daha fazla baskı uyguladı."
+
+
 translate turkish ep019_paclerara_ziv_4ab2a4d4:
 
-    # "The pressure increased, and I could feel her massaging my prostate."
-    ""
 
-# game/episode019.rpy:2625
+    "Baskı arttı ve prostatımı masaj yaptığını hissedebiliyordum."
+
+
 translate turkish ep019_paclerara_ziv_6856ba75:
 
-    # "My cock responded immediately, fluid leaking from the tip at irregular intervals."
-    ""
 
-# game/episode019.rpy:2626
+    "Sikim anında tepki verdi, ucundan düzensiz aralıklarla sıvı sızıyordu."
+
+
 translate turkish ep019_paclerara_ziv_cf7c1dc7:
 
-    # "I couldn’t suppress a growl as her fingers circled around my dilating anus."
-    ""
 
-# game/episode019.rpy:2627
+    "Parmakları genişleyen deliğimin etrafında dönerken bir homurtu çıkarmadan edemedim."
+
+
 translate turkish ep019_paclerara_ziv_aa096298:
 
-    # zi "You’re ready for me to go in, aren’t you?"
-    zi ""
 
-# game/episode019.rpy:2628
+    zi "Hazırsın, değil mi?"
+
+
 translate turkish ep019_paclerara_ziv_cf5fcc44:
 
-    # c "Yes!"
-    c ""
 
-# game/episode019.rpy:2633
+    c "Evet!"
+
+
 translate turkish ep019_paclerara_ziv_742a4588:
 
-    # "I exhaled heavily as Ziv slipped two fingers inside my asshole."
-    ""
 
-# game/episode019.rpy:2634
+    "Ziv iki parmağını deliğime sokarken derin bir nefes verdim."
+
+
 translate turkish ep019_paclerara_ziv_0c891d04:
 
-    # "She made her way inside, her fingertips probing and trying to find my weak spot."
-    ""
 
-# game/episode019.rpy:2635
+    "İçeri doğru ilerledi, parmak uçlarıyla hassas noktamı bulmaya çalışıyordu."
+
+
 translate turkish ep019_paclerara_ziv_47a98e89:
 
-    # "When she found it and began to massage it, I had to grip the sofa hard in order not to fall off it."
-    ""
 
-# game/episode019.rpy:2636
+    "Bulduğunda masaj yapmaya başladı ve düşmemek için koltuğu sıkıca kavramak zorunda kaldım."
+
+
 translate turkish ep019_paclerara_ziv_35d1b28c:
 
-    # "My erection became almost painfully taut."
-    ""
 
-# game/episode019.rpy:2638
+    "Sikim neredeyse acı verecek kadar sertleşti."
+
+
 translate turkish ep019_paclerara_ziv_5abd2a37:
 
-    # "As Ziv stimulated my prostate from the inside, she ran the tip of her finger along the length of my penis."
-    ""
 
-# game/episode019.rpy:2639
+    "Ziv prostatımı içeriden uyarırken, parmağının ucunu sikimin uzunluğu boyunca gezdirdi."
+
+
 translate turkish ep019_paclerara_ziv_b74aaaca:
 
-    # "The touch was so light, barely connecting with my erection."
-    ""
 
-# game/episode019.rpy:2640
+    "Dokunuşu o kadar hafifti ki sikime neredeyse değmiyordu bile."
+
+
 translate turkish ep019_paclerara_ziv_e0c42018:
 
-    # "Yet, it had the most electrifying effect on me."
-    ""
 
-# game/episode019.rpy:2642
+    "Yine de beni elektriklenmiş gibi hissettirdi."
+
+
 translate turkish ep019_paclerara_ziv_d9d9b688:
 
-    # "An abundance of precum oozed out of my cock, smearing my abdomen."
-    ""
 
-# game/episode019.rpy:2643
+    "Sikimden bolca zevk suyu sızıyor, karnıma bulaşıyordu."
+
+
 translate turkish ep019_paclerara_ziv_c06fb37f:
 
-    # "I felt constantly on the verge of a monumental orgasm, but Ziv held me back just barely."
-    ""
 
-# game/episode019.rpy:2645
+    "Sürekli muhteşem bir orgazmın eşiğindeydim ama Ziv beni zar zor tutuyordu."
+
+
 translate turkish ep019_paclerara_ziv_8986d84c:
 
-    # zi "Do you want to feel my cock inside you?"
-    zi ""
 
-# game/episode019.rpy:2646
+    zi "Sikimi içinde hissetmek ister misin?"
+
+
 translate turkish ep019_paclerara_ziv_cd197061:
 
-    # "Before I could answer, she pulled her fingers out of my anus."
-    ""
 
-# game/episode019.rpy:2647
+    "Cevap veremeden parmaklarını deliğimden çıkardı."
+
+
 translate turkish ep019_paclerara_ziv_c4bb16f8:
 
-    # "I let out an irritated growl, and Ziv smiled at me."
-    ""
 
-# game/episode019.rpy:2648
+    "Sinirli bir homurtu çıkardım ve Ziv bana gülümsedi."
+
+
 translate turkish ep019_paclerara_ziv_eda7e675:
 
-    # "She pushed my legs backwards and angled her cock towards me."
-    ""
 
-# game/episode019.rpy:2649
+    "Bacaklarımı geriye itti ve sikini bana doğru yöneltti."
+
+
 translate turkish ep019_paclerara_ziv_a25e5273:
 
-    # "By that time, I craved for her to penetrate me."
-    ""
 
-# game/episode019.rpy:2654
+    "O ana kadar beni sikmesi için can atıyordum."
+
+
 translate turkish ep019_paclerara_ziv_39b63088:
 
-    # "Ziv pushed the tip of her dick against my anus."
-    ""
 
-# game/episode019.rpy:2655
+    "Ziv sikinin başını deliğime dayadı."
+
+
 translate turkish ep019_paclerara_ziv_4d02354e:
 
-    # "Distinctly, I could feel the warm throbbing thing exerting pressure."
-    ""
 
-# game/episode019.rpy:2656
+    "Sıcak ve zonklayan şeyin baskısını net bir şekilde hissedebiliyordum."
+
+
 translate turkish ep019_paclerara_ziv_fe2598d6:
 
-    # "She pressed on and the tip slipped inside me."
-    ""
 
-# game/episode019.rpy:2658
+    "Bastırdı ve başı içime kaydı."
+
+
 translate turkish ep019_paclerara_ziv_b796fcfa:
 
-    # "Further she went and her dick began to fill my ass completely."
-    ""
 
-# game/episode019.rpy:2659
+    "Daha da ilerledi ve siki götümü tamamen doldurmaya başladı."
+
+
 translate turkish ep019_paclerara_ziv_f163ecac:
 
-    # "It felt weird at first, having something hard and powerfully alive inside you like that."
-    ""
 
-# game/episode019.rpy:2664
+    "Başta garip geldi, içinde öyle sert ve güçlü bir şeyin olması."
+
+
 translate turkish ep019_paclerara_ziv_46db0841:
 
-    # "When she began to move and fuck me, a sliver of pain wormed through the overall feeling of carnal pleasure."
-    ""
 
-# game/episode019.rpy:2665
+    "Hareket edip beni sikmeye başladığında, şehvetli zevkin içinde bir parça acı dolaştı."
+
+
 translate turkish ep019_paclerara_ziv_97f37b75:
 
-    # "I gritted my teeth and bore the pain, as Ziv established a slow rhythm."
-    ""
 
-# game/episode019.rpy:2667
+    "Dişlerimi sıktım ve Ziv yavaş bir ritim tutturduğunda acıya katlandım."
+
+
 translate turkish ep019_paclerara_ziv_df2b0a07:
 
-    # zi "Oh fuck, [p_name_short], you’re so tight."
-    zi ""
 
-# game/episode019.rpy:2668
+    zi "Ah siktir, [p_name_short], çok darsın."
+
+
 translate turkish ep019_paclerara_ziv_03a88a25:
 
-    # c "Is my ass going to make you cum already, Ziv?"
-    c ""
 
-# game/episode019.rpy:2669
+    c "Götüm seni şimdiden boşaltacak mı, Ziv?"
+
+
 translate turkish ep019_paclerara_ziv_d5a36c0b:
 
-    # zi "Maybe...{w} It feels so good!"
-    zi ""
 
-# game/episode019.rpy:2670
+    zi "Belki...{w} Çok iyi hissettiriyor!"
+
+
 translate turkish ep019_paclerara_ziv_53976f92:
 
-    # "She went a little faster and I came to terms with her cock invading me like that."
-    ""
 
-# game/episode019.rpy:2671
+    "Biraz daha hızlandı ve sikinin beni böyle doldurmasına alıştım."
+
+
 translate turkish ep019_paclerara_ziv_11bfaff5:
 
-    # "With acceptance came waves of pleasure, and my cock grew painfully hard again."
-    ""
 
-# game/episode019.rpy:2674
+    "Kabullenmeyle birlikte zevk dalgaları geldi ve sikim yine acı verecek kadar sertleşti."
+
+
 translate turkish ep019_paclerara_ziv_ef7cd355:
 
-    # "Ziv took my erection in her hand and began to stroke my dick."
-    ""
 
-# game/episode019.rpy:2675
+    "Ziv sikimi eline aldı ve okşamaya başladı."
+
+
 translate turkish ep019_paclerara_ziv_35d68484:
 
-    # "I grunted heavily and strained not to cum."
-    ""
 
-# game/episode019.rpy:2676
+    "Ağır ağır homurdandım ve boşalmamak için kendimi tuttum."
+
+
 translate turkish ep019_paclerara_ziv_05e81d38:
 
-    # zi "You’re so hard for me, aren’t you, [p_name_short]?"
-    zi ""
 
-# game/episode019.rpy:2677
+    zi "Benim için çok sertleştin, değil mi [p_name_short]?"
+
+
 translate turkish ep019_paclerara_ziv_703f4ad3:
 
-    # c "I am, your dick feels so amazing."
-    c ""
 
-# game/episode019.rpy:2680
+    c "Evet, sikin harika hissettiriyor."
+
+
 translate turkish ep019_paclerara_ziv_4ce7f9b1:
 
-    # zi "Do you want me to go harder?"
-    zi ""
 
-# game/episode019.rpy:2681
+    zi "Daha sert gitmemi ister misin?"
+
+
 translate turkish ep019_paclerara_ziv_cf5fcc44_1:
 
-    # c "Yes!"
-    c ""
 
-# game/episode019.rpy:2682
+    c "Evet!"
+
+
 translate turkish ep019_paclerara_ziv_3337c021:
 
-    # zi "Do you want me to breed your tight ass?"
-    zi ""
 
-# game/episode019.rpy:2683
+    zi "Dar götünü doldurmamı ister misin?"
+
+
 translate turkish ep019_paclerara_ziv_5e08a467:
 
-    # c "Yes, give it to me."
-    c ""
 
-# game/episode019.rpy:2684
+    c "Evet, ver bana."
+
+
 translate turkish ep019_paclerara_ziv_e1e7eebc:
 
-    # zi "Turn around then."
-    zi ""
 
-# game/episode019.rpy:2685
+    zi "O zaman dön."
+
+
 translate turkish ep019_paclerara_ziv_8445d3a8:
 
-    # "I really liked this more forceful side of Ziv and obediently followed her instructions."
-    ""
 
-# game/episode019.rpy:2691
+    "Ziv'in bu daha dominant tarafını gerçekten sevdim ve söylediklerini itaatkarca yerine getirdim."
+
+
 translate turkish ep019_paclerara_ziv_444dc54f:
 
-    # "As soon as she placed her hands on my flanks I knew she would fuck me like an animal."
-    ""
 
-# game/episode019.rpy:2692
+    "Ellerini yanlarıma koyar koymaz beni bir hayvan gibi sikeceğini anladım."
+
+
 translate turkish ep019_paclerara_ziv_ff7461de:
 
-    # "Her cock probed my anus once more and she pushed the full length of her shaft home."
-    ""
 
-# game/episode019.rpy:2693
+    "Siki bir kez daha deliğimi yokladı ve tüm uzunluğunu içime itti."
+
+
 translate turkish ep019_paclerara_ziv_e9858791:
 
-    # "I nearly lost my footing as my ass exploded in a mix of pain and pleasure."
-    ""
 
-# game/episode019.rpy:2694
+    "Götüm acı ve zevk karışımıyla patlarken neredeyse dengemi kaybediyordum."
+
+
 translate turkish ep019_paclerara_ziv_199c8775:
 
-    # c "Oh fuck, Ziv, keep going!"
-    c ""
 
-# game/episode019.rpy:2696
+    c "Ah siktir, Ziv, devam et!"
+
+
 translate turkish ep019_paclerara_ziv_03598507:
 
-    # "Deeper and deeper she went, fucking my ass like it was a girl’s pussy."
-    ""
 
-# game/episode019.rpy:2697
+    "Daha da derine gitti, götümü bir kızın amı gibi sikiyordu."
+
+
 translate turkish ep019_paclerara_ziv_cf3d19dd:
 
-    # "Long strings of fluid were leaking from the head of my cock onto the fabric of the sofa."
-    ""
 
-# game/episode019.rpy:2698
+    "Sikimin başından uzun sıvı damlaları koltuğun kumaşına akıyordu."
+
+
 translate turkish ep019_paclerara_ziv_45bae222:
 
-    # "Ziv’s fingers dug into my flesh as if she didn’t want to let me go."
-    ""
 
-# game/episode019.rpy:2699
+    "Ziv'in parmakları beni bırakmak istemiyormuş gibi etime gömüldü."
+
+
 translate turkish ep019_paclerara_ziv_88df0416:
 
-    # "We both wanted to be connected like this forever."
-    ""
 
-# game/episode019.rpy:2702
+    "İkimiz de sonsuza kadar böyle bağlı kalmak istiyorduk."
+
+
 translate turkish ep019_paclerara_ziv_3154888d:
 
-    # zi "Oh [p_name_short]! [p_name_short]!"
-    zi ""
 
-# game/episode019.rpy:2703
+    zi "Ah [p_name_short]! [p_name_short]!"
+
+
 translate turkish ep019_paclerara_ziv_5b2cb0cb:
 
-    # zi "Do you want me to cum inside you?"
-    zi ""
 
-# game/episode019.rpy:2707
+    zi "İçine boşalmamı ister misin?"
+
+
 translate turkish ep019_paclerara_ziv_34bf1482:
 
-    # c "Pump my ass full of cum, Ziv!"
-    c ""
 
-# game/episode019.rpy:2708
+    c "Götümü dölünle doldur, Ziv!"
+
+
 translate turkish ep019_paclerara_ziv_1e39fdb7:
 
-    # c "Just do it!"
-    c ""
 
-# game/episode019.rpy:2711
+    c "Hadi yap!"
+
+
 translate turkish ep019_paclerara_ziv_8a56851d:
 
-    # "Ziv grunted in satisfaction and made a few more thrusts."
-    ""
 
-# game/episode019.rpy:2712
+    "Ziv zevkle homurdandı ve birkaç kez daha içime girdi."
+
+
 translate turkish ep019_paclerara_ziv_473e6e3f:
 
-    # "She suddenly gripped my sides hard and I could feel her cock twitch inside my ass."
-    ""
 
-# game/episode019.rpy:2717
+    "Aniden yanlarımı sıkıca kavradı ve sikinin götümün içinde seğirdiğini hissettim."
+
+
 translate turkish ep019_paclerara_ziv_63867a23:
 
-    # "A warm stream flooded my insides."
-    ""
 
-# game/episode019.rpy:2718
+    "Sıcak bir akıntı içimi doldurdu."
+
+
 translate turkish ep019_paclerara_ziv_05c303b2:
 
-    # "Ziv nearly toppled over me as a stream of her hot cum shot deep into my ass."
-    ""
 
-# game/episode019.rpy:2719
+    "Sıcak dölü götümün derinliklerine fışkırırken Ziv neredeyse üzerime düşüyordu."
+
+
 translate turkish ep019_paclerara_ziv_21d2cc07:
 
-    # "She pulled out of my ass and fell next to me."
-    ""
 
-# game/episode019.rpy:2722
+    "Götümden çıktı ve yanıma düştü."
+
+
 translate turkish ep019_paclerara_ziv_f1c9552f:
 
-    # "I collapsed onto the sofa as well, warm cum pulsing out of my anus."
-    ""
 
-# game/episode019.rpy:2727
+    "Ben de koltuğa yığıldım, sıcak döl deliğimden dışarı akıyordu."
+
+
 translate turkish ep019_paclerara_ziv_b60e292d:
 
-    # c "No, cum all over me, Ziv!"
-    c ""
 
-# game/episode019.rpy:2728
+    c "Hayır, üzerime boşal, Ziv!"
+
+
 translate turkish ep019_paclerara_ziv_29b0bcb1:
 
-    # "Ziv grunted her approval and whipped her cock out of my ass."
-    ""
 
-# game/episode019.rpy:2729
+    "Ziv onaylayarak homurdandı ve sikini götümden çıkardı."
+
+
 translate turkish ep019_paclerara_ziv_955d75fa:
 
-    # "She just needed two strokes to get herself ready."
-    ""
 
-# game/episode019.rpy:2734
+    "Hazırlanması için sadece iki kez çekmesi yetti."
+
+
 translate turkish ep019_paclerara_ziv_ff2532c1:
 
-    # "Hot cum spurted all over my back as I collapsed onto the sofa."
-    ""
 
-# game/episode019.rpy:2737
+    "Ben koltuğa yığılırken sıcak döl sırtıma fışkırdı."
+
+
 translate turkish ep019_paclerara_ziv_e0e66e21:
 
-    # "Ziv joined me, still shaking with the remnants of her orgasm."
-    ""
 
-# game/episode019.rpy:2740
+    "Ziv yanıma geldi, hala orgazmının etkisiyle titriyordu."
+
+
 translate turkish ep019_paclerara_ziv_8d31beb4:
 
-    # c "I want you to cum in my mouth, Ziv."
-    c ""
 
-# game/episode019.rpy:2741
+    c "Ağzıma boşalmanı istiyorum, Ziv."
+
+
 translate turkish ep019_paclerara_ziv_29b0bcb1_1:
 
-    # "Ziv grunted her approval and whipped her cock out of my ass."
-    ""
 
-# game/episode019.rpy:2744
+    "Ziv onaylayarak homurdandı ve sikini götümden çıkardı."
+
+
 translate turkish ep019_paclerara_ziv_8d383c69:
 
-    # "I turned to face her and greedily took her dick inside my mouth."
-    ""
 
-# game/episode019.rpy:2745
+    "Ona döndüm ve açgözlülükle sikini ağzıma aldım."
+
+
 translate turkish ep019_paclerara_ziv_b6fcd9d9:
 
-    # zi "That’s it, taste your ass."
-    zi ""
 
-# game/episode019.rpy:2750
+    zi "İşte böyle, götünün tadına bak."
+
+
 translate turkish ep019_paclerara_ziv_621fc9e4:
 
-    # "I started sucking her dick passionately and it didn’t take long for her to reach her climax."
-    ""
 
-# game/episode019.rpy:2753
+    "Tutkuyla sikini emmeye başladım ve boşalması uzun sürmedi."
+
+
 translate turkish ep019_paclerara_ziv_5b1b913e:
 
-    # "Hot cum flooded my mouth and I swallowed it hungrily."
-    ""
 
-# game/episode019.rpy:2754
+    "Sıcak döl ağzımı doldurdu ve açgözlülükle yuttum."
+
+
 translate turkish ep019_paclerara_ziv_8b405764:
 
-    # "When Ziv was done, I cleaned her shaft and collapsed onto the sofa, Ziv falling beside me."
-    ""
 
-# game/episode019.rpy:2758
+    "Ziv bitirdiğinde, sikini temizledim ve koltuğa yığıldım, Ziv de yanıma düştü."
+
+
 translate turkish ep019_paclerara_ziv_8a8a0300:
 
-    # c "You’re not done, are you, Ziv?"
-    c ""
 
-# game/episode019.rpy:2759
+    c "Daha bitmedin, değil mi Ziv?"
+
+
 translate turkish ep019_paclerara_ziv_e1d64518:
 
-    # zi "Of course not."
-    zi ""
 
-# game/episode019.rpy:2760
+    zi "Tabii ki hayır."
+
+
 translate turkish ep019_paclerara_ziv_dd152e98:
 
-    # zi "I haven’t taken care of you."
-    zi ""
 
-# game/episode019.rpy:2761
+    zi "Seninle henüz ilgilenmedim."
+
+
 translate turkish ep019_paclerara_ziv_ac5014e0:
 
-    # c "Your pussy is going to do that."
-    c ""
 
-# game/episode019.rpy:2763
+    c "Amın halledecek onu."
+
+
 translate turkish ep019_paclerara_ziv_1dc096ed:
 
-    # zi "I like the idea already."
-    zi ""
 
-# game/episode019.rpy:2764
+    zi "Şimdiden hoşuma gitti bu fikir."
+
+
 translate turkish ep019_paclerara_ziv_85e8e0d3:
 
-    # zi "Just be a little gentle with my dick, it’s still a little sensitive."
-    zi ""
 
-# game/episode019.rpy:2765
+    zi "Sadece sikimle biraz nazik ol, hala biraz hassas."
+
+
 translate turkish ep019_paclerara_ziv_c9e8814c:
 
-    # c "You weren’t that gentle with me just now."
-    c ""
 
-# game/episode019.rpy:2766
+    c "Az önce benimle pek nazik değildin."
+
+
 translate turkish ep019_paclerara_ziv_d6e5929c:
 
-    # zi "I didn’t hear you complain?"
-    zi ""
 
-# game/episode019.rpy:2767
+    zi "Şikayet ettiğini duymadım?"
+
+
 translate turkish ep019_paclerara_ziv_89938928:
 
-    # c "I’m not, it felt great."
-    c ""
 
-# game/episode019.rpy:2768
+    c "Etmiyorum, harikaydı."
+
+
 translate turkish ep019_paclerara_ziv_ee241385:
 
-    # zi "Good!"
-    zi ""
 
-# game/episode019.rpy:2769
+    zi "Güzel!"
+
+
 translate turkish ep019_paclerara_ziv_0ba1b714:
 
-    # c "On your knees then."
-    c ""
 
-# game/episode019.rpy:2771
+    c "O zaman diz çök."
+
+
 translate turkish ep019_paclerara_ziv_c8eacaa7:
 
-    # c "On your knees then, if you’re ready to be fucked."
-    c ""
 
-# game/episode019.rpy:2772
+    c "Hazırsan diz çök de sikeyim seni."
+
+
 translate turkish ep019_paclerara_ziv_cd815510:
 
-    # zi "Oh I am!"
-    zi ""
 
-# game/episode019.rpy:2776
+    zi "Ah evet, hazırım!"
+
+
 translate turkish ep019_paclerara_ziv_a88e7887:
 
-    # "Ziv got on all fours and stuck her ass in the air."
-    ""
 
-# game/episode019.rpy:2777
+    "Ziv dört ayak üzerine çöküp kıçını havaya kaldırdı."
+
+
 translate turkish ep019_paclerara_ziv_396a28eb:
 
-    # "One hand on her ass, I pushed my cock against her entrance."
-    ""
 
-# game/episode019.rpy:2778
+    "Bir elim kalçasında, sikimi girişine dayadım."
+
+
 translate turkish ep019_paclerara_ziv_d3cca4fc:
 
-    # "My shaft was still wet with my precum and her saliva, both generously applied."
-    ""
 
-# game/episode019.rpy:2779
+    "Sikim hala ıslanmıştı, hem kendi sıvımla hem de onun tükürüğüyle."
+
+
 translate turkish ep019_paclerara_ziv_b13e6918:
 
-    # "I slid into Ziv with ease, her slit dripping wet."
-    ""
 
-# game/episode019.rpy:2780
+    "Ziv'in içine kolayca kaydım, amı sırılsıklam olmuştu."
+
+
 translate turkish ep019_paclerara_ziv_726d767d:
 
-    # c "Your pussy feels so good."
-    c ""
 
-# game/episode019.rpy:2781
+    c "Amın çok güzel hissettiriyor."
+
+
 translate turkish ep019_paclerara_ziv_3f1baaaa:
 
-    # zi "Oh yes, deeper, [p_name_short]!"
-    zi ""
 
-# game/episode019.rpy:2783
+    zi "Ah evet, daha derine, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_ziv_abba2c69:
 
-    # "I pushed my dick further inside her and began to drive into her."
-    ""
 
-# game/episode019.rpy:2784
+    "Sikimi daha derine ittim ve onu pompalamaya başladım."
+
+
 translate turkish ep019_paclerara_ziv_352cb50b:
 
-    # "Ziv began to breath heavily, punctuated by my hard thrusts."
-    ""
 
-# game/episode019.rpy:2788
+    "Ziv ağır ağır nefes almaya başladı, her sert vuruşumla birlikte."
+
+
 translate turkish ep019_paclerara_ziv_7ab7417c:
 
-    # "Her cock was hard again, whipping back and forth as I drove into her."
-    ""
 
-# game/episode019.rpy:2790
+    "Siki yine sertleşmişti, ben içine girdikçe ileri geri sallanıyordu."
+
+
 translate turkish ep019_paclerara_ziv_ea2447a7:
 
-    # "Her hard cock whipped back and forth as I drove into her."
-    ""
 
-# game/episode019.rpy:2792
+    "Sertleşmiş siki ileri geri sallanıyordu ben içine girdikçe."
+
+
 translate turkish ep019_paclerara_ziv_dd1480f6:
 
-    # "I admired her ass, the quivering of her purple flesh."
-    ""
 
-# game/episode019.rpy:2793
+    "Kalçasına hayran kaldım, mor teninin titremesine."
+
+
 translate turkish ep019_paclerara_ziv_cbb44e5c:
 
-    # "Ziv moaned loudly, my cock hitting all the right spots."
-    ""
 
-# game/episode019.rpy:2796
+    "Ziv yüksek sesle inledi, sikim tam doğru noktalara vuruyordu."
+
+
 translate turkish ep019_paclerara_ziv_661d59e6:
 
-    # zi "I want you closer!"
-    zi ""
 
-# game/episode019.rpy:2797
+    zi "Daha yakın ol bana!"
+
+
 translate turkish ep019_paclerara_ziv_5339edf7:
 
-    # zi "Please, [p_name_short], hold me tight while you fuck me!"
-    zi ""
 
-# game/episode019.rpy:2798
+    zi "Lütfen, [p_name_short], seni içimde hissederken sıkıca sarıl bana!"
+
+
 translate turkish ep019_paclerara_ziv_58992639:
 
-    # "I made her lie down and got behind her."
-    ""
 
-# game/episode019.rpy:2803
+    "Onu yatırdım ve arkasına geçtim."
+
+
 translate turkish ep019_paclerara_ziv_dfb88e1d:
 
-    # "Lifting her leg, I reentered her warm slit again and began to fuck her from behind."
-    ""
 
-# game/episode019.rpy:2804
+    "Bacağını kaldırıp sıcak amına yeniden girdim ve arkadan pompalamaya başladım."
+
+
 translate turkish ep019_paclerara_ziv_1b23f524:
 
-    # zi "That’s it!"
-    zi ""
 
-# game/episode019.rpy:2807
+    zi "İşte bu kadar!"
+
+
 translate turkish ep019_paclerara_ziv_c4afb432:
 
-    # "Grabbing hold of one of her tits, I ran her erect nipple through my fingers."
-    ""
 
-# game/episode019.rpy:2810
+    "Memesini kavrayıp, sertleşmiş uçlarını parmaklarımla okşadım."
+
+
 translate turkish ep019_paclerara_ziv_9c11b07d:
 
-    # "Her cock was leaking precum, she was clearly fully aroused again."
-    ""
 
-# game/episode019.rpy:2812
+    "Sikinden zevk suyu akıyordu, belli ki yine çok azmıştı."
+
+
 translate turkish ep019_paclerara_ziv_cf7ebd96:
 
-    # "Her cock was leaking precum, she was clearly fully aroused."
-    ""
 
-# game/episode019.rpy:2813
+    "Sikinden zevk suyu akıyordu, belli ki çok azmıştı."
+
+
 translate turkish ep019_paclerara_ziv_847a5355:
 
-    # "Ziv rested her foot on the sofa, so she didn’t need my hand to support her anymore."
-    ""
 
-# game/episode019.rpy:2816
+    "Ziv ayağını koltuğa dayadı, artık elimin desteğine ihtiyacı kalmamıştı."
+
+
 translate turkish ep019_paclerara_ziv_c58621ed:
 
-    # "My free hand trailed towards her erection."
-    ""
 
-# game/episode019.rpy:2817
+    "Boşta kalan elim sertleşmiş sikine doğru kaydı."
+
+
 translate turkish ep019_paclerara_ziv_6029616e:
 
-    # "Ziv gasped when I took her throbbing member in my hand."
-    ""
 
-# game/episode019.rpy:2818
+    "Zonklayan sikini elime aldığımda Ziv'in nefesi kesildi."
+
+
 translate turkish ep019_paclerara_ziv_df04a085:
 
-    # "I began to jerk her off while I fucked her pussy hard."
-    ""
 
-# game/episode019.rpy:2820
+    "Amını sert sert sikerken bir yandan da sikini çekmeye başladım."
+
+
 translate turkish ep019_paclerara_ziv_adb87a58:
 
-    # zi "Make me cum, [p_name_short]!"
-    zi ""
 
-# game/episode019.rpy:2822
+    zi "Boşalt beni, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_ziv_d314f575:
 
-    # "Ziv appeared to be ready for another round, all thoughts of gingerness forgotten."
-    ""
 
-# game/episode019.rpy:2824
+    "Ziv bir tur daha için hazır görünüyordu, tüm çekingenliği unutulmuştu."
+
+
 translate turkish ep019_paclerara_ziv_288153c2:
 
-    # "Ziv appeared to be ready, evident by the fact that she grew even harder in my grip."
-    ""
 
-# game/episode019.rpy:2827
+    "Ziv hazır görünüyordu, elimde daha da sertleşmesi bunun kanıtıydı."
+
+
 translate turkish ep019_paclerara_ziv_422e6d54:
 
-    # "She let out a breathless moan and her cunt clenched around my cock."
-    ""
 
-# game/episode019.rpy:2828
+    "Nefes nefese inledi ve amı sikimin etrafında kasıldı."
+
+
 translate turkish ep019_paclerara_ziv_80a9d64f:
 
-    # "She was close, and I could feel I wasn’t far off either."
-    ""
 
-# game/episode019.rpy:2832
+    "O yaklaşmıştı, ben de uzak değildim."
+
+
 translate turkish ep019_paclerara_ziv_3037177c:
 
-    # c "I’m going to pump you so full of cum."
-    c ""
 
-# game/episode019.rpy:2833
+    c "Seni dölle dolduracağım."
+
+
 translate turkish ep019_paclerara_ziv_6e3028bd:
 
-    # zi "Yes, don’t stop, give me everything!"
-    zi ""
 
-# game/episode019.rpy:2834
+    zi "Evet, durma, her şeyini ver bana!"
+
+
 translate turkish ep019_paclerara_ziv_e0b6a660:
 
-    # "With a few flicks of my wrist, I had her unraveling in my arms."
-    ""
 
-# game/episode019.rpy:2839
+    "Birkaç el hareketiyle kollarımda kendinden geçti."
+
+
 translate turkish ep019_paclerara_ziv_c36d1c94:
 
-    # "Ziv’s cock spew thick ropes of cum onto her body."
-    ""
 
-# game/episode019.rpy:2840
+    "Ziv'in sikinden kalın döller vücuduna fışkırdı."
+
+
 translate turkish ep019_paclerara_ziv_7b6af686:
 
-    # "At the same time I exploded inside her cunt."
-    ""
 
-# game/episode019.rpy:2841
+    "Aynı anda ben de amının içine boşaldım."
+
+
 translate turkish ep019_paclerara_ziv_ce9b384f:
 
-    # "My semen flooded her pussy, while her cock still twitched in my hand."
-    ""
 
-# game/episode019.rpy:2844
+    "Döllerim amını doldururken, siki hala elimde seğiriyordu."
+
+
 translate turkish ep019_paclerara_ziv_1fb252c4:
 
-    # "A river of seed pulsed out of Ziv’s slit when I pulled out."
-    ""
 
-# game/episode019.rpy:2847
+    "Çıkardığımda Ziv'in amından döl nehri aktı."
+
+
 translate turkish ep019_paclerara_ziv_16af3914:
 
-    # c "I’m going to make such a mess of you."
-    c ""
 
-# game/episode019.rpy:2848
+    c "Seni berbat edeceğim."
+
+
 translate turkish ep019_paclerara_ziv_62a0609c:
 
-    # zi "Yes, plaster me with your cum!"
-    zi ""
 
-# game/episode019.rpy:2853
+    zi "Evet, dölle kapla beni!"
+
+
 translate turkish ep019_paclerara_ziv_e0b6a660_1:
 
-    # "With a few flicks of my wrist, I had her unraveling in my arms."
-    ""
 
-# game/episode019.rpy:2854
+    "Birkaç el hareketiyle kollarımda kendinden geçti."
+
+
 translate turkish ep019_paclerara_ziv_c36d1c94_1:
 
-    # "Ziv’s cock spew thick ropes of cum onto her body."
-    ""
 
-# game/episode019.rpy:2856
+    "Ziv'in sikinden kalın döller vücuduna fışkırdı."
+
+
 translate turkish ep019_paclerara_ziv_2914cb61:
 
-    # "At the same time I whipped out my cock and exploded all over her."
-    ""
 
-# game/episode019.rpy:2859
+    "Aynı anda sikimi çıkarıp üzerine boşaldım."
+
+
 translate turkish ep019_paclerara_ziv_d620b591:
 
-    # "A torrent of seed shot out of my dick and covered her body."
-    ""
 
-# game/episode019.rpy:2863
+    "Sikimden fışkıran döl seli vücudunu kapladı."
+
+
 translate turkish ep019_paclerara_ziv_bf7dff9c:
 
-    # "Ziv and I lay on the sofa for a long time, just enjoying each other’s nakedness."
-    ""
 
-# game/episode019.rpy:2864
+    "Ziv ve ben uzun süre koltukta uzandık, birbirimizin çıplaklığının tadını çıkararak."
+
+
 translate turkish ep019_paclerara_ziv_6d2022fd:
 
-    # "When it was time to join the others for dinner, we both dressed and left the apartment, the cum stains on the couch the only reminder of what just transpired."
-    ""
 
-# game/episode019.rpy:2881
+    "Diğerleriyle akşam yemeği için buluşma vakti geldiğinde ikimiz de giyinip daireden çıktık, koltukta kalan döl lekeleri az önce yaşananların tek kanıtıydı."
+
+
 translate turkish ep019_paclerara_vess_632e619e:
 
-    # "Night had fallen and I was on my way back to my room to get some sleep."
-    ""
 
-# game/episode019.rpy:2883
+    "Gece olmuştu ve uyumak için odama dönüyordum."
+
+
 translate turkish ep019_paclerara_vess_23921e6c:
 
-    # "As I walked through the corridor where most of the crew were housed, Vess stepped out into the hallway, wearing only her night dress."
-    ""
 
-# game/episode019.rpy:2884
+    "Mürettebatın çoğunun kaldığı koridordan geçerken, Vess sadece geceliğiyle koridora çıktı."
+
+
 translate turkish ep019_paclerara_vess_8386f3bf:
 
-    # c "Vess, were you lying in wait for me?"
-    c ""
 
-# game/episode019.rpy:2886
+    c "Vess, beni mi bekliyordun?"
+
+
 translate turkish ep019_paclerara_vess_3b7f05e5:
 
-    # ve "That depends on how creepy you think that is."
-    ve ""
 
-# game/episode019.rpy:2887
+    ve "Bu ne kadar ürkütücü bulacağına bağlı."
+
+
 translate turkish ep019_paclerara_vess_153710dc:
 
-    # c "I think it’s cute."
-    c ""
 
-# game/episode019.rpy:2889
+    c "Bence tatlı."
+
+
 translate turkish ep019_paclerara_vess_97a84e55:
 
-    # ve "In that case I was indeed trying to ambush you."
-    ve ""
 
-# game/episode019.rpy:2890
+    ve "O zaman evet, sana pusu kuruyordum."
+
+
 translate turkish ep019_paclerara_vess_937ba80b:
 
-    # ve "I wanted to keep you company tonight."
-    ve ""
 
-# game/episode019.rpy:2891
+    ve "Bu gece sana eşlik etmek istedim."
+
+
 translate turkish ep019_paclerara_vess_ee2b6ede:
 
-    # c "You could have sent a message, you know."
-    c ""
 
-# game/episode019.rpy:2892
+    c "Mesaj atabilirdin, biliyorsun."
+
+
 translate turkish ep019_paclerara_vess_00976d9f:
 
-    # ve "I know, but this seemed more spontaneous."
-    ve ""
 
-# game/episode019.rpy:2894
+    ve "Biliyorum, ama bu daha spontane geldi."
+
+
 translate turkish ep019_paclerara_vess_f10cf955:
 
-    # ve "But then you saw right through me..."
-    ve ""
 
-# game/episode019.rpy:2895
+    ve "Ama sen beni hemen anladın..."
+
+
 translate turkish ep019_paclerara_vess_38534b51:
 
-    # c "I appreciate the gesture."
-    c ""
 
-# game/episode019.rpy:2896
+    c "Jest için teşekkürler."
+
+
 translate turkish ep019_paclerara_vess_d287c542:
 
-    # c "Why don’t you join me back to my room?"
-    c ""
 
-# game/episode019.rpy:2898
+    c "Neden odama gelmiyorsun?"
+
+
 translate turkish ep019_paclerara_vess_7db7fcbb:
 
-    # "Our arms linked, Vess and I walked to my quarters."
-    ""
 
-# game/episode019.rpy:2900
+    "Kollarımızı birbirine kenetleyerek, Vess ve ben benim odama doğru yürüdük."
+
+
 translate turkish ep019_paclerara_vess_def04ad0:
 
-    # "Once we arrived, I kicked off my shoes and went through the liquor cabinet."
-    ""
 
-# game/episode019.rpy:2901
+    "Vardığımızda ayakkabılarımı çıkardım ve içki dolabını karıştırmaya başladım.."
+
+
 translate turkish ep019_paclerara_vess_5777a924:
 
-    # c "Fancy a nightcap?"
-    c ""
 
-# game/episode019.rpy:2902
+    c "Bir kadeh bir şey içer misin?"
+
+
 translate turkish ep019_paclerara_vess_9e5dac27:
 
-    # ve "Actually, I’d rather do something else."
-    ve ""
 
-# game/episode019.rpy:2903
+    ve "Aslında başka bir şey yapmak istiyorum."
+
+
 translate turkish ep019_paclerara_vess_04590e76:
 
-    # c "I’m all ears."
-    c ""
 
-# game/episode019.rpy:2904
+    c "Dinliyorum."
+
+
 translate turkish ep019_paclerara_vess_0b63fb40:
 
-    # c "But first, let me look at you."
-    c ""
 
-# game/episode019.rpy:2909
+    c "Ama önce sana bir bakayım."
+
+
 translate turkish ep019_paclerara_vess_110259bc:
 
-    # "Vess wore the diaphanous red negligee she liked so much."
-    ""
 
-# game/episode019.rpy:2910
+    "Vess, çok sevdiği şeffaf kırmızı geceliği giymişti."
+
+
 translate turkish ep019_paclerara_vess_32dff276:
 
-    # "The garment accentuated the sensuous curve of her body perfectly and the gauzy fabric allowed for an enticing glimpse of her naked body beneath it."
-    ""
 
-# game/episode019.rpy:2911
+    "Giysi, vücudunun duyusal kıvrımlarını mükemmel bir şekilde vurguluyordu ve tül gibi ince kumaş, altında yatan çıplak vücudunu baştan çıkarıcı bir şekilde ortaya çıkarıyordu."
+
+
 translate turkish ep019_paclerara_vess_1edb6d51:
 
-    # ve "Do you like what you see?"
-    ve ""
 
-# game/episode019.rpy:2912
+    ve "Gördüğünü beğendin mi?"
+
+
 translate turkish ep019_paclerara_vess_8a29e1eb:
 
-    # c "Yes, I do."
-    c ""
 
-# game/episode019.rpy:2913
+    c "Evet, beğendim."
+
+
 translate turkish ep019_paclerara_vess_7ab69785:
 
-    # ve "I’m sure you want to see more."
-    ve ""
 
-# game/episode019.rpy:2915
+    ve "Eminim daha fazlasını görmek istersin."
+
+
 translate turkish ep019_paclerara_vess_f3ed0c33:
 
-    # "When I nodded, Vess bared her breasts in response."
-    ""
 
-# game/episode019.rpy:2916
+    "Ben başımı salladığımda, Vess karşılık olarak göğüslerini açığa çıkardı."
+
+
 translate turkish ep019_paclerara_vess_7131042b:
 
-    # "She stroked her nipples, which were already hard, and smiled at me."
-    ""
 
-# game/episode019.rpy:2917
+    "Zaten sertleşmiş olan meme uçlarını okşadı ve bana gülümsedi."
+
+
 translate turkish ep019_paclerara_vess_72f21421:
 
-    # ve "You know these are yours."
-    ve ""
 
-# game/episode019.rpy:2922
+    ve "Bunların sana ait olduğunu biliyorsun."
+
+
 translate turkish ep019_paclerara_vess_79155a04:
 
-    # "I quickly advanced on Vess and kissed her, my hand eagerly grabbing her ass."
-    ""
 
-# game/episode019.rpy:2923
+    "Hızla Vess'e yaklaştım ve onu öptüm, elim hevesle kalçasını kavradı."
+
+
 translate turkish ep019_paclerara_vess_7817e27f:
 
-    # "Vess exhaled sharply and began to tug at my clothing."
-    ""
 
-# game/episode019.rpy:2925
+    "Vess keskin bir nefes verdi ve giysilerimi çekmeye başladı."
+
+
 translate turkish ep019_paclerara_vess_66ef2d7c:
 
-    # "We were both undressed in seconds, our hands greedily covering every inch of our naked bodies."
-    ""
 
-# game/episode019.rpy:2927
+    "İkimiz de saniyeler içinde soyunduk, ellerimiz çıplak vücutlarımızın her santimini açgözlülükle kapladı."
+
+
 translate turkish ep019_paclerara_vess_6ef400ab:
 
-    # "My fingers trailed the tight line of her pussy and I was hit with the overwhelming urge to taste her."
-    ""
 
-# game/episode019.rpy:2929
+    "Parmaklarım onun sıkı amının çizgisini takip etti ve onu tatma isteği beni sarstı."
+
+
 translate turkish ep019_paclerara_vess_3788d11b:
 
-    # "I softly pushed her back onto the bed and kneeled before her."
-    ""
 
-# game/episode019.rpy:2930
+    "Onu yatağa nazikçe itip, önünde diz çöktüm."
+
+
 translate turkish ep019_paclerara_vess_c23377df:
 
-    # "Vess had some idea of what I was about to do, because she opened her legs for me."
-    ""
 
-# game/episode019.rpy:2932
+    "Vess, benim ne yapmaya çalıştığımı biraz tahmin ediyordu, çünkü bana bacaklarını açtı."
+
+
 translate turkish ep019_paclerara_vess_e87225cc:
 
-    # "Her slit was right in front of me, waiting for my tongue."
-    ""
 
-# game/episode019.rpy:2937
+    "Onun amı tam önümdeydi, dilimi bekliyordu."
+
+
 translate turkish ep019_paclerara_vess_0b7d0341:
 
-    # "She let out a stuttering gasp when my tongue connected with her pussy."
-    ""
 
-# game/episode019.rpy:2938
+    "Dilim onun amına değdiğinde, kekeleyerek bir nefes aldı."
+
+
 translate turkish ep019_paclerara_vess_074274ec:
 
-    # "As I began to lick her, Vess writhed on the bed, one of her hands clenched into a fist, the other moving over her clitoris."
-    ""
 
-# game/episode019.rpy:2940
+    "Onu yalamaya başladığımda, Vess yatakta kıvranmaya başladı, bir eli yumruk haline gelmiş, diğer eli klitorisini okşuyordu."
+
+
 translate turkish ep019_paclerara_vess_733af24b:
 
-    # ve "Your mouth feels so good on my pussy!"
-    ve ""
 
-# game/episode019.rpy:2941
+    ve "Dilin amımda harika hissettiriyor!"
+
+
 translate turkish ep019_paclerara_vess_09895557:
 
-    # ve "Yes, keep going like that please!"
-    ve ""
 
-# game/episode019.rpy:2943
+    ve "Evet, böyle devam et lütfen!"
+
+
 translate turkish ep019_paclerara_vess_b47df7b0:
 
-    # "Her body was ready even before my tongue began its stimulation, but pretty soon she released even more of her salty juices."
-    ""
 
-# game/episode019.rpy:2944
+    "Dilim uyarılmaya başlamadan önce bile vücudu hazırdı, ama çok geçmeden daha da fazla tuzlu sıvı salgıladı."
+
+
 translate turkish ep019_paclerara_vess_b16a1f42:
 
-    # ve "Oh [p_name_short]!"
-    ve ""
 
-# game/episode019.rpy:2946
+    ve "Ah [p_name_short]!"
+
+
 translate turkish ep019_paclerara_vess_3c094942:
 
-    # ve "You’re making me cum!"
-    ve ""
 
-# game/episode019.rpy:2947
+    ve "Boşalıyorum!"
+
+
 translate turkish ep019_paclerara_vess_00dbfcea:
 
-    # ve "Don’t stop!"
-    ve ""
 
-# game/episode019.rpy:2948
+    ve "Durma!"
+
+
 translate turkish ep019_paclerara_vess_1b7377fa:
 
-    # "I had no intention of stopping, the taste of her cunt too addictive."
-    ""
 
-# game/episode019.rpy:2953
+    "Durdurmaya hiç niyetim yoktu, amının tadı çok bağımlılık yapıcıydı."
+
+
 translate turkish ep019_paclerara_vess_dcc3d0fb:
 
-    # "She yelped in surprise when I sprang to my feet and sat on the bed, hauling her cunt back to my mouth."
-    ""
 
-# game/episode019.rpy:2954
+    "Ayağa fırlayıp yatağa oturduğumda ve amını ağzıma geri çektiğimde şaşkınlıkla inledi."
+
+
 translate turkish ep019_paclerara_vess_c83b8249:
 
-    # "Supporting Vess by holding her thighs, I drank greedily from her slit."
-    ""
 
-# game/episode019.rpy:2957
+    "Vess'in kalçalarından tutarak, amından açgözlülükle içtim."
+
+
 translate turkish ep019_paclerara_vess_0743164d:
 
-    # "I alternated between licking and outright covering her slit with my mouth and sucking on her lips."
-    ""
 
-# game/episode019.rpy:2958
+    "Amını yalamak, ağzımla tamamen kaplamak ve dudaklarını emmek arasında gidip geldim."
+
+
 translate turkish ep019_paclerara_vess_095f0e67:
 
-    # "Vess was reduced to growling and hoarse moans."
-    ""
 
-# game/episode019.rpy:2960
+    "Vess hırıltılı inlemeler ve kısık sesler çıkarıyordu."
+
+
 translate turkish ep019_paclerara_vess_2cf272e8:
 
-    # "Her cunt pumped a new wave of saltiness inside my mouth."
-    ""
 
-# game/episode019.rpy:2961
+    "Amı ağzımın içine yeni bir tuzlu dalga pompaladı."
+
+
 translate turkish ep019_paclerara_vess_af2ec482:
 
-    # ve "Yes, right there!"
-    ve ""
 
-# game/episode019.rpy:2964
+    ve "Evet, tam orası!"
+
+
 translate turkish ep019_paclerara_vess_584d3c03:
 
-    # ve "[p_name_short]! Oh [p_name_short]!"
-    ve ""
 
-# game/episode019.rpy:2965
+    ve "[p_name_short]! Oh [p_name_short]!"
+
+
 translate turkish ep019_paclerara_vess_1090e31d:
 
-    # "Vess shuddered and clawed at the bedsheets."
-    ""
 
-# game/episode019.rpy:2970
+    "Vess titredi ve çarşafları tırmaladı."
+
+
 translate turkish ep019_paclerara_vess_0b8e4f0e:
 
-    # "The shuddering turned into a full-body experience, and her cunt exploded in my mouth."
-    ""
 
-# game/episode019.rpy:2971
+    "Titreme tüm vücudunu sardı ve amı ağzımda patladı."
+
+
 translate turkish ep019_paclerara_vess_9fd97561:
 
-    # "I kept licking her, lengthening her orgasm, until her pussy became too tender and she yanked away from my mouth."
-    ""
 
-# game/episode019.rpy:2973
+    "Amı çok hassaslaşıp ağzımdan çekilene kadar, orgazmını uzatarak onu yalamaya devam ettim."
+
+
 translate turkish ep019_paclerara_vess_f94f5085:
 
-    # ve "That was so good, I’ve never been so wet before."
-    ve ""
 
-# game/episode019.rpy:2974
+    ve "Çok iyiydi, hiç bu kadar ıslanmamıştım."
+
+
 translate turkish ep019_paclerara_vess_7353be21:
 
-    # c "Good, because I want to fuck you so hard right now."
-    c ""
 
-# game/episode019.rpy:2975
+    c "Güzel, çünkü seni şimdi çok sert sikmek istiyorum."
+
+
 translate turkish ep019_paclerara_vess_e6638abe:
 
-    # ve "Oh yes, I want you inside me so bad!"
-    ve ""
 
-# game/episode019.rpy:2978
+    ve "Ah evet, içimde olmanı çok istiyorum!"
+
+
 translate turkish ep019_paclerara_vess_127e86af:
 
-    # "I lowered Vess down and pushed my hard cock against her entrance."
-    ""
 
-# game/episode019.rpy:2979
+    "Vess'i aşağı indirdim ve sert sikimi deliğine dayadım."
+
+
 translate turkish ep019_paclerara_vess_f7d25a83:
 
-    # "She was so wet I slipped into her slit without any resistance."
-    ""
 
-# game/episode019.rpy:2984
+    "O kadar ıslanmıştı ki hiç dirençle karşılaşmadan amına kaydım."
+
+
 translate turkish ep019_paclerara_vess_464bfa63:
 
-    # "Once inside, her pussy felt as tight as ever."
-    ""
 
-# game/episode019.rpy:2985
+    "İçine girdiğimde, amı her zamanki gibi sıkıydı."
+
+
 translate turkish ep019_paclerara_vess_affec3ca:
 
-    # "Vess looked up at me, her eyes shiny with inexhaustible lust."
-    ""
 
-# game/episode019.rpy:2987
+    "Vess bana baktı, gözleri tükenmez bir şehvetle parlıyordu."
+
+
 translate turkish ep019_paclerara_vess_2e355d43:
 
-    # c "Oh Vess, you’re so beautiful."
-    c ""
 
-# game/episode019.rpy:2988
+    c "Ah Vess, çok güzelsin."
+
+
 translate turkish ep019_paclerara_vess_f25b4243:
 
-    # "I cupped her face with my hand and she leaned into it."
-    ""
 
-# game/episode019.rpy:2989
+    "Ellerimle yüzünü kavradım ve o da kendini ellerime bıraktı."
+
+
 translate turkish ep019_paclerara_vess_150a3c7f:
 
-    # ve "I love the feeling of your hard cock inside me."
-    ve ""
 
-# game/episode019.rpy:2990
+    ve "İçimdeki sert sikin çok hoşuma gidiyor."
+
+
 translate turkish ep019_paclerara_vess_ec9b9b1a:
 
-    # ve "I want it to last forever."
-    ve ""
 
-# game/episode019.rpy:2993
+    ve "Sonsuza kadar sürsün istiyorum."
+
+
 translate turkish ep019_paclerara_vess_e81c2f93:
 
-    # "She licked the tip of my thumb and took it into her mouth when I pressed the digit against her lips."
-    ""
 
-# game/episode019.rpy:2994
+    "Başparmağımı dudaklarına bastırdığımda, başını yaladı ve ağzına aldı."
+
+
 translate turkish ep019_paclerara_vess_3370ba83:
 
-    # "My thrusts became more intense, hitting her deep, as she sucked deliriously on my thumb."
-    ""
 
-# game/episode019.rpy:2995
+    "Başparmağımı çılgınca emerken, vuruşlarım daha da şiddetlendi ve derinlerine ulaştı."
+
+
 translate turkish ep019_paclerara_vess_6167c35f:
 
-    # "Vess had her legs wrapped around me, pushing me close against her."
-    ""
 
-# game/episode019.rpy:2996
+    "Vess bacaklarını etrafıma dolamış, beni kendine doğru çekiyordu."
+
+
 translate turkish ep019_paclerara_vess_eb940661:
 
-    # "She really meant wanting it to last forever, but I wouldn’t be able to hold out much longer in this position."
-    ""
 
-# game/episode019.rpy:2997
+    "Gerçekten sonsuza kadar sürmesini istiyordu ama bu pozisyonda daha fazla dayanamayacaktım."
+
+
 translate turkish ep019_paclerara_vess_0cadfa5c:
 
-    # "To catch my breath for a second, I reluctantly slipped out of her."
-    ""
 
-# game/episode019.rpy:3003
+    "Bir saniye nefeslenmek için, istemeye istemeye içinden çıktım."
+
+
 translate turkish ep019_paclerara_vess_c328db7d:
 
-    # "Vess was a little disappointed, but I had something in mind that would undoubtedly please her."
-    ""
 
-# game/episode019.rpy:3004
+    "Vess biraz hayal kırıklığına uğramıştı ama aklımda onu kesinlikle memnun edecek bir şey vardı."
+
+
 translate turkish ep019_paclerara_vess_c393e0dd:
 
-    # c "Get up and turn around."
-    c ""
 
-# game/episode019.rpy:3006
+    c "Kalk ve arkana dön."
+
+
 translate turkish ep019_paclerara_vess_996f082c:
 
-    # "She did as asked and offered me a view of her round butt."
-    ""
 
-# game/episode019.rpy:3008
+    "Dediğimi yaptı ve yuvarlak kalçalarını bana gösterdi."
+
+
 translate turkish ep019_paclerara_vess_62982e58:
 
-    # c "Mmmm, you look so ready for breeding."
-    c ""
 
-# game/episode019.rpy:3009
+    c "Mmmm, döllenmeye çok hazır görünüyorsun."
+
+
 translate turkish ep019_paclerara_vess_223e118a:
 
-    # ve "Yes, breed me, [p_name_short]!"
-    ve ""
 
-# game/episode019.rpy:3011
+    ve "Evet, dölle beni, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_vess_c7476d63:
 
-    # c "Mmmm, you look so ready."
-    c ""
 
-# game/episode019.rpy:3012
+    c "Mmmm, çok hazır görünüyorsun."
+
+
 translate turkish ep019_paclerara_vess_60df10f6:
 
-    # ve "Fuck me harder, [p_name_short]!"
-    ve ""
 
-# game/episode019.rpy:3017
+    ve "Daha sert sik beni, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_vess_014f1f08:
 
-    # "I grabbed her breasts and pulled her towards me and speared her with my cock."
-    ""
 
-# game/episode019.rpy:3018
+    "Göğüslerini kavradım, onu kendime çektim ve sikimle deldim."
+
+
 translate turkish ep019_paclerara_vess_8983c3ce:
 
-    # ve "Yes, like that!"
-    ve ""
 
-# game/episode019.rpy:3019
+    ve "Evet, böyle!"
+
+
 translate turkish ep019_paclerara_vess_81f1939e:
 
-    # "Holding her tight, I fucked her, alternating between short thrusts and a more languid motion, driving her crazy with lust in the process."
-    ""
 
-# game/episode019.rpy:3022
+    "Onu sıkıca tutarak, kısa vuruşlar ve daha yavaş hareketler arasında gidip gelerek siktim, bu süreçte onu şehvetten çıldırtıyordum."
+
+
 translate turkish ep019_paclerara_vess_396e1227:
 
-    # ve "You’re fucking me so good!"
-    ve ""
 
-# game/episode019.rpy:3023
+    ve "Beni çok iyi sikiyorsun!"
+
+
 translate turkish ep019_paclerara_vess_00dbfcea_1:
 
-    # ve "Don’t stop!"
-    ve ""
 
-# game/episode019.rpy:3026
+    ve "Durma!"
+
+
 translate turkish ep019_paclerara_vess_95071cd8:
 
-    # "I kept pounding her tight slit, her ass quivering on the rhythm of my thrusts."
-    ""
 
-# game/episode019.rpy:3027
+    "Dar amını pompalamaya devam ettim, kalçaları vuruşlarımın ritmiyle titriyordu."
+
+
 translate turkish ep019_paclerara_vess_111f941e:
 
-    # "As Vess came for the second time, I felt I was about to cum as well."
-    ""
 
-# game/episode019.rpy:3033
+    "Vess ikinci kez boşalırken, ben de boşalmak üzere olduğumu hissettim."
+
+
 translate turkish ep019_paclerara_vess_9d6cfaaa:
 
-    # c "I’m going to fill you up."
-    c ""
 
-# game/episode019.rpy:3034
+    c "Seni dolduracağım."
+
+
 translate turkish ep019_paclerara_vess_80bd2658:
 
-    # ve "Fill me up with your cum!"
-    ve ""
 
-# game/episode019.rpy:3036
+    ve "Dölünle doldur beni!"
+
+
 translate turkish ep019_paclerara_vess_f3c360b9:
 
-    # ve "Breed me!"
-    ve ""
 
-# game/episode019.rpy:3041
+    ve "Dölle beni!"
+
+
 translate turkish ep019_paclerara_vess_c5d52f29:
 
-    # "Her last statement caused me to lose control and I flooded her pussy with cum."
-    ""
 
-# game/episode019.rpy:3042
+    "Son sözleri kontrolümü kaybetmeme neden oldu ve amını dölümle doldurdum."
+
+
 translate turkish ep019_paclerara_vess_73a04269:
 
-    # ve "Yes, give it to me!"
-    ve ""
 
-# game/episode019.rpy:3043
+    ve "Evet, ver bana!"
+
+
 translate turkish ep019_paclerara_vess_0d557634:
 
-    # ve "It’s so much and so warm inside me!"
-    ve ""
 
-# game/episode019.rpy:3046
+    ve "İçimde çok fazla ve çok sıcak!"
+
+
 translate turkish ep019_paclerara_vess_f1fbe758:
 
-    # "We both collapsed on the mattress, enjoying the last waves of our orgasms, a stream of cum oozing out of Vess’ slit."
-    ""
 
-# game/episode019.rpy:3049
+    "İkimiz de yatağa yığıldık, orgazmımızın son dalgalarının tadını çıkarırken Vess'in amından döl sızıyordu."
+
+
 translate turkish ep019_paclerara_vess_9f8272ff:
 
-    # c "I’m going to cum!"
-    c ""
 
-# game/episode019.rpy:3050
+    c "Boşalacağım!"
+
+
 translate turkish ep019_paclerara_vess_a04b6db1:
 
-    # ve "Yes, cover me in your cum!"
-    ve ""
 
-# game/episode019.rpy:3055
+    ve "Evet, dölünle kapla beni!"
+
+
 translate turkish ep019_paclerara_vess_13661ee5:
 
-    # "Her last statement caused me to lose control and my cock was already shooting ropes of cum as I pulled out of her."
-    ""
 
-# game/episode019.rpy:3056
+    "Son sözleri kontrolümü kaybetmeme neden oldu ve içinden çıkarken sikim çoktan döl fışkırtıyordu."
+
+
 translate turkish ep019_paclerara_vess_73a04269_1:
 
-    # ve "Yes, give it to me!"
-    ve ""
 
-# game/episode019.rpy:3059
+    ve "Evet, ver bana!"
+
+
 translate turkish ep019_paclerara_vess_115992b5:
 
-    # "I sprayed her back and butt with hot cum."
-    ""
 
-# game/episode019.rpy:3060
+    "Sırtını ve kalçalarını sıcak dölümle kapladım."
+
+
 translate turkish ep019_paclerara_vess_a9568ca6:
 
-    # "We both collapsed on the mattress, panting hard and enjoying the last waves of our orgasms."
-    ""
 
-# game/episode019.rpy:3063
+    "İkimiz de yatağa yığıldık, hızlı hızlı soluyarak orgazmımızın son dalgalarının tadını çıkarıyorduk."
+
+
 translate turkish ep019_paclerara_vess_9f8272ff_1:
 
-    # c "I’m going to cum!"
-    c ""
 
-# game/episode019.rpy:3064
+    c "Boşalacağım!"
+
+
 translate turkish ep019_paclerara_vess_4e1a8d02:
 
-    # c "Is your mouth ready for my load?"
-    c ""
 
-# game/episode019.rpy:3065
+    c "Ağzın yükümü almaya hazır mı?"
+
+
 translate turkish ep019_paclerara_vess_e673f1e1:
 
-    # ve "Yes!"
-    ve ""
 
-# game/episode019.rpy:3067
+    ve "Evet!"
+
+
 translate turkish ep019_paclerara_vess_67a033e7:
 
-    # "I pulled out of her as Vess scrambled to face me."
-    ""
 
-# game/episode019.rpy:3072
+    "Vess yüzüme dönmeye çalışırken içinden çıktım."
+
+
 translate turkish ep019_paclerara_vess_938de94f:
 
-    # "When she’d turned around, I blasted her face full of cum."
-    ""
 
-# game/episode019.rpy:3073
+    "Döndüğünde, yüzünü dölle kapladım."
+
+
 translate turkish ep019_paclerara_vess_77d88fbd:
 
-    # "Quite a lot of it sprayed into her open mouth and she swallowed diligently."
-    ""
 
-# game/episode019.rpy:3076
+    "Oldukça fazlası açık ağzına fışkırdı ve o da özenle yuttu."
+
+
 translate turkish ep019_paclerara_vess_207e53cf:
 
-    # "Her face was covered in a mask of warm cum, which she continued to scoop up and lick from her fingers."
-    ""
 
-# game/episode019.rpy:3077
+    "Yüzü sıcak dölle kaplanmıştı, parmaklarıyla toplayıp yalamaya devam etti."
+
+
 translate turkish ep019_paclerara_vess_08bdf267:
 
-    # "Utterly satisfied, we both collapsed on the mattress."
-    ""
 
-# game/episode019.rpy:3081
+    "Tamamen tatmin olmuş bir şekilde ikimiz de yatağa yığıldık."
+
+
 translate turkish ep019_paclerara_vess_0bf22ead:
 
-    # "Vess spent the rest of the night."
-    ""
 
-# game/episode019.rpy:3082
+    "Vess gecenin geri kalanını geçirdi."
+
+
 translate turkish ep019_paclerara_vess_0b5c9af7:
 
-    # "She didn’t bother putting back on her negligee, allowing us to spoon naked and sleeping together for the better part of the next morning."
-    ""
 
-# game/episode019.rpy:3088
+    "Geceliğini tekrar giyme zahmetine girmedi, ertesi sabahın büyük kısmını çıplak bir şekilde sarılıp uyuyarak geçirmemize izin verdi."
+
+
 translate turkish ep019_paclerara_jade_sex_fcc8653c:
 
-    # "We were naked in seconds."
-    ""
 
-# game/episode019.rpy:3089
+    "Saniyeler içinde çıplak kaldık."
+
+
 translate turkish ep019_paclerara_jade_sex_16d298d4:
 
-    # "Suddenly, Jade darted away from me."
-    ""
 
-# game/episode019.rpy:3091
+    "Aniden Jade benden uzaklaştı."
+
+
 translate turkish ep019_paclerara_jade_sex_b1fbcd5c:
 
-    # "She lowered herself halfway into the pool and leaned playfully on the edge."
-    ""
 
-# game/episode019.rpy:3093
+    "Kendini havuzun yarısına kadar indirdi ve oyuncu bir şekilde kenara yaslandı."
+
+
 translate turkish ep019_paclerara_jade_sex_d74477e3:
 
-    # j "You’re going to have to come and get me!"
-    j ""
 
-# game/episode019.rpy:3094
+    j "Gelip beni yakalamalısın!"
+
+
 translate turkish ep019_paclerara_jade_sex_787884af:
 
-    # c "Are you literally playing hard to get?"
-    c ""
 
-# game/episode019.rpy:3095
+    c "Gerçekten naz mı yapıyorsun?"
+
+
 translate turkish ep019_paclerara_jade_sex_23a6a863:
 
-    # j "No, I just felt hot all of a sudden..."
-    j ""
 
-# game/episode019.rpy:3096
+    j "Hayır, birden çok ısındım..."
+
+
 translate turkish ep019_paclerara_jade_sex_dffaeef1:
 
-    # "I walked towards her and sat down in front of Jade."
-    ""
 
-# game/episode019.rpy:3098
+    "Ona doğru yürüdüm ve Jade'in önüne oturdum."
+
+
 translate turkish ep019_paclerara_jade_sex_53fcc6a2:
 
-    # j "Hmmm, what do we have here, poolside entertainment?"
-    j ""
 
-# game/episode019.rpy:3100
+    j "Hmmm, neler var burada, havuz başı eğlencesi mi?"
+
+
 translate turkish ep019_paclerara_jade_sex_a637d5ec:
 
-    # "She approached me and climbed back up."
-    ""
 
-# game/episode019.rpy:3101
+    "Bana yaklaştı ve tekrar yukarı tırmandı."
+
+
 translate turkish ep019_paclerara_jade_sex_105c3b8c:
 
-    # "Jade had her eyes firmly on my erection and pushed my legs apart."
-    ""
 
-# game/episode019.rpy:3106
+    "Jade gözlerini sertleşmiş sikime dikti ve bacaklarımı ayırdı."
+
+
 translate turkish ep019_paclerara_jade_sex_3fb172b7:
 
-    # "Stroking my balls, she put my cock in her mouth."
-    ""
 
-# game/episode019.rpy:3107
+    "Taşaklarımı okşarken, sikimi ağzına aldı."
+
+
 translate turkish ep019_paclerara_jade_sex_5e2b14d4:
 
-    # "Her tongue ran teasingly over the tip and she lowered her head further."
-    ""
 
-# game/episode019.rpy:3108
+    "Dili başını tahrik edici bir şekilde yaladı ve kafasını daha da aşağı indirdi."
+
+
 translate turkish ep019_paclerara_jade_sex_3ec4d004:
 
-    # c "Hmmm, that’s it, Jade!"
-    c ""
 
-# game/episode019.rpy:3109
+    c "Hmmm, işte böyle, Jade!"
+
+
 translate turkish ep019_paclerara_jade_sex_f0befef5:
 
-    # c "Suck that dick!"
-    c ""
 
-# game/episode019.rpy:3112
+    c "Em onu!"
+
+
 translate turkish ep019_paclerara_jade_sex_1cb2bb3a:
 
-    # "I grabbed one of her breasts and put a hand on her head, to guide her motions a little bit."
-    ""
 
-# game/episode019.rpy:3113
+    "Göğüslerinden birini kavradım ve hareketlerini biraz yönlendirmek için elimi başına koydum."
+
+
 translate turkish ep019_paclerara_jade_sex_43bb3ca7:
 
-    # "Jade took my cock deep in her mouth, and I hit her throat eventually."
-    ""
 
-# game/episode019.rpy:3115
+    "Jade sikimi ağzının derinliklerine aldı ve sonunda boğazına dayandı."
+
+
 translate turkish ep019_paclerara_jade_sex_0f2d04d1:
 
-    # "She slobbered greedily on my shaft, the fingers of her other hand fiddling incessantly with my balls."
-    ""
 
-# game/episode019.rpy:3116
+    "Açgözlülükle sikimi yalarken, diğer elinin parmaklarıyla durmadan taşaklarımı oynuyordu."
+
+
 translate turkish ep019_paclerara_jade_sex_56e2f71c:
 
-    # "Jade alternated by stroking and squeezing my testicles, a counterpoint to the suction of her mouth on my throbbing member."
-    ""
 
-# game/episode019.rpy:3118
+    "Jade bir yandan taşaklarımı okşayıp sıkarken, bir yandan da zonklayan sikimi ağzıyla emiyordu."
+
+
 translate turkish ep019_paclerara_jade_sex_285edc5a:
 
-    # "Skilled cock sucker that she was, Jade could have had me cumming in seconds, but she let me linger at the threshold deliberately."
-    ""
 
-# game/episode019.rpy:3119
+    "Jade çok yetenekli bir sakso ustasıydı, beni saniyeler içinde boşaltabilirdi ama bilerek eşikte tutuyordu."
+
+
 translate turkish ep019_paclerara_jade_sex_52eda908:
 
-    # "When she had me worked up into a frenzy, I guided her head back up."
-    ""
 
-# game/episode019.rpy:3124
+    "Beni çılgına çevirdiğinde, başını yukarı kaldırdım."
+
+
 translate turkish ep019_paclerara_jade_sex_ced8e57c:
 
-    # c "I want to fuck you so hard."
-    c ""
 
-# game/episode019.rpy:3126
+    c "Seni çok sert sikmek istiyorum."
+
+
 translate turkish ep019_paclerara_jade_sex_fe216980:
 
-    # "Jade grinned and climbed on top of my lap."
-    ""
 
-# game/episode019.rpy:3127
+    "Jade sırıttı ve kucağıma tırmandı."
+
+
 translate turkish ep019_paclerara_jade_sex_3b1548dd:
 
-    # "With my cock pressing against her lower lips, she lowered herself with a shudder of pleasure."
-    ""
 
-# game/episode019.rpy:3132
+    "Sikim dudaklarına bastırırken, zevkle titreyerek kendini aşağı indirdi."
+
+
 translate turkish ep019_paclerara_jade_sex_341d514a:
 
-    # "I invaded her cunt inch by inch, making us both moan in pleasure."
-    ""
 
-# game/episode019.rpy:3133
+    "Santim santim amına girdim, ikimizi de zevkten inlettim."
+
+
 translate turkish ep019_paclerara_jade_sex_7af9141f:
 
-    # j "Mmmm, I love the feeling of your dick inside me so much."
-    j ""
 
-# game/episode019.rpy:3134
+    j "Mmmm, sikin içimdeyken çok zevk alıyorum."
+
+
 translate turkish ep019_paclerara_jade_sex_9c9c59b9:
 
-    # c "I want you to ride me hard."
-    c ""
 
-# game/episode019.rpy:3136
+    c "Üzerimde sert zıplamanı istiyorum."
+
+
 translate turkish ep019_paclerara_jade_sex_2612ac93:
 
-    # "Holding me by the shoulders, Jade began to grind on top of me."
-    ""
 
-# game/episode019.rpy:3137
+    "Omuzlarımdan tutarak, Jade üzerimde sürtünmeye başladı."
+
+
 translate turkish ep019_paclerara_jade_sex_e78ef171:
 
-    # "She took my cock so very deep inside her wet pussy and relished the feeling of her clit rubbing back and forth over my body."
-    ""
 
-# game/episode019.rpy:3140
+    "Sikimi ıslak amının çok derinlerine aldı ve klitorisinin vücuduma sürtünme hissinin tadını çıkardı."
+
+
 translate turkish ep019_paclerara_jade_sex_a1ed7fee:
 
-    # j "Oh [p_name_short]!"
-    j ""
 
-# game/episode019.rpy:3141
+    j "Ah [p_name_short]!"
+
+
 translate turkish ep019_paclerara_jade_sex_5a81581d:
 
-    # j "You’re making me-"
-    j ""
 
-# game/episode019.rpy:3144
+    j "Beni boşalt-"
+
+
 translate turkish ep019_paclerara_jade_sex_9a818fe5:
 
-    # "She shuddered as an orgasm erupted from her pussy and rippled through her body."
-    ""
 
-# game/episode019.rpy:3145
+    "Amından gelen orgazmla tüm vücudu titredi."
+
+
 translate turkish ep019_paclerara_jade_sex_35b81323:
 
-    # "Her movements became so erratic and her cunt so slick that it caused my dick to flop out."
-    ""
 
-# game/episode019.rpy:3147
+    "Hareketleri o kadar düzensizleşti ve amı o kadar ıslandı ki sikim dışarı kaydı."
+
+
 translate turkish ep019_paclerara_jade_sex_069cbb72:
 
-    # "I let her collapse on my chest to ride out the remainder of her orgasm."
-    ""
 
-# game/episode019.rpy:3148
+    "Orgazmının geri kalanını yaşaması için göğsüme yığılmasına izin verdim."
+
+
 translate turkish ep019_paclerara_jade_sex_8ff6ce30:
 
-    # "When the last tremors subsided, Jade let out a heavy sigh of contentment."
-    ""
 
-# game/episode019.rpy:3150
+    "Son titremeler dindiğinde, Jade memnuniyetle derin bir iç çekti."
+
+
 translate turkish ep019_paclerara_jade_sex_4951d497:
 
-    # j "That felt so good."
-    j ""
 
-# game/episode019.rpy:3151
+    j "Bu çok iyi hissettirdi."
+
+
 translate turkish ep019_paclerara_jade_sex_ebef3106:
 
-    # "Jade remained on my chest for a good while, until she became aware of my erection, still poking against her abdomen."
-    ""
 
-# game/episode019.rpy:3156
+    "Jade bir süre göğsümde kaldı, ta ki karnına değen sertliğimi fark edene kadar."
+
+
 translate turkish ep019_paclerara_jade_sex_260e6a43:
 
-    # "She turned herself around, giving me a nice look at her firm round ass."
-    ""
 
-# game/episode019.rpy:3157
+    "Döndü ve sıkı yuvarlak kalçalarını görmemi sağladı."
+
+
 translate turkish ep019_paclerara_jade_sex_c9a46183:
 
-    # "Her warm cunt took my throbbing cock with ease."
-    ""
 
-# game/episode019.rpy:3158
+    "Sıcak amı zonklayan sikimi kolayca içine aldı."
+
+
 translate turkish ep019_paclerara_jade_sex_f384d0fb:
 
-    # j "I’m going to ride you so hard until you cum."
-    j ""
 
-# game/episode019.rpy:3159
+    j "Boşalana kadar seni çok sert sikeceğim."
+
+
 translate turkish ep019_paclerara_jade_sex_2441a621:
 
-    # "In response, I cupped her butt with my hands and squeezed her teasingly."
-    ""
 
-# game/episode019.rpy:3162
+    "Karşılık olarak, ellerimle kıçını kavradım ve onu tahrik edici bir şekilde sıktım."
+
+
 translate turkish ep019_paclerara_jade_sex_5e6e502f:
 
-    # "Jade fingered herself as she bobbed up and down my cock."
-    ""
 
-# game/episode019.rpy:3163
+    "Jade sikimin üstünde aşağı yukarı zıplarken kendini parmaklamaya başladı."
+
+
 translate turkish ep019_paclerara_jade_sex_bb8eb9a9:
 
-    # "I kneaded the soft flesh of her ass, greedily clawing at it the next moment."
-    ""
 
-# game/episode019.rpy:3164
+    "Kıçının yumuşak etini yoğurdum, bir sonraki an açgözlülükle kavradım."
+
+
 translate turkish ep019_paclerara_jade_sex_28ea546f:
 
-    # "She took my cock deep inside her, grinding on it."
-    ""
 
-# game/episode019.rpy:3165
+    "Sikimi derinlerine aldı ve üzerinde sürtünmeye başladı."
+
+
 translate turkish ep019_paclerara_jade_sex_5fca5302:
 
-    # "Delirious again by the feeling of me inside her pussy, Jade kept fingering her clit."
-    ""
 
-# game/episode019.rpy:3166
+    "İçindeki sikimin verdiği zevkle kendinden geçen Jade, klitorisini okşamaya devam etti."
+
+
 translate turkish ep019_paclerara_jade_sex_4b29fd36:
 
-    # c "Oh Jade, keep going like that!"
-    c ""
 
-# game/episode019.rpy:3169
+    c "Ah Jade, devam et böyle!"
+
+
 translate turkish ep019_paclerara_jade_sex_9b39d0d5:
 
-    # j "Are you going to cum for me, [p_name]?"
-    j ""
 
-# game/episode019.rpy:3170
+    j "Benim için boşalacak mısın, [p_name]?"
+
+
 translate turkish ep019_paclerara_jade_sex_c9c6c83b:
 
-    # c "Yes, I am!"
-    c ""
 
-# game/episode019.rpy:3171
+    c "Evet, boşalacağım!"
+
+
 translate turkish ep019_paclerara_jade_sex_a6e13b0c:
 
-    # c "I’m so close."
-    c ""
 
-# game/episode019.rpy:3172
+    c "Çok yaklaştım."
+
+
 translate turkish ep019_paclerara_jade_sex_a5860f56:
 
-    # j "Me too!"
-    j ""
 
-# game/episode019.rpy:3175
+    j "Ben de!"
+
+
 translate turkish ep019_paclerara_jade_sex_18b22e04:
 
-    # "Jade rode me even harder, her fingers desperately gyrating over her clit."
-    ""
 
-# game/episode019.rpy:3176
+    "Jade daha da hızlandı, parmakları çılgınca klitorisini okşuyordu."
+
+
 translate turkish ep019_paclerara_jade_sex_530b6e2d:
 
-    # "I felt my climax approaching."
-    ""
 
-# game/episode019.rpy:3180
+    "Boşalacağımı hissettim."
+
+
 translate turkish ep019_paclerara_jade_sex_605bdba9:
 
-    # c "I’m going to cum inside you."
-    c ""
 
-# game/episode019.rpy:3181
+    c "İçine boşalacağım."
+
+
 translate turkish ep019_paclerara_jade_sex_c62635cf:
 
-    # j "Yes, I want it all inside my pussy!"
-    j ""
 
-# game/episode019.rpy:3182
+    j "Evet, hepsini amımın içine istiyorum!"
+
+
 translate turkish ep019_paclerara_jade_sex_4ad59ab5:
 
-    # j "Just let it go!"
-    j ""
 
-# game/episode019.rpy:3187
+    j "Bırak gitsin!"
+
+
 translate turkish ep019_paclerara_jade_sex_632f5270:
 
-    # "I grabbed her flanks and pushed her down with some force, my cock spearing her cunt."
-    ""
 
-# game/episode019.rpy:3188
+    "Kalçalarından tuttum ve onu sertçe aşağı bastırdım, sikim amına gömüldü."
+
+
 translate turkish ep019_paclerara_jade_sex_d4c2777c:
 
-    # "Jade screamed as she reached her orgasm, just as I was shooting hot cum deep inside her pussy."
-    ""
 
-# game/episode019.rpy:3189
+    "Jade orgazma ulaştığında çığlık attı, tam o sırada sıcak dölümü amının derinliklerine boşalıyordum."
+
+
 translate turkish ep019_paclerara_jade_sex_aa323701:
 
-    # "When Jade’s orgasm had subsided, she let my cock slip out of her."
-    ""
 
-# game/episode019.rpy:3192
+    "Jade'in orgazmı dindiğinde, sikimin içinden kayıp çıkmasına izin verdi."
+
+
 translate turkish ep019_paclerara_jade_sex_6499c74b:
 
-    # "Cum leaked out of her slit and dripped onto my body, as she stayed on top of me."
-    ""
 
-# game/episode019.rpy:3195
+    "Üzerimde otururken, döl amından sızıp vücuduma damlıyordu."
+
+
 translate turkish ep019_paclerara_jade_sex_a7a29c21:
 
-    # c "I’m going to make a mess of you."
-    c ""
 
-# game/episode019.rpy:3196
+    c "Seni batıracağım."
+
+
 translate turkish ep019_paclerara_jade_sex_1cbb3cc2:
 
-    # j "Yes, give me all of your cum!"
-    j ""
 
-# game/episode019.rpy:3198
+    j "Evet, bütün dölünü ver bana!"
+
+
 translate turkish ep019_paclerara_jade_sex_5df404e4:
 
-    # "I grabbed her flanks and pulled her off my cock."
-    ""
 
-# game/episode019.rpy:3203
+    "Kalçalarından tutup onu sikimden çektim."
+
+
 translate turkish ep019_paclerara_jade_sex_bb54d3e3:
 
-    # "Jade screamed as she reached her orgasm, just as I shot hot cum all over her belly."
-    ""
 
-# game/episode019.rpy:3206
+    "Jade orgazma ulaştığında çığlık attı, tam o sırada sıcak dölümü karnının üstüne boşalıyordum."
+
+
 translate turkish ep019_paclerara_jade_sex_d41feb0f:
 
-    # "She stayed on top of me until her orgasm had subsided."
-    ""
 
-# game/episode019.rpy:3210
+    "Orgazmı dinene kadar üzerimde kaldı."
+
+
 translate turkish ep019_paclerara_jade_sex_bc86cfae:
 
-    # "Eventually, Jade lowered herself into the pool and I followed her."
-    ""
 
-# game/episode019.rpy:3211
+    "Sonunda Jade havuza girdi, ben de onu takip ettim."
+
+
 translate turkish ep019_paclerara_jade_sex_b5f91f74:
 
-    # "We kissed and enjoyed floating in the water for a while until heading back inside."
-    ""
 
-# game/episode019.rpy:3219
+    "Bir süre suda yüzerken öpüştük ve keyif aldık, sonra içeri döndük."
+
+
 translate turkish ep019_paclerara_nadya_003b5e74:
 
-    # "I came back to my room and to the sound of running water."
-    ""
 
-# game/episode019.rpy:3220
+    "Odama döndüğümde akan su sesi duydum."
+
+
 translate turkish ep019_paclerara_nadya_3d155233:
 
-    # "Someone was using my shower."
-    ""
 
-# game/episode019.rpy:3221
+    "Birisi duşumu kullanıyordu."
+
+
 translate turkish ep019_paclerara_nadya_98ba7ce2:
 
-    # c "Hello?"
-    c ""
 
-# game/episode019.rpy:3222
+    c "Merhaba?"
+
+
 translate turkish ep019_paclerara_nadya_29c54da4:
 
-    # na "Oh [p_name], I’m in the shower."
-    na ""
 
-# game/episode019.rpy:3223
+    na "Ah [p_name], duştayım."
+
+
 translate turkish ep019_paclerara_nadya_c1b276cc:
 
-    # na "Why don’t you come join me?"
-    na ""
 
-# game/episode019.rpy:3224
+    na "Neden sen de bana katılmıyorsun?"
+
+
 translate turkish ep019_paclerara_nadya_cb3bff6c:
 
-    # "I hastily got rid of my clothing and made my way to the bathroom."
-    ""
 
-# game/episode019.rpy:3227
+    "Aceleyle kıyafetlerimi çıkardım ve banyoya gittim."
+
+
 translate turkish ep019_paclerara_nadya_63e82f1e:
 
-    # "The question of how my mother had entered my rooms without a key died on my lips as soon as I saw her."
-    ""
 
-# game/episode019.rpy:3229
+    "Annemin anahtarsız odama nasıl girdiğini sorma niyetim, onu görür görmez dudaklarımdan dökülmedi."
+
+
 translate turkish ep019_paclerara_nadya_a00cb0f1:
 
-    # "The question of how Nadya had entered my rooms without a key died on my lips as soon as I saw her."
-    ""
 
-# game/episode019.rpy:3231
+    "Nadya'nın anahtarsız odama nasıl girdiğini sorma niyetim, onu görür görmez dudaklarımdan dökülmedi."
+
+
 translate turkish ep019_paclerara_nadya_5726e653:
 
-    # "Her back was turned towards me, giving me a nice view of her voluptuous ass."
-    ""
 
-# game/episode019.rpy:3232
+    "Arkası bana dönüktü, dolgun kalçalarının güzel görüntüsünü sunuyordu."
+
+
 translate turkish ep019_paclerara_nadya_25b3359e:
 
-    # c "Stealing my bath water, are you?"
-    c ""
 
-# game/episode019.rpy:3234
+    c "Banyomun suyunu çalıyorsun, öyle mi?"
+
+
 translate turkish ep019_paclerara_nadya_3aa452be:
 
-    # na "Mmmm, your shower is so much more luxurious than mine."
-    na ""
 
-# game/episode019.rpy:3235
+    na "Mmmm, senin duşun benimkinden çok daha lüks."
+
+
 translate turkish ep019_paclerara_nadya_b826bdb5:
 
-    # na "And this seemed like the perfect way to alleviate the stress from the past few days."
-    na ""
 
-# game/episode019.rpy:3236
+    na "Ve son birkaç günün stresini atmak için mükemmel bir yol gibi görünüyordu."
+
+
 translate turkish ep019_paclerara_nadya_7af968ab:
 
-    # na "You don’t mind do you?"
-    na ""
 
-# game/episode019.rpy:3237
+    na "Sorun olmaz değil mi?"
+
+
 translate turkish ep019_paclerara_nadya_b6889192:
 
-    # c "Are you crazy?"
-    c ""
 
-# game/episode019.rpy:3238
+    c "Deli misin?"
+
+
 translate turkish ep019_paclerara_nadya_4046855a:
 
-    # c "Who wouldn’t want to come home to a beautiful naked woman using their shower?"
-    c ""
 
-# game/episode019.rpy:3240
+    c "Kim duşunu kullanan çıplak güzel bir kadınla karşılaşmak istemez ki?"
+
+
 translate turkish ep019_paclerara_nadya_fe42869a:
 
-    # na "Beautiful am I?"
-    na ""
 
-# game/episode019.rpy:3241
+    na "Güzel miyim?"
+
+
 translate turkish ep019_paclerara_nadya_dfc649d8:
 
-    # c "And sexy."
-    c ""
 
-# game/episode019.rpy:3242
+    c "Ve seksi."
+
+
 translate turkish ep019_paclerara_nadya_f869f20a:
 
-    # na "Won’t you join me, aren’t you cold?"
-    na ""
 
-# game/episode019.rpy:3244
+    na "Bana katılmayacak mısın, üşümüyor musun?"
+
+
 translate turkish ep019_paclerara_nadya_fef26800:
 
-    # "I stepped under the water and into my mother’s embrace."
-    ""
 
-# game/episode019.rpy:3246
+    "Suyun altına girip annemin kollarına girdim."
+
+
 translate turkish ep019_paclerara_nadya_90c04811:
 
-    # "I stepped under the water and into Nadya’s embrace."
-    ""
 
-# game/episode019.rpy:3251
+    "Suyun altına girip Nadya'nın kollarına girdim."
+
+
 translate turkish ep019_paclerara_nadya_eac4a129:
 
-    # "Resting my hand on her ass, I kissed her."
-    ""
 
-# game/episode019.rpy:3253
+    "Elimi kalçasına koyup onu öptüm."
+
+
 translate turkish ep019_paclerara_nadya_b9ca7eaa:
 
-    # "Her big breasts pressed against my chest as our tongues explored each other."
-    ""
 
-# game/episode019.rpy:3255
+    "Dillerimiz birbirini keşfederken iri göğüsleri göğsüme bastırıyordu."
+
+
 translate turkish ep019_paclerara_nadya_2ea1f02a:
 
-    # "My erection had started to grow, and I could tell my mother was also aroused."
-    ""
 
-# game/episode019.rpy:3257
+    "Sikim sertleşmeye başlamıştı ve annemin de tahrik olduğunu anlayabiliyordum."
+
+
 translate turkish ep019_paclerara_nadya_364e3ddc:
 
-    # "My erection had started to grow, and I could tell she was also aroused."
-    ""
 
-# game/episode019.rpy:3264
+    "Sikim sertleşmeye başlamıştı ve onun da tahrik olduğunu anlayabiliyordum."
+
+
 translate turkish ep019_paclerara_nadya_5f51eeba:
 
-    # na "I want you to fuck me so hard."
-    na ""
 
-# game/episode019.rpy:3265
+    na "Beni çok sert sikmeni istiyorum."
+
+
 translate turkish ep019_paclerara_nadya_1780c171:
 
-    # na "Just take me against the wall."
-    na ""
 
-# game/episode019.rpy:3267
+    na "Duvara karşı al beni."
+
+
 translate turkish ep019_paclerara_nadya_88a6a65e:
 
-    # "I spun her around, my hard cock pressing against her ass."
-    ""
 
-# game/episode019.rpy:3269
+    "Onu döndürdüm, sert sikim kalçasına bastırıyordu."
+
+
 translate turkish ep019_paclerara_nadya_585c7fae:
 
-    # "All the water and slippery surfaces would probably make this a strained affair, but we both clearly didn’t care."
-    ""
 
-# game/episode019.rpy:3270
+    "Su ve kaygan yüzeyler işimizi zorlaştıracaktı ama ikimiz de umursamıyorduk."
+
+
 translate turkish ep019_paclerara_nadya_31b9e284:
 
-    # na "Put it inside me, [p_name_short]!"
-    na ""
 
-# game/episode019.rpy:3275
+    na "Sok içime, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_nadya_f449300f:
 
-    # "Nadya leaned against the wall, as I pulled her abdomen towards me."
-    ""
 
-# game/episode019.rpy:3277
+    "Nadya duvara yaslandı, ben de onu belinden kendime doğru çektim."
+
+
 translate turkish ep019_paclerara_nadya_9e911d02:
 
-    # "My mother grunted softly, happy with the feeling of her son’s throbbing cock sliding inside her."
-    ""
 
-# game/episode019.rpy:3278
+    "Annem hafifçe inledi, oğlunun zonklayan sikinin içine kaymasından mutluydu."
+
+
 translate turkish ep019_paclerara_nadya_4f1ceab0:
 
-    # c "I’m going to fuck you so hard, mom."
-    c ""
 
-# game/episode019.rpy:3280
+    c "Seni çok sert sikeceğim, anne."
+
+
 translate turkish ep019_paclerara_nadya_a673aa55:
 
-    # "Nadya grunted softly, happy with the feeling of my throbbing cock sliding inside her."
-    ""
 
-# game/episode019.rpy:3281
+    "Nadya hafifçe inledi, zonklayan sikimin içine kaymasından mutluydu."
+
+
 translate turkish ep019_paclerara_nadya_baacf616:
 
-    # c "I’m going to fuck you so hard."
-    c ""
 
-# game/episode019.rpy:3283
+    c "Seni çok sert sikeceğim."
+
+
 translate turkish ep019_paclerara_nadya_35d6907f:
 
-    # na "Please do so, you’re making me all wet."
-    na ""
 
-# game/episode019.rpy:3284
+    na "Lütfen öyle yap, beni çok ıslattın."
+
+
 translate turkish ep019_paclerara_nadya_96a03a0e:
 
-    # "I began to thrust inside her."
-    ""
 
-# game/episode019.rpy:3285
+    "İçine girip çıkmaya başladım."
+
+
 translate turkish ep019_paclerara_nadya_afa170fb:
 
-    # na "Oh yes, that’s it!"
-    na ""
 
-# game/episode019.rpy:3288
+    na "Ah evet, işte böyle!"
+
+
 translate turkish ep019_paclerara_nadya_b5fc66be:
 
-    # "Nadya stood on her tip-toes, willing me to go further in."
-    ""
 
-# game/episode019.rpy:3289
+    "Nadya parmak uçlarında yükseldi, daha derine girmemi istiyordu."
+
+
 translate turkish ep019_paclerara_nadya_2d5248d5:
 
-    # "It was hard to find purchase, our bodies slick with moisture."
-    ""
 
-# game/episode019.rpy:3293
+    "Tutunmak zordu, vücutlarımız sudan kayganlaşmıştı."
+
+
 translate turkish ep019_paclerara_nadya_f20ebd61:
 
-    # "My mother’s moans and the wet slap of my flesh against hers reverberated against the tiled walls of the shower."
-    ""
 
-# game/episode019.rpy:3295
+    "Annemin inlemeleri ve tenlerimizin ıslak şapırtısı duşun fayans duvarlarında yankılandı."
+
+
 translate turkish ep019_paclerara_nadya_ad3ef91c:
 
-    # "Nadya’s moans and the wet slap of my flesh against hers reverberated against the tiled walls of the shower."
-    ""
 
-# game/episode019.rpy:3298
+    "Nadya'nın inlemeleri ve tenlerimizin ıslak şapırtısı duşun fayans duvarlarında yankılandı."
+
+
 translate turkish ep019_paclerara_nadya_7fdc5d93:
 
-    # na "Mmmm, you’re such a big boy!"
-    na ""
 
-# game/episode019.rpy:3299
+    na "Mmmm, ne kadar da büyüksün!"
+
+
 translate turkish ep019_paclerara_nadya_39b8539f:
 
-    # na "Keep fucking me like that, I want to feel you even deeper inside me!"
-    na ""
 
-# game/episode019.rpy:3304
+    na "Böyle sikmeye devam et, seni içimde daha derinde hissetmek istiyorum!"
+
+
 translate turkish ep019_paclerara_nadya_940cbb9f:
 
-    # "I grabbed Nadya’s leg and drove her further against the wall."
-    ""
 
-# game/episode019.rpy:3306
+    "Nadya'nın bacağını tuttum ve onu daha sert duvara bastırdım."
+
+
 translate turkish ep019_paclerara_nadya_8fac9857:
 
-    # "Pulling on her shoulder, I was able to ram my cock even further into my mother’s wet slit."
-    ""
 
-# game/episode019.rpy:3308
+    "Omzundan çekerek sikimi annemin ıslak amına daha da derine soktum."
+
+
 translate turkish ep019_paclerara_nadya_5318cb45:
 
-    # "Pulling on her shoulder, I was able to ram my cock even further into Nadya’s wet slit."
-    ""
 
-# game/episode019.rpy:3311
+    "Omzundan çekerek sikimi Nadya'nın ıslak amına daha da derine soktum."
+
+
 translate turkish ep019_paclerara_nadya_9635f6a4:
 
-    # na "Oh [p_name_short]!{w} Yes!{w} Yes!"
-    na ""
 
-# game/episode019.rpy:3312
+    na "Ah [p_name_short]!{w} Evet!{w} Evet!"
+
+
 translate turkish ep019_paclerara_nadya_635ab8a7:
 
-    # c "Do you want me to make you cum?"
-    c ""
 
-# game/episode019.rpy:3313
+    c "Boşaltayım mı seni?"
+
+
 translate turkish ep019_paclerara_nadya_53fea78c:
 
-    # na "Yes!"
-    na ""
 
-# game/episode019.rpy:3314
+    na "Evet!"
+
+
 translate turkish ep019_paclerara_nadya_6db8705a:
 
-    # c "I’m not sure if I heard that right."
-    c ""
 
-# game/episode019.rpy:3316
+    c "Tam duyamadım."
+
+
 translate turkish ep019_paclerara_nadya_d1e78d6e:
 
-    # c "Do you want your son to fuck you until you cum hard?"
-    c ""
 
-# game/episode019.rpy:3318
+    c "Oğlunun seni sert boşaltmasını istiyor musun?"
+
+
 translate turkish ep019_paclerara_nadya_dc4cdb1e:
 
-    # c "Do you want me to fuck you until you cum hard?"
-    c ""
 
-# game/episode019.rpy:3319
+    c "Seni sert boşaltmamı istiyor musun?"
+
+
 translate turkish ep019_paclerara_nadya_bbb5c2e3:
 
-    # na "Yes, [p_name_short], I want you to make me cum so hard!"
-    na ""
 
-# game/episode019.rpy:3320
+    na "Evet, [p_name_short], beni çok sert boşalt!"
+
+
 translate turkish ep019_paclerara_nadya_4116ea6c:
 
-    # "Her body trembled as my dick hit her sweet spot again and again."
-    ""
 
-# game/episode019.rpy:3323
+    "Sikim hassas noktasına her vuruşta vücudu titredi."
+
+
 translate turkish ep019_paclerara_nadya_df379ef5:
 
-    # "I had to keep her steady, for fear of her losing her balance and slipping."
-    ""
 
-# game/episode019.rpy:3324
+    "Dengesini kaybedip kaymasın diye onu sabit tutmak zorundaydım."
+
+
 translate turkish ep019_paclerara_nadya_742cc5c1:
 
-    # "That became even harder when the trembling transformed into shudders, emanating from the very core of her being."
-    ""
 
-# game/episode019.rpy:3326
+    "Titremeler tüm vücudunu saran sarsıntılara dönüştüğünde bu daha da zorlaştı."
+
+
 translate turkish ep019_paclerara_nadya_c331ac2f:
 
-    # na "[p_name_short]!{w} [p_name_short]!{w} [p_name_short]!"
-    na ""
 
-# game/episode019.rpy:3328
+    na "[p_name_short]!{w} [p_name_short]!{w} [p_name_short]!"
+
+
 translate turkish ep019_paclerara_nadya_593eba44:
 
-    # "My mother screamed herself hoarse, repeating my name, as she orgasmed wildly on my cock."
-    ""
 
-# game/episode019.rpy:3330
+    "Annem sikimin üstünde vahşice orgazm olurken ismimi tekrarlayarak sesi kısılana kadar bağırdı."
+
+
 translate turkish ep019_paclerara_nadya_170644a8:
 
-    # "Nadya screamed herself hoarse, repeating my name, as she orgasmed wildly on my cock."
-    ""
 
-# game/episode019.rpy:3332
+    "Nadya sikimin üstünde vahşice orgazm olurken ismimi tekrarlayarak sesi kısılana kadar bağırdı."
+
+
 translate turkish ep019_paclerara_nadya_17f22a49:
 
-    # "A warmth spread from her cunt, juices eventually leaking from the length of my shaft."
-    ""
 
-# game/episode019.rpy:3335
+    "Amından yayılan sıcaklık, zevk suları sikimin boyunca akıyordu."
+
+
 translate turkish ep019_paclerara_nadya_b8f58c5f:
 
-    # "Nadya was shaking all over, so I eased her onto the floor."
-    ""
 
-# game/episode019.rpy:3336
+    "Nadya'nın tüm vücudu titriyordu, bu yüzden onu yavaşça yere oturttum."
+
+
 translate turkish ep019_paclerara_nadya_12664bb8:
 
-    # "My cock had slipped out of her wet slit and Nadya was clearly worried."
-    ""
 
-# game/episode019.rpy:3338
+    "Sikim onun ıslak amından kayıp çıktı ve Nadya endişelendi."
+
+
 translate turkish ep019_paclerara_nadya_4c940895:
 
-    # na "You’re not stopping, are you?"
-    na ""
 
-# game/episode019.rpy:3339
+    na "Durmuyorsun değil mi?"
+
+
 translate turkish ep019_paclerara_nadya_a59f8f81:
 
-    # c "Of course not."
-    c ""
 
-# game/episode019.rpy:3341
+    c "Tabii ki hayır."
+
+
 translate turkish ep019_paclerara_nadya_fd1be9a1:
 
-    # "I slipped back inside her, my mother shivering wildly at the sensation."
-    ""
 
-# game/episode019.rpy:3343
+    "Tekrar içine girdim, bu his annemin tüm vücudunu titretti."
+
+
 translate turkish ep019_paclerara_nadya_d3542d3e:
 
-    # "I slipped back inside her, Nadya shivering wildly at the sensation."
-    ""
 
-# game/episode019.rpy:3348
+    "Tekrar içine girdim, bu his Nadya'nın tüm vücudunu titretti."
+
+
 translate turkish ep019_paclerara_nadya_4f415454:
 
-    # "She pulled up her legs as I began to fuck her with measured strokes."
-    ""
 
-# game/episode019.rpy:3349
+    "Onu ölçülü vuruşlarla sikmeye başladığımda bacaklarını yukarı kaldırdı."
+
+
 translate turkish ep019_paclerara_nadya_1705b27a:
 
-    # na "You feel amazing inside me."
-    na ""
 
-# game/episode019.rpy:3350
+    na "İçimde harika hissettiriyorsun."
+
+
 translate turkish ep019_paclerara_nadya_97ed7a25:
 
-    # "I alternated between quick vicious thrusts and slower motions, to keep my orgasm at bay."
-    ""
 
-# game/episode019.rpy:3352
+    "Boşalmamı geciktirmek için hızlı sert vuruşlar ve yavaş hareketler arasında gidip geldim."
+
+
 translate turkish ep019_paclerara_nadya_001838ba:
 
-    # "My mother writhed on the floor, her arousal at a maximum again."
-    ""
 
-# game/episode019.rpy:3354
+    "Annem yerde kıvranıyordu, azgınlığı yine doruktaydı."
+
+
 translate turkish ep019_paclerara_nadya_5455beae:
 
-    # "She writhed on the floor, her arousal at a maximum again."
-    ""
 
-# game/episode019.rpy:3355
+    "Yerde kıvranıyordu, azgınlığı yine doruktaydı."
+
+
 translate turkish ep019_paclerara_nadya_e5adf0d7:
 
-    # na "Harder!{w} Harder!"
-    na ""
 
-# game/episode019.rpy:3356
+    na "Daha sert!{w} Daha sert!"
+
+
 translate turkish ep019_paclerara_nadya_20550ffa:
 
-    # c "Are you sure you can take it?"
-    c ""
 
-# game/episode019.rpy:3357
+    c "Dayanabilecek misin?"
+
+
 translate turkish ep019_paclerara_nadya_0c16e6e9:
 
-    # na "Yes, I can!"
-    na ""
 
-# game/episode019.rpy:3358
+    na "Evet, dayanabilirim!"
+
+
 translate turkish ep019_paclerara_nadya_a9ddb37f:
 
-    # na "Fuck me harder!{w} Please!"
-    na ""
 
-# game/episode019.rpy:3360
+    na "Daha sert sik beni!{w} Lütfen!"
+
+
 translate turkish ep019_paclerara_nadya_0fa3cf91:
 
-    # "I picked up the pace, slamming my cock deep inside her hot cunt with a ferocity I hadn’t displayed before."
-    ""
 
-# game/episode019.rpy:3362
+    "Hızımı artırdım, sikimi daha önce hiç olmadığım kadar vahşice sıcacık amının derinliklerine vuruyordum."
+
+
 translate turkish ep019_paclerara_nadya_ac3709fa:
 
-    # "Fucking her like this reduced my mother to desperate moans."
-    ""
 
-# game/episode019.rpy:3364
+    "Onu böyle sikmek annemi çaresiz inlemelere boğdu."
+
+
 translate turkish ep019_paclerara_nadya_ea76d286:
 
-    # "Fucking her like this reduced Nadya to desperate moans."
-    ""
 
-# game/episode019.rpy:3365
+    "Onu böyle sikmek Nadya'yı çaresiz inlemelere boğdu."
+
+
 translate turkish ep019_paclerara_nadya_370ed789:
 
-    # "I could feel her tightening up again and decided to go for the final stretch."
-    ""
 
-# game/episode019.rpy:3369
+    "Yine sıkılaştığını hissedebiliyordum ve son düzlüğe girmeye karar verdim."
+
+
 translate turkish ep019_paclerara_nadya_9847bc08:
 
-    # c "I...{w} I’m going to cum inside you!"
-    c ""
 
-# game/episode019.rpy:3371
+    c "Ben...{w} İçine boşalacağım!"
+
+
 translate turkish ep019_paclerara_nadya_db4053a2:
 
-    # na "Yes, don’t you dare pull out!"
-    na ""
 
-# game/episode019.rpy:3372
+    na "Evet, sakın çıkarma!"
+
+
 translate turkish ep019_paclerara_nadya_bc7d7a07:
 
-    # na "Oh [p_name_short]! [p_name_short]!"
-    na ""
 
-# game/episode019.rpy:3374
+    na "Ah [p_name_short]! [p_name_short]!"
+
+
 translate turkish ep019_paclerara_nadya_1f850b86:
 
-    # "My mother orgasmed again."
-    ""
 
-# game/episode019.rpy:3376
+    "Annem yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_a0fb525c:
 
-    # "She orgasmed again."
-    ""
 
-# game/episode019.rpy:3377
+    "Yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_392a1b27:
 
-    # "The convulsion of her vagina spurred on my climax as well."
-    ""
 
-# game/episode019.rpy:3383
+    "Amının kasılması benim de boşalmamı tetikledi."
+
+
 translate turkish ep019_paclerara_nadya_d074cbc1:
 
-    # "In an instant, my mother’s vagina flooded with my hot cum."
-    ""
 
-# game/episode019.rpy:3385
+    "Bir anda annemin amı sıcak dölümle doldu."
+
+
 translate turkish ep019_paclerara_nadya_2500cc79:
 
-    # "In an instant, Nadya’s vagina flooded with my hot cum."
-    ""
 
-# game/episode019.rpy:3386
+    "Bir anda Nadya'nın amı sıcak dölümle doldu."
+
+
 translate turkish ep019_paclerara_nadya_7143f74c:
 
-    # na "Oh yes, I can feel your cum flowing!"
-    na ""
 
-# game/episode019.rpy:3387
+    na "Ah evet, dölünün aktığını hissedebiliyorum!"
+
+
 translate turkish ep019_paclerara_nadya_26c2a4f7:
 
-    # na "Stay inside me!"
-    na ""
 
-# game/episode019.rpy:3388
+    na "İçimde kal!"
+
+
 translate turkish ep019_paclerara_nadya_6811172d:
 
-    # "I did just that, and stayed firmly rooted."
-    ""
 
-# game/episode019.rpy:3389
+    "Tam da öyle yaptım ve sıkıca içinde kaldım."
+
+
 translate turkish ep019_paclerara_nadya_c990b7e6:
 
-    # "Only when my erection began to deflate did I reluctantly pull out of her."
-    ""
 
-# game/episode019.rpy:3393
+    "Ancak sikim inmeye başladığında isteksizce içinden çıktım."
+
+
 translate turkish ep019_paclerara_nadya_6c49f8d5:
 
-    # "A small flood of cum oozed out of my mother’s slit as she kept lying on the wet floor."
-    ""
 
-# game/episode019.rpy:3395
+    "Islak zeminde yatmaya devam ederken annemin amından küçük bir döl seli aktı."
+
+
 translate turkish ep019_paclerara_nadya_0d5a72a5:
 
-    # "A small flood of cum oozed out of Nadya’s slit as she kept lying on the wet floor."
-    ""
 
-# game/episode019.rpy:3398
+    "Islak zeminde yatmaya devam ederken Nadya'nın amından küçük bir döl seli aktı."
+
+
 translate turkish ep019_paclerara_nadya_139e9101:
 
-    # c "I’m going to..."
-    c ""
 
-# game/episode019.rpy:3400
+    c "Ben şimdi..."
+
+
 translate turkish ep019_paclerara_nadya_818ee2ec:
 
-    # na "Yes, cum for me!"
-    na ""
 
-# game/episode019.rpy:3402
+    na "Evet, boşal benim için!"
+
+
 translate turkish ep019_paclerara_nadya_1f850b86_1:
 
-    # "My mother orgasmed again."
-    ""
 
-# game/episode019.rpy:3404
+    "Annem yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_a0fb525c_1:
 
-    # "She orgasmed again."
-    ""
 
-# game/episode019.rpy:3405
+    "Yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_392a1b27_1:
 
-    # "The convulsion of her vagina spurred on my climax as well."
-    ""
 
-# game/episode019.rpy:3410
+    "Amının kasılması benim de boşalmamı tetikledi."
+
+
 translate turkish ep019_paclerara_nadya_3e6ab344:
 
-    # "I was nearly too late, but managed to whip out my cock and spray cum all over Nadya’s body."
-    ""
 
-# game/episode019.rpy:3414
+    "Neredeyse geç kalıyordum ama sikimi çıkarıp Nadya'nın vücuduna dölümü fışkırtmayı başardım."
+
+
 translate turkish ep019_paclerara_nadya_8adfd13c:
 
-    # "Shuddering in the throes of her orgasm, my mother lay on the floor, covered in her son’s cum."
-    ""
 
-# game/episode019.rpy:3416
+    "Orgazmının şiddetiyle titrerken annem yerde yatıyordu, oğlunun dölüyle kaplanmış halde."
+
+
 translate turkish ep019_paclerara_nadya_36b982f4:
 
-    # "Shuddering in the throes of her orgasm, Nadya lay on the floor, covered in my cum."
-    ""
 
-# game/episode019.rpy:3419
+    "Orgazmının şiddetiyle titrerken Nadya yerde yatıyordu, dölümle kaplanmış halde."
+
+
 translate turkish ep019_paclerara_nadya_139e9101_1:
 
-    # c "I’m going to..."
-    c ""
 
-# game/episode019.rpy:3421
+    c "Ben şimdi..."
+
+
 translate turkish ep019_paclerara_nadya_818ee2ec_1:
 
-    # na "Yes, cum for me!"
-    na ""
 
-# game/episode019.rpy:3423
+    na "Evet, boşal benim için!"
+
+
 translate turkish ep019_paclerara_nadya_1f850b86_2:
 
-    # "My mother orgasmed again."
-    ""
 
-# game/episode019.rpy:3425
+    "Annem yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_a0fb525c_2:
 
-    # "She orgasmed again."
-    ""
 
-# game/episode019.rpy:3426
+    "Yine orgazm oldu."
+
+
 translate turkish ep019_paclerara_nadya_392a1b27_2:
 
-    # "The convulsion of her vagina spurred on my climax as well."
-    ""
 
-# game/episode019.rpy:3431
+    "Amının kasılması benim de boşalmamı tetikledi."
+
+
 translate turkish ep019_paclerara_nadya_9529658d:
 
-    # "I was nearly too late, but managed to whip out my cock and spray cum all over Nadya."
-    ""
 
-# game/episode019.rpy:3435
+    "Neredeyse geç kalıyordum ama sikimi çıkarıp Nadya'nın üzerine dölümü fışkırtmayı başardım."
+
+
 translate turkish ep019_paclerara_nadya_0df392da:
 
-    # "Shuddering in the throes of her orgasm, my mother lay on the floor, her face covered in her son’s cum."
-    ""
 
-# game/episode019.rpy:3437
+    "Orgazmının şiddetiyle titrerken annem yerde yatıyordu, yüzü oğlunun dölüyle kaplanmış halde."
+
+
 translate turkish ep019_paclerara_nadya_3e286b28:
 
-    # "Shuddering in the throes of her orgasm, Nadya lay on the floor, her face covered in my cum."
-    ""
 
-# game/episode019.rpy:3441
+    "Orgazmının şiddetiyle titrerken Nadya yerde yatıyordu, yüzü dölümle kaplanmış halde."
+
+
 translate turkish ep019_paclerara_nadya_fd948fb8:
 
-    # "When we both caught our breath again, I helped her up."
-    ""
 
-# game/episode019.rpy:3442
+    "İkimiz de nefesimizi düzene soktuktan sonra ona kalkmakta yardım ettim."
+
+
 translate turkish ep019_paclerara_nadya_0f840fe6:
 
-    # na "I guess I need a shower again."
-    na ""
 
-# game/episode019.rpy:3443
+    na "Sanırım yine duş almam gerek."
+
+
 translate turkish ep019_paclerara_nadya_77f54263:
 
-    # c "We both need one."
-    c ""
 
-# game/episode019.rpy:3445
+    c "İkimizin de ihtiyacı var."
+
+
 translate turkish ep019_paclerara_nadya_0868b205:
 
-    # "I turned the water back on and we showered together, helping each other wash the remnants of our intense coupling from our bodies."
-    ""
 
-# game/episode019.rpy:3452
+    "Suyu tekrar açtım ve birlikte duş aldık, yoğun sevişmemizden kalan izleri birbirimizin vücudundan yıkayarak temizledik."
+
+
 translate turkish ep019_paclerara_raene_7482680f:
 
-    # "I’d invited Raene to come to my room for drinks, and she was already waiting for me on the balcony."
-    ""
 
-# game/episode019.rpy:3454
+    "Raene'i odama içki içmeye davet etmiştim ve o çoktan balkonda beni bekliyordu."
+
+
 translate turkish ep019_paclerara_raene_af9f17f8:
 
-    # "She was looking out over the lake, enjoying the midday sun."
-    ""
 
-# game/episode019.rpy:3456
+    "Göle bakıyor, öğlen güneşinin tadını çıkarıyordu."
+
+
 translate turkish ep019_paclerara_raene_cc587202:
 
-    # c "Hey you!"
-    c ""
 
-# game/episode019.rpy:3458
+    c "Hey sen!"
+
+
 translate turkish ep019_paclerara_raene_30292b65:
 
-    # ra "Hey!"
-    ra ""
 
-# game/episode019.rpy:3459
+    ra "Hey!"
+
+
 translate turkish ep019_paclerara_raene_c3ed1a97:
 
-    # c "I didn’t keep you waiting, did I?"
-    c ""
 
-# game/episode019.rpy:3461
+    c "Seni bekletmedim, değil mi?"
+
+
 translate turkish ep019_paclerara_raene_3628e8ca:
 
-    # ra "Not at all, besides the weather is too lovely, so I don’t mind."
-    ra ""
 
-# game/episode019.rpy:3462
+    ra "Hiç de değil, ayrıca hava çok güzel, bu yüzden sorun değil."
+
+
 translate turkish ep019_paclerara_raene_1a9806c9:
 
-    # c "It’s nice, isn’t it?"
-    c ""
 
-# game/episode019.rpy:3463
+    c "Güzel, değil mi?"
+
+
 translate turkish ep019_paclerara_raene_5326013a:
 
-    # c "And I also get to see you in that bikini again, which is a nice bonus."
-    c ""
 
-# game/episode019.rpy:3464
+    c "Ve ayrıca seni o bikinili halinle tekrar görebileceğim, bu da güzel bir bonus."
+
+
 translate turkish ep019_paclerara_raene_8a785a2b:
 
-    # ra "You like it?"
-    ra ""
 
-# game/episode019.rpy:3465
+    ra "Beğendin mi?"
+
+
 translate turkish ep019_paclerara_raene_4f440f34:
 
-    # c "Ever since I gave it to you back on Erigone."
-    c ""
 
-# game/episode019.rpy:3467
+    c "Erigone'da sana verdiğimden beri."
+
+
 translate turkish ep019_paclerara_raene_8c94fec8:
 
-    # ra "I was so embarrassed, back then."
-    ra ""
 
-# game/episode019.rpy:3468
+    ra "O zaman çok utanmıştım."
+
+
 translate turkish ep019_paclerara_raene_9eed3729:
 
-    # ra "I was so sure you’d think I looked ridiculous in swimming gear."
-    ra ""
 
-# game/episode019.rpy:3469
+    ra "Mayo giydiğimde beni gülünç bulacağından çok emindim."
+
+
 translate turkish ep019_paclerara_raene_5337adf1:
 
-    # c "I know, and yet you don’t have any reason to be embarrassed."
-    c ""
 
-# game/episode019.rpy:3471
+    c "Biliyorum, ama utanman için hiçbir neden yok."
+
+
 translate turkish ep019_paclerara_raene_48c61ab8:
 
-    # ra "Do you want a drink?"
-    ra ""
 
-# game/episode019.rpy:3472
+    ra "İçki ister misin?"
+
+
 translate turkish ep019_paclerara_raene_dd1ec779:
 
-    # "I could tell Raene was changing the subject and reverting to her shy old self at the mention of anything that could be construed as a compliment."
-    ""
 
-# game/episode019.rpy:3473
+    "Raene'nin iltifat olarak algılanabilecek herhangi bir şeyden bahsedildiğinde konuyu değiştirdiğini ve eski utangaç haline döndüğünü görebiliyordum."
+
+
 translate turkish ep019_paclerara_raene_c48dc32f:
 
-    # c "Sure."
-    c ""
 
-# game/episode019.rpy:3474
+    c "Tabii."
+
+
 translate turkish ep019_paclerara_raene_ae485b85:
 
-    # c "So you like it here?"
-    c ""
 
-# game/episode019.rpy:3476
+    c "Ee, burayı sevdin mi?"
+
+
 translate turkish ep019_paclerara_raene_e7489af4:
 
-    # ra "I do, though your view is much nicer than mine."
-    ra ""
 
-# game/episode019.rpy:3477
+    ra "Evet, ama senin manzaran benimkinden çok daha güzel."
+
+
 translate turkish ep019_paclerara_raene_035934ed:
 
-    # c "Captain’s privileges, I suppose."
-    c ""
 
-# game/episode019.rpy:3478
+    c "Kaptan ayrıcalıkları işte."
+
+
 translate turkish ep019_paclerara_raene_e1c14b8a:
 
-    # ra "I suppose so."
-    ra ""
 
-# game/episode019.rpy:3479
+    ra "Öyle sanırım."
+
+
 translate turkish ep019_paclerara_raene_a4116a67:
 
-    # ra "Is Eva any better?"
-    ra ""
 
-# game/episode019.rpy:3480
+    ra "Eva'nın durumu nasıl?"
+
+
 translate turkish ep019_paclerara_raene_e7150fdc:
 
-    # c "She still hasn’t woken up."
-    c ""
 
-# game/episode019.rpy:3481
+    c "Hala uyanmadı."
+
+
 translate turkish ep019_paclerara_raene_a859ceab:
 
-    # ra "The medical care here seems to be excellent."
-    ra ""
 
-# game/episode019.rpy:3482
+    ra "Buradaki tıbbi bakım çok iyi görünüyor."
+
+
 translate turkish ep019_paclerara_raene_ed74aa18:
 
-    # ra "She’ll pull through, I’m sure of it."
-    ra ""
 
-# game/episode019.rpy:3483
+    ra "Atlatacak, eminim."
+
+
 translate turkish ep019_paclerara_raene_82f79e2f:
 
-    # c "Yes, I hope so too."
-    c ""
 
-# game/episode019.rpy:3484
+    c "Evet, ben de öyle umuyorum."
+
+
 translate turkish ep019_paclerara_raene_b272bfbc:
 
-    # c "The not knowing if everything will be alright is killing me though."
-    c ""
 
-# game/episode019.rpy:3485
+    c "Her şeyin yolunda olup olmayacağını bilememek beni öldürüyor."
+
+
 translate turkish ep019_paclerara_raene_4147eb29:
 
-    # ra "I can imagine."
-    ra ""
 
-# game/episode019.rpy:3487
+    ra "Anlayabiliyorum."
+
+
 translate turkish ep019_paclerara_raene_1b8e8c5d:
 
-    # ra "Are you sleeping okay?"
-    ra ""
 
-# game/episode019.rpy:3488
+    ra "İyi uyuyabiliyor musun?"
+
+
 translate turkish ep019_paclerara_raene_5e264007:
 
-    # c "Thankfully, yes."
-    c ""
 
-# game/episode019.rpy:3489
+    c "Neyse ki evet."
+
+
 translate turkish ep019_paclerara_raene_68bdca9a:
 
-    # c "During daytime it’s the worst."
-    c ""
 
-# game/episode019.rpy:3490
+    c "Gündüzleri en kötüsü."
+
+
 translate turkish ep019_paclerara_raene_59c0ce0b:
 
-    # c "So I try to find as much distraction as possible."
-    c ""
 
-# game/episode019.rpy:3492
+    c "Bu yüzden mümkün olduğunca dikkatimi dağıtacak şeyler bulmaya çalışıyorum."
+
+
 translate turkish ep019_paclerara_raene_51a657b2:
 
-    # ra "I hope I’m distraction enough."
-    ra ""
 
-# game/episode019.rpy:3493
+    ra "Umarım ben yeterince dikkat dağıtıcıyımdır."
+
+
 translate turkish ep019_paclerara_raene_0d2cea62:
 
-    # "Raene smiled teasingly at first, but then her face fell as realization hit her."
-    ""
 
-# game/episode019.rpy:3495
+    "Raene önce şakacı bir şekilde gülümsedi, ama sonra farkına varınca yüzündeki ifade değişti."
+
+
 translate turkish ep019_paclerara_raene_45a99e7e:
 
-    # ra "Sorry, I shouldn’t have said that."
-    ra ""
 
-# game/episode019.rpy:3497
+    ra "Özür dilerim, bunu söylememeliydim."
+
+
 translate turkish ep019_paclerara_raene_e0d1f2d4:
 
-    # ra "You’re torn up about your sister and here I am making light of your feelings."
-    ra ""
 
-# game/episode019.rpy:3499
+    ra "Kız kardeşin için üzülüyorsun ve ben burada duygularınla dalga geçiyorum."
+
+
 translate turkish ep019_paclerara_raene_6d7607ab:
 
-    # ra "You’re torn up about Eva and here I am making light of your feelings."
-    ra ""
 
-# game/episode019.rpy:3500
+    ra "Eva için üzülüyorsun ve ben burada duygularınla dalga geçiyorum."
+
+
 translate turkish ep019_paclerara_raene_0a9f9640:
 
-    # c "You weren’t, Raene."
-    c ""
 
-# game/episode019.rpy:3501
+    c "Sen değildin, Raene."
+
+
 translate turkish ep019_paclerara_raene_9af38a8d:
 
-    # c "I’d rather not dwell on all this too much, so don’t feel bad about trying to amuse me."
-    c ""
 
-# game/episode019.rpy:3502
+    c "Bu konuyu fazla uzatmak istemiyorum, bu yüzden beni eğlendirmeye çalışırken kendini kötü hissetme."
+
+
 translate turkish ep019_paclerara_raene_d1f65c79:
 
-    # c "Besides, that bikini is a very big distraction..."
-    c ""
 
-# game/episode019.rpy:3504
+    c "Ayrıca, o bikini çok dikkat dağıtıcı..."
+
+
 translate turkish ep019_paclerara_raene_d8d2cb6c:
 
-    # ra "Is it?"
-    ra ""
 
-# game/episode019.rpy:3505
+    ra "Öyle mi?"
+
+
 translate turkish ep019_paclerara_raene_94424bdb:
 
-    # "Raene sounded breathless all of a sudden, as we both put our glasses on the table."
-    ""
 
-# game/episode019.rpy:3511
+    "Raene birden nefes nefese kalmış gibiydi, ikimiz de bardaklarımızı masaya koyarken."
+
+
 translate turkish ep019_paclerara_raene_sex_34c944a6:
 
-    # "Do you want to perform oral on Raene in this scene?"
-    ""
 
-# game/episode019.rpy:3515
+    "Bu sahnede Raene'ye oral seks yapmak ister misin?"
+
+
 translate turkish ep019_paclerara_raene_sex_85f8ffb4:
 
-    # "Giving oral enabled"
-    ""
 
-# game/episode019.rpy:3518
+    "Oral seks etkinleştirildi"
+
+
 translate turkish ep019_paclerara_raene_sex_3f6f915b:
 
-    # "Giving oral disabled"
-    ""
 
-# game/episode019.rpy:3521
+    "Oral seks devre dışı"
+
+
 translate turkish ep019_paclerara_raene_sex_12e57be5:
 
-    # "I pulled her into an embrace and put my mouth on hers."
-    ""
 
-# game/episode019.rpy:3522
+    "Onu kucaklayarak kendime çektim ve dudaklarını dudaklarımla kapattım."
+
+
 translate turkish ep019_paclerara_raene_sex_4944470f:
 
-    # "Raene met my tongue eagerly and we tasted each other passionately."
-    ""
 
-# game/episode019.rpy:3524
+    "Raene dilimle hevesle buluştu ve birbirimizi tutkuyla tattık."
+
+
 translate turkish ep019_paclerara_raene_sex_dcd6459c:
 
-    # "I was undressed in seconds, while we made our way back inside."
-    ""
 
-# game/episode019.rpy:3525
+    "İçeriye geri dönerken saniyeler içinde soyundum."
+
+
 translate turkish ep019_paclerara_raene_sex_f700ac60:
 
-    # "The bed proved to be too great a distance, and we settled for the tanning bed in the corner of the balcony."
-    ""
 
-# game/episode019.rpy:3527
+    "Yatak çok uzak olduğu için, balkonun köşesindeki solaryum yatağına karar verdik."
+
+
 translate turkish ep019_paclerara_raene_sex_1d2882b6:
 
-    # c "As much as I like that bikini, it really needs to go."
-    c ""
 
-# game/episode019.rpy:3529
+    c "O bikiniyi ne kadar sevsem de, artık gerçekten gitmesi gerekiyor."
+
+
 translate turkish ep019_paclerara_raene_sex_f91e815e:
 
-    # "Raene nodded vigorously and removed her bikini top."
-    ""
 
-# game/episode019.rpy:3531
+    "Raene şiddetle başını salladı ve bikini üstünü çıkardı."
+
+
 translate turkish ep019_paclerara_raene_sex_e6590c3b:
 
-    # "She motioned me to sit down while she slipped out of her bottom as well, her erection swinging into view."
-    ""
 
-# game/episode019.rpy:3532
+    "O da altını çıkarırken bana oturmamı işaret etti, sikinin sertleşmiş hali gözümün önüne geldi."
+
+
 translate turkish ep019_paclerara_raene_sex_ee08c2c2:
 
-    # "Feeling pleased I had that effect on her, I sat down on the tanning bed."
-    ""
 
-# game/episode019.rpy:3537
+    "Ona böyle bir etki yaptığım için memnuniyet duyarak, bronzlaşma yatağına oturdum."
+
+
 translate turkish ep019_paclerara_raene_sex_00dfc51a:
 
-    # "Raene squatted beside me and took my dick in her hand."
-    ""
 
-# game/episode019.rpy:3538
+    "Raene yanıma çömeldi ve sikimi eline aldı."
+
+
 translate turkish ep019_paclerara_raene_sex_59199aed:
 
-    # "Ignoring any inhibitions, she lowered her head between my legs and began to suck on my cock."
-    ""
 
-# game/episode019.rpy:3539
+    "Her türlü çekingenliği bir kenara bırakarak, başını bacaklarımın arasına eğdi ve sikimi emmeye başladı."
+
+
 translate turkish ep019_paclerara_raene_sex_d7e8f501:
 
-    # c "Oh yes, Raene, that’s it!"
-    c ""
 
-# game/episode019.rpy:3540
+    c "Evet, Raene, işte bu!"
+
+
 translate turkish ep019_paclerara_raene_sex_bf58acc2:
 
-    # c "Your mouth feels so good!"
-    c ""
 
-# game/episode019.rpy:3542
+    c "Ağzın çok güzel!"
+
+
 translate turkish ep019_paclerara_raene_sex_825f562e:
 
-    # "There was no denying she’d become quite skilled at giving head in the short time we’d been together."
-    ""
 
-# game/episode019.rpy:3543
+    "Birlikte olduğumuz kısa süredesakso çekmede oldukça yetenekli hale geldiği inkar edilemezdi."
+
+
 translate turkish ep019_paclerara_raene_sex_dbaaa41b:
 
-    # "Her tongue worked its magic on the entire length of my shaft, lingering at the spots she knew would send me over the edge."
-    ""
 
-# game/episode019.rpy:3544
+    "Dili, sikimin tüm uzunluğu boyunca sihrini konuşturdu, beni doruğa ulaştıracağını bildiği noktalarda oyalanarak."
+
+
 translate turkish ep019_paclerara_raene_sex_f48b1629:
 
-    # c "That’s it!"
-    c ""
 
-# game/episode019.rpy:3546
+    c "İşte bu kadar!"
+
+
 translate turkish ep019_paclerara_raene_sex_a07689bd:
 
-    # "Raene had already elicited a flow of precum and swallowed it readily."
-    ""
 
-# game/episode019.rpy:3548
+    "Raene çoktan zevk suyu akıntısı başlatmış ve onu hemen yutmuştu."
+
+
 translate turkish ep019_paclerara_raene_sex_5b40f1ef:
 
-    # "She took my cock out of her mouth and ran the tip of her tongue over the base."
-    ""
 
-# game/episode019.rpy:3549
+    "O benim sikimi ağzından çıkardı ve dilinin ucuyla sikimin dibini yaladı."
+
+
 translate turkish ep019_paclerara_raene_sex_bd9b5465:
 
-    # "I began to tremble as her tongue touched the delicate areas around the base of my glans."
-    ""
 
-# game/episode019.rpy:3550
+    "Onun dili, sikimin başının etrafındaki hassas bölgelere dokunduğunda titremeye başladım."
+
+
 translate turkish ep019_paclerara_raene_sex_d9d21c38:
 
-    # "More precum flowed and Raene smiled at me seductively."
-    ""
 
-# game/episode019.rpy:3552
+    "Daha fazla zevk suyu aktı ve Raene bana baştan çıkarıcı bir şekilde gülümsedi."
+
+
 translate turkish ep019_paclerara_raene_sex_f7b343e2:
 
-    # c "Come join me on the bed."
-    c ""
 
-# game/episode019.rpy:3557
+    c "Gel, yatağa gel."
+
+
 translate turkish ep019_paclerara_raene_sex_ae60549f:
 
-    # "It took some adjusting, but eventually Raene was with me on the tanning bed."
-    ""
 
-# game/episode019.rpy:3558
+    "Biraz alışmak zaman aldı, ama sonunda Raene de benimle birlikte solaryuma girdi."
+
+
 translate turkish ep019_paclerara_raene_sex_ee9b5d37:
 
-    # "She’d caught my intention and had positioned her lower body near my face."
-    ""
 
-# game/episode019.rpy:3559
+    "O benim niyetimi anlamış ve alt vücudunu yüzüme yakın bir yere konumlandırmıştı."
+
+
 translate turkish ep019_paclerara_raene_sex_8ac70290:
 
-    # "Her proud erection signified an invitation."
-    ""
 
-# game/episode019.rpy:3565
+    "Arkadan vurdunmu önden sallanacak misali :D"
+
+
 translate turkish ep019_paclerara_raene_sex_2caf68f8:
 
-    # "As Raene’s lips wrapped around my cock again, I did the same with hers."
-    ""
 
-# game/episode019.rpy:3566
+    "Raene'nin dudakları tekrar benim sikimi sardığında, ben de aynısını onun dudaklarına yaptım."
+
+
 translate turkish ep019_paclerara_raene_sex_af03e060:
 
-    # "We had to hold on to each other in order not to fall of the bed, but we managed."
-    ""
 
-# game/episode019.rpy:3567
+    "Yataktan düşmemek için birbirimize tutunmak zorunda kaldık ama başardık."
+
+
 translate turkish ep019_paclerara_raene_sex_aecb5f81:
 
-    # "Raene was very aroused, so it didn’t take long for my mouth to fill with the telltale saline taste of her precum."
-    ""
 
-# game/episode019.rpy:3570
+    "Raene çok tahrik olmuştu, bu yüzden ağzımın onun zevk suyunun tuzlu tadıyla dolması uzun sürmedi."
+
+
 translate turkish ep019_paclerara_raene_sex_8f9d4d2b:
 
-    # "She moaned with my cock still in her mouth and I did the same not long after."
-    ""
 
-# game/episode019.rpy:3571
+    "Sikimi ağzındayken inledi ve ben de kısa süre sonra aynısını yaptım."
+
+
 translate turkish ep019_paclerara_raene_sex_c803921e:
 
-    # "We tried to match our mutual ferocity, Raene taking more of my girth inside her mouth as I swallowed her almost to the root."
-    ""
 
-# game/episode019.rpy:3573
+    "Karşılıklı şehvetimizi eşleştirmeye çalıştık, Raene ağzına daha fazla alırken ben de onu neredeyse dibine kadar yuttum."
+
+
 translate turkish ep019_paclerara_raene_sex_ae3c347a:
 
-    # "I could feel her tremble in her mouth as she released another wave of precum."
-    ""
 
-# game/episode019.rpy:3574
+    "Ağzında titrediğini ve yeni bir zevk suyunu bıraktığını hissedebiliyordum."
+
+
 translate turkish ep019_paclerara_raene_sex_72beef59:
 
-    # "She was close to an orgasm and just as I was about to make her climax, Raene pulled my cock from her mouth."
-    ""
 
-# game/episode019.rpy:3580
+    "Orgazma çok yaklaşmıştı ve tam onu zirveye ulaştıracakken, Raene sikimi ağzından çıkardı."
+
+
 translate turkish ep019_paclerara_raene_sex_91550e98:
 
-    # ra "I-I don’t want us to cum just yet."
-    ra ""
 
-# game/episode019.rpy:3581
+    ra "H-henüz boşalmak istemiyorum."
+
+
 translate turkish ep019_paclerara_raene_sex_92ff149f:
 
-    # "I gave her cock one teasingly long suck before freeing her from my mouth and sat up to look at her."
-    ""
 
-# game/episode019.rpy:3582
+    "Ağzımdan çıkarmadan önce onun sikini son bir kez uzun uzun emdim ve ona bakmak için doğruldum."
+
+
 translate turkish ep019_paclerara_raene_sex_6e6ce20e:
 
-    # c "Oh?"
-    c ""
 
-# game/episode019.rpy:3583
+    c "Oh?"
+
+
 translate turkish ep019_paclerara_raene_sex_5b38fa62:
 
-    # ra "You know I’ve been...{w} Uh...{w} Training..."
-    ra ""
 
-# game/episode019.rpy:3584
+    ra "Biliyorsun ben...{w} Şey...{w} Çalışıyordum..."
+
+
 translate turkish ep019_paclerara_raene_sex_7d37c43a:
 
-    # "I let her stammer a little more, not to be cruel, but her demurral was just too cute."
-    ""
 
-# game/episode019.rpy:3585
+    "Kötü niyetli değildim ama çekingenliği çok tatlı olduğu için biraz daha kekelemesine izin verdim."
+
+
 translate turkish ep019_paclerara_raene_sex_a017fddc:
 
-    # ra "Training my ass, I mean...{w} For you..."
-    ra ""
 
-# game/episode019.rpy:3586
+    ra "Götümü çalıştırıyordum yani...{w} Senin için..."
+
+
 translate turkish ep019_paclerara_raene_sex_87e2e18f:
 
-    # c "Do you think you’re ready, Raene?"
-    c ""
 
-# game/episode019.rpy:3587
+    c "Hazır olduğunu düşünüyor musun, Raene?"
+
+
 translate turkish ep019_paclerara_raene_sex_2d8c21d5:
 
-    # ra "I hope...{w} I think so."
-    ra ""
 
-# game/episode019.rpy:3588
+    ra "Umarım...{w} Sanırım öyle."
+
+
 translate turkish ep019_paclerara_raene_sex_32f0dcc3:
 
-    # ra "If we go slow."
-    ra ""
 
-# game/episode019.rpy:3589
+    ra "Yavaş gidersek."
+
+
 translate turkish ep019_paclerara_raene_sex_7e150ccf:
 
-    # c "I’ll let you dictate the pace."
-    c ""
 
-# game/episode019.rpy:3594
+    c "Hızı sen belirle."
+
+
 translate turkish ep019_paclerara_raene_sex_b0bf3a5a:
 
-    # "I sat up and let Raene climb on top of me."
-    ""
 
-# game/episode019.rpy:3595
+    "Doğruldum ve Raene'nin üzerime çıkmasına izin verdim."
+
+
 translate turkish ep019_paclerara_raene_sex_fb19654e:
 
-    # "Raene was tense and held onto me as she angled her body towards my throbbing erection."
-    ""
 
-# game/episode019.rpy:3597
+    "Raene gergindi ve zonklayan sikime doğru vücudunu yönlendirirken bana tutundu."
+
+
 translate turkish ep019_paclerara_raene_sex_d500dff8:
 
-    # "She lowered herself slowly, until the tip of my dick hit her ass."
-    ""
 
-# game/episode019.rpy:3598
+    "Sikimin ucu götüne değene kadar kendini yavaşça aşağı indirdi."
+
+
 translate turkish ep019_paclerara_raene_sex_9e72ba00:
 
-    # "Raene concentrated on her breathing and inched lower."
-    ""
 
-# game/episode019.rpy:3600
+    "Raene nefesine odaklandı ve biraz daha aşağı indi."
+
+
 translate turkish ep019_paclerara_raene_sex_1fcffd5b:
 
-    # "I could feel her anus resisting my dick, but felt it parting slowly as Raene put more weight on it."
-    ""
 
-# game/episode019.rpy:3601
+    "Götünün sikime direndiğini hissedebiliyordum, ama Raene daha fazla ağırlık verdikçe yavaşça açıldığını da hissettim."
+
+
 translate turkish ep019_paclerara_raene_sex_78137b47:
 
-    # "The fact that my cock was coated in a wet sheen Raene had given me earlier certainly helped."
-    ""
 
-# game/episode019.rpy:3602
+    "Sikimin Raene'nin daha önce bıraktığı ıslaklıkla kaplı olması kesinlikle yardımcı oldu."
+
+
 translate turkish ep019_paclerara_raene_sex_85591910:
 
-    # "Raene bent further down, allowing the first inches of my dick to invade her asshole."
-    ""
 
-# game/episode019.rpy:3604
+    "Raene biraz daha eğildi ve sikimin ilk santimlerinin götüne girmesine izin verdi."
+
+
 translate turkish ep019_paclerara_raene_sex_e91c3756:
 
-    # ra "It’s so big, [p_name_short]!"
-    ra ""
 
-# game/episode019.rpy:3605
+    ra "Çok büyük, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_raene_sex_a7bf6382:
 
-    # c "You’re doing great, Raene, you can take it."
-    c ""
 
-# game/episode019.rpy:3606
+    c "Harikasın Raene, alabilirsin."
+
+
 translate turkish ep019_paclerara_raene_sex_36d3c397:
 
-    # c "Your tight ass feels so amazing already."
-    c ""
 
-# game/episode019.rpy:3611
+    c "Dar götün şimdiden muhteşem hissettiriyor."
+
+
 translate turkish ep019_paclerara_raene_sex_3e558bd7:
 
-    # "Bolstered by my words, Raene took more of my girth inside her."
-    ""
 
-# game/episode019.rpy:3612
+    "Sözlerimle cesaretlenen Raene, sikimi daha derine aldı."
+
+
 translate turkish ep019_paclerara_raene_sex_94bbacbd:
 
-    # "Her asshole was even tighter than a virgin’s pussy and stimulated my dick in surprisingly intense ways."
-    ""
 
-# game/episode019.rpy:3613
+    "Götü bakire amından bile daha dardı ve sikimi şaşırtıcı derecede yoğun bir şekilde uyarıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_49471a62:
 
-    # c "That’s it, I’m inside you."
-    c ""
 
-# game/episode019.rpy:3614
+    c "İşte bu, içindeyim."
+
+
 translate turkish ep019_paclerara_raene_sex_da2fd13f:
 
-    # ra "I can feel you..."
-    ra ""
 
-# game/episode019.rpy:3615
+    ra "Seni hissedebiliyorum..."
+
+
 translate turkish ep019_paclerara_raene_sex_dd4aa2c3:
 
-    # ra "It feels...{w} It feels so good!"
-    ra ""
 
-# game/episode019.rpy:3617
+    ra "Hissettirdiği...{w} Çok iyi hissettiriyor!"
+
+
 translate turkish ep019_paclerara_raene_sex_dd5c880b:
 
-    # "She shifted her position and wrapped an arm around my head."
-    ""
 
-# game/episode019.rpy:3618
+    "Pozisyonunu değiştirdi ve kolunu başımın etrafına doladı."
+
+
 translate turkish ep019_paclerara_raene_sex_47befe7b:
 
-    # "Now that the tip was in, I could sense she wanted more."
-    ""
 
-# game/episode019.rpy:3619
+    "Ucu içeri girmişti ve daha fazlasını istediğini hissedebiliyordum."
+
+
 translate turkish ep019_paclerara_raene_sex_37718e0e:
 
-    # "As I steadied Raene, she lowered herself further down."
-    ""
 
-# game/episode019.rpy:3620
+    "Raene'yi sabitlerken, kendini daha da aşağı indirdi."
+
+
 translate turkish ep019_paclerara_raene_sex_1ac8d5e6:
 
-    # "Several inches slipped inside her ass and Raene let out a low moan."
-    ""
 
-# game/episode019.rpy:3621
+    "Birkaç santim daha götüne kaydı ve Raene alçak sesle inledi."
+
+
 translate turkish ep019_paclerara_raene_sex_2e315a41:
 
-    # c "You’re ready to fuck, aren’t you?"
-    c ""
 
-# game/episode019.rpy:3623
+    c "Sikilmeye hazırsın, değil mi?"
+
+
 translate turkish ep019_paclerara_raene_sex_bdbd74da:
 
-    # ra "Yes, [p_name_short], I’m so ready for you!"
-    ra ""
 
-# game/episode019.rpy:3624
+    ra "Evet, [p_name_short], senin için çok hazırım!"
+
+
 translate turkish ep019_paclerara_raene_sex_5cc96da9:
 
-    # "She began to move up and down, my cock exploring the depths of her ribbed tunnel."
-    ""
 
-# game/episode019.rpy:3625
+    "Aşağı yukarı hareket etmeye başladı, sikim onun dar derinliklerini keşfediyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_f6c4efd4:
 
-    # ra "Oh, [p_name_short], you’re inside me, you’re fucking me so well!"
-    ra ""
 
-# game/episode019.rpy:3626
+    ra "Ah, [p_name_short], içimdesin, beni çok iyi sikiyorsun!"
+
+
 translate turkish ep019_paclerara_raene_sex_cd5ce6ba:
 
-    # "I wasn’t going to berate Raene for stating the obvious, as I was enjoying her tight ass far too much."
-    ""
 
-# game/episode019.rpy:3631
+    "Raene'yi bariz olanı söylediği için azarlamayacaktım, dar götünün tadını fazlasıyla çıkarıyordum."
+
+
 translate turkish ep019_paclerara_raene_sex_7e3107ba:
 
-    # "She moved gingerly at first, afraid my cock would hurt her inexperienced asshole too much."
-    ""
 
-# game/episode019.rpy:3632
+    "Başta dikkatli hareket etti, sikim deneyimsiz götüne çok acıtacak diye korkuyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_b34b7542:
 
-    # "When enjoyment took over, she became more daring."
-    ""
 
-# game/episode019.rpy:3637
+    "Zevk almaya başlayınca daha cesur oldu."
+
+
 translate turkish ep019_paclerara_raene_sex_79701390:
 
-    # "Raene’s cock started flopping on the steady rhythm she’d established."
-    ""
 
-# game/episode019.rpy:3638
+    "Raene'nin siki kurduğu düzenli ritimle sallanmaya başladı."
+
+
 translate turkish ep019_paclerara_raene_sex_c6965d7e:
 
-    # "Her moans were punctuated by mine each time she came down and took more of my cock inside her."
-    ""
 
-# game/episode019.rpy:3639
+    "Her aşağı inişinde ve sikimi içine aldığında, onun inlemeleri benimkilerle birleşiyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_5c103c13:
 
-    # c "You feel so amazing, Raene!"
-    c ""
 
-# game/episode019.rpy:3640
+    c "Çok harika hissettiriyorsun, Raene!"
+
+
 translate turkish ep019_paclerara_raene_sex_780994cd:
 
-    # c "I love your tight little asshole."
-    c ""
 
-# game/episode019.rpy:3642
+    c "Dar küçük götünü çok seviyorum."
+
+
 translate turkish ep019_paclerara_raene_sex_a2d94917:
 
-    # "I took her erection in my hands and started to jerk her off."
-    ""
 
-# game/episode019.rpy:3643
+    "Kalkmış sikini elime aldım ve çekmeye başladım."
+
+
 translate turkish ep019_paclerara_raene_sex_675f7873:
 
-    # "Raene clamped a protective hand around my arm, as if she was afraid I’d stop."
-    ""
 
-# game/episode019.rpy:3646
+    "Raene durduracağımdan korkarmış gibi kolumu korumacı bir şekilde tuttu."
+
+
 translate turkish ep019_paclerara_raene_sex_6624f78a:
 
-    # "She moaned uncontrollably as I licked at her nipple and kept jerking her."
-    ""
 
-# game/episode019.rpy:3652
+    "Memesini yalarken ve onu çekmeye devam ederken kontrolsüzce inledi."
+
+
 translate turkish ep019_paclerara_raene_sex_96a7e019:
 
-    # ra "Oh [p_name_short]!{w} Keep going!"
-    ra ""
 
-# game/episode019.rpy:3653
+    ra "Ah [p_name_short]!{w} Devam et!"
+
+
 translate turkish ep019_paclerara_raene_sex_c11b9e40:
 
-    # ra "Oh shit!{w} Yes!{w} Yes!"
-    ra ""
 
-# game/episode019.rpy:3656
+    ra "Ah siktir!{w} Evet!{w} Evet!"
+
+
 translate turkish ep019_paclerara_raene_sex_57b61315:
 
-    # "Her cock had gotten all slippery in my hand, precum gushing out of the tip."
-    ""
 
-# game/episode019.rpy:3658
+    "Siki elimde kayganlaşmıştı, ucundan zevk suyu fışkırıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_7348908d:
 
-    # "Her asshole clenched and she had trouble moving."
-    ""
 
-# game/episode019.rpy:3659
+    "Götü kasıldı ve hareket etmekte zorlanıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_3ae6abbb:
 
-    # "With a few more flicks of my wrists I made her explode."
-    ""
 
-# game/episode019.rpy:3665
+    "Birkaç el hareketiyle onu patlatmayı başardım."
+
+
 translate turkish ep019_paclerara_raene_sex_11de2f3f:
 
-    # "Raene came down heavily, my cock rooted solidly inside her ass, as her own started spurting thick strands of cum."
-    ""
 
-# game/episode019.rpy:3666
+    "Raene ağır ağır çöktü, sikim götünün derinliklerine gömülüyken kendi siki kalın döller fışkırtmaya başladı."
+
+
 translate turkish ep019_paclerara_raene_sex_7121b625:
 
-    # "I still gripped her pulsing cock firmly, and my fingers were covered in Raene’s semen."
-    ""
 
-# game/episode019.rpy:3668
+    "Hala zonklayan sikini sıkıca tutuyordum ve parmaklarım Raene'nin dölleriyle kaplanmıştı."
+
+
 translate turkish ep019_paclerara_raene_sex_6aca455f:
 
-    # "Raene wasn’t able to move, other than shuddering uncontrollably and held herself upright with my help."
-    ""
 
-# game/episode019.rpy:3669
+    "Raene kontrolsüzce titremekten başka hareket edemiyordu ve benim yardımımla dik durabiliyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_33fa1368:
 
-    # "It took a while for Raene to get out of her trance-like state."
-    ""
 
-# game/episode019.rpy:3670
+    "Raene'nin trans halinden çıkması biraz zaman aldı."
+
+
 translate turkish ep019_paclerara_raene_sex_32d1debb:
 
-    # "I didn’t dare disturb her, as she was clearly enjoying the feeling of us close together."
-    ""
 
-# game/episode019.rpy:3672
+    "Onu rahatsız etmeye cesaret edemedim, birbirimize bu kadar yakın olmanın tadını çıkarıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_13c0c3e6:
 
-    # ra "That was so good."
-    ra ""
 
-# game/episode019.rpy:3673
+    ra "Bu çok güzeldi."
+
+
 translate turkish ep019_paclerara_raene_sex_57580e65:
 
-    # c "I’m not done with you yet."
-    c ""
 
-# game/episode019.rpy:3674
+    c "Seninle henüz işim bitmedi."
+
+
 translate turkish ep019_paclerara_raene_sex_c33e7758:
 
-    # ra "Mmmm, go on..."
-    ra ""
 
-# game/episode019.rpy:3675
+    ra "Mmmm, devam et..."
+
+
 translate turkish ep019_paclerara_raene_sex_8bf8804b:
 
-    # "I felt Raene was comfortable enough for me to set the pace for a while."
-    ""
 
-# game/episode019.rpy:3680
+    "Raene'nin artık tempoyu benim belirlememden rahatsız olmayacağını hissettim."
+
+
 translate turkish ep019_paclerara_raene_sex_c4b817ac:
 
-    # "Pulling her on top of the tanning bed, I let her rest on all fours."
-    ""
 
-# game/episode019.rpy:3681
+    "Onu bronzlaşma yatağının üzerine çektim ve dört ayak üzerinde durmasını sağladım."
+
+
 translate turkish ep019_paclerara_raene_sex_45639b2c:
 
-    # "Her tight butt raised invitingly in the air, I grabbed her sides."
-    ""
 
-# game/episode019.rpy:3683
+    "Dar götü havada davetkar bir şekilde dururken, belinden tuttum."
+
+
 translate turkish ep019_paclerara_raene_sex_651d6ff8:
 
-    # "Changing positions had meant slipping out of her tight hole, so I now had the pleasure of re-entering Raene."
-    ""
 
-# game/episode019.rpy:3684
+    "Pozisyon değiştirirken dar deliğinden çıkmıştım, şimdi Raene'ye tekrar girme zevkini yaşayacaktım."
+
+
 translate turkish ep019_paclerara_raene_sex_56ab2a8e:
 
-    # "I slid softly into her, making her moan."
-    ""
 
-# game/episode019.rpy:3687
+    "Yavaşça içine kaydım, inlemesine sebep oldum."
+
+
 translate turkish ep019_paclerara_raene_sex_b17dfa10:
 
-    # ra "Oh yes, that’s it!"
-    ra ""
 
-# game/episode019.rpy:3688
+    ra "Ah evet, işte böyle!"
+
+
 translate turkish ep019_paclerara_raene_sex_958fca76:
 
-    # ra "I love the feeling of you inside me."
-    ra ""
 
-# game/episode019.rpy:3691
+    ra "İçimdeki hissini çok seviyorum."
+
+
 translate turkish ep019_paclerara_raene_sex_227e2db2:
 
-    # "I started fucking Raene in earnest again, picking up speed almost immediately."
-    ""
 
-# game/episode019.rpy:3692
+    "Raene'yi yeniden ciddi ciddi sikmeye başladım, hemen hızımı artırdım."
+
+
 translate turkish ep019_paclerara_raene_sex_47193d71:
 
-    # "Raene’s cock began leaking precum, the feeling of me up her ass sparking her lust immediately."
-    ""
 
-# game/episode019.rpy:3693
+    "Raene'nin sikinden zevk suyu akmaya başladı, götündeki hissim şehvetini hemen ateşlemişti."
+
+
 translate turkish ep019_paclerara_raene_sex_f4eacd29:
 
-    # ra "Yes, [p_name_short], fuck me harder!"
-    ra ""
 
-# game/episode019.rpy:3694
+    ra "Evet, [p_name_short], daha sert sik beni!"
+
+
 translate turkish ep019_paclerara_raene_sex_6d41fbe0:
 
-    # "Encouraged, I assaulted Raene’s ass, her aroused cries echoing over the lake."
-    ""
 
-# game/episode019.rpy:3695
+    "Cesaretlenip Raene'nin götüne yüklenmeye başladım, zevk çığlıkları gölün üzerinde yankılanıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_f4f999b3:
 
-    # "Her body was like butter in my hands, writhing and grinding her ass against my abdomen."
-    ""
 
-# game/episode019.rpy:3699
+    "Vücudu ellerimde tereyağı gibiydi, kıvranıyor ve götünü karnıma sürtüyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_a1f73b7a:
 
-    # c "Mmmm, I love that tight ass of yours."
-    c ""
 
-# game/episode019.rpy:3700
+    c "Mmmm, dar götünü çok seviyorum."
+
+
 translate turkish ep019_paclerara_raene_sex_3037177c:
 
-    # c "I’m going to pump you so full of cum."
-    c ""
 
-# game/episode019.rpy:3701
+    c "Seni dölle dolduracağım."
+
+
 translate turkish ep019_paclerara_raene_sex_a254d31c:
 
-    # ra "Yes, I want it all inside me!"
-    ra ""
 
-# game/episode019.rpy:3702
+    ra "Evet, hepsini içime istiyorum!"
+
+
 translate turkish ep019_paclerara_raene_sex_a0c26cbe:
 
-    # "With a few mad thrusts, I was on the verge of climax."
-    ""
 
-# game/episode019.rpy:3703
+    "Birkaç çılgın vuruşla boşalmak üzereydim."
+
+
 translate turkish ep019_paclerara_raene_sex_6591b4d8:
 
-    # "After one fevered moment, I felt her asshole clench around my cock and drove one last time inside her."
-    ""
 
-# game/episode019.rpy:3709
+    "Ateşli bir an sonra, götünün sikimin etrafında kasıldığını hissettim ve son kez içine girdim."
+
+
 translate turkish ep019_paclerara_raene_sex_3107b17a:
 
-    # "Deep inside her ass my cock erupted and released a flood of cum."
-    ""
 
-# game/episode019.rpy:3710
+    "Götünün derinliklerinde sikim patladı ve döl seli boşaldı."
+
+
 translate turkish ep019_paclerara_raene_sex_002714f7:
 
-    # ra "That’s it!"
-    ra ""
 
-# game/episode019.rpy:3711
+    ra "İşte bu!"
+
+
 translate turkish ep019_paclerara_raene_sex_fff9ead9:
 
-    # ra "I want all of it!"
-    ra ""
 
-# game/episode019.rpy:3712
+    ra "Hepsini istiyorum!"
+
+
 translate turkish ep019_paclerara_raene_sex_5d4ac485:
 
-    # ra "I feel so full, [p_name_short]!"
-    ra ""
 
-# game/episode019.rpy:3713
+    ra "Kendimi çok dolu hissediyorum, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_raene_sex_586d8e66:
 
-    # ra "I love it!"
-    ra ""
 
-# game/episode019.rpy:3716
+    ra "Bayıldım!"
+
+
 translate turkish ep019_paclerara_raene_sex_4f354d3b:
 
-    # "A surprising amount of cum shot inside of her, and when I pulled out of her dilating asshole, it began to stream out almost instantly."
-    ""
 
-# game/episode019.rpy:3719
+    "Şaşırtıcı miktarda döl içine boşaldı ve genişleyen götünden çıktığımda, neredeyse anında akmaya başladı."
+
+
 translate turkish ep019_paclerara_raene_sex_762cdb06:
 
-    # c "I’m going to cum so hard for you."
-    c ""
 
-# game/episode019.rpy:3720
+    c "Senin için çok sert boşalacağım."
+
+
 translate turkish ep019_paclerara_raene_sex_66b217ad:
 
-    # ra "Yes, cum for me!"
-    ra ""
 
-# game/episode019.rpy:3721
+    ra "Evet, benim için boşal!"
+
+
 translate turkish ep019_paclerara_raene_sex_6ee755c7:
 
-    # ra "Please, [p_name_short]!"
-    ra ""
 
-# game/episode019.rpy:3722
+    ra "Lütfen, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_raene_sex_6591b4d8_1:
 
-    # "After one fevered moment, I felt her asshole clench around my cock and drove one last time inside her."
-    ""
 
-# game/episode019.rpy:3728
+    "Ateşli bir an sonra, götünün sikimin etrafında kasıldığını hissettim ve son kez içine girdim."
+
+
 translate turkish ep019_paclerara_raene_sex_c6156926:
 
-    # "I was almost too late to pull out, but managed to as I erupted."
-    ""
 
-# game/episode019.rpy:3729
+    "Neredeyse çıkamayacaktım ama tam patlarken başardım."
+
+
 translate turkish ep019_paclerara_raene_sex_26565dc1:
 
-    # "Ropes of hot cum painted her back."
-    ""
 
-# game/episode019.rpy:3730
+    "Sıcak döller sırtını boyadı."
+
+
 translate turkish ep019_paclerara_raene_sex_002714f7_1:
 
-    # ra "That’s it!"
-    ra ""
 
-# game/episode019.rpy:3731
+    ra "İşte bu!"
+
+
 translate turkish ep019_paclerara_raene_sex_33560395:
 
-    # ra "I want your cum all over me, [p_name_short]!"
-    ra ""
 
-# game/episode019.rpy:3734
+    ra "Dölünü her yerimde istiyorum, [p_name_short]!"
+
+
 translate turkish ep019_paclerara_raene_sex_1a299adf:
 
-    # "Raene collapsed on her stomach on the tanning bed, drenched in my semen."
-    ""
 
-# game/episode019.rpy:3737
+    "Raene bronzlaşma yatağına yüzüstü düştü, dölümle sırılsıklam olmuştu."
+
+
 translate turkish ep019_paclerara_raene_sex_762cdb06_1:
 
-    # c "I’m going to cum so hard for you."
-    c ""
 
-# game/episode019.rpy:3738
+    c "Senin için çok sert boşalacağım."
+
+
 translate turkish ep019_paclerara_raene_sex_25609804:
 
-    # c "I want to see your pretty face when I do it."
-    c ""
 
-# game/episode019.rpy:3739
+    c "Bunu yaparken güzel yüzünü görmek istiyorum."
+
+
 translate turkish ep019_paclerara_raene_sex_a7ca3cf1:
 
-    # ra "Yes, cum on my face, [p_name_short], please!"
-    ra ""
 
-# game/episode019.rpy:3740
+    ra "Evet, yüzüme boşal, [p_name_short], lütfen!"
+
+
 translate turkish ep019_paclerara_raene_sex_6591b4d8_2:
 
-    # "After one fevered moment, I felt her asshole clench around my cock and drove one last time inside her."
-    ""
 
-# game/episode019.rpy:3741
+    "Ateşli bir an sonra, götünün sikimin etrafında kasıldığını hissettim ve son kez içine girdim."
+
+
 translate turkish ep019_paclerara_raene_sex_5422d00d:
 
-    # "I was almost too late to pull out, but managed to before I erupted."
-    ""
 
-# game/episode019.rpy:3747
+    "Neredeyse çıkmak için çok geç kalacaktım ama patlamadan önce başardım."
+
+
 translate turkish ep019_paclerara_raene_sex_e8825e19:
 
-    # "Raene faced me quickly, sticking her tongue out and ready to receive my load."
-    ""
 
-# game/episode019.rpy:3748
+    "Raene hızla bana döndü, dilini çıkardı ve yükümü almaya hazırdı."
+
+
 translate turkish ep019_paclerara_raene_sex_54cc6d0b:
 
-    # "Ropes of hot cum splashed in her mouth and on her face."
-    ""
 
-# game/episode019.rpy:3749
+    "Sıcak döller ağzına ve yüzüne sıçradı."
+
+
 translate turkish ep019_paclerara_raene_sex_1e192066:
 
-    # ra "Mmmm, so much cum!"
-    ra ""
 
-# game/episode019.rpy:3752
+    ra "Mmmm, ne kadar çok döl!"
+
+
 translate turkish ep019_paclerara_raene_sex_73184606:
 
-    # "Raene swallowed the cum I’d deposited in her mouth."
-    ""
 
-# game/episode019.rpy:3753
+    "Raene ağzına bıraktığım dölü yuttu."
+
+
 translate turkish ep019_paclerara_raene_sex_4a5ad7f9:
 
-    # "I’d painted her entire face with my semen and she licked eagerly at the corners of her mouth to swallow more of it."
-    ""
 
-# game/episode019.rpy:3761
+    "Bütün yüzünü dölümle boyamıştım ve o daha fazlasını yutmak için ağzının kenarlarını hevesle yalıyordu."
+
+
 translate turkish ep019_paclerara_raene_sex_6264062b:
 
-    # "Both completely spent, we lay together on the tanning bed, enjoying the sun."
-    ""
 
-# game/episode019.rpy:3762
+    "İkimiz de tamamen tükenmiş, bronzlaşma yatağında birlikte uzanıp güneşin tadını çıkarıyorduk."
+
+
 translate turkish ep019_paclerara_raene_sex_e8978d2a:
 
-    # "We enjoyed each other’s company like that until the sun went down and it was time to perform the social niceties that were expected of us."
-    ""
+
+    "Güneş batana ve bizden beklenen sosyal nezaketleri yerine getirme vakti gelene kadar birbirimizin varlığının tadını çıkardık."
 
 translate turkish strings:
 
-    # game/episode019.rpy:2
+
     old "Episode 19"
-    new ""
+    new "Bölüm 19"
 
-    # game/episode019.rpy:54
+
     old "Operative"
-    new ""
+    new "Operatif"
 
-    # game/episode019.rpy:57
+
     old "Proxima Centauri Orbital IV"
-    new ""
+    new "Proxima Centauri Orbital IV"
 
-    # game/episode019.rpy:138
+
     old "Organizations"
-    new ""
+    new "Organizasyonlar"
 
-    # game/episode019.rpy:138
+
     old "Auric Exemplar"
-    new ""
+    new "Auric Exemplar"
 
-    # game/episode019.rpy:138
+
     old "Location: Sovereignty Space"
-    new ""
+    new "Konum: Egemenlik Uzayı"
 
-    # game/episode019.rpy:138
+
     old "A secretive organization of people disillusioned by the Sovereignty. The group of rebels has yet to take direct action against the Sovereignty, but that hasn't stopped the government branding them as terrorists. Membership of the Auric Exemplar is forbidden and subject to severe penalties."
-    new ""
+    new "Egemenlik'ten hayal kırıklığına uğramış insanların gizli bir örgütü. İsyancı grup henüz Egemenlik'e karşı doğrudan harekete geçmedi, ancak bu hükümetin onları terörist olarak damgalamasını engellemedi. Auric Exemplar üyeliği yasaktır ve ağır cezalara tabidir."
 
-    # game/episode019.rpy:138
+
     old "After being stripped from her rank in the Navy, Calista Szuzume was approached by a woman who claimed to be a member of the Auric Exemplar."
-    new ""
+    new "Donanmadaki rütbesi elinden alındıktan sonra, Calista Szuzume'ye Auric Exemplar üyesi olduğunu iddia eden bir kadın yaklaştı."
 
-    # game/episode019.rpy:169
+
     old "Visit Lilly"
-    new ""
+    new "Lilly'yi Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Visit Eva"
-    new ""
+    new "Eva'yı Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Visit Céline"
-    new ""
+    new "Céline'i Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Visit Jade"
-    new ""
+    new "Jade'i Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Go for a swim"
-    new ""
+    new "Yüzmeye Git"
 
-    # game/episode019.rpy:169
+
     old "Visit Ziv"
-    new ""
+    new "Ziv'i Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Have dinner with Aven"
-    new ""
+    new "Aven ile Akşam Yemeği Ye"
 
-    # game/episode019.rpy:169
+
     old "Visit your room"
-    new ""
+    new "Odanı Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Meet Raene"
-    new ""
+    new "Raene ile Buluş"
 
-    # game/episode019.rpy:169
+
     old "Visit Thyia"
-    new ""
+    new "Thyia'yı Ziyaret Et"
 
-    # game/episode019.rpy:169
+
     old "Visit Kit"
-    new ""
+    new "Kit'i Ziyaret Et"
 
-    # game/episode019.rpy:270
+
     old "Temple of the Key"
-    new ""
+    new "Anahtar Tapınağı"
 
-    # game/episode019.rpy:461
+
     old "Apologize"
-    new ""
+    new "Özür dile."
 
-    # game/episode019.rpy:461
+
     old "Don't apologize"
-    new ""
+    new "Özür dileme."
 
-    # game/episode019.rpy:768
+
     old "Location: Sabine Combine"
-    new ""
+    new "Konum: Sabine Combine"
 
-    # game/episode019.rpy:768
+
     old "A planet full of teeming forests and expansive lakes. This paradisical planet was the last resting place of Jade's mother after fleeing from the Twi'll homeworld Luclite."
-    new ""
+    new "Ormanlarla ve geniş göllerle dolu bir gezegen. Bu cennet gibi gezegen, Jade'in annesinin Twi'll'in ana gezegeni Luclite'den kaçtıktan sonra son dinlenme yeriydi."
 
-    # game/episode019.rpy:799
+
     old "Medic"
-    new ""
+    new "Sağlık görevlisi"
 
-    # game/episode019.rpy:1361
+
     old "Pllxytlxx"
-    new ""
+    new "Pllxytlxx"
 
-    # game/episode019.rpy:1412
+
     old "C’taet"
-    new ""
+    new "C’taet"
 
-    # game/episode019.rpy:1412
+
     old "Location: C’taet Passel"
-    new ""
+    new "Konum: C’taet Passel"
 
-    # game/episode019.rpy:1412
+
     old "Due to their frightening appearance, the C’Taet often shun humanoid society. The C’Taet float above the ground and communicate by speech and the shifting colors of their semi-translucent bodies."
-    new ""
+    new "Korkutucu görünümleri nedeniyle, C'Taet genellikle insansı toplumdan uzak dururlar. C'Taet yerden havada süzülür ve konuşma ve yarı saydam vücutlarının değişen renkleri ile iletişim kurarlar."
 
-    # game/episode019.rpy:1601
+
     old "Let him go"
-    new ""
+    new "Bırakın gitsin."
 
-    # game/episode019.rpy:1601
+
     old "Don’t let him go"
-    new ""
+    new "Onu bırakma."
 
-    # game/episode019.rpy:1730
+
     old "Want children"
-    new ""
+    new "Çocuk İste"
+
+
+    old "Don't want children"
+    new "Çocuk İsteme"
+
+
+    old "Ask about pregnancy"
+    new "Hamilelik Hakkında Sor"
+
+
+    old "Don't ask about pregnancy"
+    new "Hamilelik Hakkında Sorma"
+
+
+    old "Consent"
+    new "Onay Ver"
+
+
+    old "Don't consent"
+    new "Onay Verme"
+
+
+    old "Keep relationships separate"
+    new "İlişkileri Ayrı Tut"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-06-24 09:40
+
+translate turkish strings:
 
     # game/episode019.rpy:1730
     old "Don’t want children"
-    new ""
-
-    # game/episode019.rpy:2005
-    old "Ask about pregnancy"
-    new ""
+    new "Çocuk istemiyorum"
 
     # game/episode019.rpy:2005
     old "Don’t ask about pregnancy"
-    new ""
-
-    # game/episode019.rpy:2066
-    old "Consent"
-    new ""
+    new "Hamilelik hakkında soru sorma"
 
     # game/episode019.rpy:2066
     old "Don’t consent"
-    new ""
-
-    # game/episode019.rpy:2385
-    old "Keep relationships separate"
-    new ""
+    new "İzin verme"
 
