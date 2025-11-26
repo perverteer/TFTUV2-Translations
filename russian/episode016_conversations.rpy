@@ -4766,3 +4766,59 @@ translate russian ep016_thyia_talk_da20415c:
     # "I went to check up on her."
     "Я пошёл проведать её."
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode016_conversations.rpy:1040
+translate russian ep016_vess_sex_b2c0e100:
+
+    # c "That’s a good slut."
+    c "Хорошая шлюшка."
+
+# game/episode016_conversations.rpy:1057
+translate russian ep016_vess_sex_50bfb028:
+
+    # c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "Ты хорошо перенес наказание, мазохист, так что я думаю, что вознагражу тебя."
+
+# game/episode016_conversations.rpy:1079
+translate russian ep016_vess_sex_aaa003a5:
+
+    # c "Are you going to cum hard for me, slut?"
+    c "Ты кончишь для меня, шлюшка?"
+
+# game/episode016_conversations.rpy:1099
+translate russian ep016_vess_sex_25174f99:
+
+    # c "That’s it, soil yourself, my whore."
+    c "Вот так, испачкай себя, моя шлюха."
+
+# game/episode016_conversations.rpy:1161
+translate russian ep016_vess_sex_e4ae9e92:
+
+    # c "You really are a nasty whore, aren’t you?"
+    c "Ты действительно грязная шлюха, да?"
+
+# game/episode016_conversations.rpy:1162
+translate russian ep016_vess_sex_a6976b35:
+
+    # ve "I am!{w} I am your nasty whore, master!"
+    ve "Я!{w} Я твоя грязная шлюха, хозяин!"
+
+# game/episode016_conversations.rpy:1169
+translate russian ep016_vess_sex_49ff43aa:
+
+    # c "A dirty whore like you deserves a big load inside her."
+    c "Такая грязная шлюха, как ты, заслуживает большую порцию спермы внутри себя."
+
+# game/episode016_conversations.rpy:1183
+translate russian ep016_vess_sex_ddd4737d:
+
+    # c "A dirty whore like you deserves to be covered by a big load."
+    c "Такая грязная шлюха, как ты, заслуживает быть покрытой большой порцией спермы."
+
+# game/episode016_conversations.rpy:1197
+translate russian ep016_vess_sex_489060df:
+
+    # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Иди сюда, твое грязное шлюшечье лицо заслуживает, чтобы его покрыла большая порция спермы."
+

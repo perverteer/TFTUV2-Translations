@@ -4616,3 +4616,17 @@ translate russian strings:
     old "Kiss her"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode013.rpy:1194
+translate russian ep013_douvis_simulation_sex_5482d9d4:
+
+    # "Eva watched the two orcs at work with a mixture of horror and fascination, much like Nadya had done during the egg ceremony on Almagest."
+    "Ева наблюдала за работой двух орков с чувством ужаса и восхищения, подобно тому, как Надя наблюдала за церемонией яиц на Альмагесте."
+
+# game/episode013.rpy:1249
+translate russian ep013_douvis_simulation_sex_810c46c2:
+
+    # man "Take that, elven slut."
+    man "Вот тебе, эльфийская шлюха."
+

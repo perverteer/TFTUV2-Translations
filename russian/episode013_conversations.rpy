@@ -6282,3 +6282,11 @@ translate russian strings:
     old "Body"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode013_conversations.rpy:1564
+translate russian ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "Тебе начинает нравиться ощущение, когда твою тугую попку растягивают?"
+

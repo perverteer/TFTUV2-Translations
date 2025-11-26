@@ -210,3 +210,51 @@ translate russian strings:
     old "Anal"
     new "Анальный"
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+translate russian strings:
+
+    # game/continue.rpy:43
+    old "No season saves currently available"
+    new "В настоящее время нет доступных сезонных скидок"
+
+    # game/continue.rpy:94
+    old "Were you polite to the Tubloshi?"
+    new "Вы были вежливы с Тублоши?"
+
+    # game/continue.rpy:94
+    old "Were you openly suspicious of the Tubloshi?"
+    new "Вы открыто подозревали Тублоши?"
+
+    # game/continue.rpy:94
+    old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "Вы отказались от симуляции Евы и Лилли на Железном Ублюдке?"
+
+    # game/continue.rpy:94
+    old "Do you want to get Lilly pregnant?"
+    new "Ты хочешь, чтобы Лилли забеременела?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Ziv (Futa)?"
+    new "Пытались подружиться с Зивом (Фута)?"
+
+    # game/continue.rpy:94
+    old "Are you in a relationship with Ziv (Futa)?"
+    new "Вы состоите в отношениях с Зивом (Фута)?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Raene (Trans)?"
+    new "Пытались подружиться с Рэйни (Транс)?"
+
+    # game/continue.rpy:94
+    old "Were trying to get into a relationship with Raene (Trans)?"
+    new "Пытались завязать отношения с Рэйн (трансгендер)?"
+
+    # game/continue.rpy:94
+    old "Did you have sex with Hannah, the Tubloshi translator?"
+    new "Ты занимался сексом с Ханной, переводчицей из Тублоши?"
+
+    # game/continue.rpy:94
+    old "Did you creampie Hannah?"
+    new "Ты кончил в Ханну?"
+

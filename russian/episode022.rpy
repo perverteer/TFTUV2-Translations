@@ -12474,3 +12474,29 @@ translate russian strings:
     old "Fuck her pussy"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode022.rpy:2280
+translate russian ep022_e_l_fucking_d5c05f3d:
+
+    # e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+    e "Я твоя грязная девочка, я вся твоя, ты можешь со мной делать все, что угодно!"
+
+# game/episode022.rpy:2297
+translate russian ep022_e_l_fucking_ec38a111:
+
+    # l "You’re treating her pussy so well, [p_name_short]."
+    l "Ты так хорошо обращаешься с ее киской, [p_name_short]."
+
+# game/episode022.rpy:2329
+translate russian ep022_e_l_fucking_6a0c17b2:
+
+    # "She wasn’t lying, Eva’s pussy was smeared in her juices."
+    "Она не врала, киска Евы была испачкана ее соками."
+
+# game/episode022.rpy:2617
+translate russian ep022_e_l_fucking_16438e35:
+
+    # c "Now be a good girl and swallow everything."
+    c "А теперь будь хорошей девочкой и проглоти все."
+

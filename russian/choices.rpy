@@ -75,7 +75,7 @@ translate russian strings:
     new "Кончил в Тхию."
 
     # game/choices.rpy:10
-    old "Lied to the R'ho."
+    old "Lied to the R'o."
     new "Солгал Р'о."
 
     # game/choices.rpy:10
@@ -83,7 +83,7 @@ translate russian strings:
     new "Позволил Тхиму отправиться в Яму Отчаяния."
 
     # game/choices.rpy:10
-    old "Particpated in the R'ho orgy."
+    old "Particpated in the R'o orgy."
     new "Участвовал в оргии Р'о."
 
     # game/choices.rpy:10
@@ -91,11 +91,11 @@ translate russian strings:
     new "Кончил в Д'ии."
 
     # game/choices.rpy:10
-    old "Creampied the R'ho virgin."
+    old "Creampied the R'o virgin."
     new "Кончил в девственницу Р'о."
 
     # game/choices.rpy:10
-    old "Agreed to help the R'ho."
+    old "Agreed to help the R'o."
     new "Согласился помочь Р'о."
 
     # game/choices.rpy:10

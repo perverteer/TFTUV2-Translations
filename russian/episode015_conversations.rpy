@@ -4166,3 +4166,11 @@ translate russian strings:
     old "Swallow"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode015_conversations.rpy:1365
+translate russian ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "Я начал работать языком над ее стволом, лаская грудь девушки кончиками пальцев."
+

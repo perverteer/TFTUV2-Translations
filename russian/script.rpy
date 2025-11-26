@@ -426,3 +426,11 @@ translate russian strings:
     old "A big thank you to my top tier backers, you rock!"
     new "Большое спасибо моим главным спонсорам, вы лучшие!"
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+translate russian strings:
+
+    # game/script.rpy:718
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(португальский){/i}, MyPrettyWolfy {i}(русский){/i}, Frank Rosario {i}(итальянский){/i}, Juan Manuel {i}(испанский){/i}, Donk {i}(турецкий, darkeros.org){/i}"
+

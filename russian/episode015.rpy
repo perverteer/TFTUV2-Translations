@@ -7592,3 +7592,29 @@ translate russian strings:
     old "Refuse"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+# game/episode015.rpy:1592
+translate russian ep015_sim_eva_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Вторгнуться в узкую девственную щель твоей сестры?"
+
+# game/episode015.rpy:1594
+translate russian ep015_sim_eva_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Вторгнуться в мою узкую девственную щель?"
+
+# game/episode015.rpy:1638
+translate russian ep015_sim_eva_bedroom_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Вторгнуться в узкую девственную щель твоей сестры?"
+
+# game/episode015.rpy:1640
+translate russian ep015_sim_eva_bedroom_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Вторгнуться в мою узкую девственную щель?"
+

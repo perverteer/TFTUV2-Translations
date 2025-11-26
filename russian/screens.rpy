@@ -756,3 +756,27 @@ translate russian strings:
     old "Русский (частичный)"
     new ""
 
+# TODO: Translation updated at 2025-11-26 14:56
+
+translate russian strings:
+
+    # game/screens.rpy:839
+    old "Harem: %s"
+    new "Гарем: %s"
+
+    # game/screens.rpy:1290
+    old "SEASON 1"
+    new "СЕЗОН 1"
+
+    # game/screens.rpy:1292
+    old "SEASON 3"
+    new "СЕЗОН 3"
+
+    # game/screens.rpy:1504
+    old "Connect your toy"
+    new "Подключите свою игрушку"
+
+    # game/screens.rpy:1519
+    old "Türkçe"
+    new "Türkçe"
+
