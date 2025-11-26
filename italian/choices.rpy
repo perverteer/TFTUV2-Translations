@@ -99,8 +99,8 @@ translate italian strings:
     new "Ha fatto la crema a Thyia."
 
     # game/choices.rpy:10
-    old "Lied to the R'ho."
-    new "Ha mentito ai R'ho."
+    old "Lied to the R'o."
+    new "Ha mentito ai R'o."
 
     # game/choices.rpy:10
     old "Nyiruan 12-Beta"
@@ -111,20 +111,20 @@ translate italian strings:
     new "Ha lasciato che Thim finisse nel Pozzo della Disperazione."
 
     # game/choices.rpy:10
-    old "Particpated in the R'ho orgy."
-    new "Ha partecipato all'orgia degli R'ho."
+    old "Particpated in the R'o orgy."
+    new "Ha partecipato all'orgia degli R'o."
 
     # game/choices.rpy:10
     old "Creampied D'ee."
     new "Ha ricoperto di crema D'ee."
 
     # game/choices.rpy:10
-    old "Creampied the R'ho virgin."
-    new "Ha ricoperto di crema la vergine R'ho."
+    old "Creampied the R'o virgin."
+    new "Ha ricoperto di crema la vergine R'o."
 
     # game/choices.rpy:10
-    old "Agreed to help the R'ho."
-    new "Ha accettato di aiutare gli R'ho."
+    old "Agreed to help the R'o."
+    new "Ha accettato di aiutare gli R'o."
 
     # game/choices.rpy:10
     old "Accepted Thyia as a crew member."
