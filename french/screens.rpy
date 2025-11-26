@@ -600,3 +600,47 @@ translate french strings:
     old "Russian (partial)"
     new "Russian (partiel)"
 
+# TODO: Translation updated at 2025-11-26 14:46
+
+translate french strings:
+
+    # game/screens.rpy:839
+    old "Harem: %s"
+    new "Harem: %s"
+
+    # game/screens.rpy:1290
+    old "SEASON 1"
+    new "SAISON 1"
+
+    # game/screens.rpy:1292
+    old "SEASON 3"
+    new "SAISON 3"
+
+    # game/screens.rpy:1504
+    old "Connect your toy"
+    new "Connectez votre jouet"
+
+    # game/screens.rpy:1517
+    old "Русский"
+    new "Русский"
+
+    # game/screens.rpy:1518
+    old "Français"
+    new "Français"
+
+    # game/screens.rpy:1519
+    old "Türkçe"
+    new "Türkçe"
+
+    # game/screens.rpy:1521
+    old "Português (parcial)"
+    new "Português (parcial)"
+
+    # game/screens.rpy:1522
+    old "Italiano (parziale)"
+    new "Italiano (parziale)"
+
+    # game/screens.rpy:1523
+    old "Español (parcial)"
+    new "Español (parcial)"
+

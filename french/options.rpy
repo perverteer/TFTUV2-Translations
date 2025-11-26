@@ -20,3 +20,11 @@ translate french strings:
     old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
     new "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
 
+# TODO: Translation updated at 2025-11-26 14:46
+
+translate french strings:
+
+    # game/options.rpy:43
+    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(portugais, partiel){/i}, Rory-Mercury91 {i}(français){/i}, Frank Rosario {i}(italien, partiel){/i}, Juan Manuel {i}(espagnol, partiel){/i}, MyPrettyWolfy {i}(russe){/i}, Donk. {i}(turc, darkeros.org){/i}"
+

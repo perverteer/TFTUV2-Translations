@@ -4150,3 +4150,11 @@ translate french strings:
     old "Swallow"
     new "Avaler"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode015_conversations.rpy:1365
+translate french ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "Je me suis mis à travailler avec ma langue sur son sexe tout en caressant les seins de la jeune fille du bout des doigts."
+

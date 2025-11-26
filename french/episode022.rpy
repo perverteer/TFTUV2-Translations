@@ -12389,3 +12389,113 @@ translate french strings:
     # game/episode022.rpy:3682
     old "Make Vess lick your ass"
     new "Faites lécher votre cul à Vess"
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode022.rpy:762
+translate french ep022_lilly_talk_57e2e85a:
+
+    # t "Wow, two of your friends, you dark horse."
+    t "Waouh, deux de tes amis, espèce de cheval noir."
+
+# game/episode022.rpy:854
+translate french ep022_lilly_talk_dc0592ba:
+
+    # "We lay together on the bed and I took my girlfriend into my arms."
+    "Nous nous sommes allongés ensemble sur le lit et j'ai pris ma petite amie dans mes bras."
+
+# game/episode022.rpy:1274
+translate french ep022_temple_hostiles_597e7691:
+
+    # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
+    av "Pourquoi les balises d'alerte précoce que nous avons laissées en orbite ne les ont-elles pas détectées ?"
+
+# game/episode022.rpy:1275
+translate french ep022_temple_hostiles_dfc83f73:
+
+    # th "They must have found a way around them."
+    th "Ils ont dû trouver un moyen de les contourner."
+
+# game/episode022.rpy:1276
+translate french ep022_temple_hostiles_21192a9e:
+
+    # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
+    th "Leur technologie est bien plus avancée que la nôtre, nous devons nous contenter des miettes."
+
+# game/episode022.rpy:1277
+translate french ep022_temple_hostiles_f367c383:
+
+    # c "No use in debating that now, we need to go back now."
+    c "Inutile d'en débattre maintenant, nous devons rentrer."
+
+# game/episode022.rpy:1308
+translate french ep022_temple_hostiles_597e7691_1:
+
+    # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
+    av "Pourquoi les balises d'alerte précoce que nous avons laissées en orbite ne les ont-elles pas détectées ?"
+
+# game/episode022.rpy:1309
+translate french ep022_temple_hostiles_dfc83f73_1:
+
+    # th "They must have found a way around them."
+    th "Ils ont dû trouver un moyen de les contourner."
+
+# game/episode022.rpy:1310
+translate french ep022_temple_hostiles_21192a9e_1:
+
+    # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
+    th "Leur technologie est bien plus avancée que la nôtre, nous devons nous contenter des miettes."
+
+# game/episode022.rpy:1311
+translate french ep022_temple_hostiles_f43a5afe:
+
+    # c "No use in debating that now, we need to finish up here as quickly as possible."
+    c "Inutile d'en débattre maintenant, nous devons terminer ici le plus rapidement possible."
+
+# game/episode022.rpy:1319
+translate french ep022_temple_hostiles_ad299c59:
+
+    # c "I’ll radio Jade to inform her about the situation."
+    c "Je vais contacter Jade par radio pour l'informer de la situation."
+
+# game/episode022.rpy:1321
+translate french ep022_temple_hostiles_23461a41:
+
+    # av "She’s guarding the door alone, isn’t she?"
+    av "Elle garde la porte toute seule, n'est-ce pas ?"
+
+# game/episode022.rpy:1322
+translate french ep022_temple_hostiles_8c917180:
+
+    # c "She is, but we need everyone to get these explosives in place."
+    c "Oui, mais nous avons besoin de tout le monde pour mettre ces explosifs en place."
+
+# game/episode022.rpy:1323
+translate french ep022_temple_hostiles_ac40bb0c:
+
+    # c "We just have to pray that we finish before Agust arrives."
+    c "Nous devons juste prier pour avoir terminé avant l'arrivée d'Agust."
+
+# game/episode022.rpy:2280
+translate french ep022_e_l_fucking_d5c05f3d:
+
+    # e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+    e "Je suis ta fille coquine, je suis toute à toi, tu peux me faire tout ce que tu veux !"
+
+# game/episode022.rpy:2297
+translate french ep022_e_l_fucking_ec38a111:
+
+    # l "You’re treating her pussy so well, [p_name_short]."
+    l "Tu prends tellement soin de sa chatte, [p_name_short]."
+
+# game/episode022.rpy:2329
+translate french ep022_e_l_fucking_6a0c17b2:
+
+    # "She wasn’t lying, Eva’s pussy was smeared in her juices."
+    "Elle ne mentait pas, la chatte d'Eva était recouverte de ses jus."
+
+# game/episode022.rpy:2617
+translate french ep022_e_l_fucking_16438e35:
+
+    # c "Now be a good girl and swallow everything."
+    c "Maintenant, sois gentille et avale tout."
+

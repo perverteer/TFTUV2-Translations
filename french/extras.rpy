@@ -7124,3 +7124,23 @@ translate french extra_scene_47_b40d1a45:
     # c "Certainly not."
     c "Certainement pas."
 
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/extras.rpy:1183
+translate french extra_scene_37_57795ac4:
+
+    # ce "I love the feeling of your thick cock inside my pussy!"
+    ce "J'adore sentir ta grosse bite dans ma chatte !"
+
+# game/extras.rpy:1354
+translate french extra_scene_38_a5c6577a:
+
+    # c "Is my slutty sister ready to get fucked?"
+    c "Ma salope de sœur est-elle prête à se faire baiser ?"
+
+# game/extras.rpy:1356
+translate french extra_scene_38_b836fff8:
+
+    # c "Is my slutty girlfriend ready to get fucked?"
+    c "Ma copine salope est-elle prête à se faire baiser ?"
+

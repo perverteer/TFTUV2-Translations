@@ -7206,3 +7206,29 @@ translate french strings:
     old "Declare your love"
     new "Déclare ton amour"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode015.rpy:1592
+translate french ep015_sim_eva_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Envahir la fente vierge et serrée de ta sœur ?"
+
+# game/episode015.rpy:1594
+translate french ep015_sim_eva_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Pénétrer ma petite chatte vierge bien serrée ? "
+
+# game/episode015.rpy:1638
+translate french ep015_sim_eva_bedroom_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Envahir la fente vierge et serrée de ta sœur ?"
+
+# game/episode015.rpy:1640
+translate french ep015_sim_eva_bedroom_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Envahir ma fente vierge et serrée ?"
+

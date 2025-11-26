@@ -6232,3 +6232,11 @@ translate french ep013_celine_second_talk_b624faf9:
 
     "Céline est retombée dans son siège, me regardant avec incrédulité."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode013_conversations.rpy:1564
+translate french ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "Tu commences à apprécier la sensation de te faire dilater ton petit trou du cul serré ?"
+

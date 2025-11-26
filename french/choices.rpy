@@ -97,8 +97,8 @@
     new "Thyia a été remplie."
 
     # game/choices.rpy:10
-    old "Lied to the R'ho."
-    new "J'ai menti aux R'ho."
+    old "Lied to the R'o."
+    new "J'ai menti aux R'o."
 
     # game/choices.rpy:10
     old "Nyiruan 12-Beta"
@@ -109,20 +109,20 @@
     new "J'ai laissé Thim entrer dans le Puits du désespoir."
 
     # game/choices.rpy:10
-    old "Particpated in the R'ho orgy."
-    new "J'ai participé à l'orgie des R'ho."
+    old "Particpated in the R'o orgy."
+    new "J'ai participé à l'orgie des R'o."
 
     # game/choices.rpy:10
     old "Creampied D'ee."
     new "D'ee a été remplie."
 
     # game/choices.rpy:10
-    old "Creampied the R'ho virgin."
-    new "La R'ho vierge a été remplie."
+    old "Creampied the R'o virgin."
+    new "La R'o vierge a été remplie."
 
     # game/choices.rpy:10
-    old "Agreed to help the R'ho."
-    new "Tu as accepté d'aider les R'ho."
+    old "Agreed to help the R'o."
+    new "Tu as accepté d'aider les R'o."
 
     # game/choices.rpy:10
     old "Accepted Thyia as a crew member."

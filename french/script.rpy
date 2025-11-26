@@ -216,3 +216,19 @@
     old "Unread"
     new "Non lu"
 
+# TODO: Translation updated at 2025-11-26 14:46
+
+translate french strings:
+
+    # game/script.rpy:631
+    old "THANK YOU"
+    new "MERCI"
+
+    # game/script.rpy:632
+    old "A big thank you to my top tier backers, you rock!"
+    new "Un grand merci à mes principaux contributeurs, vous êtes géniaux !"
+
+    # game/script.rpy:718
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(portugais){/i}, MyPrettyWolfy {i}(russe){/i}, Frank Rosario {i}(italien){/i}, Juan Manuel {i}(espagnol){/i}, Donk {i}(turc, darkeros.org){/i}"
+

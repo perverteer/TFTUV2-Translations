@@ -4570,3 +4570,17 @@ translate french strings:
     old "Don't kiss her"
     new "Ne l'embrasse pas"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode013.rpy:1194
+translate french ep013_douvis_simulation_sex_5482d9d4:
+
+    # "Eva watched the two orcs at work with a mixture of horror and fascination, much like Nadya had done during the egg ceremony on Almagest."
+    "Eva observait les deux orques à l'œuvre avec un mélange d'horreur et de fascination, tout comme Nadya l'avait fait lors de la cérémonie des œufs sur Almagest."
+
+# game/episode013.rpy:1249
+translate french ep013_douvis_simulation_sex_810c46c2:
+
+    # man "Take that, elven slut."
+    man "Prends ça, salope d'elfe."
+

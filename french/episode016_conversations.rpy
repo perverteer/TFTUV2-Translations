@@ -4742,3 +4742,59 @@ translate french ep016_thyia_talk_da20415c:
 
     "Je suis allé voir ce qu'elle faisait."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-11-26 14:46
+
+# game/episode016_conversations.rpy:1040
+translate french ep016_vess_sex_b2c0e100:
+
+    # c "That’s a good slut."
+    c "C'est une bonne salope."
+
+# game/episode016_conversations.rpy:1057
+translate french ep016_vess_sex_50bfb028:
+
+    # c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "Tu as bien supporté ta punition, masochiste, alors je pense que je vais te récompenser."
+
+# game/episode016_conversations.rpy:1079
+translate french ep016_vess_sex_aaa003a5:
+
+    # c "Are you going to cum hard for me, slut?"
+    c "Tu vas jouir fort pour moi, salope ?"
+
+# game/episode016_conversations.rpy:1099
+translate french ep016_vess_sex_25174f99:
+
+    # c "That’s it, soil yourself, my whore."
+    c "C'est ça, souille-toi, ma pute."
+
+# game/episode016_conversations.rpy:1161
+translate french ep016_vess_sex_e4ae9e92:
+
+    # c "You really are a nasty whore, aren’t you?"
+    c "Tu es vraiment une sale pute, n'est-ce pas ?"
+
+# game/episode016_conversations.rpy:1162
+translate french ep016_vess_sex_a6976b35:
+
+    # ve "I am!{w} I am your nasty whore, master!"
+    ve "Oui !{w} Je suis ta sale pute, maître !"
+
+# game/episode016_conversations.rpy:1169
+translate french ep016_vess_sex_49ff43aa:
+
+    # c "A dirty whore like you deserves a big load inside her."
+    c "Une sale pute comme toi mérite une bonne dose de sperme en elle."
+
+# game/episode016_conversations.rpy:1183
+translate french ep016_vess_sex_ddd4737d:
+
+    # c "A dirty whore like you deserves to be covered by a big load."
+    c "Une sale pute comme toi mérite d'être recouverte d'une grosse éjaculation."
+
+# game/episode016_conversations.rpy:1197
+translate french ep016_vess_sex_489060df:
+
+    # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Viens ici, ta sale tête de pute mérite d'être recouverte d'une grosse éjaculation."
+
