@@ -12638,45 +12638,45 @@ translate russian strings:
 
     # game/episode019.rpy:57
     old "Proxima Centauri Orbital IV"
-    new ""
+    new "Орбитальная станция Проксима Центавра IV"
 
     # game/episode019.rpy:138
     old "Organizations"
-    new ""
+    new "Организации"
 
     # game/episode019.rpy:169
     old "Visit Lilly"
-    new ""
+    new "Навестить Лилли"
 
     # game/episode019.rpy:169
     old "Visit Eva"
-    new ""
+    new "Навестить Еву"
 
     # game/episode019.rpy:169
     old "Visit Céline"
-    new ""
+    new "Навестить Селин"
 
     # game/episode019.rpy:169
     old "Visit Jade"
-    new ""
+    new "Навестить Джейд"
 
     # game/episode019.rpy:169
     old "Visit Ziv"
-    new ""
+    new "Навестить Зив"
 
     # game/episode019.rpy:169
     old "Visit Thyia"
-    new ""
+    new "Навестить Тхию"
 
     # game/episode019.rpy:169
     old "Visit Kit"
-    new ""
+    new "Навестить Кита"
 
     # game/episode019.rpy:461
     old "Apologize"
-    new ""
+    new "Извиниться"
 
     # game/episode019.rpy:461
     old "Don't apologize"
-    new ""
+    new "Не извиняться"
 

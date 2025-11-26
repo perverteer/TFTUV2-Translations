@@ -24217,9 +24217,9 @@ translate russian strings:
 
     # game/episode021.rpy:688
     old "Visit Vess"
-    new ""
+    new "Навестить Весс"
 
     # game/episode021.rpy:3297
     old "Let her suck your cock"
-    new ""
+    new "Дай ей отсосать"
 

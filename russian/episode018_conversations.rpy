@@ -3704,9 +3704,9 @@ translate russian strings:
 
     # game/episode018_conversations.rpy:294
     old "Deny"
-    new ""
+    new "Отрицать"
 
     # game/episode018_conversations.rpy:558
     old "Keep looking"
-    new ""
+    new "Продолжить поиски"
 

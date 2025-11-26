@@ -6486,5 +6486,5 @@ translate russian strings:
 
     # game/episode016.rpy:236
     old "Guard"
-    new ""
+    new "Охранник"
 

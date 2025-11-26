@@ -8116,21 +8116,21 @@ translate russian strings:
 
     # game/episode017.rpy:244
     old "Alien"
-    new ""
+    new "Инопланетянин"
 
     # game/episode017.rpy:963
     old "Merc"
-    new ""
+    new "Наёмник"
 
     # game/episode017.rpy:1011
     old "Shoot him"
-    new ""
+    new "Выстрелить в него"
 
     # game/episode017.rpy:1689
     old "Vaginal"
-    new ""
+    new "Вагинально"
 
     # game/episode017.rpy:1846
     old "Anal creampie"
-    new ""
+    new "Кончить в задницу"
 

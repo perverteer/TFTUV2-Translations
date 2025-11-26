@@ -1752,21 +1752,22 @@ translate russian strings:
 
     # game/breakups.rpy:82
     old "Leave"
-    new ""
+    new "Уйти"
 
     # game/breakups.rpy:82
     old "Try to explain"
-    new ""
+    new "Попробовать объясниться"
 
     # game/breakups.rpy:120
     old "Defend yourself"
-    new ""
+    new "Защититься"
 
     # game/breakups.rpy:120
     old "Just leave"
-    new ""
+    new "Просто уйти"
 
     # game/breakups.rpy:200
     old "Evade"
-    new ""
+    new "Избежать"
+
 

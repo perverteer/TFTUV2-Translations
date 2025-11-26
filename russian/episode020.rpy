@@ -14318,5 +14318,5 @@ translate russian strings:
 
     # game/episode020.rpy:190
     old "Visit Raene"
-    new ""
+    new "Навестить Рэин"
 

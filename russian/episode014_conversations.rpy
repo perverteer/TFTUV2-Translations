@@ -6074,9 +6074,10 @@ translate russian strings:
 
     # game/episode014_conversations.rpy:328
     old "Maybe"
-    new ""
+    new "Возможно"
 
     # game/episode014_conversations.rpy:542
     old "Threaten her"
-    new ""
+    new "Запугать её"
+
 

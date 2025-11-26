@@ -12,17 +12,18 @@ translate russian strings:
 
     # game/defaults.rpy:52
     old "Karan"
-    new ""
+    new "Каран"
 
     # game/defaults.rpy:61
     old "Taera"
-    new ""
+    new "Таэра"
 
     # game/defaults.rpy:66
     old "Dr. Moora"
-    new ""
+    new "Доктор Мура"
 
     # game/defaults.rpy:67
     old "Ranimo Cetruvar"
-    new ""
+    new "Ранимо Цетрувар"
+
 

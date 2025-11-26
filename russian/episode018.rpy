@@ -7960,9 +7960,10 @@ translate russian strings:
 
     # game/episode018.rpy:724
     old "Officer"
-    new ""
+    new "Офицер"
 
     # game/episode018.rpy:1993
     old "Cover their bodies"
-    new ""
+    new "Покрыть их тела"
+
 

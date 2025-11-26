@@ -4292,21 +4292,22 @@ translate russian strings:
 
     # game/episode014.rpy:24
     old "Unknown"
-    new ""
+    new "Неизвестно"
 
     # game/episode014.rpy:278
     old "Keep watching"
-    new ""
+    new "Продолжай смотреть"
 
     # game/episode014.rpy:574
     old "Characters"
-    new ""
+    new "Персонажи"
 
     # game/episode014.rpy:694
     old "Places"
-    new ""
+    new "Места"
 
     # game/episode014.rpy:1079
     old "Suck her cock"
-    new ""
+    new "Отсосать у неё"
+
 
