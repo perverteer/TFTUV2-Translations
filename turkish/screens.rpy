@@ -558,3 +558,19 @@ translate turkish strings:
     old "Türkçe"
     new "Türkçe"
 
+# TODO: Translation updated at 2025-12-04 22:35
+
+translate turkish strings:
+
+    # game/screens.rpy:1521
+    old "Deutsch"
+    new "Deutsch"
+
+# TODO: Translation updated at 2025-12-04 22:49
+
+translate turkish strings:
+
+    # game/screens.rpy:1522
+    old "Italiano"
+    new "Italiano"
+

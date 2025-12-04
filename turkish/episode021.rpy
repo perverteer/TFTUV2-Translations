@@ -24013,3 +24013,11 @@ translate turkish strings:
     old "Throatfuck"
     new "Boğazını sik"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:35
+
+# game/episode021.rpy:1129
+translate turkish ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l "En azından ailenle ilgili şeyler değil."
+
