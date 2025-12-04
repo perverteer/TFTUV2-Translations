@@ -6242,3 +6242,11 @@ translate turkish ep013_ce_sex_56f18a7d:
     # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
     c "Sıkı göt deliğinin gerilmesinden zevk almaya mı başladın?"
 
+# TODO: Translation updated at 2025-12-02 11:17
+
+# game/episode013_conversations.rpy:404
+translate turkish ep013_lilly_talk_3cec8ef8:
+
+    # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+    "Uyandığımdan beri Lilly'yi görmemiştim, bu yüzden onu ziyaret etmeye karar verdim."
+
