@@ -12476,3 +12476,29 @@ translate italian ep022_temple_hostiles_ac40bb0c:
     # c "We just have to pray that we finish before Agust arrives."
     c ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode022.rpy:2280
+translate italian ep022_e_l_fucking_d5c05f3d:
+
+    # e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+    e "Sono la tua ragazza sporca, sono tutta tua, puoi farmi tutto quello che vuoi!"
+
+# game/episode022.rpy:2297
+translate italian ep022_e_l_fucking_ec38a111:
+
+    # l "You’re treating her pussy so well, [p_name_short]."
+    l "La stai trattando così bene, [p_name_short]."
+
+# game/episode022.rpy:2329
+translate italian ep022_e_l_fucking_6a0c17b2:
+
+    # "She wasn’t lying, Eva’s pussy was smeared in her juices."
+    "Non stava mentendo, la figa di Eva era ricoperta dai suoi umori."
+
+# game/episode022.rpy:2617
+translate italian ep022_e_l_fucking_16438e35:
+
+    # c "Now be a good girl and swallow everything."
+    c "Ora fai la brava ragazza e ingoia tutto."
+

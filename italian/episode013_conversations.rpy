@@ -6276,3 +6276,17 @@ translate italian ep013_celine_second_talk_b624faf9:
 
     "Céline si è riseduta, guardandomi incredula."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode013_conversations.rpy:404
+translate italian ep013_lilly_talk_3cec8ef8:
+
+    # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+    "Non avevo visto Lilly da quando mi ero svegliato, quindi decisi di andare a trovarla."
+
+# game/episode013_conversations.rpy:1565
+translate italian ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "Cominci a goderti la sensazione di avere il tuo stretto buco del culo allargato?"
+

@@ -4766,3 +4766,59 @@ translate italian ep016_thyia_talk_da20415c:
 
     "Andai a controllarla."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode016_conversations.rpy:1040
+translate italian ep016_vess_sex_b2c0e100:
+
+    # c "That’s a good slut."
+    c "Che brava troia."
+
+# game/episode016_conversations.rpy:1057
+translate italian ep016_vess_sex_50bfb028:
+
+    # c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "Hai sopportato bene la tua punizione, masochista, quindi penso che ti ricompenserò."
+
+# game/episode016_conversations.rpy:1079
+translate italian ep016_vess_sex_aaa003a5:
+
+    # c "Are you going to cum hard for me, slut?"
+    c "Hai intenzione di venire forte per me, troia?"
+
+# game/episode016_conversations.rpy:1099
+translate italian ep016_vess_sex_25174f99:
+
+    # c "That’s it, soil yourself, my whore."
+    c "Ecco, sporcati, mia puttana."
+
+# game/episode016_conversations.rpy:1161
+translate italian ep016_vess_sex_e4ae9e92:
+
+    # c "You really are a nasty whore, aren’t you?"
+    c "Sei davvero una puttana schifosa, vero?"
+
+# game/episode016_conversations.rpy:1162
+translate italian ep016_vess_sex_a6976b35:
+
+    # ve "I am!{w} I am your nasty whore, master!"
+    ve "Lo sono!{w} Sono la tua sporca puttana, padrone!"
+
+# game/episode016_conversations.rpy:1169
+translate italian ep016_vess_sex_49ff43aa:
+
+    # c "A dirty whore like you deserves a big load inside her."
+    c "Una sporca puttana come te merita una bella sborrata dentro."
+
+# game/episode016_conversations.rpy:1183
+translate italian ep016_vess_sex_ddd4737d:
+
+    # c "A dirty whore like you deserves to be covered by a big load."
+    c "Una sporca puttana come te merita di essere ricoperta da una grossa sborrata."
+
+# game/episode016_conversations.rpy:1197
+translate italian ep016_vess_sex_489060df:
+
+    # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Vieni qui, quella tua faccia da puttana merita di essere ricoperta da una bella sborrata."
+

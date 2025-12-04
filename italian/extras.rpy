@@ -7238,3 +7238,23 @@ translate italian extra_scene_47_b40d1a45:
     # c "Certainly not."
     c "Certamente no."
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/extras.rpy:1183
+translate italian extra_scene_37_57795ac4:
+
+    # ce "I love the feeling of your thick cock inside my pussy!"
+    ce "Adoro la sensazione del tuo grosso cazzo dentro la mia figa!"
+
+# game/extras.rpy:1354
+translate italian extra_scene_38_a5c6577a:
+
+    # c "Is my slutty sister ready to get fucked?"
+    c "La mia sorellina troia è pronta per farsi scopare?"
+
+# game/extras.rpy:1356
+translate italian extra_scene_38_b836fff8:
+
+    # c "Is my slutty girlfriend ready to get fucked?"
+    c "La mia ragazza troia è pronta per farsi scopare?"
+

@@ -202,3 +202,51 @@ translate italian strings:
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
     new "Il gioco è più godibile se importi una partita salvata della Stagione 1. Se hai perso l'accesso ai tuoi salvataggi della stagione o vuoi semplicemente iniziare con la Stagione 2, puoi selezionare le scelte più importanti della prima stagione qui sotto, mentre tutte le altre decisioni saranno impostate su un valore predefinito."
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+translate italian strings:
+
+    # game/continue.rpy:43
+    old "No season saves currently available"
+    new "Nessuna stagione attualmente disponibile."
+
+    # game/continue.rpy:94
+    old "Were you polite to the Tubloshi?"
+    new "Sei stato gentile con Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Were you openly suspicious of the Tubloshi?"
+    new "Hai apertamente sospettato di Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "Hai abbandonato la simulazione di Eva e Lilly sull'Iron Bastard?"
+
+    # game/continue.rpy:94
+    old "Do you want to get Lilly pregnant?"
+    new "Vuoi mettere incinta Lilly?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Ziv (Futa)?"
+    new "Hai cercato di diventare amico di Ziv (Futa)?"
+
+    # game/continue.rpy:94
+    old "Are you in a relationship with Ziv (Futa)?"
+    new "Hai una relazione con Ziv (Futa)?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Raene (Trans)?"
+    new "Hai cercato di diventare amico di Raene (Trans)?"
+
+    # game/continue.rpy:94
+    old "Were trying to get into a relationship with Raene (Trans)?"
+    new "Hai cercato di avere una relazione con Raene (Trans)?"
+
+    # game/continue.rpy:94
+    old "Did you have sex with Hannah, the Tubloshi translator?"
+    new "Hai fatto sesso con Hannah, la traduttrice Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Did you creampie Hannah?"
+    new "Hai fatto sesso con Hannah?"
+

@@ -226,3 +226,11 @@ translate italian strings:
     old "A big thank you to my top tier backers, you rock!"
     new ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+translate italian strings:
+
+    # game/script.rpy:718
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(portoghese){/i}, MyPrettyWolfy {i}(russo){/i}, Frank Rosario {i}(italiano){/i}, Juan Manuel {i}(spagnolo){/i}, Donk {i}(turco, darkeros.org){/i}"
+

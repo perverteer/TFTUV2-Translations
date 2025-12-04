@@ -24216,3 +24216,11 @@ translate italian ep021_group_fuck_partial_a9eae425:
     # "With some effort, I managed to blast all of their faces."
     "Con un po' di sforzo, sono riuscito a far esplodere tutte le loro facce."
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode021.rpy:1129
+translate italian ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l "Almeno non cose che riguardano la tua famiglia."
+

@@ -4622,3 +4622,17 @@ translate italian strings:
     old "Episode 13"
     new "Episodio 13"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode013.rpy:1194
+translate italian ep013_douvis_simulation_sex_5482d9d4:
+
+    # "Eva watched the two orcs at work with a mixture of horror and fascination, much like Nadya had done during the egg ceremony on Almagest."
+    "Eva osservava i due orchi al lavoro con un misto di orrore e fascino, proprio come aveva fatto Nadya durante la cerimonia delle uova su Almagest."
+
+# game/episode013.rpy:1249
+translate italian ep013_douvis_simulation_sex_810c46c2:
+
+    # man "Take that, elven slut."
+    man "Prendi questo, troia elfica."
+

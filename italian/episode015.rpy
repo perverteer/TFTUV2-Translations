@@ -7212,3 +7212,29 @@ translate italian strings:
     old "Episode 15"
     new "Episodio 15"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode015.rpy:1592
+translate italian ep015_sim_eva_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Invadere la stretta fessura vergine di tua sorella?"
+
+# game/episode015.rpy:1594
+translate italian ep015_sim_eva_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Invadere la mia stretta fessura vergine?"
+
+# game/episode015.rpy:1638
+translate italian ep015_sim_eva_bedroom_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Invadere la stretta fessura vergine di tua sorella?"
+
+# game/episode015.rpy:1640
+translate italian ep015_sim_eva_bedroom_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Invadere la mia stretta fessura vergine?"
+

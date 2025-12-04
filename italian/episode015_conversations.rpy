@@ -4152,3 +4152,11 @@ translate italian strings:
     old "Swallow"
     new "Ingoiare"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode015_conversations.rpy:1365
+translate italian ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "Ho iniziato a lavorare con la lingua sul suo pene mentre le accarezzavo il seno con la punta delle dita."
+
