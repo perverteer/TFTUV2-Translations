@@ -566,3 +566,11 @@ translate german strings:
     old "Deutsch"
     new "Deutsch"
 
+# TODO: Translation updated at 2025-12-04 22:49
+
+translate german strings:
+
+    # game/screens.rpy:1522
+    old "Italiano"
+    new "Italiano"
+
