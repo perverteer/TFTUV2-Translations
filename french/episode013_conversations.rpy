@@ -6240,3 +6240,11 @@ translate french ep013_ce_sex_56f18a7d:
     # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
     c "Tu commences à apprécier la sensation de te faire dilater ton petit trou du cul serré ?"
 
+# TODO: Translation updated at 2025-12-02 11:17
+
+# game/episode013_conversations.rpy:404
+translate french ep013_lilly_talk_3cec8ef8:
+
+    # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+    "Je n'avais pas vu Lilly depuis mon réveil, alors j'ai décidé de lui rendre visite."
+
