@@ -24172,3 +24172,11 @@ translate german strings:
     old "Throatfuck"
     new "Throatfuck"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode021.rpy:1129
+translate german ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l "Zumindest nicht Dinge, die deine Familie betreffen."
+

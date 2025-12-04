@@ -206,3 +206,51 @@ translate german strings:
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
     new "Das Spiel macht am meisten Spaß, wenn du einen Spielstand aus Staffel 1 importierst. Falls du den Zugriff auf deine Spielstände verloren hast oder einfach mit Staffel 2 beginnen möchtest, kannst du unten die wichtigsten Entscheidungen aus der ersten Staffel auswählen. Alle anderen Entscheidungen werden auf Standardwerte zurückgesetzt."
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+translate german strings:
+
+    # game/continue.rpy:43
+    old "No season saves currently available"
+    new "Derzeit sind keine Saison-Speicherungen verfügbar."
+
+    # game/continue.rpy:94
+    old "Were you polite to the Tubloshi?"
+    new "Waren Sie höflich zu den Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Were you openly suspicious of the Tubloshi?"
+    new "Hatten Sie offenes Misstrauen gegenüber den Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "Hast du die Simulation von Eva und Lilly auf dem Iron Bastard aufgegeben?"
+
+    # game/continue.rpy:94
+    old "Do you want to get Lilly pregnant?"
+    new "Willst du Lilly schwängern?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Ziv (Futa)?"
+    new "Wollten wir mit Ziv (Futa) befreundet sein?"
+
+    # game/continue.rpy:94
+    old "Are you in a relationship with Ziv (Futa)?"
+    new "Bist du in einer Beziehung mit Ziv (Futa)?"
+
+    # game/continue.rpy:94
+    old "Were trying to be friends with Raene (Trans)?"
+    new "Wollten wir mit Raene (Trans) befreundet sein?"
+
+    # game/continue.rpy:94
+    old "Were trying to get into a relationship with Raene (Trans)?"
+    new "Wollten wir eine Beziehung mit Raene (Trans) eingehen?"
+
+    # game/continue.rpy:94
+    old "Did you have sex with Hannah, the Tubloshi translator?"
+    new "Hattest du Sex mit Hannah, der Übersetzerin aus Tubloshi?"
+
+    # game/continue.rpy:94
+    old "Did you creampie Hannah?"
+    new "Hast du Hannah vollgespritzt?"
+

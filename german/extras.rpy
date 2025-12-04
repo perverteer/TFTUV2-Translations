@@ -7120,3 +7120,23 @@ translate german strings:
     old "Cum on her face"
     new "Komm ihr ins Gesicht"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/extras.rpy:1183
+translate german extra_scene_37_57795ac4:
+
+    # ce "I love the feeling of your thick cock inside my pussy!"
+    ce "Ich liebe das Gefühl deines dicken Schwanzes in meiner Muschi!"
+
+# game/extras.rpy:1354
+translate german extra_scene_38_a5c6577a:
+
+    # c "Is my slutty sister ready to get fucked?"
+    c "Ist meine versaute Schwester bereit, gefickt zu werden?"
+
+# game/extras.rpy:1356
+translate german extra_scene_38_b836fff8:
+
+    # c "Is my slutty girlfriend ready to get fucked?"
+    c "Ist meine versaute Freundin bereit, gefickt zu werden?"
+

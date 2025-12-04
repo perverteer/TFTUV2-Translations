@@ -14,3 +14,11 @@ translate german strings:
     old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
     new "Vielen Dank an HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut und Razielprince für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+translate german strings:
+
+    # game/options.rpy:46
+    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
+    new "Grubb {i}(Portugiesisch, teilweise){/i}, Rory-Mercury91 {i}(Französisch){/i}, Frank Rosario {i}(Italienisch, teilweise){/i}, Juan Manuel {i}(Spanisch, teilweise){/i}, MyPrettyWolfy {i}(Russisch){/i}, Donk. {i}(Türkisch, darkeros.org){/i}, Bomber86 (Deutsch)"
+

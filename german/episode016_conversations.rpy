@@ -4744,3 +4744,59 @@ translate german strings:
     old "Don’t want kids"
     new "Ich will keine Kinder"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode016_conversations.rpy:1040
+translate german ep016_vess_sex_b2c0e100:
+
+    # c "That’s a good slut."
+    c "Das ist eine gute Schlampe."
+
+# game/episode016_conversations.rpy:1057
+translate german ep016_vess_sex_50bfb028:
+
+    # c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "Du hast deine Strafe gut ertragen, Schmerzschlampe, also werde ich dich wohl belohnen."
+
+# game/episode016_conversations.rpy:1079
+translate german ep016_vess_sex_aaa003a5:
+
+    # c "Are you going to cum hard for me, slut?"
+    c "Wirst du für mich heftig kommen, Schlampe?"
+
+# game/episode016_conversations.rpy:1099
+translate german ep016_vess_sex_25174f99:
+
+    # c "That’s it, soil yourself, my whore."
+    c "Das ist es, beschmutze dich selbst, meine Hure."
+
+# game/episode016_conversations.rpy:1161
+translate german ep016_vess_sex_e4ae9e92:
+
+    # c "You really are a nasty whore, aren’t you?"
+    c "Du bist wirklich eine widerliche Hure, nicht wahr?"
+
+# game/episode016_conversations.rpy:1162
+translate german ep016_vess_sex_a6976b35:
+
+    # ve "I am!{w} I am your nasty whore, master!"
+    ve "Ich bin es!{w} Ich bin deine versaute Hure, Meister!"
+
+# game/episode016_conversations.rpy:1169
+translate german ep016_vess_sex_49ff43aa:
+
+    # c "A dirty whore like you deserves a big load inside her."
+    c "Eine dreckige Hure wie du verdient eine große Ladung in sich."
+
+# game/episode016_conversations.rpy:1183
+translate german ep016_vess_sex_ddd4737d:
+
+    # c "A dirty whore like you deserves to be covered by a big load."
+    c "Eine dreckige Hure wie du verdient es, mit einer großen Ladung vollgespritzt zu werden."
+
+# game/episode016_conversations.rpy:1197
+translate german ep016_vess_sex_489060df:
+
+    # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Komm her, dein dreckiges Huren-Gesicht verdient es, mit einer großen Ladung bedeckt zu werden."
+

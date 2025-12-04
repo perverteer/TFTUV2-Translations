@@ -7208,3 +7208,29 @@ translate german strings:
     old "Declare your love"
     new "Bekenne deine Liebe"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode015.rpy:1592
+translate german ep015_sim_eva_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "In die enge Jungfernlücke deiner Schwester eindringen?"
+
+# game/episode015.rpy:1594
+translate german ep015_sim_eva_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "In meine enge jungfräuliche Spalte eindringen?"
+
+# game/episode015.rpy:1638
+translate german ep015_sim_eva_bedroom_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "In die enge Jungfernlücke deiner Schwester eindringen?"
+
+# game/episode015.rpy:1640
+translate german ep015_sim_eva_bedroom_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "In meine enge jungfräuliche Spalte eindringen?"
+

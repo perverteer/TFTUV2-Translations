@@ -12462,3 +12462,29 @@ translate german strings:
     old "Make Vess lick your ass"
     new "Lass Vess dir den Arsch lecken."
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode022.rpy:2280
+translate german ep022_e_l_fucking_d5c05f3d:
+
+    # e "I’m your dirty girl, I’m all yours, you can do anything to me!"
+    e "Ich bin dein versautes Mädchen, ich gehöre ganz dir, du kannst mit mir machen, was du willst!"
+
+# game/episode022.rpy:2297
+translate german ep022_e_l_fucking_ec38a111:
+
+    # l "You’re treating her pussy so well, [p_name_short]."
+    l "Du verwöhnst ihre Muschi so gut, [p_name_short]."
+
+# game/episode022.rpy:2329
+translate german ep022_e_l_fucking_6a0c17b2:
+
+    # "She wasn’t lying, Eva’s pussy was smeared in her juices."
+    "Sie hat nicht gelogen, Evas Muschi war mit ihren Säften verschmiert."
+
+# game/episode022.rpy:2617
+translate german ep022_e_l_fucking_16438e35:
+
+    # c "Now be a good girl and swallow everything."
+    c "Sei jetzt ein braves Mädchen und schlucke alles."
+

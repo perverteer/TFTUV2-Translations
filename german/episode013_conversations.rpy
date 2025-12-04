@@ -6234,3 +6234,17 @@ translate german strings:
     old "Make her swallow"
     new "Bring sie dazu zu schlucken"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode013_conversations.rpy:404
+translate german ep013_lilly_talk_3cec8ef8:
+
+    # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+    "Ich hatte Lilly seit meinem Erwachen nicht gesehen, also beschloss ich, ihr einen Besuch abzustatten."
+
+# game/episode013_conversations.rpy:1565
+translate german ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "Fängst du an, das Gefühl zu genießen, wenn dein enges Arschloch gedehnt wird?"
+

@@ -1922,3 +1922,23 @@ translate german strings:
     old "Filter by Type"
     new "Filter nach Typ"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+translate german strings:
+
+    # game/choices.rpy:10
+    old "Lied to the R'o."
+    new "Hat den R'o belogen."
+
+    # game/choices.rpy:10
+    old "Particpated in the R'o orgy."
+    new "Teilnahme an der R'o-Orgie."
+
+    # game/choices.rpy:10
+    old "Creampied the R'o virgin."
+    new "Die Jungfrau R'o mit Sperma vollgespritzt."
+
+    # game/choices.rpy:10
+    old "Agreed to help the R'o."
+    new "Einverstanden, dem R'o zu helfen."
+

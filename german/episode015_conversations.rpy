@@ -4152,3 +4152,11 @@ translate german strings:
     old "Swallow"
     new "Swallow"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+# game/episode015_conversations.rpy:1365
+translate german ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "Ich bearbeitete ihren Schaft mit meiner Zunge, während ich mit meinen Fingerspitzen die Brüste des Mädchens streichelte."
+

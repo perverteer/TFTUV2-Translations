@@ -222,3 +222,11 @@ translate german strings:
     old "Unread"
     new "Ungelesen"
 
+# TODO: Translation updated at 2025-12-04 22:15
+
+translate german strings:
+
+    # game/script.rpy:718
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portugiesisch){/i}, MyPrettyWolfy {i}(Russisch){/i}, Frank Rosario {i}(Italienisch){/i}, Juan Manuel {i}(Spanisch){/i}, Donk {i}(Türkisch, darkeros.org){/i}"
+
