@@ -644,3 +644,19 @@ translate french strings:
     old "Español (parcial)"
     new "Español (parcial)"
 
+# TODO: Translation updated at 2025-12-04 22:28
+
+translate french strings:
+
+    # game/screens.rpy:1521
+    old "Deutsch"
+    new "Deutsch"
+
+# TODO: Translation updated at 2025-12-04 22:46
+
+translate french strings:
+
+    # game/screens.rpy:1522
+    old "Italiano"
+    new "Italiano"
+

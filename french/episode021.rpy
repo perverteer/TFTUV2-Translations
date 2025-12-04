@@ -24170,3 +24170,11 @@ translate french ep021_group_fuck_partial_a9eae425:
     # "With some effort, I managed to blast all of their faces."
     "Avec un peu d'effort, j'ai réussi à éclabousser le visage de chacune d'elles."
 
+# TODO: Translation updated at 2025-12-04 22:28
+
+# game/episode021.rpy:1129
+translate french ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l "Du moins, pas les choses qui concernent ta famille."
+
