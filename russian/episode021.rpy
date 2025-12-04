@@ -24223,3 +24223,11 @@ translate russian strings:
     old "Let her suck your cock"
     new "Дай ей отсосать"
 
+# TODO: Translation updated at 2025-12-04 22:30
+
+# game/episode021.rpy:1129
+translate russian ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l "По крайней мере, не то, что касается твоей семьи."
+

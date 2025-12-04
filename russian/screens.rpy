@@ -780,3 +780,19 @@ translate russian strings:
     old "Türkçe"
     new "Türkçe"
 
+# TODO: Translation updated at 2025-12-04 22:30
+
+translate russian strings:
+
+    # game/screens.rpy:1521
+    old "Deutsch"
+    new "Deutsch"
+
+# TODO: Translation updated at 2025-12-04 22:48
+
+translate russian strings:
+
+    # game/screens.rpy:1522
+    old "Italiano"
+    new "Italiano"
+
