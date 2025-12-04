@@ -7212,3 +7212,29 @@ translate spanish strings:
     old "Episode 15"
     new ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode015.rpy:1592
+translate spanish ep015_sim_eva_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Invade your sister’s tight virgin slit?"
+
+# game/episode015.rpy:1594
+translate spanish ep015_sim_eva_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Invade my tight virgin slit?"
+
+# game/episode015.rpy:1638
+translate spanish ep015_sim_eva_bedroom_37bbc95a:
+
+    # l "Invade your sister’s tight virgin slit?"
+    l "Invade your sister’s tight virgin slit?"
+
+# game/episode015.rpy:1640
+translate spanish ep015_sim_eva_bedroom_13f339d1:
+
+    # l "Invade my tight virgin slit?"
+    l "Invade my tight virgin slit?"
+

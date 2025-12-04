@@ -4152,3 +4152,11 @@ translate spanish strings:
     old "Swallow"
     new ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode015_conversations.rpy:1365
+translate spanish ep015_raene_sex_f571f6b9:
+
+    # "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+    "I got to work with my tongue on her shaft while caressing the girl’s breasts with my fingertips."
+

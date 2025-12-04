@@ -6288,3 +6288,17 @@ translate spanish ep013_celine_second_talk_b624faf9:
     # "Céline fell back into her seat, looking incredulously at me."
     ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+# game/episode013_conversations.rpy:404
+translate spanish ep013_lilly_talk_3cec8ef8:
+
+    # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+    "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
+
+# game/episode013_conversations.rpy:1565
+translate spanish ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+

@@ -553,3 +553,35 @@ translate spanish strings:
     old "Русский (частичный)"
     new ""
 
+# TODO: Translation updated at 2025-12-04 22:34
+
+translate spanish strings:
+
+    # game/screens.rpy:839
+    old "Harem: %s"
+    new "Harem: %s"
+
+    # game/screens.rpy:1290
+    old "SEASON 1"
+    new "SEASON 1"
+
+    # game/screens.rpy:1292
+    old "SEASON 3"
+    new "SEASON 3"
+
+    # game/screens.rpy:1504
+    old "Connect your toy"
+    new "Connect your toy"
+
+    # game/screens.rpy:1517
+    old "Русский"
+    new "Русский"
+
+    # game/screens.rpy:1519
+    old "Türkçe"
+    new "Türkçe"
+
+    # game/screens.rpy:1521
+    old "Deutsch"
+    new "Deutsch"
+
